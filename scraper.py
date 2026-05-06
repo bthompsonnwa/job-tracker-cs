@@ -63,10 +63,9 @@ INCLUDE_KEYWORDS = [
     "customer service", "customer support", "customer care", "customer success",
     "customer relations", "customer experience", "client services", "client support",
     "client relations", "guest services",
-    # Account / Sales support
-    "account manager", "account coordinator", "account representative",
-    "account executive", "account specialist", "inside sales", "sales support",
-    "sales coordinator", "sales representative", "business development representative",
+    # Account / Admin support (no sales)
+    "account coordinator", "account representative",
+    "account specialist",
     # Admin / Office
     "administrative assistant", "administrative coordinator", "administrative specialist",
     "office manager", "office coordinator", "office administrator",
@@ -743,7 +742,6 @@ def scrape_weworkremotely():
     urls = [
         "https://weworkremotely.com/categories/remote-customer-service-jobs",
         "https://weworkremotely.com/categories/remote-management-and-finance-jobs",
-        "https://weworkremotely.com/categories/remote-sales-and-marketing-jobs",
     ]
     jobs  = []
     added = set()
@@ -781,7 +779,6 @@ def scrape_remoteco():
     urls = [
         "https://remote.co/remote-jobs/customer-service/",
         "https://remote.co/remote-jobs/administrative/",
-        "https://remote.co/remote-jobs/sales/",
     ]
     jobs  = []
     added = set()
