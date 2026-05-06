@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-06T18:13",
+  "last_updated": "2026-05-06T18:30",
   "jobs": [
     {
       "id": "4ff10f93b8ad",
@@ -35,6 +35,18 @@
       "category": "freight",
       "match_reason": "customer experience",
       "posted_date": "Posted 2 Days Ago",
+      "first_seen": "2026-05-06"
+    },
+    {
+      "id": "9f4517e14c01",
+      "title": "Teller (Part-Time) Bilingual - 17412",
+      "district": "Arvest Bank",
+      "location": "",
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C17412%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "platform": "Infor",
+      "category": "banking",
+      "match_reason": "teller",
+      "posted_date": "",
       "first_seen": "2026-05-06"
     },
     {
@@ -79,18 +91,6 @@
       "district": "Arvest Bank",
       "location": "",
       "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C17386%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
-      "platform": "Infor",
-      "category": "banking",
-      "match_reason": "teller",
-      "posted_date": "",
-      "first_seen": "2026-05-06"
-    },
-    {
-      "id": "7a3ce8f91634",
-      "title": "Teller - 17383",
-      "district": "Arvest Bank",
-      "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C17383%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
       "platform": "Infor",
       "category": "banking",
       "match_reason": "teller",
@@ -494,42 +494,6 @@
       "first_seen": "2026-05-06"
     },
     {
-      "id": "66b1d44c4e3e",
-      "title": "Remote Inside SalesNewYour Resource Group LLCUSAFeaturedProContract$25,000 - $48,999 USDAnywhere in the World",
-      "district": "We Work Remotely",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/your-resource-group-llc-remote-inside-sales-1",
-      "platform": "WWR",
-      "category": "remote",
-      "match_reason": "inside sales",
-      "posted_date": "",
-      "first_seen": "2026-05-06"
-    },
-    {
-      "id": "66249a09c735",
-      "title": "Remote Sales Representative21dCredit JoyDelawareFeaturedFull-TimeAnywhere in the World",
-      "district": "We Work Remotely",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/credit-joy-remote-sales-representative",
-      "platform": "WWR",
-      "category": "remote",
-      "match_reason": "sales representative",
-      "posted_date": "",
-      "first_seen": "2026-05-06"
-    },
-    {
-      "id": "e34639a44616",
-      "title": "Inside Sales - Account Executive23dCredit Wellness LLCUSAFeaturedContract$75,000 - $99,999 USDAnywhere in the World",
-      "district": "We Work Remotely",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/credit-wellness-llc-inside-sales-account-executive",
-      "platform": "WWR",
-      "category": "remote",
-      "match_reason": "account executive",
-      "posted_date": "",
-      "first_seen": "2026-05-06"
-    },
-    {
       "id": "3b7d5fb630de",
       "title": "Head of Customer Success & Operations28dSocialwareRemoteFeaturedFull-Time$50,000 - $74,999 USDAnywhere in the World",
       "district": "We Work Remotely",
@@ -590,8 +554,8 @@
       "first_seen": "2026-05-06"
     },
     {
-      "id": "4f13c1cf1fef",
-      "title": "Customer Operations & Writing Specialist5dClerkyUSAFeaturedFull-TimeAnywhere in the World",
+      "id": "4dfc9921c072",
+      "title": "Customer Operations & Writing Specialist6dClerkyUSAFeaturedFull-TimeAnywhere in the World",
       "district": "We Work Remotely",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/clerky-customer-operations-writing-specialist-1",
@@ -790,30 +754,6 @@
       "platform": "WWR",
       "category": "remote",
       "match_reason": "customer support",
-      "posted_date": "",
-      "first_seen": "2026-05-06"
-    },
-    {
-      "id": "67e639f200f9",
-      "title": "Virtual Real Estate Sales Representative (Remote)9daurelian sovereignWYFeaturedFull-Time$25,000 - $48,999 USDAnywhere in the World",
-      "district": "We Work Remotely",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/aurelian-sovereign-virtual-real-estate-sales-representative-remote",
-      "platform": "WWR",
-      "category": "remote",
-      "match_reason": "sales representative",
-      "posted_date": "",
-      "first_seen": "2026-05-06"
-    },
-    {
-      "id": "b597c517df4d",
-      "title": "B2B Sales Representative / Top Closer with Bonuses + Uncapped Commissions8dLinkNow MediaCanadaFull-Time$75,000 - $99,999 USD\ud83c\udde8\ud83c\udde6 Canada",
-      "district": "We Work Remotely",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/linknow-media-b2b-sales-representative-top-closer-with-bonuses-uncapped-commissions",
-      "platform": "WWR",
-      "category": "remote",
-      "match_reason": "sales representative",
       "posted_date": "",
       "first_seen": "2026-05-06"
     },
