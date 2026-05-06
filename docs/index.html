@@ -19,6 +19,7 @@
     --amber:     #f59e0b;   /* banking    */
     --purple:    #a78bfa;   /* corporate  */
     --teal:      #2dd4bf;   /* remote     */
+    --rose:      #fb7185;   /* funeral    */
     --pill-bg:   #1a2740;
   }
   *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
@@ -40,7 +41,15 @@
   .tab-btn.active.tab-banking    { background: var(--amber);   border-color: var(--amber);   color: #000; }
   .tab-btn.active.tab-corporate  { background: var(--purple);  border-color: var(--purple);  color: #fff; }
   .tab-btn.active.tab-remote     { background: var(--teal);    border-color: var(--teal);    color: #000; }
+  .tab-btn.active.tab-funeral    { background: var(--rose);    border-color: var(--rose);    color: #fff; }
   .tab-btn.active.tab-sources    { background: #374151;        border-color: #374151;        color: #fff; }
+
+  /* ── Location filter row ── */
+  .loc-filter-scroll { display: flex; gap: 6px; overflow-x: auto; padding: 6px 16px 0; scrollbar-width: none; }
+  .loc-filter-scroll::-webkit-scrollbar { display: none; }
+  .loc-btn { flex-shrink: 0; font-size: 11px; font-weight: 600; padding: 3px 10px; border-radius: 999px; border: 1px solid var(--border); background: var(--pill-bg); color: var(--muted); cursor: pointer; transition: all .15s; white-space: nowrap; text-transform: uppercase; letter-spacing: .04em; }
+  .loc-btn:hover { border-color: var(--green); color: var(--green); }
+  .loc-btn.active { background: var(--green); border-color: var(--green); color: #052e1c; }
 
   /* ── Controls row (search + sort) ── */
   .controls-wrap { padding: 12px 16px 0; display: flex; gap: 8px; align-items: center; }
@@ -69,6 +78,7 @@
   .job-card.banking:hover   { border-color: var(--amber);  }
   .job-card.corporate:hover { border-color: var(--purple); }
   .job-card.remote:hover    { border-color: var(--teal);   }
+  .job-card.funeral:hover   { border-color: var(--rose);   }
 
   .card-top { display: flex; justify-content: space-between; align-items: flex-start; gap: 8px; margin-bottom: 8px; }
   .job-title { font-family: 'Syne', sans-serif; font-weight: 600; font-size: 15px; color: var(--text); line-height: 1.3; flex: 1; }
@@ -80,6 +90,7 @@
   .badge-company.banking   { background: rgba(245,158,11,.12); color: var(--amber);  border-color: rgba(245,158,11,.25); }
   .badge-company.corporate { background: rgba(167,139,250,.12);color: var(--purple); border-color: rgba(167,139,250,.25);}
   .badge-company.remote    { background: rgba(45,212,191,.12); color: var(--teal);   border-color: rgba(45,212,191,.2);  }
+  .badge-company.funeral   { background: rgba(251,113,133,.12);color: var(--rose);   border-color: rgba(251,113,133,.25); }
   .badge-match    { background: rgba(34,211,160,.1);  color: var(--green);  border: 1px solid rgba(34,211,160,.2); }
   .badge-platform { background: var(--pill-bg); color: var(--muted); border: 1px solid var(--border); }
   .card-detail { font-size: 12px; color: var(--muted); margin-top: 6px; }
@@ -91,6 +102,7 @@
   .section-header .count-banking   { color: var(--amber);   }
   .section-header .count-corporate { color: var(--purple);  }
   .section-header .count-remote    { color: var(--teal);    }
+  .section-header .count-funeral   { color: var(--rose);    }
 
   /* ── Sources panel ── */
   .sources-panel { padding: 12px 16px 32px; }
@@ -102,12 +114,14 @@
   .source-row.banking:hover   { border-color: var(--amber);  }
   .source-row.corporate:hover { border-color: var(--purple); }
   .source-row.remote:hover    { border-color: var(--teal);   }
+  .source-row.funeral:hover   { border-color: var(--rose);   }
   .source-name { font-size: 13px; font-weight: 500; color: var(--text); }
   .source-count { font-size: 11px; color: var(--muted); }
   .source-count .c-freight   { color: var(--accent);  font-weight: 600; }
   .source-count .c-banking   { color: var(--amber);   font-weight: 600; }
   .source-count .c-corporate { color: var(--purple);  font-weight: 600; }
   .source-count .c-remote    { color: var(--teal);    font-weight: 600; }
+  .source-count .c-funeral   { color: var(--rose);    font-weight: 600; }
 
   /* ── Remote links panel ── */
   .remote-links { padding: 12px 16px; display: flex; flex-direction: column; gap: 8px; }
@@ -146,11 +160,23 @@
     <button class="tab-btn tab-banking"         id="tab-banking"   onclick="setTab('banking')">🏦 Banking</button>
     <button class="tab-btn tab-corporate"       id="tab-corporate" onclick="setTab('corporate')">🏢 Corporate</button>
     <button class="tab-btn tab-remote"          id="tab-remote"    onclick="setTab('remote')">💻 Remote</button>
+    <button class="tab-btn tab-funeral"         id="tab-funeral"   onclick="setTab('funeral')">🕊️ Funeral</button>
     <button class="tab-btn tab-sources"         id="tab-sources"   onclick="setTab('sources')">📋 Sources</button>
   </div>
 
   <div class="filter-scroll" id="filter-bar">
     <button class="filter-btn active" data-source="all" onclick="setSource('all')">All Companies</button>
+  </div>
+
+  <!-- State / location filter -->
+  <div class="loc-filter-scroll" id="loc-bar">
+    <button class="loc-btn active" data-loc="all"    onclick="setLoc('all')">All States</button>
+    <button class="loc-btn"        data-loc="ar"     onclick="setLoc('ar')">AR</button>
+    <button class="loc-btn"        data-loc="ok"     onclick="setLoc('ok')">OK</button>
+    <button class="loc-btn"        data-loc="mo"     onclick="setLoc('mo')">MO</button>
+    <button class="loc-btn"        data-loc="ks"     onclick="setLoc('ks')">KS</button>
+    <button class="loc-btn"        data-loc="remote" onclick="setLoc('remote')">Remote Only</button>
+    <button class="loc-btn"        data-loc="onsite" onclick="setLoc('onsite')">On-Site Only</button>
   </div>
 </div>
 
@@ -171,7 +197,7 @@
 <div class="last-updated" id="last-updated"></div>
 
 <script>
-let allJobs = [], allSources = [], activeTab = "all", activeSource = "all", searchQuery = "";
+let allJobs = [], allSources = [], activeTab = "all", activeSource = "all", activeLoc = "all", searchQuery = "";
 const today = new Date().toISOString().split("T")[0];
 
 const CAT_CONFIG = {
@@ -179,7 +205,253 @@ const CAT_CONFIG = {
   banking:   { label: "🏦 Banking",             color: "var(--amber)",   countClass: "count-banking"   },
   corporate: { label: "🏢 Corporate",            color: "var(--purple)",  countClass: "count-corporate" },
   remote:    { label: "💻 Remote",              color: "var(--teal)",    countClass: "count-remote"    },
+  funeral:   { label: "🕊️ Funeral / Death care", color: "var(--rose)",   countClass: "count-funeral"   },
 };
+
+const STATE_PATTERNS = {
+  ar:     /\b(ar|arkansas|fayetteville|bentonville|rogers|springdale|fort smith|little rock)\b/i,
+  ok:     /\b(ok|oklahoma|tulsa|oklahoma city)\b/i,
+  mo:     /\b(mo|missouri|kansas city|st\.? louis|springfield)\b/i,
+  ks:     /\b(ks|kansas|wichita|overland park)\b/i,
+  remote: /\b(remote|work from home|wfh|virtual|anywhere|telecommute)\b/i,
+};
+
+// ── Data load ────────────────────────────────────────────────────────────────
+
+async function loadJobs() {
+  try {
+    const r    = await fetch("jobs.json?t=" + Date.now());
+    const data = await r.json();
+    allJobs    = data.jobs    || [];
+    allSources = data.sources || [];
+    document.getElementById("source-count-label").textContent =
+      `${allSources.length} sources · AR · OK · MO · KS · Remote`;
+    buildFilters();
+    renderAll();
+    document.getElementById("last-updated").textContent =
+      data.last_updated
+        ? "Last updated: " + new Date(data.last_updated).toLocaleString()
+        : "Run the scraper to populate this dashboard.";
+  } catch(e) {
+    document.getElementById("main-content").innerHTML =
+      `<div class="empty"><div class="empty-icon">⚠️</div>
+       <h3>Couldn't load jobs.json</h3>
+       <p>Make sure index.html is inside docs/ alongside jobs.json.</p></div>`;
+  }
+}
+
+// ── Filters ──────────────────────────────────────────────────────────────────
+
+function buildFilters() {
+  const bar = document.getElementById("filter-bar");
+  bar.querySelectorAll("[data-source]:not([data-source='all'])").forEach(el => el.remove());
+  const relevant = activeTab === "all"
+    ? allJobs
+    : allJobs.filter(j => (j.category || "freight") === activeTab);
+  const names = [...new Set(relevant.map(j => j.district))].sort();
+  names.forEach(s => {
+    const btn = document.createElement("button");
+    btn.className = "filter-btn";
+    btn.dataset.source = s;
+    btn.textContent = s;
+    btn.onclick = () => setSource(s);
+    bar.appendChild(btn);
+  });
+}
+
+function setTab(tab) {
+  activeTab    = tab;
+  activeSource = "all";
+  activeLoc    = "all";
+  searchQuery  = "";
+  document.getElementById("search").value = "";
+  document.querySelectorAll(".tab-btn").forEach(b => b.classList.remove("active"));
+  document.getElementById("tab-" + tab).classList.add("active");
+  document.querySelectorAll(".filter-btn").forEach(b =>
+    b.classList.toggle("active", b.dataset.source === "all"));
+  document.querySelectorAll(".loc-btn").forEach(b =>
+    b.classList.toggle("active", b.dataset.loc === "all"));
+
+  const showControls = tab !== "sources";
+  document.getElementById("controls-wrap").style.display = showControls ? "" : "none";
+  document.getElementById("stats-bar").style.display     = showControls ? "" : "none";
+  document.getElementById("filter-bar").style.display    = showControls ? "" : "none";
+  document.getElementById("loc-bar").style.display       = showControls ? "" : "none";
+
+  buildFilters();
+  renderAll();
+}
+
+function setSource(source) {
+  activeSource = source;
+  document.querySelectorAll(".filter-btn").forEach(b =>
+    b.classList.toggle("active", b.dataset.source === source));
+  renderAll();
+}
+
+function setLoc(loc) {
+  activeLoc = loc;
+  document.querySelectorAll(".loc-btn").forEach(b =>
+    b.classList.toggle("active", b.dataset.loc === loc));
+  renderAll();
+}
+
+document.getElementById("search").addEventListener("input", e => {
+  searchQuery = e.target.value.toLowerCase(); renderAll();
+});
+
+// ── Location matching ─────────────────────────────────────────────────────────
+
+function matchesLoc(job) {
+  if (activeLoc === "all") return true;
+  const loc = (job.location || "").toLowerCase();
+  if (activeLoc === "remote") return STATE_PATTERNS.remote.test(loc) || job.category === "remote";
+  if (activeLoc === "onsite") return !STATE_PATTERNS.remote.test(loc) && job.category !== "remote";
+  return STATE_PATTERNS[activeLoc] ? STATE_PATTERNS[activeLoc].test(loc) : true;
+}
+
+// ── Filtering & sorting ───────────────────────────────────────────────────────
+
+function filtered() {
+  return allJobs.filter(j => {
+    const cat = j.category || "freight";
+    if (activeTab !== "all" && activeTab !== "sources" && cat !== activeTab) return false;
+    if (activeSource !== "all" && j.district !== activeSource) return false;
+    if (!matchesLoc(j)) return false;
+    if (searchQuery && ![j.title, j.district, j.location||"", j.match_reason||""].some(s => s.toLowerCase().includes(searchQuery))) return false;
+    return true;
+  });
+}
+
+function sorted(jobs) {
+  const sortBy = document.getElementById("sort-select").value;
+  return [...jobs].sort((a, b) => {
+    if (sortBy === "newest") {
+      const aN = a.first_seen === today ? 0 : 1, bN = b.first_seen === today ? 0 : 1;
+      if (aN !== bN) return aN - bN;
+      return (b.first_seen || "").localeCompare(a.first_seen || "");
+    }
+    if (sortBy === "company")  return a.district.localeCompare(b.district);
+    if (sortBy === "title")    return a.title.localeCompare(b.title);
+    if (sortBy === "category") {
+      const order = ["freight","banking","corporate","remote","funeral"];
+      const ac = order.indexOf(a.category||"freight"), bc = order.indexOf(b.category||"freight");
+      if (ac !== bc) return ac - bc;
+      return a.district.localeCompare(b.district);
+    }
+    return 0;
+  });
+}
+
+// ── Render ────────────────────────────────────────────────────────────────────
+
+function renderAll() {
+  const mc = document.getElementById("main-content");
+  if (activeTab === "sources") { renderSources(mc); return; }
+
+  const jobs    = sorted(filtered());
+  const newOnes = jobs.filter(j => j.first_seen === today);
+
+  document.getElementById("total-pill").innerHTML = `<span>${allJobs.length}</span> matches`;
+  document.getElementById("stats-bar").innerHTML  =
+    `<span><strong>${jobs.length}</strong> showing</span>
+     <span><strong>${newOnes.length}</strong> new today</span>
+     <span><strong>${allJobs.length}</strong> total</span>`;
+
+  if (!jobs.length) {
+    mc.innerHTML = `<div class="job-list"><div class="empty"><div class="empty-icon">🔍</div>
+      <h3>${allJobs.length ? "No matches" : "No jobs yet"}</h3>
+      <p>${allJobs.length ? "Clear your filter or search." : "Run the scraper first."}</p></div></div>`;
+    return;
+  }
+
+  let html = '<div class="job-list">';
+  if (activeTab === "all") {
+    const ORDER = ["freight","banking","corporate","remote","funeral"];
+    ORDER.forEach(cat => {
+      const group = jobs.filter(j => (j.category||"freight") === cat);
+      if (!group.length) return;
+      const cfg = CAT_CONFIG[cat];
+      html += `<div class="section-header">
+        <span>${cfg.label}</span>
+        <span class="${cfg.countClass}">${group.length}</span>
+      </div>`;
+      html += group.map(cardHTML).join("");
+    });
+  } else {
+    html += jobs.map(cardHTML).join("");
+  }
+  html += "</div>";
+  mc.innerHTML = html;
+}
+
+function renderSources(mc) {
+  document.getElementById("total-pill").innerHTML = `<span>${allSources.length}</span> sources`;
+  const jobsBySource = {};
+  allJobs.forEach(j => { jobsBySource[j.district] = (jobsBySource[j.district]||0) + 1; });
+
+  const groups = {};
+  allSources.forEach(s => {
+    if (!groups[s.category]) groups[s.category] = [];
+    groups[s.category].push(s);
+  });
+
+  function sourceRow(s) {
+    const count = jobsBySource[s.name] || 0;
+    const cat   = s.category;
+    const countEl = count > 0
+      ? `<span class="source-count"><span class="c-${esc(cat)}">${count}</span> match${count !== 1 ? "es" : ""}</span>`
+      : `<span class="source-count">0 matches</span>`;
+    return `<a class="source-row ${esc(cat)}" href="${esc(s.url)}" target="_blank" rel="noopener">
+      <span class="source-name">${esc(s.name)}</span>${countEl}</a>`;
+  }
+
+  const ORDER = [
+    ["freight",   "🚛 Freight & Logistics"],
+    ["banking",   "🏦 Banking"],
+    ["corporate", "🏢 Corporate"],
+    ["remote",    "💻 Remote Job Boards"],
+    ["funeral",   "🕊️ Funeral / Death care"],
+  ];
+
+  let html = `<div class="sources-panel">
+    <p class="sources-intro">All sources the scraper checks daily. Click any to visit the job board directly.</p>`;
+  ORDER.forEach(([cat, label]) => {
+    const srcs = groups[cat] || [];
+    if (!srcs.length) return;
+    html += `<div class="sources-group-label">${esc(label)} (${srcs.length})</div>
+             <div class="sources-grid">${srcs.map(sourceRow).join("")}</div>`;
+  });
+  html += "</div>";
+  mc.innerHTML = html;
+}
+
+function cardHTML(j) {
+  const cat   = j.category || "freight";
+  const isNew = j.first_seen === today;
+  const det   = [j.location, j.posted_date ? "Posted " + j.posted_date : ""].filter(Boolean).join(" · ");
+  return `
+  <a class="job-card ${esc(cat)}" href="${esc(j.url)}" target="_blank" rel="noopener">
+    <div class="card-top">
+      <div class="job-title">${esc(j.title)}</div>
+      ${isNew ? '<span class="new-badge">New</span>' : ""}
+    </div>
+    <div class="card-meta">
+      <span class="badge badge-company ${esc(cat)}">${esc(j.district)}</span>
+      ${j.match_reason && j.match_reason !== "no_match" ? `<span class="badge badge-match">${esc(j.match_reason)}</span>` : ""}
+      <span class="badge badge-platform">${esc(j.platform)}</span>
+    </div>
+    ${det ? `<div class="card-detail">${esc(det)}</div>` : ""}
+    <span class="card-arrow">›</span>
+  </a>`;
+}
+
+function esc(s) {
+  return String(s||"").replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;");
+}
+
+loadJobs();
+</script>
 
 // ── Data load ────────────────────────────────────────────────────────────────
 
