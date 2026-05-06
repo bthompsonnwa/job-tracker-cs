@@ -2,7 +2,7 @@ name: Daily Job Scraper
 
 on:
   schedule:
-    - cron: "0 13 * * *"   # 8:00 AM CDT
+    - cron: "0 12 * * *"   # 7:00 AM CDT
   workflow_dispatch:
 
 jobs:
