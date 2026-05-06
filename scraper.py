@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
-Amy's Job Tracker — Freight / Banking / Corporate / Remote
-Scrapes 11 sources across AR, OK, MO, KS, TX + Remote.
+Amy's Job Tracker — Freight / Banking / Corporate / Remote / Funeral
+Scrapes 13+ sources across AR, OK, MO, KS + Remote.
 Updates docs/jobs.json for the GitHub Pages dashboard.
 No email — dashboard only.
 """
@@ -33,7 +33,7 @@ VALID_STATES = {
     "ok", "oklahoma",
     "mo", "missouri",
     "ks", "kansas",
-    "tx", "texas",
+    # Texas removed per user request
 }
 
 REMOTE_WORDS = {"remote", "work from home", "wfh", "virtual", "anywhere", "telecommute"}
@@ -66,34 +66,38 @@ INCLUDE_KEYWORDS = [
     # Account / Sales support
     "account manager", "account coordinator", "account representative",
     "account executive", "account specialist", "inside sales", "sales support",
-    "sales coordinator", "sales representative", "business development",
+    "sales coordinator", "sales representative", "business development representative",
     # Admin / Office
     "administrative assistant", "administrative coordinator", "administrative specialist",
     "office manager", "office coordinator", "office administrator",
     "executive assistant", "operations assistant", "operations coordinator",
     "operations specialist", "operations support", "operations analyst",
     "data entry", "data coordinator", "records coordinator",
-    "receptionist", "front desk", "office support",
+    "receptionist", "front desk", "office support", "office clerk",
+    "file clerk", "records clerk", "document specialist",
+    # Entry-level / General
+    "entry level", "entry-level",
+    "associate", "trainee", "clerk",
+    "support representative", "service representative",
     # Freight / Logistics
-    "logistics coordinator", "logistics specialist", "logistics manager",
-    "logistics analyst", "logistics support", "supply chain coordinator",
-    "supply chain analyst", "freight coordinator", "freight agent",
-    "freight operations", "freight billing", "freight claims",
+    "logistics coordinator", "logistics specialist", "logistics analyst",
+    "logistics support", "supply chain coordinator", "supply chain analyst",
+    "freight coordinator", "freight agent", "freight operations",
+    "freight billing", "freight claims",
     "dispatch", "dispatcher", "load planner", "load coordinator",
     "shipment coordinator", "shipping coordinator", "transportation coordinator",
     "transportation analyst", "carrier relations", "carrier coordinator",
     "claims coordinator", "claims specialist", "billing coordinator",
     "billing specialist", "billing representative", "billing analyst",
     "rating coordinator", "yield coordinator", "pricing coordinator",
-    "pricing analyst", "brokerage", "broker", "truckload",
+    "pricing analyst", "brokerage", "truckload",
     "intermodal coordinator", "drayage coordinator",
     # Banking / Finance
     "bank teller", "teller", "personal banker", "relationship banker",
-    "relationship manager", "branch manager", "branch coordinator",
-    "loan processor", "loan coordinator", "loan officer",
-    "mortgage coordinator", "mortgage processor", "underwriter",
+    "branch coordinator", "loan processor", "loan coordinator", "loan officer",
+    "mortgage coordinator", "mortgage processor",
     "financial services", "financial representative", "financial specialist",
-    "collections", "collections coordinator", "collections specialist",
+    "collections coordinator", "collections specialist", "collections representative",
     "compliance coordinator", "compliance specialist", "fraud analyst",
     "credit analyst", "banking associate", "banking specialist",
     "treasury coordinator", "wire transfer",
@@ -102,27 +106,56 @@ INCLUDE_KEYWORDS = [
     "communications coordinator", "communications specialist",
     # General coordinator
     "program coordinator", "project coordinator",
-    # Remote catch-all (for weworkremotely / remote.co)
-    "remote",
+    # Funeral / Death care (remote services)
+    "funeral", "mortuary", "death care", "bereavement",
+    "funeral home", "funeral service", "cremation coordinator",
+    "funeral coordinator", "funeral administrative", "funeral answering",
+    "after-loss", "afterloss", "grief support coordinator",
+]
+
+# Applied only to remote job board scrapers (WWR, Remote.co) — much tighter
+REMOTE_EXCLUDE_KEYWORDS = [
+    "crypto", "blockchain", "web3", "nft", "defi",
+    "video editor", "video production", "videographer",
+    "graphic design", "graphic designer", "ux designer", "ui designer",
+    "motion design", "illustrator",
+    "copywriter", "content writer", "technical writer", "writer",
+    "game developer", "game designer", "game artist",
+    "software", "developer", "engineer", "coding", "programmer",
+    "devops", "sre ", "cloud architect",
+    "animator", "3d artist", "photographer",
+    "trader", "trading", "quant",
+    "attorney", "lawyer", "paralegal",
+    "therapist", "counselor", "social worker",
+    "teacher", "tutor", "instructor",
+    "recruiter", "talent acquisition",
+    "cfo", "coo", "cto", "vice president", "vp ",
 ]
 
 HARD_EXCLUDE_KEYWORDS = [
     # Driving / physical labour
-    "truck driver", "cdl driver", "driver", "forklift", "warehouse associate",
+    "truck driver", "cdl driver", "forklift operator", "warehouse associate",
     "warehouse worker", "picker", "packer", "stocker", "dock worker",
     "material handler", "janitor", "custodian", "groundskeeper",
     # Medical
     "registered nurse", "school nurse", " rn ", "nurse practitioner",
     "physician", "pharmacist", "physical therapist", "occupational therapist",
-    # Technical / Engineering
+    # Technical / Engineering (too senior/specialized)
     "software engineer", "software developer", "web developer", "devops",
     "data scientist", "machine learning", "cybersecurity", "network engineer",
     "electrical engineer", "mechanical engineer", "civil engineer",
     "maintenance mechanic", "hvac technician", "electrician", "plumber",
-    # Management / Executive (out of scope)
+    # Senior management (keep account manager, branch manager, office manager)
     "vice president", "vp ", "chief ", "cto", "cfo", "coo",
+    "regional manager", "district manager", "general manager",
+    "senior manager", "store manager", "marketing manager",
+    "product manager", "people manager", "hiring manager",
     # Academic
     "professor", "faculty", "instructor", "teacher",
+    # Echo / marketing noise
+    "request a quote", "get a quote", "truck load quote",
+    "full truckload", "less than truckload", "learn more",
+    "view all", "see all jobs", "see open", "join our team",
 ]
 
 # ──────────────────────────────────────────────────────────────────────────────
@@ -147,6 +180,9 @@ ALL_SOURCES = [
     # Remote
     {"name": "We Work Remotely", "url": "https://weworkremotely.com/categories/remote-customer-service-jobs", "category": "remote"},
     {"name": "Remote.co",      "url": "https://remote.co/remote-jobs/customer-service/",                      "category": "remote"},
+    # Funeral / Death care
+    {"name": "NFDA Career Center",       "url": "https://www.nfda.org/career-center",                         "category": "funeral"},
+    {"name": "Connecting Directors Jobs", "url": "https://www.connectingdirectors.com/jobs",                   "category": "funeral"},
 ]
 
 # ──────────────────────────────────────────────────────────────────────────────
@@ -382,7 +418,7 @@ def scrape_tyson():
         parent = a.find_parent(["li", "div", "tr", "article"])
         loc    = ""
         if parent:
-            loc_m = re.search(r"\b(AR|OK|MO|KS|TX|Arkansas|Oklahoma|Missouri|Kansas|Texas|Remote)\b",
+            loc_m = re.search(r"\b(AR|OK|MO|KS|Arkansas|Oklahoma|Missouri|Kansas|Remote)\b",
                               parent.get_text(), re.I)
             loc   = loc_m.group(0) if loc_m else ""
         if not is_valid_location(loc):
@@ -440,7 +476,7 @@ def scrape_xpo():
         parent = a.find_parent(["li", "div", "tr", "article"])
         loc    = ""
         if parent:
-            loc_m = re.search(r"\b(AR|OK|MO|KS|TX|Arkansas|Oklahoma|Missouri|Kansas|Texas|Remote)\b",
+            loc_m = re.search(r"\b(AR|OK|MO|KS|Arkansas|Oklahoma|Missouri|Kansas|Remote)\b",
                               parent.get_text(), re.I)
             loc   = loc_m.group(0) if loc_m else ""
         if not is_valid_location(loc):
@@ -458,6 +494,16 @@ def scrape_xpo():
 # ECHO GLOBAL LOGISTICS  (Playwright — JS button-rendered)
 # ──────────────────────────────────────────────────────────────────────────────
 
+# Words that must appear in a title for it to be treated as a job listing
+_ECHO_JOB_WORDS = re.compile(
+    r"\b(coordinator|specialist|representative|analyst|associate|agent|"
+    r"manager|advisor|support|service|administrator|assistant|"
+    r"recruiter|broker|planner|processor|clerk|trainee|"
+    r"brokerage|logistics|operations|sales|billing|claims|"
+    r"executive|account|dispatcher|dispatch)\b",
+    re.I
+)
+
 def scrape_echo():
     name = "Echo Global"
     url  = "https://www.echo.com/company/careers/open-positions/"
@@ -466,32 +512,37 @@ def scrape_echo():
     if not soup:
         return jobs
     added = set()
-    # Echo renders jobs as <a> or <button> elements
-    for el in soup.find_all(["a", "button"]):
-        title = el.get_text(strip=True)
-        if not title or len(title) < 5:
+    for a in soup.find_all("a", href=True):
+        href  = a["href"]
+        title = a.get_text(strip=True)
+        if not title or len(title) < 5 or href in added:
             continue
-        href = el.get("href", "")
-        if href in added:
+        # Must link to something that looks like a job posting
+        if not any(x in href.lower() for x in ["job", "career", "lever.co", "greenhouse", "workday",
+                                                 "position", "req", "apply", "opening"]):
             continue
-        # Skip obvious nav/UI items
-        if any(x in title.lower() for x in ["home", "about", "contact", "login", "apply", "menu", "search", "careers"]):
+        # Title must contain at least one job-role word
+        if not _ECHO_JOB_WORDS.search(title):
             continue
-        # Only grab things that look like job titles (have href or look like a job)
-        if href:
-            added.add(href)
-        parent = el.find_parent(["li", "div", "section", "article"])
+        # Skip obvious CTAs and nav items
+        if any(x in title.lower() for x in ["request", "quote", "learn more", "view all",
+                                              "see all", "join our", "login", "apply now",
+                                              "home", "about", "contact", "truckload freight",
+                                              "less than", "full truckload"]):
+            continue
+        added.add(href)
+        parent = a.find_parent(["li", "div", "section", "article"])
         loc    = ""
         if parent:
-            loc_m = re.search(r"\b(AR|OK|MO|KS|TX|Arkansas|Oklahoma|Missouri|Kansas|Texas|Remote|Chicago)\b",
+            loc_m = re.search(r"\b(AR|OK|MO|KS|Arkansas|Oklahoma|Missouri|Kansas|Remote|Chicago)\b",
                               parent.get_text(), re.I)
             loc   = loc_m.group(0) if loc_m else ""
         if not is_valid_location(loc):
             continue
-        full_url   = href if href.startswith("http") else ("https://www.echo.com" + href if href.startswith("/") else url)
+        full_url   = href if href.startswith("http") else "https://www.echo.com" + href
         ok, reason = is_relevant(title)
         if ok:
-            jobs.append(make_job(name, title, full_url or url, "Echo",
+            jobs.append(make_job(name, title, full_url, "Echo",
                                  category="freight", location=loc, match_reason=reason))
     log.info(f"{name}: {len(jobs)} jobs")
     return jobs
@@ -526,7 +577,7 @@ def scrape_arvest():
         loc    = ""
         if parent:
             loc_m = re.search(
-                r"\b(AR|OK|MO|KS|TX|Arkansas|Oklahoma|Missouri|Kansas|Texas|Remote"
+                r"\b(AR|OK|MO|KS|Arkansas|Oklahoma|Missouri|Kansas|Remote"
                 r"|Fayetteville|Bentonville|Rogers|Springdale|Fort Smith"
                 r"|Tulsa|Oklahoma City|Kansas City|Springfield)\b",
                 parent.get_text(), re.I)
@@ -601,7 +652,7 @@ def scrape_regions():
             loc    = ""
             if parent:
                 loc_m = re.search(
-                    r"\b(AR|OK|MO|KS|TX|Arkansas|Oklahoma|Missouri|Kansas|Texas|Remote"
+                    r"\b(AR|OK|MO|KS|Arkansas|Oklahoma|Missouri|Kansas|Remote"
                     r"|Little Rock|Fort Smith|Fayetteville|Tulsa|Kansas City|St\.? Louis)\b",
                     parent.get_text(), re.I)
                 loc = loc_m.group(0) if loc_m else ""
@@ -659,8 +710,8 @@ def scrape_bofa():
         loc    = ""
         if parent:
             loc_m = re.search(
-                r"\b(AR|OK|MO|KS|TX|Arkansas|Oklahoma|Missouri|Kansas|Texas|Remote"
-                r"|Little Rock|Tulsa|Kansas City|Dallas|Houston|St\.? Louis)\b",
+                r"\b(AR|OK|MO|KS|Arkansas|Oklahoma|Missouri|Kansas|Remote"
+                r"|Little Rock|Tulsa|Kansas City|St\.? Louis)\b",
                 parent.get_text(), re.I)
             loc = loc_m.group(0) if loc_m else ""
         if not is_valid_location(loc):
@@ -675,8 +726,17 @@ def scrape_bofa():
 
 
 # ──────────────────────────────────────────────────────────────────────────────
-# WE WORK REMOTELY  (public HTML — requests)
+# WE WORK REMOTELY  (public HTML — requests, strict remote filter)
 # ──────────────────────────────────────────────────────────────────────────────
+
+def _is_good_remote_title(title: str) -> bool:
+    """Extra guard for remote boards — reject noise categories."""
+    t = title.lower()
+    for bad in REMOTE_EXCLUDE_KEYWORDS:
+        if bad.strip() in t:
+            return False
+    return True
+
 
 def scrape_weworkremotely():
     name = "We Work Remotely"
@@ -696,6 +756,8 @@ def scrape_weworkremotely():
                 title = a.get_text(strip=True)
                 if not title or len(title) < 5 or href in added:
                     continue
+                if not _is_good_remote_title(title):
+                    continue
                 added.add(href)
                 full_url   = "https://weworkremotely.com" + href if href.startswith("/") else href
                 ok, reason = is_relevant(title)
@@ -711,7 +773,7 @@ def scrape_weworkremotely():
 
 
 # ──────────────────────────────────────────────────────────────────────────────
-# REMOTE.CO  (public HTML — requests)
+# REMOTE.CO  (public HTML — requests, strict remote filter)
 # ──────────────────────────────────────────────────────────────────────────────
 
 def scrape_remoteco():
@@ -719,6 +781,7 @@ def scrape_remoteco():
     urls = [
         "https://remote.co/remote-jobs/customer-service/",
         "https://remote.co/remote-jobs/administrative/",
+        "https://remote.co/remote-jobs/sales/",
     ]
     jobs  = []
     added = set()
@@ -731,8 +794,11 @@ def scrape_remoteco():
                 title = a.get_text(strip=True)
                 if not title or len(title) < 5 or href in added:
                     continue
-                if "/remote-jobs/customer" in href or "/remote-jobs/administrative" in href:
-                    continue    # skip category links
+                # Skip category index links
+                if re.search(r"/remote-jobs/[^/]+/?$", href) and "/" not in href.split("/remote-jobs/")[1].rstrip("/"):
+                    continue
+                if not _is_good_remote_title(title):
+                    continue
                 added.add(href)
                 full_url   = "https://remote.co" + href if href.startswith("/") else href
                 ok, reason = is_relevant(title)
@@ -743,6 +809,86 @@ def scrape_remoteco():
         except Exception as e:
             log.error(f"{name} ({url}): {e}")
         time.sleep(1)
+    log.info(f"{name}: {len(jobs)} jobs")
+    return jobs
+
+
+# ──────────────────────────────────────────────────────────────────────────────
+# NFDA CAREER CENTER  (funeral industry — requests)
+# ──────────────────────────────────────────────────────────────────────────────
+
+def scrape_nfda():
+    name = "NFDA Career Center"
+    url  = "https://www.nfda.org/career-center"
+    jobs = []
+    try:
+        r    = requests.get(url, headers=HEADERS, timeout=20)
+        soup = BeautifulSoup(r.text, "html.parser")
+        added = set()
+        for a in soup.find_all("a", href=True):
+            href  = a["href"]
+            title = a.get_text(strip=True)
+            if not title or len(title) < 5 or href in added:
+                continue
+            if not any(x in href.lower() for x in ["job", "career", "posting", "position", "listing"]):
+                continue
+            added.add(href)
+            parent = a.find_parent(["li", "div", "tr", "article"])
+            loc    = ""
+            if parent:
+                loc_m = re.search(
+                    r"\b(AR|OK|MO|KS|Arkansas|Oklahoma|Missouri|Kansas|Remote|Online|Virtual)\b",
+                    parent.get_text(), re.I)
+                loc = loc_m.group(0) if loc_m else ""
+            if not is_valid_location(loc):
+                continue
+            full_url   = href if href.startswith("http") else "https://www.nfda.org" + href
+            ok, reason = is_relevant(title)
+            if ok:
+                jobs.append(make_job(name, title, full_url, "NFDA",
+                                     category="funeral", location=loc, match_reason=reason))
+    except Exception as e:
+        log.error(f"{name}: {e}")
+    log.info(f"{name}: {len(jobs)} jobs")
+    return jobs
+
+
+# ──────────────────────────────────────────────────────────────────────────────
+# CONNECTING DIRECTORS  (funeral industry — requests)
+# ──────────────────────────────────────────────────────────────────────────────
+
+def scrape_connecting_directors():
+    name = "Connecting Directors"
+    url  = "https://www.connectingdirectors.com/jobs"
+    jobs = []
+    try:
+        r    = requests.get(url, headers=HEADERS, timeout=20)
+        soup = BeautifulSoup(r.text, "html.parser")
+        added = set()
+        for a in soup.find_all("a", href=True):
+            href  = a["href"]
+            title = a.get_text(strip=True)
+            if not title or len(title) < 5 or href in added:
+                continue
+            if not any(x in href.lower() for x in ["job", "career", "position", "listing", "opportunity"]):
+                continue
+            added.add(href)
+            parent = a.find_parent(["li", "div", "tr", "article"])
+            loc    = ""
+            if parent:
+                loc_m = re.search(
+                    r"\b(AR|OK|MO|KS|Arkansas|Oklahoma|Missouri|Kansas|Remote|Online|Virtual)\b",
+                    parent.get_text(), re.I)
+                loc = loc_m.group(0) if loc_m else ""
+            if not is_valid_location(loc):
+                continue
+            full_url   = href if href.startswith("http") else "https://www.connectingdirectors.com" + href
+            ok, reason = is_relevant(title)
+            if ok:
+                jobs.append(make_job(name, title, full_url, "ConnectingDirectors",
+                                     category="funeral", location=loc, match_reason=reason))
+    except Exception as e:
+        log.error(f"{name}: {e}")
     log.info(f"{name}: {len(jobs)} jobs")
     return jobs
 
@@ -780,6 +926,10 @@ def scrape_all():
     log.info("── Remote ──")
     all_jobs.extend(scrape_weworkremotely());   time.sleep(1)
     all_jobs.extend(scrape_remoteco());         time.sleep(1)
+
+    log.info("── Funeral / Death care ──")
+    all_jobs.extend(scrape_nfda());             time.sleep(2)
+    all_jobs.extend(scrape_connecting_directors()); time.sleep(2)
 
     # Deduplicate by ID
     seen, unique = set(), []
