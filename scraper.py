@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Amy's Job Tracker — Freight / Banking / Corporate / Remote / Funeral
+Customer Service Job Tracker
 Scrapes 13+ sources across AR, OK, MO, KS + Remote.
 Updates docs/jobs.json for the GitHub Pages dashboard.
 No email — dashboard only.
@@ -949,7 +949,7 @@ def find_new_jobs(old_data, new_jobs):
 # ──────────────────────────────────────────────────────────────────────────────
 
 def main():
-    log.info("── Amy's Job Tracker starting ──")
+    log.info("── Job Tracker starting ──")
     old_data  = load_jobs()
     new_jobs  = scrape_all()
 
