@@ -1,41 +1,53 @@
 {
-  "last_updated": "2026-05-26T19:36",
+  "last_updated": "2026-05-27T19:42",
   "jobs": [
     {
-      "id": "6a5c54331dfe",
-      "title": "Part-time Dispatcher",
+      "id": "f39482273d62",
+      "title": "Sr Carrier Relations Representative",
       "district": "J.B. Hunt",
-      "location": "Lowell, AR - JB Hunt Corporate A & Marketing",
-      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-A--Marketing/Part-time-Dispatcher_00623660",
+      "location": "Lowell, AR - JB Hunt Corporate B & C",
+      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-B--C/Sr-Carrier-Relations-Representative_00621623-1",
       "platform": "Workday",
       "category": "freight",
-      "match_reason": "dispatch",
-      "posted_date": "Posted 4 Days Ago",
-      "first_seen": "2026-05-22"
+      "match_reason": "carrier relations",
+      "posted_date": "Posted Today",
+      "first_seen": "2026-05-27"
     },
     {
-      "id": "42805510d59e",
-      "title": "Manager Trainee",
-      "district": "J.B. Hunt",
+      "id": "afdde3b0c448",
+      "title": "Teller (Floater) Part-Time - 17662",
+      "district": "Arvest Bank",
       "location": "",
-      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Manager-Trainee_00625580",
-      "platform": "Workday",
-      "category": "freight",
-      "match_reason": "trainee",
-      "posted_date": "Posted 4 Days Ago",
-      "first_seen": "2026-05-22"
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C17662%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "platform": "Infor",
+      "category": "banking",
+      "match_reason": "teller",
+      "posted_date": "",
+      "first_seen": "2026-05-27"
     },
     {
-      "id": "db9f070ae5c0",
-      "title": "Administrative Assistant",
-      "district": "J.B. Hunt",
-      "location": "Lowell, AR - JB Hunt Corporate A & Marketing",
-      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-A--Marketing/Administrative-Assistant_00627796",
-      "platform": "Workday",
-      "category": "freight",
-      "match_reason": "administrative assistant",
-      "posted_date": "Posted 5 Days Ago",
-      "first_seen": "2026-05-21"
+      "id": "041b006452e1",
+      "title": "Teller (Floater) - 17639",
+      "district": "Arvest Bank",
+      "location": "",
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C17639%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "platform": "Infor",
+      "category": "banking",
+      "match_reason": "teller",
+      "posted_date": "",
+      "first_seen": "2026-05-27"
+    },
+    {
+      "id": "39b4a19cb14e",
+      "title": "Relationship Banker (Floater) - 17609",
+      "district": "Arvest Bank",
+      "location": "",
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C17609%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "platform": "Infor",
+      "category": "banking",
+      "match_reason": "relationship banker",
+      "posted_date": "",
+      "first_seen": "2026-05-27"
     },
     {
       "id": "22c718b79786",
@@ -62,88 +74,16 @@
       "first_seen": "2026-05-23"
     },
     {
-      "id": "af28284ab50f",
-      "title": "Relationship Banker  (Floater) - 17598",
-      "district": "Arvest Bank",
-      "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C17598%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
-      "platform": "Infor",
-      "category": "banking",
-      "match_reason": "relationship banker",
-      "posted_date": "",
-      "first_seen": "2026-05-23"
-    },
-    {
-      "id": "6b41dccb8961",
-      "title": "Relationship Banker (Floater) - 17596",
-      "district": "Arvest Bank",
-      "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C17596%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
-      "platform": "Infor",
-      "category": "banking",
-      "match_reason": "relationship banker",
-      "posted_date": "",
-      "first_seen": "2026-05-23"
-    },
-    {
-      "id": "3d0c55af16c2",
-      "title": "Teller (Floater) - 17595",
-      "district": "Arvest Bank",
-      "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C17595%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
-      "platform": "Infor",
-      "category": "banking",
-      "match_reason": "teller",
-      "posted_date": "",
-      "first_seen": "2026-05-23"
-    },
-    {
-      "id": "ed1719ef1d03",
-      "title": "Teller Bilingual (Floater) - 17594",
-      "district": "Arvest Bank",
-      "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C17594%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
-      "platform": "Infor",
-      "category": "banking",
-      "match_reason": "teller",
-      "posted_date": "",
-      "first_seen": "2026-05-22"
-    },
-    {
-      "id": "073f5fc21423",
-      "title": "Teller (Floater) - 17593",
-      "district": "Arvest Bank",
-      "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C17593%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
-      "platform": "Infor",
-      "category": "banking",
-      "match_reason": "teller",
-      "posted_date": "",
-      "first_seen": "2026-05-22"
-    },
-    {
-      "id": "0f0223e285e8",
-      "title": "Relationship Banker - 17588",
-      "district": "Arvest Bank",
-      "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C17588%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
-      "platform": "Infor",
-      "category": "banking",
-      "match_reason": "relationship banker",
-      "posted_date": "",
-      "first_seen": "2026-05-22"
-    },
-    {
-      "id": "115c15fdaf54",
-      "title": "Relationship Banker II Interview",
+      "id": "e98558a56f58",
+      "title": "Relationship Banker II",
       "district": "Simmons Bank",
       "location": "St. Louis, MO",
       "url": "https://simmonsbank.wd5.myworkdayjobs.com/en-US/SimmonsCareers/job/St-Louis-MO/Senior-Relationship-Banker_R114783",
       "platform": "Workday",
       "category": "banking",
       "match_reason": "relationship banker",
-      "posted_date": "Posted Today",
-      "first_seen": "2026-05-26"
+      "posted_date": "Posted Yesterday",
+      "first_seen": "2026-05-27"
     },
     {
       "id": "fdc205fa3665",
@@ -154,7 +94,7 @@
       "platform": "Workday",
       "category": "banking",
       "match_reason": "relationship banker",
-      "posted_date": "Posted Today",
+      "posted_date": "Posted Yesterday",
       "first_seen": "2026-05-26"
     },
     {
@@ -166,7 +106,7 @@
       "platform": "Workday",
       "category": "banking",
       "match_reason": "compliance specialist",
-      "posted_date": "Posted Today",
+      "posted_date": "Posted Yesterday",
       "first_seen": "2026-05-26"
     },
     {
@@ -178,7 +118,7 @@
       "platform": "Workday",
       "category": "banking",
       "match_reason": "relationship banker",
-      "posted_date": "Posted Yesterday",
+      "posted_date": "Posted 2 Days Ago",
       "first_seen": "2026-05-25"
     },
     {
@@ -190,7 +130,7 @@
       "platform": "Workday",
       "category": "banking",
       "match_reason": "customer service",
-      "posted_date": "Posted 3 Days Ago",
+      "posted_date": "Posted 4 Days Ago",
       "first_seen": "2026-05-23"
     },
     {
@@ -202,7 +142,7 @@
       "platform": "Workday",
       "category": "banking",
       "match_reason": "relationship banker",
-      "posted_date": "Posted 4 Days Ago",
+      "posted_date": "Posted 5 Days Ago",
       "first_seen": "2026-05-23"
     },
     {
@@ -214,7 +154,7 @@
       "platform": "Workday",
       "category": "banking",
       "match_reason": "relationship banker",
-      "posted_date": "Posted 4 Days Ago",
+      "posted_date": "Posted 5 Days Ago",
       "first_seen": "2026-05-22"
     },
     {
@@ -226,7 +166,7 @@
       "platform": "Workday",
       "category": "banking",
       "match_reason": "relationship banker",
-      "posted_date": "Posted 5 Days Ago",
+      "posted_date": "Posted 6 Days Ago",
       "first_seen": "2026-05-21"
     },
     {
@@ -238,7 +178,7 @@
       "platform": "Workday",
       "category": "banking",
       "match_reason": "relationship banker",
-      "posted_date": "Posted 7 Days Ago",
+      "posted_date": "Posted 8 Days Ago",
       "first_seen": "2026-05-19"
     },
     {
@@ -250,7 +190,7 @@
       "platform": "Workday",
       "category": "banking",
       "match_reason": "relationship banker",
-      "posted_date": "Posted 11 Days Ago",
+      "posted_date": "Posted 12 Days Ago",
       "first_seen": "2026-05-16"
     },
     {
@@ -262,7 +202,7 @@
       "platform": "Workday",
       "category": "banking",
       "match_reason": "relationship banker",
-      "posted_date": "Posted 11 Days Ago",
+      "posted_date": "Posted 12 Days Ago",
       "first_seen": "2026-05-15"
     },
     {
@@ -274,7 +214,7 @@
       "platform": "Workday",
       "category": "banking",
       "match_reason": "relationship banker",
-      "posted_date": "Posted 12 Days Ago",
+      "posted_date": "Posted 13 Days Ago",
       "first_seen": "2026-05-15"
     },
     {
@@ -286,7 +226,7 @@
       "platform": "Workday",
       "category": "banking",
       "match_reason": "relationship banker",
-      "posted_date": "Posted 12 Days Ago",
+      "posted_date": "Posted 13 Days Ago",
       "first_seen": "2026-05-15"
     },
     {
@@ -298,7 +238,7 @@
       "platform": "Workday",
       "category": "banking",
       "match_reason": "customer service",
-      "posted_date": "Posted 12 Days Ago",
+      "posted_date": "Posted 13 Days Ago",
       "first_seen": "2026-05-14"
     },
     {
@@ -310,7 +250,7 @@
       "platform": "Workday",
       "category": "banking",
       "match_reason": "operations specialist",
-      "posted_date": "Posted 12 Days Ago",
+      "posted_date": "Posted 13 Days Ago",
       "first_seen": "2026-05-14"
     },
     {
@@ -322,19 +262,7 @@
       "platform": "Workday",
       "category": "banking",
       "match_reason": "relationship banker",
-      "posted_date": "Posted 14 Days Ago",
-      "first_seen": "2026-05-12"
-    },
-    {
-      "id": "1b754893381c",
-      "title": "Relationship Banker II",
-      "district": "Simmons Bank",
-      "location": "Mammoth Spring, AR",
-      "url": "https://simmonsbank.wd5.myworkdayjobs.com/en-US/SimmonsCareers/job/Mammoth-Spring-AR/Relationship-Banker-II_R114959",
-      "platform": "Workday",
-      "category": "banking",
-      "match_reason": "relationship banker",
-      "posted_date": "Posted 14 Days Ago",
+      "posted_date": "Posted 15 Days Ago",
       "first_seen": "2026-05-12"
     },
     {
@@ -346,7 +274,7 @@
       "platform": "Workday",
       "category": "banking",
       "match_reason": "relationship banker",
-      "posted_date": "Posted 14 Days Ago",
+      "posted_date": "Posted 15 Days Ago",
       "first_seen": "2026-05-12"
     },
     {
@@ -358,7 +286,7 @@
       "platform": "Workday",
       "category": "banking",
       "match_reason": "relationship banker",
-      "posted_date": "Posted 14 Days Ago",
+      "posted_date": "Posted 15 Days Ago",
       "first_seen": "2026-05-12"
     },
     {
@@ -370,19 +298,7 @@
       "platform": "Workday",
       "category": "banking",
       "match_reason": "relationship banker",
-      "posted_date": "Posted 15 Days Ago",
-      "first_seen": "2026-05-11"
-    },
-    {
-      "id": "96db43939b02",
-      "title": "Senior Relationship Banker",
-      "district": "Simmons Bank",
-      "location": "Stillwater, OK",
-      "url": "https://simmonsbank.wd5.myworkdayjobs.com/en-US/SimmonsCareers/job/Stillwater-OK/Senior-Relationship-Banker_R114946",
-      "platform": "Workday",
-      "category": "banking",
-      "match_reason": "relationship banker",
-      "posted_date": "Posted 15 Days Ago",
+      "posted_date": "Posted 16 Days Ago",
       "first_seen": "2026-05-11"
     },
     {
@@ -434,116 +350,68 @@
       "first_seen": "2026-05-13"
     },
     {
-      "id": "6359cb6c6611",
-      "title": "Relationship Banker Team Lead ( Sterling Branch)",
+      "id": "216800556639",
+      "title": "Relationship Banker I (Eagle Creek Branch)",
       "district": "Regions Bank",
       "location": "",
-      "url": "https://careers.regions.com/us/en/job/R100571/Relationship-Banker-Team-Lead-Sterling-Branch",
+      "url": "https://careers.regions.com/us/en/job/R100400/Relationship-Banker-I-Eagle-Creek-Branch",
       "platform": "Regions",
       "category": "banking",
       "match_reason": "relationship banker",
       "posted_date": "",
-      "first_seen": "2026-05-15"
+      "first_seen": "2026-05-27"
     },
     {
-      "id": "6e3d36b1d52b",
-      "title": "Apply NowRelationship Banker Team Lead ( Sterling Branch)",
+      "id": "d059f7bb69e3",
+      "title": "Apply NowRelationship Banker I (Eagle Creek Branch)",
       "district": "Regions Bank",
       "location": "",
-      "url": "https://careers.regions.com/us/en/apply?jobSeqNo=RFCOUSR100571ENUSEXTERNAL",
+      "url": "https://careers.regions.com/us/en/apply?jobSeqNo=RFCOUSR100400ENUSEXTERNAL",
       "platform": "Regions",
       "category": "banking",
       "match_reason": "relationship banker",
       "posted_date": "",
-      "first_seen": "2026-05-15"
+      "first_seen": "2026-05-27"
     },
     {
-      "id": "ea7f3478e4fb",
-      "title": "Consumer Investments - Investment Specialist Trainee (Obtain SIE Series 7 66)",
+      "id": "48216034c230",
+      "title": "Consumer Investments - Investment Specialist Trainee (Obtain SIE Series 7 & 66)",
       "district": "Bank of America",
       "location": "",
-      "url": "https://careers.bankofamerica.com/en-us/job-detail/26013120/consumer-investments-investment-specialist-trainee-obtain-sie-series-7-66-pennington-new-jersey-united-states",
+      "url": "https://careers.bankofamerica.com/en-us/job-detail/26012660/consumer-investments-investment-specialist-trainee-obtain-sie-series-7-66-lincoln-rhode-island-united-states",
       "platform": "BofA",
       "category": "banking",
       "match_reason": "trainee",
       "posted_date": "",
-      "first_seen": "2026-05-26"
+      "first_seen": "2026-05-27"
     },
     {
-      "id": "eff165f84b23",
-      "title": "Client Services Representative II",
+      "id": "437117ea9fa8",
+      "title": "Life Services Financial Services Representative",
       "district": "Bank of America",
       "location": "",
-      "url": "https://careers.bankofamerica.com/en-us/job-detail/26018027/client-services-representative-ii-rio-rancho-new-mexico-united-states",
-      "platform": "BofA",
-      "category": "banking",
-      "match_reason": "client services",
-      "posted_date": "",
-      "first_seen": "2026-05-23"
-    },
-    {
-      "id": "0f67cf358d5f",
-      "title": "Client Services Representative II",
-      "district": "Bank of America",
-      "location": "",
-      "url": "https://careers.bankofamerica.com/en-us/job-detail/26017685/client-services-representative-ii-richmond-virginia-united-states",
-      "platform": "BofA",
-      "category": "banking",
-      "match_reason": "client services",
-      "posted_date": "",
-      "first_seen": "2026-05-23"
-    },
-    {
-      "id": "5e9d4013856a",
-      "title": "Client Services Representative II - Bilingual Spanish Required",
-      "district": "Bank of America",
-      "location": "",
-      "url": "https://careers.bankofamerica.com/en-us/job-detail/26018028/client-services-representative-ii-bilingual-spanish-required-rio-rancho-new-mexico-united-states",
-      "platform": "BofA",
-      "category": "banking",
-      "match_reason": "client services",
-      "posted_date": "",
-      "first_seen": "2026-05-23"
-    },
-    {
-      "id": "daa6eb3a67cc",
-      "title": "Consumer Investments - Financial Services Representative I (Fort Worth, TX)",
-      "district": "Bank of America",
-      "location": "",
-      "url": "https://careers.bankofamerica.com/en-us/job-detail/26012826/consumer-investments-financial-services-representative-i-fort-worth-tx-fort-worth-texas-united-states",
+      "url": "https://careers.bankofamerica.com/en-us/job-detail/26017268/life-services-financial-services-representative-pennington-new-jersey-united-states",
       "platform": "BofA",
       "category": "banking",
       "match_reason": "financial services",
       "posted_date": "",
-      "first_seen": "2026-05-22"
+      "first_seen": "2026-05-27"
     },
     {
-      "id": "30311d9a994c",
-      "title": "Sr Fraud Analyst II - Fraud Detection Operations",
+      "id": "52cd87bd51f0",
+      "title": "Senior Division Order/ Land Title Analyst; SAM Associate II",
       "district": "Bank of America",
       "location": "",
-      "url": "https://careers.bankofamerica.com/en-us/job-detail/26017543/sr-fraud-analyst-ii-fraud-detection-operations-jacksonville-florida-united-states",
+      "url": "https://careers.bankofamerica.com/en-us/job-detail/26015504/senior-division-order-land-title-analyst-sam-associate-ii-dallas-texas-united-states",
       "platform": "BofA",
       "category": "banking",
-      "match_reason": "fraud analyst",
+      "match_reason": "associate",
       "posted_date": "",
-      "first_seen": "2026-05-22"
+      "first_seen": "2026-05-27"
     },
     {
-      "id": "42aff9693464",
-      "title": "Sr Fraud Analyst II - Fraud Detection Operations",
-      "district": "Bank of America",
-      "location": "",
-      "url": "https://careers.bankofamerica.com/en-us/job-detail/26017552/sr-fraud-analyst-ii-fraud-detection-operations-phoenix-arizona-united-states",
-      "platform": "BofA",
-      "category": "banking",
-      "match_reason": "fraud analyst",
-      "posted_date": "",
-      "first_seen": "2026-05-22"
-    },
-    {
-      "id": "8ce59c39f942",
-      "title": "Remote Data Entry Clerk17dNoGigiddyAtlanta, GeorgiaFeaturedTop 100ContractAnywhere in the World",
+      "id": "e07d43788ad6",
+      "title": "Remote Data Entry Clerk18dNoGigiddyAtlanta, GeorgiaFeaturedTop 100ContractAnywhere in the World",
       "district": "We Work Remotely",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/nogigiddy-remote-data-entry-clerk-7",
@@ -551,11 +419,11 @@
       "category": "remote",
       "match_reason": "data entry",
       "posted_date": "",
-      "first_seen": "2026-05-26"
+      "first_seen": "2026-05-27"
     },
     {
-      "id": "222e592a234f",
-      "title": "Entry-Level Account Manager6dNoGigiddyAtlanta, GeorgiaFeaturedTop 100ContractAnywhere in the World",
+      "id": "0f59d5560d53",
+      "title": "Entry-Level Account Manager7dNoGigiddyAtlanta, GeorgiaFeaturedTop 100ContractAnywhere in the World",
       "district": "We Work Remotely",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/nogigiddy-entry-level-account-manager-4",
@@ -563,11 +431,11 @@
       "category": "remote",
       "match_reason": "entry-level",
       "posted_date": "",
-      "first_seen": "2026-05-26"
+      "first_seen": "2026-05-27"
     },
     {
-      "id": "20ff9da7a5a6",
-      "title": "Remote Customer Support - $20/hr - United States13dRemote Talent CloudCheyenne, WYFeaturedContractAnywhere in the World",
+      "id": "fa212e8cd510",
+      "title": "Remote Customer Support - $20/hr - United States14dRemote Talent CloudCheyenne, WYFeaturedContractAnywhere in the World",
       "district": "We Work Remotely",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/remote-talent-cloud-remote-customer-support-20-hr-united-states-4",
@@ -575,11 +443,11 @@
       "category": "remote",
       "match_reason": "customer support",
       "posted_date": "",
-      "first_seen": "2026-05-26"
+      "first_seen": "2026-05-27"
     },
     {
-      "id": "f235a2ee4aac",
-      "title": "Live Technical Support Representative \u2014 Full-Time (40 hrs/week, Sat\u2013Sun required) \u2014 $40,000/year + Benefits \u2014 Locations: USA14dPorkbunOregon USAFeaturedFull-Time$25,000 - $48,999 USD\ud83c\uddfa\ud83c\uddf8 United States of America",
+      "id": "7f6d7cf93882",
+      "title": "Live Technical Support Representative \u2014 Full-Time (40 hrs/week, Sat\u2013Sun required) \u2014 $40,000/year + Benefits \u2014 Locations: USA15dPorkbunOregon USAFeaturedFull-Time$25,000 - $48,999 USD\ud83c\uddfa\ud83c\uddf8 United States of America",
       "district": "We Work Remotely",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/porkbun-live-technical-support-representative-full-time-40-hrs-week-sat-sun-required-40-000-year-benefits",
@@ -587,11 +455,11 @@
       "category": "remote",
       "match_reason": "support representative",
       "posted_date": "",
-      "first_seen": "2026-05-26"
+      "first_seen": "2026-05-27"
     },
     {
-      "id": "79465589e799",
-      "title": "Customer Support Agent (Remote)22dCRAE GROUP LTDCyprusFeaturedFull-Time$10,000 - $25,000 USD\ud83c\udde7\ud83c\uddec Bulgaria\ud83c\udde8\ud83c\uddfe Cyprus\ud83c\uddea\ud83c\uddea Estonia\ud83c\udded\ud83c\uddfa Hungary\ud83c\uddf1\ud83c\uddf9 Lithuania\ud83c\uddf1\ud83c\uddfb Latvia\ud83c\uddf5\ud83c\uddf1 Poland\ud83c\uddf7\ud83c\uddf4 Romania\ud83c\uddf7\ud83c\uddf8 Serbia\ud83c\uddf8\ud83c\uddf0 Slovakia\ud83c\uddfa\ud83c\udde6 Ukraine",
+      "id": "79cf6ca0152f",
+      "title": "Customer Support Agent (Remote)23dCRAE GROUP LTDCyprusFeaturedFull-Time$10,000 - $25,000 USD\ud83c\udde7\ud83c\uddec Bulgaria\ud83c\udde8\ud83c\uddfe Cyprus\ud83c\uddea\ud83c\uddea Estonia\ud83c\udded\ud83c\uddfa Hungary\ud83c\uddf1\ud83c\uddf9 Lithuania\ud83c\uddf1\ud83c\uddfb Latvia\ud83c\uddf5\ud83c\uddf1 Poland\ud83c\uddf7\ud83c\uddf4 Romania\ud83c\uddf7\ud83c\uddf8 Serbia\ud83c\uddf8\ud83c\uddf0 Slovakia\ud83c\uddfa\ud83c\udde6 Ukraine",
       "district": "We Work Remotely",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/crae-group-ltd-customer-support-agent-remote",
@@ -599,11 +467,11 @@
       "category": "remote",
       "match_reason": "customer support",
       "posted_date": "",
-      "first_seen": "2026-05-26"
+      "first_seen": "2026-05-27"
     },
     {
-      "id": "2548799d0ead",
-      "title": "Senior QLab Support Specialist (half time)8dFigure 53Baltimore, MDFull-Time$75,000 - $99,999 USD\ud83c\uddfa\ud83c\uddf8 United States of America",
+      "id": "d4cd8cd0e9c8",
+      "title": "Senior QLab Support Specialist (half time)9dFigure 53Baltimore, MDFull-Time$75,000 - $99,999 USD\ud83c\uddfa\ud83c\uddf8 United States of America",
       "district": "We Work Remotely",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/figure-53-senior-qlab-support-specialist-half-time-1",
@@ -611,11 +479,11 @@
       "category": "remote",
       "match_reason": "support specialist",
       "posted_date": "",
-      "first_seen": "2026-05-26"
+      "first_seen": "2026-05-27"
     },
     {
-      "id": "87e72c617427",
-      "title": "Senior QLab Support Specialist (half time)8dFigure 53Baltimore, MDFull-Time$75,000 - $99,999 USD\ud83c\uddfa\ud83c\uddf8 United States of America",
+      "id": "c03587ace832",
+      "title": "Senior QLab Support Specialist (half time)9dFigure 53Baltimore, MDFull-Time$75,000 - $99,999 USD\ud83c\uddfa\ud83c\uddf8 United States of America",
       "district": "We Work Remotely",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/figure-53-senior-qlab-support-specialist-half-time",
@@ -623,11 +491,11 @@
       "category": "remote",
       "match_reason": "support specialist",
       "posted_date": "",
-      "first_seen": "2026-05-26"
+      "first_seen": "2026-05-27"
     },
     {
-      "id": "9bf6466155ab",
-      "title": "WFH Customer Support Associate (Training Provided)10dLisa RusselRemoteFull-TimeAnywhere in the World",
+      "id": "af93568a2aac",
+      "title": "WFH Customer Support Associate (Training Provided)11dLisa RusselRemoteFull-TimeAnywhere in the World",
       "district": "We Work Remotely",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/lisa-russel-wfh-customer-support-associate-training-provided",
@@ -635,11 +503,11 @@
       "category": "remote",
       "match_reason": "customer support",
       "posted_date": "",
-      "first_seen": "2026-05-26"
+      "first_seen": "2026-05-27"
     },
     {
-      "id": "9745dc6c60c8",
-      "title": "Customer Success Manager (Tech Startup)13dRankbreezeRemoteFull-TimeAnywhere in the World",
+      "id": "73b73e69783b",
+      "title": "Customer Success Manager (Tech Startup)14dRankbreezeRemoteFull-TimeAnywhere in the World",
       "district": "We Work Remotely",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/rankbreeze-customer-success-manager-tech-startup-1",
@@ -647,11 +515,11 @@
       "category": "remote",
       "match_reason": "customer success",
       "posted_date": "",
-      "first_seen": "2026-05-26"
+      "first_seen": "2026-05-27"
     },
     {
-      "id": "f0da74c5af8d",
-      "title": "Customer Success Agent14dBreezy HRRaleigh, NCFull-Time$25,000 - $48,999 USDAnywhere in the World",
+      "id": "645ca770ef4c",
+      "title": "Customer Success Agent15dBreezy HRRaleigh, NCFull-Time$25,000 - $48,999 USDAnywhere in the World",
       "district": "We Work Remotely",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/breezy-hr-customer-success-agent-5",
@@ -659,11 +527,11 @@
       "category": "remote",
       "match_reason": "customer success",
       "posted_date": "",
-      "first_seen": "2026-05-26"
+      "first_seen": "2026-05-27"
     },
     {
-      "id": "b3ff37ef2028",
-      "title": "Technical Customer Support (English + Spanish and/or Portuguese) UTC-4 / UTC-520dCrispNantes, FranceFull-TimeAnywhere in the World",
+      "id": "78e0fdf21609",
+      "title": "Technical Customer Support (English + Spanish and/or Portuguese) UTC-4 / UTC-521dCrispNantes, FranceFull-TimeAnywhere in the World",
       "district": "We Work Remotely",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/crisp-technical-customer-support-english-spanish-and-or-portuguese-utc-4-utc-5",
@@ -671,11 +539,11 @@
       "category": "remote",
       "match_reason": "customer support",
       "posted_date": "",
-      "first_seen": "2026-05-26"
+      "first_seen": "2026-05-27"
     },
     {
-      "id": "ba0c2336d721",
-      "title": "Chat Support Agent (Remote) - Entry Level, No Degree Required - 15 - 18 per Hour23dNoGigiddyAtlanta, GeorgiaTop 100Full-Time$25,000 - $48,999 USD\ud83c\uddfa\ud83c\uddf8 United States of America",
+      "id": "26cd0ab46475",
+      "title": "Chat Support Agent (Remote) - Entry Level, No Degree Required - 15 - 18 per Hour24dNoGigiddyAtlanta, GeorgiaTop 100Full-Time$25,000 - $48,999 USD\ud83c\uddfa\ud83c\uddf8 United States of America",
       "district": "We Work Remotely",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/nogigiddy-chat-support-agent-remote-entry-level-no-degree-required-15-18-7",
@@ -683,11 +551,11 @@
       "category": "remote",
       "match_reason": "entry level",
       "posted_date": "",
-      "first_seen": "2026-05-26"
+      "first_seen": "2026-05-27"
     },
     {
-      "id": "e73b4d71bf2a",
-      "title": "CPC Processor Customer Support - Bilingual25dDatavantRemoteFull-TimeAnywhere in the World",
+      "id": "d352b0e719d0",
+      "title": "CPC Processor Customer Support - Bilingual26dDatavantRemoteFull-TimeAnywhere in the World",
       "district": "We Work Remotely",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/datavant-cpc-processor-customer-support-bilingual",
@@ -695,11 +563,11 @@
       "category": "remote",
       "match_reason": "customer support",
       "posted_date": "",
-      "first_seen": "2026-05-26"
+      "first_seen": "2026-05-27"
     },
     {
-      "id": "c2f769a94a43",
-      "title": "Customer Operations & Writing Specialist25dClerkyUSAFull-TimeAnywhere in the World",
+      "id": "79301baa1c80",
+      "title": "Customer Operations & Writing Specialist27dClerkyUSAFull-TimeAnywhere in the World",
       "district": "We Work Remotely",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/clerky-customer-operations-writing-specialist-1",
@@ -707,11 +575,11 @@
       "category": "remote",
       "match_reason": "clerk",
       "posted_date": "",
-      "first_seen": "2026-05-26"
+      "first_seen": "2026-05-27"
     },
     {
-      "id": "5b4e3173d3bd",
-      "title": "Customer Support Representative26dLumiveroUnited StatesFull-TimeAnywhere in the World",
+      "id": "1ac208956e96",
+      "title": "Customer Support Representative27dLumiveroUnited StatesFull-TimeAnywhere in the World",
       "district": "We Work Remotely",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/lumivero-customer-support-representative",
@@ -719,11 +587,11 @@
       "category": "remote",
       "match_reason": "customer support",
       "posted_date": "",
-      "first_seen": "2026-05-26"
+      "first_seen": "2026-05-27"
     },
     {
-      "id": "1bb0857695a4",
-      "title": "Entry Level UX Design Apprenticeship12dUX WomanNarberth, PAFull-TimeAnywhere in the World",
+      "id": "b4999999f1db",
+      "title": "Entry Level UX Design Apprenticeship13dUX WomanNarberth, PAFull-TimeAnywhere in the World",
       "district": "We Work Remotely",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/ux-woman-entry-level-ux-design-apprenticeship-2",
@@ -731,11 +599,11 @@
       "category": "remote",
       "match_reason": "entry level",
       "posted_date": "",
-      "first_seen": "2026-05-26"
+      "first_seen": "2026-05-27"
     },
     {
-      "id": "01eb50d8522f",
-      "title": "Entry Level Product Design Apprenticeship12dUX WomanNarberth, PAFull-TimeAnywhere in the World",
+      "id": "1c3540f7d305",
+      "title": "Entry Level Product Design Apprenticeship13dUX WomanNarberth, PAFull-TimeAnywhere in the World",
       "district": "We Work Remotely",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/ux-woman-entry-level-product-design-apprenticeship-1",
@@ -743,11 +611,11 @@
       "category": "remote",
       "match_reason": "entry level",
       "posted_date": "",
-      "first_seen": "2026-05-26"
+      "first_seen": "2026-05-27"
     },
     {
-      "id": "782a3db3a423",
-      "title": "Product Owner Zendesk Customer Service (m/w/d) // remote m\u00f6glich4dE. Breuninger& Co.Stuttgart, DeutschlandFull-TimeAnywhere in the World",
+      "id": "4236906720a4",
+      "title": "Product Owner Zendesk Customer Service (m/w/d) // remote m\u00f6glich5dE. Breuninger& Co.Stuttgart, DeutschlandFull-TimeAnywhere in the World",
       "district": "We Work Remotely",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/e-breuninger-co-product-owner-zendesk-customer-service-m-w-d-remote-moglich",
@@ -755,11 +623,11 @@
       "category": "remote",
       "match_reason": "customer service",
       "posted_date": "",
-      "first_seen": "2026-05-26"
+      "first_seen": "2026-05-27"
     },
     {
-      "id": "fe221bbc7fda",
-      "title": "Jr Appointment Setter6dOrchard BrokerageNew York, New YorkContractAnywhere in the World",
+      "id": "a26b58cc9ed2",
+      "title": "Jr Appointment Setter7dOrchard BrokerageNew York, New YorkContractAnywhere in the World",
       "district": "We Work Remotely",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/orchard-brokerage-jr-appointment-setter",
@@ -767,7 +635,7 @@
       "category": "remote",
       "match_reason": "brokerage",
       "posted_date": "",
-      "first_seen": "2026-05-26"
+      "first_seen": "2026-05-27"
     },
     {
       "id": "67f0d7cfcac8",
