@@ -1,9 +1,8 @@
 #!/usr/bin/env python3
 """
-Customer Service Job Tracker
-Scrapes 13+ sources across AR, OK, MO, KS + Remote.
-Updates docs/jobs.json for the GitHub Pages dashboard.
-No email — dashboard only.
+Customer Support Tracker — NWA · Stillwater · Ponca City
+Scrapes 20+ sources, filters for customer support / admin / logistics roles.
+Updates docs/jobs.json for the GitHub Pages dashboard. No email — dashboard only.
 """
 
 import requests
@@ -25,33 +24,42 @@ HEADERS = {
 }
 
 # ──────────────────────────────────────────────────────────────────────────────
-# GEOGRAPHIC FILTER  (AR · OK · MO · KS · TX · Remote)
+# GEOGRAPHIC FILTER — city-level only
+# Unknown/blank location passes through (local city pages are inherently local)
 # ──────────────────────────────────────────────────────────────────────────────
 
-VALID_STATES = {
-    "ar", "arkansas",
-    "ok", "oklahoma",
-    "mo", "missouri",
-    "ks", "kansas",
-    # Texas removed per user request
-}
+TARGET_LOCATIONS = [
+    # NWA — Benton County
+    "bentonville", "rogers", "bella vista", "lowell", "centerton",
+    "siloam springs", "cave springs", "elm springs", "gravette", "pea ridge",
+    "highfill", "gentry",
+    # NWA — Washington County
+    "fayetteville", "springdale", "prairie grove", "west fork", "tontitown",
+    "elkins", "greenland", "johnson", "farmington", "lincoln", "goshen",
+    # NWA aliases
+    "nwa", "northwest arkansas", "benton county", "washington county",
+    # Oklahoma
+    "stillwater", "ponca city",
+]
 
-REMOTE_WORDS = {"remote", "work from home", "wfh", "virtual", "anywhere", "telecommute"}
+# Regex for extracting location from parent elements in generic scrapers
+LOC_REGEX = re.compile(
+    r"\b(Bentonville|Rogers|Bella Vista|Lowell|Centerton|Siloam Springs|"
+    r"Cave Springs|Elm Springs|Gravette|Pea Ridge|Highfill|Gentry|"
+    r"Fayetteville|Springdale|Prairie Grove|West Fork|Tontitown|Elkins|"
+    r"Greenland|Johnson|Farmington|Lincoln|Goshen|"
+    r"NWA|Northwest Arkansas|Benton County|Washington County|"
+    r"Stillwater|Ponca City)\b",
+    re.I
+)
 
 
 def is_valid_location(loc: str) -> bool:
-    """Return True if the location is blank (unknown) or in a target state/remote."""
-    if not loc or loc.strip() == "":
-        return True          # can't tell → don't exclude
+    """True if location is blank/unknown or matches a target city."""
+    if not loc or not loc.strip():
+        return True
     l = loc.lower()
-    for kw in REMOTE_WORDS:
-        if kw in l:
-            return True
-    for state in VALID_STATES:
-        # word-boundary style check
-        if re.search(r"\b" + re.escape(state) + r"\b", l):
-            return True
-    return False
+    return any(city in l for city in TARGET_LOCATIONS)
 
 
 # ──────────────────────────────────────────────────────────────────────────────
@@ -63,10 +71,8 @@ INCLUDE_KEYWORDS = [
     "customer service", "customer support", "customer care", "customer success",
     "customer relations", "customer experience", "client services", "client support",
     "client relations", "guest services",
-    # Account / Admin support (no sales)
-    "account coordinator", "account representative",
-    "account specialist",
-    # Admin / Office
+    # Account / Admin
+    "account coordinator", "account representative", "account specialist",
     "administrative assistant", "administrative coordinator", "administrative specialist",
     "office manager", "office coordinator", "office administrator",
     "executive assistant", "operations assistant", "operations coordinator",
@@ -75,8 +81,7 @@ INCLUDE_KEYWORDS = [
     "receptionist", "front desk", "office support", "office clerk",
     "file clerk", "records clerk", "document specialist",
     # Entry-level / General
-    "entry level", "entry-level",
-    "associate", "trainee", "clerk",
+    "entry level", "entry-level", "associate", "trainee", "clerk",
     "support representative", "service representative",
     # Freight / Logistics
     "logistics coordinator", "logistics specialist", "logistics analyst",
@@ -92,7 +97,7 @@ INCLUDE_KEYWORDS = [
     "pricing analyst", "brokerage", "truckload",
     "intermodal coordinator", "drayage coordinator",
     # Banking / Finance
-    "bank teller", "teller", "personal banker", "relationship banker",
+    "bank teller", "teller", "personal banker",
     "branch coordinator", "loan processor", "loan coordinator", "loan officer",
     "mortgage coordinator", "mortgage processor",
     "financial services", "financial representative", "financial specialist",
@@ -105,83 +110,72 @@ INCLUDE_KEYWORDS = [
     "communications coordinator", "communications specialist",
     # General coordinator
     "program coordinator", "project coordinator",
-    # Funeral / Death care (remote services)
+    # Funeral / Death care
     "funeral", "mortuary", "death care", "bereavement",
     "funeral home", "funeral service", "cremation coordinator",
     "funeral coordinator", "funeral administrative", "funeral answering",
     "after-loss", "afterloss", "grief support coordinator",
 ]
 
-# Applied only to remote job board scrapers (WWR, Remote.co) — much tighter
-REMOTE_EXCLUDE_KEYWORDS = [
-    "crypto", "blockchain", "web3", "nft", "defi",
-    "video editor", "video production", "videographer",
-    "graphic design", "graphic designer", "ux designer", "ui designer",
-    "motion design", "illustrator",
-    "copywriter", "content writer", "technical writer", "writer",
-    "game developer", "game designer", "game artist",
-    "software", "developer", "engineer", "coding", "programmer",
-    "devops", "sre ", "cloud architect",
-    "animator", "3d artist", "photographer",
-    "trader", "trading", "quant",
-    "attorney", "lawyer", "paralegal",
-    "therapist", "counselor", "social worker",
-    "teacher", "tutor", "instructor",
-    "recruiter", "talent acquisition",
-    "cfo", "coo", "cto", "vice president", "vp ",
-]
-
 HARD_EXCLUDE_KEYWORDS = [
-    # Driving / physical labour
     "truck driver", "cdl driver", "forklift operator", "warehouse associate",
     "warehouse worker", "picker", "packer", "stocker", "dock worker",
     "material handler", "janitor", "custodian", "groundskeeper",
-    # Medical
     "registered nurse", "school nurse", " rn ", "nurse practitioner",
     "physician", "pharmacist", "physical therapist", "occupational therapist",
-    # Technical / Engineering (too senior/specialized)
     "software engineer", "software developer", "web developer", "devops",
     "data scientist", "machine learning", "cybersecurity", "network engineer",
     "electrical engineer", "mechanical engineer", "civil engineer",
     "maintenance mechanic", "hvac technician", "electrician", "plumber",
-    # Senior management (keep account manager, branch manager, office manager)
     "vice president", "vp ", "chief ", "cto", "cfo", "coo",
     "regional manager", "district manager", "general manager",
     "senior manager", "store manager", "marketing manager",
     "product manager", "people manager", "hiring manager",
-    # Academic
     "professor", "faculty", "instructor", "teacher",
-    # Echo / marketing noise
     "request a quote", "get a quote", "truck load quote",
     "full truckload", "less than truckload", "learn more",
     "view all", "see all jobs", "see open", "join our team",
 ]
 
 # ──────────────────────────────────────────────────────────────────────────────
-# SOURCE REGISTRY  (shown in dashboard Sources panel)
+# SOURCE REGISTRY
 # ──────────────────────────────────────────────────────────────────────────────
 
 ALL_SOURCES = [
     # Freight & Logistics
-    {"name": "ArcBest",        "url": "https://careers.arcb.com/",                                             "category": "freight"},
-    {"name": "J.B. Hunt",      "url": "https://jbhunt.wd501.myworkdayjobs.com/Careers",                        "category": "freight"},
-    {"name": "Tyson Foods",    "url": "https://www.tysonfoods.com/careers",                                    "category": "freight"},
-    {"name": "XPO",            "url": "https://jobs.xpo.com/search/",                                          "category": "freight"},
-    {"name": "Echo Global",    "url": "https://www.echo.com/company/careers/open-positions/",                  "category": "freight"},
+    {"name": "ArcBest",       "url": "https://careers.arcb.com/careersmarketplace/OpenPositions/",     "category": "freight"},
+    {"name": "J.B. Hunt",     "url": "https://jbhunt.wd501.myworkdayjobs.com/Careers",                 "category": "freight"},
+    {"name": "Tyson Foods",   "url": "https://www.tysonfoods.com/careers",                             "category": "freight"},
+    {"name": "XPO",           "url": "https://jobs.xpo.com/search/",                                   "category": "freight"},
+    {"name": "Echo Global",   "url": "https://www.echo.com/company/careers/open-positions/",           "category": "freight"},
     # Banking
-    {"name": "Arvest Bank",    "url": "https://css-arvest-prd.inforcloudsuite.com/hcm/Jobs/form/JobBoard%28ARV,EXTERNAL%29.JobSearchCompositeForm?navigation=JobBoard%28ARV,EXTERNAL%29.JobSearchCompositeFormNav&csk.JobBoard=EXTERNAL&csk.showusingxi=true&csk.HROrganization=ARV", "category": "banking"},
-    {"name": "Simmons Bank",   "url": "https://simmonsbank.wd5.myworkdayjobs.com/SimmonsCareers",              "category": "banking"},
+    {"name": "Arvest Bank",   "url": "https://css-arvest-prd.inforcloudsuite.com/hcm/Jobs/form/JobBoard%28ARV,EXTERNAL%29.JobSearchCompositeForm?navigation=JobBoard%28ARV,EXTERNAL%29.JobSearchCompositeFormNav&csk.JobBoard=EXTERNAL&csk.showusingxi=true&csk.HROrganization=ARV", "category": "banking"},
+    {"name": "Simmons Bank",  "url": "https://simmonsbank.wd5.myworkdayjobs.com/SimmonsCareers",       "category": "banking"},
     {"name": "First National Bank", "url": "https://recruiting.paylocity.com/recruiting/jobs/All/dcb49edc-c676-411b-8b7b-104a72fec402/The-First-National-Bank-of-Fort-Smith", "category": "banking"},
-    {"name": "Regions Bank",   "url": "https://careers.regions.com/us/en/search-results",                     "category": "banking"},
-    {"name": "Bank of America","url": "https://careers.bankofamerica.com/en-us/job-search?ref=search&start=0&rows=10&search=getAllJobs&filters=area%3DAdministration%2Carea%3DCustomer+Service%2Carea%3DOperations+%26+Support", "category": "banking"},
+    {"name": "Regions Bank",  "url": "https://careers.regions.com/us/en/search-results",              "category": "banking"},
+    {"name": "Bank of America","url": "https://careers.bankofamerica.com/en-us/job-search",             "category": "banking"},
     # Corporate
-    {"name": "Walmart",        "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal",                 "category": "corporate"},
-    # Remote
-    {"name": "We Work Remotely", "url": "https://weworkremotely.com/categories/remote-customer-service-jobs", "category": "remote"},
-    {"name": "Remote.co",      "url": "https://remote.co/remote-jobs/customer-service/",                      "category": "remote"},
-    # Funeral / Death care
-    {"name": "NFDA Career Center",       "url": "https://www.nfda.org/career-center",                         "category": "funeral"},
-    {"name": "Connecting Directors Jobs", "url": "https://www.connectingdirectors.com/jobs",                   "category": "funeral"},
+    {"name": "Walmart (Supply Chain)", "url": "https://careers.walmart.com/us/en/results?searchQuery=Bentonville&careerareas=Supply%20Chain%20and%20Transportation", "category": "corporate"},
+    {"name": "Walmart (Corporate)",    "url": "https://careers.walmart.com/us/en/results?searchQuery=Bentonville&careerareas=Corporate", "category": "corporate"},
+    # Community
+    {"name": "Rogers (City)",         "url": "https://www.rogersar.gov/Jobs.aspx",                    "category": "community"},
+    {"name": "Bentonville (City)",     "url": "https://www.bentonvillear.com/1414/Employment-Opportunities", "category": "community"},
+    {"name": "Fayetteville (City)",    "url": "https://www.governmentjobs.com/careers/fayettevillear",  "category": "community"},
+    {"name": "Springdale (City)",      "url": "https://www.governmentjobs.com/careers/springdalear",    "category": "community"},
+    {"name": "Bella Vista (City)",     "url": "https://recruiting.paylocity.com/recruiting/jobs/All/b1e8c19e-977f-41ec-89e7-a138ab6e72eb/City-of-Bella-Vista", "category": "community"},
+    {"name": "Lowell (City)",          "url": "https://www.lowellarkansas.gov/jobs",                   "category": "community"},
+    {"name": "City of Stillwater",     "url": "https://stillwaterok.gov/Jobs.aspx",                    "category": "community"},
+    {"name": "City of Ponca City",     "url": "https://www.poncacityok.gov/Jobs.aspx",                 "category": "community"},
+    {"name": "Washington County AR",   "url": "https://www.washingtoncountyar.gov/government/departments-f-z/human-resources/job-postings", "category": "community"},
+    {"name": "Springdale Library",     "url": "https://springdalelibrary.org/employment/",             "category": "community"},
+    {"name": "UAF",                    "url": "https://uasys.wd5.myworkdayjobs.com/UAF_External_Career_Site", "category": "community"},
+    {"name": "NWACC",                  "url": "https://nwacc.wd1.myworkdayjobs.com/NWACC_External_Career_Site", "category": "community"},
+    {"name": "JBU",                    "url": "https://www.jbu.edu/human-resources/staff-job-listings/", "category": "community"},
+    {"name": "Oklahoma State Univ.",   "url": "https://jobs.okstate.edu/jobs/search/search-page-oklahoma-state", "category": "community"},
+    {"name": "ADP (NWA)",              "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=dd3989d6-a17f-4803-bdaa-54bf26faf499", "category": "community"},
+    # Funeral
+    {"name": "NFDA Career Center",        "url": "https://www.nfda.org/career-center",          "category": "funeral"},
+    {"name": "Connecting Directors Jobs",  "url": "https://www.connectingdirectors.com/jobs",    "category": "funeral"},
 ]
 
 # ──────────────────────────────────────────────────────────────────────────────
@@ -208,7 +202,7 @@ def make_job(source, title, url, platform, category="freight",
     return {
         "id":           make_id(source, title, url),
         "title":        title,
-        "district":     source,      # "district" kept for dashboard compat
+        "district":     source,
         "location":     location,
         "url":          url,
         "platform":     platform,
@@ -234,7 +228,6 @@ def save_jobs(data):
 
 
 def pw_get_soup(url, wait=4):
-    """Playwright helper — renders JS-heavy pages, returns BeautifulSoup or None."""
     try:
         from playwright.sync_api import sync_playwright, TimeoutError as PWTimeout
     except ImportError:
@@ -259,28 +252,22 @@ def pw_get_soup(url, wait=4):
 
 
 # ──────────────────────────────────────────────────────────────────────────────
-# WORKDAY  (J.B. Hunt · Simmons Bank · Walmart)
+# WORKDAY  (J.B. Hunt · Simmons Bank · UAF · NWACC)
 # ──────────────────────────────────────────────────────────────────────────────
 
 WORKDAY_SOURCES = [
-    {
-        "name":     "J.B. Hunt",
-        "category": "freight",
-        "api_url":  "https://jbhunt.wd501.myworkdayjobs.com/wday/cxs/jbhunt/Careers/jobs",
-        "base_url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers",
-    },
-    {
-        "name":     "Simmons Bank",
-        "category": "banking",
-        "api_url":  "https://simmonsbank.wd5.myworkdayjobs.com/wday/cxs/simmonsbank/SimmonsCareers/jobs",
-        "base_url": "https://simmonsbank.wd5.myworkdayjobs.com/en-US/SimmonsCareers",
-    },
-    {
-        "name":     "Walmart",
-        "category": "corporate",
-        "api_url":  "https://walmart.wd5.myworkdayjobs.com/wday/cxs/walmart/WalmartExternal/jobs",
-        "base_url": "https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal",
-    },
+    {"name": "J.B. Hunt",    "category": "freight",
+     "api_url":  "https://jbhunt.wd501.myworkdayjobs.com/wday/cxs/jbhunt/Careers/jobs",
+     "base_url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers"},
+    {"name": "Simmons Bank", "category": "banking",
+     "api_url":  "https://simmonsbank.wd5.myworkdayjobs.com/wday/cxs/simmonsbank/SimmonsCareers/jobs",
+     "base_url": "https://simmonsbank.wd5.myworkdayjobs.com/en-US/SimmonsCareers"},
+    {"name": "UAF",          "category": "community",
+     "api_url":  "https://uasys.wd5.myworkdayjobs.com/wday/cxs/uasys/UAF_External_Career_Site/jobs",
+     "base_url": "https://uasys.wd5.myworkdayjobs.com/en-US/UAF_External_Career_Site"},
+    {"name": "NWACC",        "category": "community",
+     "api_url":  "https://nwacc.wd1.myworkdayjobs.com/wday/cxs/nwacc/NWACC_External_Career_Site/jobs",
+     "base_url": "https://nwacc.wd1.myworkdayjobs.com/en-US/NWACC_External_Career_Site"},
 ]
 
 
@@ -291,24 +278,24 @@ def scrape_workday(source):
     jobs     = []
     offset   = 0
     limit    = 20
-    api_headers = {**HEADERS, "Content-Type": "application/json", "Accept": "application/json"}
-
+    api_hdrs = {**HEADERS, "Content-Type": "application/json", "Accept": "application/json"}
     while True:
         payload = {"limit": limit, "offset": offset, "searchText": "", "appliedFacets": {}}
         try:
-            r    = requests.post(api_url, json=payload, headers=api_headers, timeout=25)
+            r    = requests.post(api_url, json=payload, headers=api_hdrs, timeout=25)
             data = r.json()
         except Exception as e:
             log.error(f"{name} Workday API error: {e}")
             break
-
         postings = data.get("jobPostings", [])
+        total    = data.get("total", 0)
+        if offset == 0:
+            log.info(f"{name}: {total} total from Workday")
         if not postings:
             break
-
         for p in postings:
-            title = p.get("title", "").strip()
-            loc   = p.get("locationsText", "") or p.get("primaryLocation", "")
+            title    = p.get("title", "").strip()
+            loc      = p.get("locationsText", "") or p.get("primaryLocation", "")
             if not is_valid_location(loc):
                 continue
             ext_url  = p.get("externalPath", "")
@@ -319,25 +306,26 @@ def scrape_workday(source):
                 jobs.append(make_job(name, title, full_url, "Workday",
                                      category=category, location=loc,
                                      posted=posted, match_reason=reason))
-
-        total = data.get("total", 0)
         offset += limit
         if offset >= total:
             break
-        time.sleep(0.5)
-
-    log.info(f"{name}: {len(jobs)} relevant jobs (Workday)")
+        time.sleep(0.4)
+    log.info(f"{name}: {len(jobs)} relevant jobs")
     return jobs
 
 
 # ──────────────────────────────────────────────────────────────────────────────
-# ARCBEST  (CareersMarketplace — Playwright)
+# ARCBEST  (pre-filtered CareersMarketplace — Playwright)
 # ──────────────────────────────────────────────────────────────────────────────
 
 def scrape_arcbest():
     name = "ArcBest"
-    # Base job list — unfiltered so we catch all office/admin roles
-    url  = "https://careers.arcb.com/"
+    url  = (
+        "https://careers.arcb.com/careersmarketplace/OpenPositions/"
+        "?10509=%5B36616%2C27818%2C27807%2C27810%2C36756%2C56719%2C28134"
+        "%2C1738333%2C36692%2C36941%2C36950%5D&10509_format=3533"
+        "&10508=8400047&10508_format=3532&listFilterMode=1&jobRecordsPerPage=6&"
+    )
     jobs = []
     soup = pw_get_soup(url, wait=5)
     if not soup:
@@ -348,39 +336,32 @@ def scrape_arcbest():
         title = a.get_text(strip=True)
         if not title or len(title) < 5 or href in added:
             continue
-        if not any(x in href.lower() for x in ["openposition", "jobdetail", "careers.arcb", "position", "req"]):
+        # CareersMarketplace job detail links
+        if not any(x in href.lower() for x in ["jobdetail", "openposition", "position",
+                                                 "req", "careers.arcb", "job"]):
+            continue
+        if any(x in title.lower() for x in ["view all", "see all", "learn more", "apply"]):
             continue
         added.add(href)
-        # Try to get location from parent element
-        parent = a.find_parent(["li", "div", "tr", "article"])
-        loc    = ""
-        if parent:
-            loc_m = re.search(r"\b(Fort Smith|Fayetteville|Springdale|Rogers|Bentonville|NWA|Remote|Arkansas|AR)\b",
-                              parent.get_text(), re.I)
-            if loc_m:
-                loc = loc_m.group(0)
-        if not is_valid_location(loc):
-            continue
+        # Pre-filtered by department so location check is lenient; Fort Smith is ArcBest HQ
         full_url   = href if href.startswith("http") else "https://careers.arcb.com" + href
         ok, reason = is_relevant(title)
         if ok:
             jobs.append(make_job(name, title, full_url, "CareersMarketplace",
-                                 category="freight", location=loc, match_reason=reason))
+                                 category="freight", location="Fort Smith, AR",
+                                 match_reason=reason))
     log.info(f"{name}: {len(jobs)} jobs")
     return jobs
 
 
 # ──────────────────────────────────────────────────────────────────────────────
-# TYSON FOODS  (custom site — requests)
+# TYSON FOODS
 # ──────────────────────────────────────────────────────────────────────────────
 
 def scrape_tyson():
     name = "Tyson Foods"
-    # Tyson uses a custom careers site. Try the JSON API first, fall back to HTML.
     jobs = []
-
-    # Attempt: SmartRecruiters-style JSON endpoint
-    api_url = "https://careers.tysonfoods.com/api/apply/v2/jobs?domain=tysonfoods.com&start=0&num=100&exclude_pid=&pid=&domain=tysonfoods.com&sort_by=relevance"
+    api_url = "https://careers.tysonfoods.com/api/apply/v2/jobs?domain=tysonfoods.com&start=0&num=100&sort_by=relevance"
     try:
         r    = requests.get(api_url, headers=HEADERS, timeout=20)
         data = r.json()
@@ -399,9 +380,7 @@ def scrape_tyson():
             log.info(f"{name}: {len(jobs)} jobs (API)")
             return jobs
     except Exception as e:
-        log.warning(f"{name} API attempt: {e}")
-
-    # Fallback: Playwright on careers page
+        log.warning(f"{name} API: {e}")
     soup = pw_get_soup("https://www.tysonfoods.com/careers", wait=5)
     if not soup:
         return jobs
@@ -415,11 +394,10 @@ def scrape_tyson():
             continue
         added.add(href)
         parent = a.find_parent(["li", "div", "tr", "article"])
-        loc    = ""
+        loc = ""
         if parent:
-            loc_m = re.search(r"\b(AR|OK|MO|KS|Arkansas|Oklahoma|Missouri|Kansas|Remote)\b",
-                              parent.get_text(), re.I)
-            loc   = loc_m.group(0) if loc_m else ""
+            m = LOC_REGEX.search(parent.get_text())
+            loc = m.group(0) if m else ""
         if not is_valid_location(loc):
             continue
         full_url   = href if href.startswith("http") else "https://www.tysonfoods.com" + href
@@ -427,17 +405,16 @@ def scrape_tyson():
         if ok:
             jobs.append(make_job(name, title, full_url, "Tyson",
                                  category="freight", location=loc, match_reason=reason))
-    log.info(f"{name}: {len(jobs)} jobs (Playwright fallback)")
+    log.info(f"{name}: {len(jobs)} jobs (fallback)")
     return jobs
 
 
 # ──────────────────────────────────────────────────────────────────────────────
-# XPO  (requests)
+# XPO
 # ──────────────────────────────────────────────────────────────────────────────
 
 def scrape_xpo():
     name = "XPO"
-    # Try their JSON API first
     jobs = []
     api_url = "https://jobs.xpo.com/api/apply/v2/jobs?domain=jobs.xpo.com&num=100&start=0"
     try:
@@ -459,25 +436,21 @@ def scrape_xpo():
             return jobs
     except Exception as e:
         log.warning(f"{name} API: {e}")
-
-    # Fallback: scrape the search page
-    url  = "https://jobs.xpo.com/search/?searchby=distance&createNewAlert=false&q=&d=75&lat=35.8&lon=-93.3"
-    soup = pw_get_soup(url, wait=5)
+    soup = pw_get_soup("https://jobs.xpo.com/search/", wait=5)
     if not soup:
         return jobs
     added = set()
     for a in soup.find_all("a", href=re.compile(r"/job/", re.I)):
-        title    = a.get_text(strip=True)
-        href     = a["href"]
+        href  = a["href"]
+        title = a.get_text(strip=True)
         if not title or href in added:
             continue
         added.add(href)
         parent = a.find_parent(["li", "div", "tr", "article"])
-        loc    = ""
+        loc = ""
         if parent:
-            loc_m = re.search(r"\b(AR|OK|MO|KS|Arkansas|Oklahoma|Missouri|Kansas|Remote)\b",
-                              parent.get_text(), re.I)
-            loc   = loc_m.group(0) if loc_m else ""
+            m = LOC_REGEX.search(parent.get_text())
+            loc = m.group(0) if m else ""
         if not is_valid_location(loc):
             continue
         full_url   = href if href.startswith("http") else "https://jobs.xpo.com" + href
@@ -485,22 +458,20 @@ def scrape_xpo():
         if ok:
             jobs.append(make_job(name, title, full_url, "XPO",
                                  category="freight", location=loc, match_reason=reason))
-    log.info(f"{name}: {len(jobs)} jobs (HTML fallback)")
+    log.info(f"{name}: {len(jobs)} jobs (fallback)")
     return jobs
 
 
 # ──────────────────────────────────────────────────────────────────────────────
-# ECHO GLOBAL LOGISTICS  (Playwright — JS button-rendered)
+# ECHO GLOBAL LOGISTICS
 # ──────────────────────────────────────────────────────────────────────────────
 
-# Words that must appear in a title for it to be treated as a job listing
 _ECHO_JOB_WORDS = re.compile(
     r"\b(coordinator|specialist|representative|analyst|associate|agent|"
-    r"manager|advisor|support|service|administrator|assistant|"
-    r"recruiter|broker|planner|processor|clerk|trainee|"
-    r"brokerage|logistics|operations|sales|billing|claims|"
-    r"executive|account|dispatcher|dispatch)\b",
-    re.I
+    r"advisor|support|service|administrator|assistant|"
+    r"broker|planner|processor|clerk|trainee|"
+    r"brokerage|logistics|operations|billing|claims|"
+    r"executive|account|dispatcher|dispatch)\b", re.I
 )
 
 def scrape_echo():
@@ -516,39 +487,27 @@ def scrape_echo():
         title = a.get_text(strip=True)
         if not title or len(title) < 5 or href in added:
             continue
-        # Must link to something that looks like a job posting
-        if not any(x in href.lower() for x in ["job", "career", "lever.co", "greenhouse", "workday",
-                                                 "position", "req", "apply", "opening"]):
+        if not any(x in href.lower() for x in ["job", "career", "lever", "greenhouse",
+                                                 "workday", "position", "req", "apply"]):
             continue
-        # Title must contain at least one job-role word
         if not _ECHO_JOB_WORDS.search(title):
             continue
-        # Skip obvious CTAs and nav items
         if any(x in title.lower() for x in ["request", "quote", "learn more", "view all",
-                                              "see all", "join our", "login", "apply now",
-                                              "home", "about", "contact", "truckload freight",
-                                              "less than", "full truckload"]):
+                                              "join our", "truckload freight", "less than"]):
             continue
         added.add(href)
-        parent = a.find_parent(["li", "div", "section", "article"])
-        loc    = ""
-        if parent:
-            loc_m = re.search(r"\b(AR|OK|MO|KS|Arkansas|Oklahoma|Missouri|Kansas|Remote|Chicago)\b",
-                              parent.get_text(), re.I)
-            loc   = loc_m.group(0) if loc_m else ""
-        if not is_valid_location(loc):
-            continue
         full_url   = href if href.startswith("http") else "https://www.echo.com" + href
         ok, reason = is_relevant(title)
         if ok:
             jobs.append(make_job(name, title, full_url, "Echo",
-                                 category="freight", location=loc, match_reason=reason))
+                                 category="freight", location="Chicago, IL",
+                                 match_reason=reason))
     log.info(f"{name}: {len(jobs)} jobs")
     return jobs
 
 
 # ──────────────────────────────────────────────────────────────────────────────
-# ARVEST BANK  (Infor CloudSuite — Playwright)
+# ARVEST BANK
 # ──────────────────────────────────────────────────────────────────────────────
 
 def scrape_arvest():
@@ -573,14 +532,10 @@ def scrape_arvest():
             continue
         added.add(href)
         parent = a.find_parent(["li", "div", "tr", "article"])
-        loc    = ""
+        loc = ""
         if parent:
-            loc_m = re.search(
-                r"\b(AR|OK|MO|KS|Arkansas|Oklahoma|Missouri|Kansas|Remote"
-                r"|Fayetteville|Bentonville|Rogers|Springdale|Fort Smith"
-                r"|Tulsa|Oklahoma City|Kansas City|Springfield)\b",
-                parent.get_text(), re.I)
-            loc = loc_m.group(0) if loc_m else ""
+            m = LOC_REGEX.search(parent.get_text())
+            loc = m.group(0) if m else ""
         if not is_valid_location(loc):
             continue
         full_url   = href if href.startswith("http") else "https://css-arvest-prd.inforcloudsuite.com" + href
@@ -593,7 +548,7 @@ def scrape_arvest():
 
 
 # ──────────────────────────────────────────────────────────────────────────────
-# FIRST NATIONAL BANK OF FORT SMITH  (Paylocity — Playwright)
+# FIRST NATIONAL BANK (Paylocity)
 # ──────────────────────────────────────────────────────────────────────────────
 
 def scrape_first_national():
@@ -633,12 +588,9 @@ def scrape_regions():
     name = "Regions Bank"
     base = "https://careers.regions.com/us/en/search-results"
     jobs = []
-    soup = pw_get_soup(base, wait=6)
-    if not soup:
-        return jobs
     added = set()
 
-    def _parse_page(s):
+    def _parse(s):
         for a in s.find_all("a", href=True):
             href  = a["href"]
             title = a.get_text(strip=True)
@@ -648,13 +600,10 @@ def scrape_regions():
                 continue
             added.add(href)
             parent = a.find_parent(["li", "div", "tr", "article"])
-            loc    = ""
+            loc = ""
             if parent:
-                loc_m = re.search(
-                    r"\b(AR|OK|MO|KS|Arkansas|Oklahoma|Missouri|Kansas|Remote"
-                    r"|Little Rock|Fort Smith|Fayetteville|Tulsa|Kansas City|St\.? Louis)\b",
-                    parent.get_text(), re.I)
-                loc = loc_m.group(0) if loc_m else ""
+                m = LOC_REGEX.search(parent.get_text())
+                loc = m.group(0) if m else ""
             if not is_valid_location(loc):
                 continue
             full_url   = href if href.startswith("http") else "https://careers.regions.com" + href
@@ -663,26 +612,24 @@ def scrape_regions():
                 jobs.append(make_job(name, title, full_url, "Regions",
                                      category="banking", location=loc, match_reason=reason))
 
-    _parse_page(soup)
-
-    # Paginate: try pages 2–10
-    for page in range(2, 11):
-        page_url = f"{base}?pg={page}"
-        s = pw_get_soup(page_url, wait=4)
+    soup = pw_get_soup(base, wait=6)
+    if soup:
+        _parse(soup)
+    for page in range(2, 8):
+        s = pw_get_soup(f"{base}?pg={page}", wait=4)
         if not s:
             break
-        prev_count = len(jobs)
-        _parse_page(s)
-        if len(jobs) == prev_count:
-            break     # no new jobs → stop paginating
+        prev = len(jobs)
+        _parse(s)
+        if len(jobs) == prev:
+            break
         time.sleep(1)
-
     log.info(f"{name}: {len(jobs)} jobs")
     return jobs
 
 
 # ──────────────────────────────────────────────────────────────────────────────
-# BANK OF AMERICA  (pre-filtered URL — Playwright)
+# BANK OF AMERICA  (pre-filtered — Playwright)
 # ──────────────────────────────────────────────────────────────────────────────
 
 def scrape_bofa():
@@ -706,13 +653,10 @@ def scrape_bofa():
             continue
         added.add(href)
         parent = a.find_parent(["li", "div", "tr", "article"])
-        loc    = ""
+        loc = ""
         if parent:
-            loc_m = re.search(
-                r"\b(AR|OK|MO|KS|Arkansas|Oklahoma|Missouri|Kansas|Remote"
-                r"|Little Rock|Tulsa|Kansas City|St\.? Louis)\b",
-                parent.get_text(), re.I)
-            loc = loc_m.group(0) if loc_m else ""
+            m = LOC_REGEX.search(parent.get_text())
+            loc = m.group(0) if m else ""
         if not is_valid_location(loc):
             continue
         full_url   = href if href.startswith("http") else "https://careers.bankofamerica.com" + href
@@ -725,93 +669,254 @@ def scrape_bofa():
 
 
 # ──────────────────────────────────────────────────────────────────────────────
-# WE WORK REMOTELY  (public HTML — requests, strict remote filter)
+# WALMART  (specific Bentonville search URLs — Playwright)
 # ──────────────────────────────────────────────────────────────────────────────
 
-def _is_good_remote_title(title: str) -> bool:
-    """Extra guard for remote boards — reject noise categories."""
-    t = title.lower()
-    for bad in REMOTE_EXCLUDE_KEYWORDS:
-        if bad.strip() in t:
-            return False
-    return True
+WALMART_SEARCHES = [
+    ("Walmart (Supply Chain)",
+     "https://careers.walmart.com/us/en/results?searchQuery=Bentonville&careerareas=Supply%20Chain%20and%20Transportation"),
+    ("Walmart (Corporate)",
+     "https://careers.walmart.com/us/en/results?searchQuery=Bentonville&careerareas=Corporate"),
+]
+
+def scrape_walmart_search():
+    all_jobs = []
+    for name, url in WALMART_SEARCHES:
+        jobs  = []
+        soup  = pw_get_soup(url, wait=7)
+        if not soup:
+            continue
+        added = set()
+        for a in soup.find_all("a", href=True):
+            href  = a["href"]
+            title = a.get_text(strip=True)
+            if not title or len(title) < 5 or href in added:
+                continue
+            if not any(x in href.lower() for x in ["/jobs/", "/job/", "careers.walmart"]):
+                continue
+            if any(x in title.lower() for x in ["view all", "see all", "learn more"]):
+                continue
+            added.add(href)
+            full_url   = href if href.startswith("http") else "https://careers.walmart.com" + href
+            ok, reason = is_relevant(title)
+            if ok:
+                jobs.append(make_job(name, title, full_url, "Walmart",
+                                     category="corporate", location="Bentonville, AR",
+                                     match_reason=reason))
+        log.info(f"{name}: {len(jobs)} jobs")
+        all_jobs.extend(jobs)
+        time.sleep(2)
+    return all_jobs
 
 
-def scrape_weworkremotely():
-    name = "We Work Remotely"
-    urls = [
-        "https://weworkremotely.com/categories/remote-customer-service-jobs",
-        "https://weworkremotely.com/categories/remote-management-and-finance-jobs",
-    ]
-    jobs  = []
+# ──────────────────────────────────────────────────────────────────────────────
+# COMMUNITY — GENERIC SCRAPERS
+# ──────────────────────────────────────────────────────────────────────────────
+
+def scrape_civicengage(name, url, location, category="community"):
+    """CivicPlus/CivicEngage city job pages — Playwright."""
+    jobs = []
+    soup = pw_get_soup(url, wait=5)
+    if not soup:
+        return jobs
     added = set()
-    for url in urls:
-        try:
-            r    = requests.get(url, headers=HEADERS, timeout=15)
-            soup = BeautifulSoup(r.text, "html.parser")
-            for a in soup.find_all("a", href=re.compile(r"/remote-jobs/")):
-                href  = a["href"]
-                title = a.get_text(strip=True)
-                if not title or len(title) < 5 or href in added:
-                    continue
-                if not _is_good_remote_title(title):
-                    continue
-                added.add(href)
-                full_url   = "https://weworkremotely.com" + href if href.startswith("/") else href
-                ok, reason = is_relevant(title)
-                if ok:
-                    jobs.append(make_job(name, title, full_url, "WWR",
-                                         category="remote", location="Remote",
-                                         match_reason=reason))
-        except Exception as e:
-            log.error(f"{name} ({url}): {e}")
-        time.sleep(1)
+    for a in soup.find_all("a", href=True):
+        href  = a["href"]
+        title = a.get_text(strip=True)
+        if not title or len(title) < 5 or href in added:
+            continue
+        if not any(x in href.lower() for x in ["job", "employment", "career",
+                                                 "position", "opportunity", "posting"]):
+            continue
+        if any(x in title.lower() for x in ["home", "about", "contact", "login",
+                                              "search", "department", "more info"]):
+            continue
+        added.add(href)
+        full_url   = href if href.startswith("http") else (url.rsplit("/", 1)[0] + "/" + href.lstrip("/"))
+        ok, reason = is_relevant(title)
+        if ok:
+            jobs.append(make_job(name, title, full_url, "CivicEngage",
+                                 category=category, location=location, match_reason=reason))
+    log.info(f"{name}: {len(jobs)} jobs")
+    return jobs
+
+
+def scrape_governmentjobs(name, city_slug, location, category="community"):
+    """GovernmentJobs.com (NEOGOV) city career pages — requests."""
+    url  = f"https://www.governmentjobs.com/careers/{city_slug}"
+    jobs = []
+    try:
+        r    = requests.get(url, headers=HEADERS, timeout=20)
+        soup = BeautifulSoup(r.text, "html.parser")
+        added = set()
+        for a in soup.find_all("a", href=re.compile(rf"/careers/{city_slug}/jobs/", re.I)):
+            href  = a["href"]
+            title = a.get_text(strip=True)
+            if not title or len(title) < 5 or href in added:
+                continue
+            added.add(href)
+            full_url   = href if href.startswith("http") else "https://www.governmentjobs.com" + href
+            ok, reason = is_relevant(title)
+            if ok:
+                jobs.append(make_job(name, title, full_url, "GovernmentJobs",
+                                     category=category, location=location, match_reason=reason))
+    except Exception as e:
+        log.error(f"{name}: {e}")
+    log.info(f"{name}: {len(jobs)} jobs")
+    return jobs
+
+
+def scrape_washington_county():
+    name = "Washington County AR"
+    url  = "https://www.washingtoncountyar.gov/government/departments-f-z/human-resources/job-postings"
+    jobs = []
+    try:
+        r    = requests.get(url, headers=HEADERS, timeout=20)
+        soup = BeautifulSoup(r.text, "html.parser")
+        content = soup.find("main") or soup.find(id=re.compile(r"content|main", re.I)) or soup
+        added = set()
+        for a in content.find_all("a", href=True):
+            href  = a["href"]
+            title = a.get_text(strip=True)
+            if not title or len(title) < 5 or href in added:
+                continue
+            if any(x in href for x in ["#", "mailto:", "tel:", "facebook", "twitter"]):
+                continue
+            added.add(href)
+            full_url   = href if href.startswith("http") else "https://www.washingtoncountyar.gov" + href
+            ok, reason = is_relevant(title)
+            if ok:
+                jobs.append(make_job(name, title, full_url, "HTML",
+                                     category="community", location="Fayetteville, AR",
+                                     match_reason=reason))
+    except Exception as e:
+        log.error(f"{name}: {e}")
+    log.info(f"{name}: {len(jobs)} jobs")
+    return jobs
+
+
+def scrape_springdale_library():
+    name = "Springdale Library"
+    url  = "https://springdalelibrary.org/employment/"
+    jobs = []
+    try:
+        r    = requests.get(url, headers=HEADERS, timeout=15)
+        soup = BeautifulSoup(r.text, "html.parser")
+        content = soup.find("main") or soup.find(class_=re.compile(r"content|entry|post", re.I)) or soup
+        if any(x in content.get_text().lower() for x in ["no open position", "no current"]):
+            log.info(f"{name}: no open positions")
+            return jobs
+        for a in content.find_all("a", href=True):
+            title = a.get_text(strip=True)
+            if not title or len(title) < 5:
+                continue
+            href = a["href"]
+            if any(x in href for x in ["#", "mailto:", "tel:", "/wp-"]):
+                continue
+            ok, reason = is_relevant(title)
+            if ok:
+                full_url = href if href.startswith("http") else "https://springdalelibrary.org" + href
+                jobs.append(make_job(name, title, full_url, "Library",
+                                     category="community", location="Springdale, AR",
+                                     match_reason=reason))
+    except Exception as e:
+        log.error(f"{name}: {e}")
+    log.info(f"{name}: {len(jobs)} jobs")
+    return jobs
+
+
+def scrape_jbu():
+    name = "JBU"
+    url  = "https://www.jbu.edu/human-resources/staff-job-listings/"
+    jobs = []
+    try:
+        r       = requests.get(url, headers=HEADERS, timeout=15)
+        soup    = BeautifulSoup(r.text, "html.parser")
+        content = soup.find("main") or soup.find(id=re.compile(r"content|main", re.I)) or soup
+        skip    = ["#", "mailto:", "facebook", "twitter", "linkedin", "instagram",
+                   "jbu.edu/about", "jbu.edu/admissions", "jbu.edu/student",
+                   "jbu.edu/academic", "catalog", "calendar", "news", "giving", "alumni"]
+        for a in content.find_all("a", href=True):
+            title = a.get_text(strip=True)
+            if not title or len(title) < 5:
+                continue
+            href = a["href"]
+            if any(x in href for x in skip):
+                continue
+            ok, reason = is_relevant(title)
+            if ok:
+                full_url = href if href.startswith("http") else "https://www.jbu.edu" + href
+                jobs.append(make_job(name, title, full_url, "JBU",
+                                     category="community", location="Siloam Springs, AR",
+                                     match_reason=reason))
+    except Exception as e:
+        log.error(f"{name}: {e}")
+    log.info(f"{name}: {len(jobs)} jobs")
+    return jobs
+
+
+def scrape_osu():
+    name = "Oklahoma State Univ."
+    url  = (
+        "https://jobs.okstate.edu/jobs/search/search-page-oklahoma-state"
+        "?page=1&employment_type_uids%5B%5D=6a459435837e4ce324d4b89779b2f709"
+        "&employment_type_uids%5B%5D=f13ab2a97d6eba001fa9336859e855a7"
+        "&employment_type_uids%5B%5D=264e3580c4d8bff0bdcc2de08fac0d76&query="
+    )
+    jobs = []
+    try:
+        r    = requests.get(url, headers=HEADERS, timeout=20)
+        soup = BeautifulSoup(r.text, "html.parser")
+        added = set()
+        for a in soup.find_all("a", href=re.compile(r"/jobs/\d+|/postings/\d+", re.I)):
+            href  = a["href"]
+            title = a.get_text(strip=True)
+            if not title or len(title) < 5 or href in added:
+                continue
+            added.add(href)
+            full_url   = href if href.startswith("http") else "https://jobs.okstate.edu" + href
+            ok, reason = is_relevant(title)
+            if ok:
+                jobs.append(make_job(name, title, full_url, "PeopleAdmin",
+                                     category="community", location="Stillwater, OK",
+                                     match_reason=reason))
+    except Exception as e:
+        log.error(f"{name}: {e}")
+    log.info(f"{name}: {len(jobs)} jobs")
+    return jobs
+
+
+def scrape_adp_nwa():
+    name = "ADP (NWA)"
+    url  = (
+        "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html"
+        "?cid=dd3989d6-a17f-4803-bdaa-54bf26faf499&ccId=19000101_000001&lang=en_US"
+    )
+    jobs = []
+    soup = pw_get_soup(url, wait=5)
+    if not soup:
+        return jobs
+    added = set()
+    for a in soup.find_all("a", href=True):
+        href  = a["href"]
+        title = a.get_text(strip=True)
+        if not title or len(title) < 5 or href in added:
+            continue
+        if not any(x in href for x in ["recruitment", "job", "posting", "req"]):
+            continue
+        added.add(href)
+        full_url   = href if href.startswith("http") else "https://workforcenow.adp.com" + href
+        ok, reason = is_relevant(title)
+        if ok:
+            jobs.append(make_job(name, title, full_url, "ADP",
+                                 category="community", location="NWA, AR",
+                                 match_reason=reason))
     log.info(f"{name}: {len(jobs)} jobs")
     return jobs
 
 
 # ──────────────────────────────────────────────────────────────────────────────
-# REMOTE.CO  (public HTML — requests, strict remote filter)
-# ──────────────────────────────────────────────────────────────────────────────
-
-def scrape_remoteco():
-    name = "Remote.co"
-    urls = [
-        "https://remote.co/remote-jobs/customer-service/",
-        "https://remote.co/remote-jobs/administrative/",
-    ]
-    jobs  = []
-    added = set()
-    for url in urls:
-        try:
-            r    = requests.get(url, headers=HEADERS, timeout=15)
-            soup = BeautifulSoup(r.text, "html.parser")
-            for a in soup.find_all("a", href=re.compile(r"/remote-jobs/")):
-                href  = a["href"]
-                title = a.get_text(strip=True)
-                if not title or len(title) < 5 or href in added:
-                    continue
-                # Skip category index links
-                if re.search(r"/remote-jobs/[^/]+/?$", href) and "/" not in href.split("/remote-jobs/")[1].rstrip("/"):
-                    continue
-                if not _is_good_remote_title(title):
-                    continue
-                added.add(href)
-                full_url   = "https://remote.co" + href if href.startswith("/") else href
-                ok, reason = is_relevant(title)
-                if ok:
-                    jobs.append(make_job(name, title, full_url, "Remote.co",
-                                         category="remote", location="Remote",
-                                         match_reason=reason))
-        except Exception as e:
-            log.error(f"{name} ({url}): {e}")
-        time.sleep(1)
-    log.info(f"{name}: {len(jobs)} jobs")
-    return jobs
-
-
-# ──────────────────────────────────────────────────────────────────────────────
-# NFDA CAREER CENTER  (funeral industry — requests)
+# FUNERAL
 # ──────────────────────────────────────────────────────────────────────────────
 
 def scrape_nfda():
@@ -831,12 +936,10 @@ def scrape_nfda():
                 continue
             added.add(href)
             parent = a.find_parent(["li", "div", "tr", "article"])
-            loc    = ""
+            loc = ""
             if parent:
-                loc_m = re.search(
-                    r"\b(AR|OK|MO|KS|Arkansas|Oklahoma|Missouri|Kansas|Remote|Online|Virtual)\b",
-                    parent.get_text(), re.I)
-                loc = loc_m.group(0) if loc_m else ""
+                m = LOC_REGEX.search(parent.get_text())
+                loc = m.group(0) if m else ""
             if not is_valid_location(loc):
                 continue
             full_url   = href if href.startswith("http") else "https://www.nfda.org" + href
@@ -849,10 +952,6 @@ def scrape_nfda():
     log.info(f"{name}: {len(jobs)} jobs")
     return jobs
 
-
-# ──────────────────────────────────────────────────────────────────────────────
-# CONNECTING DIRECTORS  (funeral industry — requests)
-# ──────────────────────────────────────────────────────────────────────────────
 
 def scrape_connecting_directors():
     name = "Connecting Directors"
@@ -871,12 +970,10 @@ def scrape_connecting_directors():
                 continue
             added.add(href)
             parent = a.find_parent(["li", "div", "tr", "article"])
-            loc    = ""
+            loc = ""
             if parent:
-                loc_m = re.search(
-                    r"\b(AR|OK|MO|KS|Arkansas|Oklahoma|Missouri|Kansas|Remote|Online|Virtual)\b",
-                    parent.get_text(), re.I)
-                loc = loc_m.group(0) if loc_m else ""
+                m = LOC_REGEX.search(parent.get_text())
+                loc = m.group(0) if m else ""
             if not is_valid_location(loc):
                 continue
             full_url   = href if href.startswith("http") else "https://www.connectingdirectors.com" + href
@@ -898,37 +995,61 @@ def scrape_all():
     all_jobs = []
 
     log.info("── Freight & Logistics ──")
-    all_jobs.extend(scrape_arcbest());          time.sleep(2)
+    all_jobs.extend(scrape_arcbest());           time.sleep(2)
     for s in WORKDAY_SOURCES:
         if s["category"] == "freight":
-            all_jobs.extend(scrape_workday(s)); time.sleep(1)
-    all_jobs.extend(scrape_tyson());            time.sleep(2)
-    all_jobs.extend(scrape_xpo());              time.sleep(2)
-    all_jobs.extend(scrape_echo());             time.sleep(2)
+            all_jobs.extend(scrape_workday(s));  time.sleep(1)
+    all_jobs.extend(scrape_tyson());             time.sleep(2)
+    all_jobs.extend(scrape_xpo());               time.sleep(2)
+    all_jobs.extend(scrape_echo());              time.sleep(2)
 
     log.info("── Banking ──")
-    all_jobs.extend(scrape_arvest());           time.sleep(2)
+    all_jobs.extend(scrape_arvest());            time.sleep(2)
     for s in WORKDAY_SOURCES:
         if s["category"] == "banking":
-            all_jobs.extend(scrape_workday(s)); time.sleep(1)
-    all_jobs.extend(scrape_first_national());   time.sleep(2)
-    all_jobs.extend(scrape_regions());          time.sleep(2)
-    all_jobs.extend(scrape_bofa());             time.sleep(2)
+            all_jobs.extend(scrape_workday(s));  time.sleep(1)
+    all_jobs.extend(scrape_first_national());    time.sleep(2)
+    all_jobs.extend(scrape_regions());           time.sleep(2)
+    all_jobs.extend(scrape_bofa());              time.sleep(2)
 
     log.info("── Corporate ──")
-    for s in WORKDAY_SOURCES:
-        if s["category"] == "corporate":
-            all_jobs.extend(scrape_workday(s)); time.sleep(1)
+    all_jobs.extend(scrape_walmart_search());    time.sleep(2)
 
-    log.info("── Remote ──")
-    all_jobs.extend(scrape_weworkremotely());   time.sleep(1)
-    all_jobs.extend(scrape_remoteco());         time.sleep(1)
+    log.info("── Community ──")
+    # CivicEngage city pages (Playwright)
+    all_jobs.extend(scrape_civicengage("Rogers (City)",     "https://www.rogersar.gov/Jobs.aspx",            "Rogers, AR"))
+    time.sleep(2)
+    all_jobs.extend(scrape_civicengage("Bentonville (City)","https://www.bentonvillear.com/1414/Employment-Opportunities", "Bentonville, AR"))
+    time.sleep(2)
+    all_jobs.extend(scrape_civicengage("Bella Vista (City)","https://recruiting.paylocity.com/recruiting/jobs/All/b1e8c19e-977f-41ec-89e7-a138ab6e72eb/City-of-Bella-Vista", "Bella Vista, AR"))
+    time.sleep(2)
+    all_jobs.extend(scrape_civicengage("Lowell (City)",     "https://www.lowellarkansas.gov/jobs",           "Lowell, AR"))
+    time.sleep(2)
+    all_jobs.extend(scrape_civicengage("City of Stillwater","https://stillwaterok.gov/Jobs.aspx",            "Stillwater, OK"))
+    time.sleep(2)
+    all_jobs.extend(scrape_civicengage("City of Ponca City","https://www.poncacityok.gov/Jobs.aspx",         "Ponca City, OK"))
+    time.sleep(2)
+    # GovernmentJobs pages (requests)
+    all_jobs.extend(scrape_governmentjobs("Fayetteville (City)", "fayettevillear", "Fayetteville, AR"))
+    time.sleep(1)
+    all_jobs.extend(scrape_governmentjobs("Springdale (City)",   "springdalear",   "Springdale, AR"))
+    time.sleep(1)
+    # Other community
+    all_jobs.extend(scrape_washington_county()); time.sleep(1)
+    all_jobs.extend(scrape_springdale_library()); time.sleep(1)
+    all_jobs.extend(scrape_jbu());               time.sleep(1)
+    all_jobs.extend(scrape_osu());               time.sleep(1)
+    all_jobs.extend(scrape_adp_nwa());           time.sleep(2)
+    # Workday community (UAF, NWACC)
+    for s in WORKDAY_SOURCES:
+        if s["category"] == "community":
+            all_jobs.extend(scrape_workday(s));  time.sleep(1)
 
     log.info("── Funeral / Death care ──")
-    all_jobs.extend(scrape_nfda());             time.sleep(2)
+    all_jobs.extend(scrape_nfda());              time.sleep(2)
     all_jobs.extend(scrape_connecting_directors()); time.sleep(2)
 
-    # Deduplicate by ID
+    # Deduplicate
     seen, unique = set(), []
     for j in all_jobs:
         if j["id"] not in seen:
@@ -949,11 +1070,10 @@ def find_new_jobs(old_data, new_jobs):
 # ──────────────────────────────────────────────────────────────────────────────
 
 def main():
-    log.info("── Job Tracker starting ──")
+    log.info("── Customer Support Tracker starting ──")
     old_data  = load_jobs()
     new_jobs  = scrape_all()
 
-    # Preserve first_seen dates for existing jobs
     existing = {j["id"]: j for j in old_data.get("jobs", [])}
     for j in new_jobs:
         if j["id"] in existing:
