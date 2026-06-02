@@ -1,18 +1,6 @@
 {
-  "last_updated": "2026-06-01T23:53",
+  "last_updated": "2026-06-02T00:29",
   "jobs": [
-    {
-      "id": "a45ce72c4c98",
-      "title": "Manager, Truckload Account Development - ENT",
-      "district": "ArcBest",
-      "location": "Fort Smith, AR",
-      "url": "https://careers.arcb.com/careersmarketplace/JobDetail/Fayetteville-Arkansas-United-States-Manager-Truckload-Account-Development-ENT/28673",
-      "platform": "CareersMarketplace",
-      "category": "freight",
-      "match_reason": "truckload",
-      "posted_date": "",
-      "first_seen": "2026-06-01"
-    },
     {
       "id": "3b36fd2a9271",
       "title": "Customer Experience Support",
@@ -50,102 +38,6 @@
       "first_seen": "2026-05-29"
     },
     {
-      "id": "126d7ee4bbf5",
-      "title": "Supervisor, Freight Operations",
-      "district": "XPO",
-      "location": "",
-      "url": "https://jobs.xpo.com/job/Maspeth-Supervisor%2C-Freight-Operations-NY-11378/1370911300/",
-      "platform": "XPO",
-      "category": "freight",
-      "match_reason": "freight operations",
-      "posted_date": "",
-      "first_seen": "2026-06-01"
-    },
-    {
-      "id": "49fcde68e348",
-      "title": "Supervisor, Freight Operations",
-      "district": "XPO",
-      "location": "",
-      "url": "https://jobs.xpo.com/job/Kernersville-Supervisor%2C-Freight-Operations-NC-27284/1385381200/",
-      "platform": "XPO",
-      "category": "freight",
-      "match_reason": "freight operations",
-      "posted_date": "",
-      "first_seen": "2026-06-01"
-    },
-    {
-      "id": "95bcce694644",
-      "title": "Production Technician Associate - 1st Shift",
-      "district": "XPO",
-      "location": "",
-      "url": "https://jobs.xpo.com/job/Searcy-Production-Technician-Associate-1st-Shift-AR-72143/1395477400/",
-      "platform": "XPO",
-      "category": "freight",
-      "match_reason": "associate",
-      "posted_date": "",
-      "first_seen": "2026-06-01"
-    },
-    {
-      "id": "f311b89c9409",
-      "title": "Supervisor, Freight Operations",
-      "district": "XPO",
-      "location": "",
-      "url": "https://jobs.xpo.com/job/Mesa-Supervisor%2C-Freight-Operations-AZ-85202/1395440600/",
-      "platform": "XPO",
-      "category": "freight",
-      "match_reason": "freight operations",
-      "posted_date": "",
-      "first_seen": "2026-06-01"
-    },
-    {
-      "id": "afab52ab251d",
-      "title": "Customer Service Representative (Full-Time)",
-      "district": "XPO",
-      "location": "",
-      "url": "https://jobs.xpo.com/job/Carlisle-Customer-Service-Representative-%28Full-Time%29-PA-17015/1395528100/",
-      "platform": "XPO",
-      "category": "freight",
-      "match_reason": "customer service",
-      "posted_date": "",
-      "first_seen": "2026-06-01"
-    },
-    {
-      "id": "7528f6bdccec",
-      "title": "Supervisor, Freight Operations",
-      "district": "XPO",
-      "location": "",
-      "url": "https://jobs.xpo.com/job/Louisville-Supervisor%2C-Freight-Operations-KY-40219/1395603300/",
-      "platform": "XPO",
-      "category": "freight",
-      "match_reason": "freight operations",
-      "posted_date": "",
-      "first_seen": "2026-06-01"
-    },
-    {
-      "id": "022d818b2d2d",
-      "title": "Supervisor, Freight Operations",
-      "district": "XPO",
-      "location": "",
-      "url": "https://jobs.xpo.com/job/Kansas-City-Supervisor%2C-Freight-Operations-KS-66115/1395672000/",
-      "platform": "XPO",
-      "category": "freight",
-      "match_reason": "freight operations",
-      "posted_date": "",
-      "first_seen": "2026-06-01"
-    },
-    {
-      "id": "59b93bae16e7",
-      "title": "Supervisor, Freight Operations",
-      "district": "XPO",
-      "location": "",
-      "url": "https://jobs.xpo.com/job/Columbus-Supervisor%2C-Freight-Operations-OH-43228/1395685400/",
-      "platform": "XPO",
-      "category": "freight",
-      "match_reason": "freight operations",
-      "posted_date": "",
-      "first_seen": "2026-06-01"
-    },
-    {
       "id": "69379a3b3b92",
       "title": "Teller - 17711",
       "district": "Arvest Bank",
@@ -180,114 +72,6 @@
       "match_reason": "teller",
       "posted_date": "",
       "first_seen": "2026-06-01"
-    },
-    {
-      "id": "5b68d700f2d9",
-      "title": "Contact Center/Operations",
-      "district": "Regions Bank",
-      "location": "",
-      "url": "https://careers.regions.com/us/en/explore-contact-center-and-operations",
-      "platform": "Regions",
-      "category": "banking",
-      "match_reason": "contact center",
-      "posted_date": "",
-      "first_seen": "2026-05-06"
-    },
-    {
-      "id": "5c4f7c5cc090",
-      "title": "Client Services Representative II",
-      "district": "Bank of America",
-      "location": "",
-      "url": "https://careers.bankofamerica.com/en-us/job-detail/26018873/client-services-representative-ii-las-vegas-nevada-united-states",
-      "platform": "BofA",
-      "category": "banking",
-      "match_reason": "client services",
-      "posted_date": "",
-      "first_seen": "2026-06-01"
-    },
-    {
-      "id": "ea7f3478e4fb",
-      "title": "Consumer Investments - Investment Specialist Trainee (Obtain SIE Series 7 66)",
-      "district": "Bank of America",
-      "location": "",
-      "url": "https://careers.bankofamerica.com/en-us/job-detail/26013120/consumer-investments-investment-specialist-trainee-obtain-sie-series-7-66-pennington-new-jersey-united-states",
-      "platform": "BofA",
-      "category": "banking",
-      "match_reason": "trainee",
-      "posted_date": "",
-      "first_seen": "2026-06-01"
-    },
-    {
-      "id": "13ff4196feac",
-      "title": "Consumer Investments Money Movement Service Representative - Jacksonville, FL",
-      "district": "Bank of America",
-      "location": "",
-      "url": "https://careers.bankofamerica.com/en-us/job-detail/26013584/consumer-investments-money-movement-service-representative-jacksonville-fl-jacksonville-florida-united-states",
-      "platform": "BofA",
-      "category": "banking",
-      "match_reason": "service representative",
-      "posted_date": "",
-      "first_seen": "2026-06-01"
-    },
-    {
-      "id": "886960d39623",
-      "title": "ACS- Bilingual Spanish Call Center Telephone Banker- Jacksonville, FL",
-      "district": "Bank of America",
-      "location": "",
-      "url": "https://careers.bankofamerica.com/en-us/job-detail/26015661/acs-bilingual-spanish-call-center-telephone-banker-jacksonville-fl-jacksonville-florida-united-states",
-      "platform": "BofA",
-      "category": "banking",
-      "match_reason": "call center",
-      "posted_date": "",
-      "first_seen": "2026-05-30"
-    },
-    {
-      "id": "46bc61e1928e",
-      "title": "Administrative Assistant, Global Corporate & Investment Banking (GCIB)",
-      "district": "Bank of America",
-      "location": "",
-      "url": "https://careers.bankofamerica.com/en-us/job-detail/26013723/administrative-assistant-global-corporate-investment-banking-gcib-new-york-new-york-united-states",
-      "platform": "BofA",
-      "category": "banking",
-      "match_reason": "administrative assistant",
-      "posted_date": "",
-      "first_seen": "2026-05-30"
-    },
-    {
-      "id": "5a4d3e62bbf6",
-      "title": "Markets Support Specialist",
-      "district": "Bank of America",
-      "location": "",
-      "url": "https://careers.bankofamerica.com/en-us/job-detail/26016954/markets-support-specialist-charlotte-north-carolina-united-states",
-      "platform": "BofA",
-      "category": "banking",
-      "match_reason": "support specialist",
-      "posted_date": "",
-      "first_seen": "2026-05-30"
-    },
-    {
-      "id": "48216034c230",
-      "title": "Consumer Investments - Investment Specialist Trainee (Obtain SIE Series 7 & 66)",
-      "district": "Bank of America",
-      "location": "",
-      "url": "https://careers.bankofamerica.com/en-us/job-detail/26012660/consumer-investments-investment-specialist-trainee-obtain-sie-series-7-66-lincoln-rhode-island-united-states",
-      "platform": "BofA",
-      "category": "banking",
-      "match_reason": "trainee",
-      "posted_date": "",
-      "first_seen": "2026-05-30"
-    },
-    {
-      "id": "437117ea9fa8",
-      "title": "Life Services Financial Services Representative",
-      "district": "Bank of America",
-      "location": "",
-      "url": "https://careers.bankofamerica.com/en-us/job-detail/26017268/life-services-financial-services-representative-pennington-new-jersey-united-states",
-      "platform": "BofA",
-      "category": "banking",
-      "match_reason": "financial services",
-      "posted_date": "",
-      "first_seen": "2026-05-30"
     },
     {
       "id": "5664e5ba8638",
@@ -374,30 +158,6 @@
       "first_seen": "2026-06-01"
     },
     {
-      "id": "690d61cbe9a4",
-      "title": "Dispatch 911 Operator",
-      "district": "Bella Vista (City)",
-      "location": "Bella Vista, AR",
-      "url": "https://recruiting.paylocity.com/recruiting/jobs/All/b1e8c19e-977f-41ec-89e7-a138ab6e72eb/Recruiting/Jobs/Details/4189967",
-      "platform": "CivicEngage",
-      "category": "community",
-      "match_reason": "dispatch",
-      "posted_date": "",
-      "first_seen": "2026-06-01"
-    },
-    {
-      "id": "364b047d80a1",
-      "title": "64-26 Associate Planner",
-      "district": "City of Stillwater",
-      "location": "Stillwater, OK",
-      "url": "https://stillwaterok.gov/Jobs.aspx?UniqueId=120&From=All&CommunityJobs=False&JobID=6426-Associate-Planner-374",
-      "platform": "CivicEngage",
-      "category": "community",
-      "match_reason": "associate",
-      "posted_date": "",
-      "first_seen": "2026-06-01"
-    },
-    {
       "id": "f48fb83364f0",
       "title": "SENIOR ACCOUNTING CLERK - FINANCE",
       "district": "City of Ponca City",
@@ -467,30 +227,6 @@
       "category": "community",
       "match_reason": "office support",
       "posted_date": "Posted 6 Days Ago",
-      "first_seen": "2026-06-01"
-    },
-    {
-      "id": "47c5649324e5",
-      "title": "Associate Dean for the School of Science and Math",
-      "district": "NWACC",
-      "location": "Benton County Campus, Arkansas",
-      "url": "https://nwacc.wd1.myworkdayjobs.com/en-US/NWACC_External_Career_Site/job/Benton-County-Campus-Arkansas/Associate-Dean-for-the-School-of-Science-and-Math_JR-1157",
-      "platform": "Workday",
-      "category": "community",
-      "match_reason": "associate",
-      "posted_date": "Posted 30+ Days Ago",
-      "first_seen": "2026-06-01"
-    },
-    {
-      "id": "7a776d1fb383",
-      "title": "Associate Dean for the School of Communication and Art",
-      "district": "NWACC",
-      "location": "Benton County Campus, Arkansas",
-      "url": "https://nwacc.wd1.myworkdayjobs.com/en-US/NWACC_External_Career_Site/job/Benton-County-Campus-Arkansas/Associate-Dean-for-the-School-of-Communication-and-Art_JR-1156",
-      "platform": "Workday",
-      "category": "community",
-      "match_reason": "associate",
-      "posted_date": "Posted 30+ Days Ago",
       "first_seen": "2026-06-01"
     },
     {
