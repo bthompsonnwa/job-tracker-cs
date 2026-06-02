@@ -81,7 +81,7 @@ INCLUDE_KEYWORDS = [
     "receptionist", "front desk", "office support", "office clerk",
     "file clerk", "records clerk", "document specialist",
     # Entry-level / General
-    "entry level", "entry-level", "associate", "trainee", "clerk",
+    "entry level", "entry-level", "trainee", "clerk",
     "support representative", "service representative",
     # Freight / Logistics
     "logistics coordinator", "logistics specialist", "logistics analyst",
@@ -131,6 +131,10 @@ HARD_EXCLUDE_KEYWORDS = [
     "regional manager", "district manager", "general manager",
     "senior manager", "store manager", "marketing manager",
     "product manager", "people manager", "hiring manager",
+    "supervisor",           # too senior for entry-level tracker
+    "account development",  # sales/business dev management
+    "dean",                 # academic administration
+    " 911",                 # emergency dispatch, not logistics
     "professor", "faculty", "instructor", "teacher",
     "request a quote", "get a quote", "truck load quote",
     "full truckload", "less than truckload", "learn more",
@@ -436,7 +440,7 @@ def scrape_xpo():
             return jobs
     except Exception as e:
         log.warning(f"{name} API: {e}")
-    soup = pw_get_soup("https://jobs.xpo.com/search/", wait=5)
+    soup = pw_get_soup("https://jobs.xpo.com/search/?searchby=distance&createNewAlert=false&q=&geolocation=72701+-+United+States&d=75&lat=36.052&lon=-94.1534", wait=5)
     if not soup:
         return jobs
     added = set()
@@ -515,8 +519,8 @@ def scrape_arvest():
     url  = (
         "https://css-arvest-prd.inforcloudsuite.com/hcm/Jobs/form/"
         "JobBoard%28ARV,EXTERNAL%29.JobSearchCompositeForm"
-        "?navigation=JobBoard%28ARV,EXTERNAL%29.JobSearchCompositeFormNav"
-        "&csk.JobBoard=EXTERNAL&csk.showusingxi=true&csk.HROrganization=ARV"
+        "?csk.JobBoard=EXTERNAL&csk.HROrganization=ARV"
+        "&menu=JobsNavigationMenu.NewJobSearch"
     )
     jobs = []
     soup = pw_get_soup(url, wait=6)
@@ -636,8 +640,11 @@ def scrape_bofa():
     name = "Bank of America"
     url  = (
         "https://careers.bankofamerica.com/en-us/job-search"
-        "?ref=search&start=0&rows=25&search=getAllJobs"
-        "&filters=area%3DAdministration%2Carea%3DCustomer+Service%2Carea%3DOperations+%26+Support"
+        "?ref=search&search=jobsByLocation&start=0&rows=25"
+        "&searchstring=Fayetteville%2C+AR"
+        "&searchstring=Bentonville%2C+AR"
+        "&searchstring=Springdale%2C+AR"
+        "&searchstring=Rogers%2C+AR"
     )
     jobs = []
     soup = pw_get_soup(url, wait=6)
