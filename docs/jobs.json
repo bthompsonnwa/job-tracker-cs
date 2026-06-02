@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-06-02T00:29",
+  "last_updated": "2026-06-02T22:11",
   "jobs": [
+    {
+      "id": "ca3f8bb482ff",
+      "title": "Customer Experience Account Manager",
+      "district": "J.B. Hunt",
+      "location": "Lowell, AR - JB Hunt Corporate A & Marketing",
+      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-A--Marketing/Customer-Experience-Account-Manager_00623047",
+      "platform": "Workday",
+      "category": "freight",
+      "match_reason": "customer experience",
+      "posted_date": "Posted Today",
+      "first_seen": "2026-06-02"
+    },
     {
       "id": "3b36fd2a9271",
       "title": "Customer Experience Support",
@@ -10,7 +22,7 @@
       "platform": "Workday",
       "category": "freight",
       "match_reason": "customer experience",
-      "posted_date": "Posted Today",
+      "posted_date": "Posted Yesterday",
       "first_seen": "2026-05-28"
     },
     {
@@ -22,20 +34,20 @@
       "platform": "Workday",
       "category": "freight",
       "match_reason": "customer experience",
-      "posted_date": "Posted Yesterday",
+      "posted_date": "Posted 2 Days Ago",
       "first_seen": "2026-06-01"
     },
     {
-      "id": "db9f070ae5c0",
-      "title": "Administrative Assistant",
-      "district": "J.B. Hunt",
-      "location": "Lowell, AR - JB Hunt Corporate A & Marketing",
-      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-A--Marketing/Administrative-Assistant_00627796",
-      "platform": "Workday",
-      "category": "freight",
-      "match_reason": "administrative assistant",
-      "posted_date": "Posted 3 Days Ago",
-      "first_seen": "2026-05-29"
+      "id": "df9596f01560",
+      "title": "Teller - 17695",
+      "district": "Arvest Bank",
+      "location": "",
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C17695%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "platform": "Infor",
+      "category": "banking",
+      "match_reason": "teller",
+      "posted_date": "",
+      "first_seen": "2026-06-02"
     },
     {
       "id": "69379a3b3b92",
@@ -62,16 +74,16 @@
       "first_seen": "2026-06-01"
     },
     {
-      "id": "2ac95f452584",
-      "title": "Teller - 17696",
-      "district": "Arvest Bank",
+      "id": "5b68d700f2d9",
+      "title": "Contact Center/Operations",
+      "district": "Regions Bank",
       "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C17696%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
-      "platform": "Infor",
+      "url": "https://careers.regions.com/us/en/explore-contact-center-and-operations",
+      "platform": "Regions",
       "category": "banking",
-      "match_reason": "teller",
+      "match_reason": "contact center",
       "posted_date": "",
-      "first_seen": "2026-06-01"
+      "first_seen": "2026-06-02"
     },
     {
       "id": "5664e5ba8638",
@@ -96,6 +108,18 @@
       "match_reason": "clerk",
       "posted_date": "",
       "first_seen": "2026-06-01"
+    },
+    {
+      "id": "d9592573046c",
+      "title": "Part Time Library Clerk II (Adult & Circulation Services) W/Th/Sa",
+      "district": "Bentonville (City)",
+      "location": "Bentonville, AR",
+      "url": "https://www.bentonvillear.com/1414/bentonvillear.bamboohr.com/careers/1239",
+      "platform": "CivicEngage",
+      "category": "community",
+      "match_reason": "clerk",
+      "posted_date": "",
+      "first_seen": "2026-06-02"
     },
     {
       "id": "dad1826de2c4",
@@ -144,6 +168,18 @@
       "match_reason": "compliance specialist",
       "posted_date": "",
       "first_seen": "2026-06-01"
+    },
+    {
+      "id": "9f0f18d5e722",
+      "title": "Purchasing & Compliance Specialist III",
+      "district": "Bentonville (City)",
+      "location": "Bentonville, AR",
+      "url": "https://www.bentonvillear.com/1414/bentonvillear.bamboohr.com/careers/1238",
+      "platform": "CivicEngage",
+      "category": "community",
+      "match_reason": "compliance specialist",
+      "posted_date": "",
+      "first_seen": "2026-06-02"
     },
     {
       "id": "0fc4aeb003a0",
@@ -206,6 +242,18 @@
       "first_seen": "2026-06-01"
     },
     {
+      "id": "754fe9775d64",
+      "title": "Honor Scholars Program Administrative Assistant",
+      "district": "JBU",
+      "location": "Siloam Springs, AR",
+      "url": "https://www.jbu.edu/human-resources/staff-job-listings/hsp-admin-assistant?hsLang=en",
+      "platform": "JBU",
+      "category": "community",
+      "match_reason": "administrative assistant",
+      "posted_date": "",
+      "first_seen": "2026-06-02"
+    },
+    {
       "id": "bf2366bbde7e",
       "title": "Front Desk Assistant",
       "district": "UAF",
@@ -214,19 +262,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "front desk",
-      "posted_date": "Posted Today",
-      "first_seen": "2026-06-01"
-    },
-    {
-      "id": "c70a9fdcc679",
-      "title": "Office Support Specialist",
-      "district": "UAF",
-      "location": "Fayetteville, AR",
-      "url": "https://uasys.wd5.myworkdayjobs.com/en-US/UAF_External_Career_Site/job/Fayetteville-AR/Office-Support-Specialist_R0086148",
-      "platform": "Workday",
-      "category": "community",
-      "match_reason": "office support",
-      "posted_date": "Posted 6 Days Ago",
+      "posted_date": "Posted Yesterday",
       "first_seen": "2026-06-01"
     },
     {
