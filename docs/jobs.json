@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-03T22:17",
+  "last_updated": "2026-06-04T15:29",
   "jobs": [
     {
       "id": "ca3f8bb482ff",
@@ -10,20 +10,8 @@
       "platform": "Workday",
       "category": "freight",
       "match_reason": "customer experience",
-      "posted_date": "Posted Yesterday",
-      "first_seen": "2026-06-02"
-    },
-    {
-      "id": "3b36fd2a9271",
-      "title": "Customer Experience Support",
-      "district": "J.B. Hunt",
-      "location": "Lowell, AR - JB Hunt Corporate A & Marketing",
-      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-A--Marketing/Customer-Experience-Support_00619314-1",
-      "platform": "Workday",
-      "category": "freight",
-      "match_reason": "customer experience",
       "posted_date": "Posted 2 Days Ago",
-      "first_seen": "2026-05-28"
+      "first_seen": "2026-06-02"
     },
     {
       "id": "677bddc78c6e",
@@ -146,18 +134,6 @@
       "first_seen": "2026-06-01"
     },
     {
-      "id": "9f0f18d5e722",
-      "title": "Purchasing & Compliance Specialist III",
-      "district": "Bentonville (City)",
-      "location": "Bentonville, AR",
-      "url": "https://www.bentonvillear.com/1414/bentonvillear.bamboohr.com/careers/1238",
-      "platform": "CivicEngage",
-      "category": "community",
-      "match_reason": "compliance specialist",
-      "posted_date": "",
-      "first_seen": "2026-06-02"
-    },
-    {
       "id": "0fc4aeb003a0",
       "title": "(1) Customer Service Rep I",
       "district": "Bentonville (City)",
@@ -238,7 +214,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "front desk",
-      "posted_date": "Posted 2 Days Ago",
+      "posted_date": "Posted 3 Days Ago",
       "first_seen": "2026-06-01"
     },
     {
@@ -250,7 +226,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "office support",
-      "posted_date": "Posted 8 Days Ago",
+      "posted_date": "Posted 9 Days Ago",
       "first_seen": "2026-06-03"
     },
     {
