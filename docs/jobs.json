@@ -1,41 +1,41 @@
 {
-  "last_updated": "2026-06-04T15:29",
+  "last_updated": "2026-06-05T15:17",
   "jobs": [
     {
-      "id": "ca3f8bb482ff",
-      "title": "Customer Experience Account Manager",
-      "district": "J.B. Hunt",
-      "location": "Lowell, AR - JB Hunt Corporate A & Marketing",
-      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-A--Marketing/Customer-Experience-Account-Manager_00623047",
-      "platform": "Workday",
-      "category": "freight",
-      "match_reason": "customer experience",
-      "posted_date": "Posted 2 Days Ago",
-      "first_seen": "2026-06-02"
-    },
-    {
-      "id": "677bddc78c6e",
-      "title": "Teller - 17721",
+      "id": "002e3fabfa36",
+      "title": "Teller - 17736",
       "district": "Arvest Bank",
       "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C17721%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C17736%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
       "platform": "Infor",
       "category": "banking",
       "match_reason": "teller",
       "posted_date": "",
-      "first_seen": "2026-06-03"
+      "first_seen": "2026-06-05"
     },
     {
-      "id": "2d4f334d073c",
-      "title": "Administrative Assistant 2 - 17717",
+      "id": "3bef5d0e4db2",
+      "title": "Teller - 17732",
       "district": "Arvest Bank",
       "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C17717%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C17732%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
       "platform": "Infor",
       "category": "banking",
-      "match_reason": "administrative assistant",
+      "match_reason": "teller",
       "posted_date": "",
-      "first_seen": "2026-06-03"
+      "first_seen": "2026-06-05"
+    },
+    {
+      "id": "139aebad1818",
+      "title": "Teller",
+      "district": "First National Bank",
+      "location": "Fort Smith, AR",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3630177",
+      "platform": "Paylocity",
+      "category": "banking",
+      "match_reason": "teller",
+      "posted_date": "",
+      "first_seen": "2026-06-05"
     },
     {
       "id": "5b68d700f2d9",
@@ -182,18 +182,6 @@
       "first_seen": "2026-06-01"
     },
     {
-      "id": "744447447163",
-      "title": "Administrative Assistant for Music & Theatre",
-      "district": "JBU",
-      "location": "Siloam Springs, AR",
-      "url": "https://www.jbu.edu/human-resources/staff-job-listings/admin-assistant-jbumt?hsLang=en",
-      "platform": "JBU",
-      "category": "community",
-      "match_reason": "administrative assistant",
-      "posted_date": "",
-      "first_seen": "2026-06-01"
-    },
-    {
       "id": "754fe9775d64",
       "title": "Honor Scholars Program Administrative Assistant",
       "district": "JBU",
@@ -214,20 +202,20 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "front desk",
-      "posted_date": "Posted 3 Days Ago",
+      "posted_date": "Posted 4 Days Ago",
       "first_seen": "2026-06-01"
     },
     {
-      "id": "c70a9fdcc679",
-      "title": "Office Support Specialist",
-      "district": "UAF",
-      "location": "Fayetteville, AR",
-      "url": "https://uasys.wd5.myworkdayjobs.com/en-US/UAF_External_Career_Site/job/Fayetteville-AR/Office-Support-Specialist_R0086148",
+      "id": "8a9add1be16a",
+      "title": "Fiscal Support Specialist",
+      "district": "NWACC",
+      "location": "Benton County Campus, Arkansas",
+      "url": "https://nwacc.wd1.myworkdayjobs.com/en-US/NWACC_External_Career_Site/job/Benton-County-Campus-Arkansas/Fiscal-Support-Specialist_JR-1204",
       "platform": "Workday",
       "category": "community",
-      "match_reason": "office support",
-      "posted_date": "Posted 9 Days Ago",
-      "first_seen": "2026-06-03"
+      "match_reason": "support specialist",
+      "posted_date": "Posted Yesterday",
+      "first_seen": "2026-06-05"
     },
     {
       "id": "67f0d7cfcac8",
