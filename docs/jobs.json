@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-06-07T14:06",
+  "last_updated": "2026-06-08T16:04",
   "jobs": [
+    {
+      "id": "bef60b3ff9c7",
+      "title": "Customer Experience Support",
+      "district": "J.B. Hunt",
+      "location": "Lowell, AR - JB Hunt Corporate B & C",
+      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-B--C/Customer-Experience-Support_00629232",
+      "platform": "Workday",
+      "category": "freight",
+      "match_reason": "customer experience",
+      "posted_date": "Posted Today",
+      "first_seen": "2026-06-08"
+    },
     {
       "id": "002e3fabfa36",
       "title": "Teller - 17736",
@@ -62,8 +74,8 @@
       "first_seen": "2026-06-01"
     },
     {
-      "id": "7e2f1e121571",
-      "title": "(1) Deputy Court Clerk I",
+      "id": "42a0e5b98250",
+      "title": "(2) Deputy Court Clerk I",
       "district": "Bentonville (City)",
       "location": "Bentonville, AR",
       "url": "https://www.bentonvillear.com/1414/bentonvillear.bamboohr.com/careers/1235",
@@ -71,7 +83,7 @@
       "category": "community",
       "match_reason": "clerk",
       "posted_date": "",
-      "first_seen": "2026-06-01"
+      "first_seen": "2026-06-08"
     },
     {
       "id": "d9592573046c",
@@ -194,6 +206,18 @@
       "first_seen": "2026-06-02"
     },
     {
+      "id": "f8b9af95106e",
+      "title": "Shipping and Receiving Clerk",
+      "district": "UAF",
+      "location": "Fayetteville, AR",
+      "url": "https://uasys.wd5.myworkdayjobs.com/en-US/UAF_External_Career_Site/job/Fayetteville-AR/Shipping-and-Receiving-Clerk_R0086410",
+      "platform": "Workday",
+      "category": "community",
+      "match_reason": "clerk",
+      "posted_date": "Posted Today",
+      "first_seen": "2026-06-08"
+    },
+    {
       "id": "bf2366bbde7e",
       "title": "Front Desk Assistant",
       "district": "UAF",
@@ -202,7 +226,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "front desk",
-      "posted_date": "Posted 6 Days Ago",
+      "posted_date": "Posted 7 Days Ago",
       "first_seen": "2026-06-01"
     },
     {
@@ -214,7 +238,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "support specialist",
-      "posted_date": "Posted 3 Days Ago",
+      "posted_date": "Posted 4 Days Ago",
       "first_seen": "2026-06-05"
     },
     {
