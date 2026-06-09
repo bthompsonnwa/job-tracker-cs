@@ -1,6 +1,54 @@
 {
-  "last_updated": "2026-06-08T16:04",
+  "last_updated": "2026-06-09T15:16",
   "jobs": [
+    {
+      "id": "97bf6616af1b",
+      "title": "Logistics Engineer, Rail Carrier Relations",
+      "district": "J.B. Hunt",
+      "location": "Lowell, AR - JB Hunt Corporate B & C",
+      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-B--C/Logistics-Engineer--Rail-Carrier-Relations_00628395",
+      "platform": "Workday",
+      "category": "freight",
+      "match_reason": "carrier relations",
+      "posted_date": "Posted Today",
+      "first_seen": "2026-06-09"
+    },
+    {
+      "id": "6a5c54331dfe",
+      "title": "Part-time Dispatcher",
+      "district": "J.B. Hunt",
+      "location": "Lowell, AR - JB Hunt Corporate A & Marketing",
+      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-A--Marketing/Part-time-Dispatcher_00623660",
+      "platform": "Workday",
+      "category": "freight",
+      "match_reason": "dispatch",
+      "posted_date": "Posted Today",
+      "first_seen": "2026-06-09"
+    },
+    {
+      "id": "08e7bd049d81",
+      "title": "Customer Experience Representative - ICS",
+      "district": "J.B. Hunt",
+      "location": "Lowell, AR - JB Hunt Corporate B & C",
+      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-B--C/Customer-Experience-Representative---ICS_00629879",
+      "platform": "Workday",
+      "category": "freight",
+      "match_reason": "customer experience",
+      "posted_date": "Posted Today",
+      "first_seen": "2026-06-09"
+    },
+    {
+      "id": "5961bdd37212",
+      "title": "Nights Customer Experience Representative - ICS",
+      "district": "J.B. Hunt",
+      "location": "Lowell, AR - JB Hunt Corporate B & C",
+      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-B--C/Nights-Customer-Experience-Representative---ICS_00629759",
+      "platform": "Workday",
+      "category": "freight",
+      "match_reason": "customer experience",
+      "posted_date": "Posted Yesterday",
+      "first_seen": "2026-06-09"
+    },
     {
       "id": "bef60b3ff9c7",
       "title": "Customer Experience Support",
@@ -10,32 +58,32 @@
       "platform": "Workday",
       "category": "freight",
       "match_reason": "customer experience",
-      "posted_date": "Posted Today",
+      "posted_date": "Posted Yesterday",
       "first_seen": "2026-06-08"
     },
     {
-      "id": "002e3fabfa36",
-      "title": "Teller - 17736",
+      "id": "ba96abb7a7f7",
+      "title": "Teller (Floater) - 17743",
       "district": "Arvest Bank",
       "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C17736%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C17743%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
       "platform": "Infor",
       "category": "banking",
       "match_reason": "teller",
       "posted_date": "",
-      "first_seen": "2026-06-05"
+      "first_seen": "2026-06-09"
     },
     {
-      "id": "3bef5d0e4db2",
-      "title": "Teller - 17732",
-      "district": "Arvest Bank",
-      "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C17732%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
-      "platform": "Infor",
+      "id": "323b720f35b2",
+      "title": "CONTACT CENTER AGENT",
+      "district": "First National Bank",
+      "location": "Fort Smith, AR",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4194017",
+      "platform": "Paylocity",
       "category": "banking",
-      "match_reason": "teller",
+      "match_reason": "contact center",
       "posted_date": "",
-      "first_seen": "2026-06-05"
+      "first_seen": "2026-06-09"
     },
     {
       "id": "139aebad1818",
@@ -214,7 +262,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "clerk",
-      "posted_date": "Posted Today",
+      "posted_date": "Posted Yesterday",
       "first_seen": "2026-06-08"
     },
     {
@@ -226,7 +274,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "front desk",
-      "posted_date": "Posted 7 Days Ago",
+      "posted_date": "Posted 8 Days Ago",
       "first_seen": "2026-06-01"
     },
     {
@@ -238,7 +286,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "support specialist",
-      "posted_date": "Posted 4 Days Ago",
+      "posted_date": "Posted 5 Days Ago",
       "first_seen": "2026-06-05"
     },
     {
