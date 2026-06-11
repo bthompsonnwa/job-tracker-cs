@@ -1,65 +1,65 @@
 {
-  "last_updated": "2026-06-10T15:49",
+  "last_updated": "2026-06-11T16:14",
   "jobs": [
     {
-      "id": "97bf6616af1b",
-      "title": "Logistics Engineer, Rail Carrier Relations",
-      "district": "J.B. Hunt",
-      "location": "Lowell, AR - JB Hunt Corporate B & C",
-      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-B--C/Logistics-Engineer--Rail-Carrier-Relations_00628395",
-      "platform": "Workday",
-      "category": "freight",
-      "match_reason": "carrier relations",
-      "posted_date": "Posted Yesterday",
-      "first_seen": "2026-06-09"
-    },
-    {
-      "id": "6a5c54331dfe",
-      "title": "Part-time Dispatcher",
-      "district": "J.B. Hunt",
-      "location": "Lowell, AR - JB Hunt Corporate A & Marketing",
-      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-A--Marketing/Part-time-Dispatcher_00623660",
-      "platform": "Workday",
-      "category": "freight",
-      "match_reason": "dispatch",
-      "posted_date": "Posted Yesterday",
-      "first_seen": "2026-06-09"
-    },
-    {
-      "id": "08e7bd049d81",
-      "title": "Customer Experience Representative - ICS",
-      "district": "J.B. Hunt",
-      "location": "Lowell, AR - JB Hunt Corporate B & C",
-      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-B--C/Customer-Experience-Representative---ICS_00629879",
-      "platform": "Workday",
-      "category": "freight",
-      "match_reason": "customer experience",
-      "posted_date": "Posted Yesterday",
-      "first_seen": "2026-06-09"
-    },
-    {
-      "id": "5961bdd37212",
-      "title": "Nights Customer Experience Representative - ICS",
-      "district": "J.B. Hunt",
-      "location": "Lowell, AR - JB Hunt Corporate B & C",
-      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-B--C/Nights-Customer-Experience-Representative---ICS_00629759",
-      "platform": "Workday",
-      "category": "freight",
-      "match_reason": "customer experience",
-      "posted_date": "Posted 2 Days Ago",
-      "first_seen": "2026-06-09"
-    },
-    {
-      "id": "bef60b3ff9c7",
+      "id": "3b36fd2a9271",
       "title": "Customer Experience Support",
       "district": "J.B. Hunt",
-      "location": "Lowell, AR - JB Hunt Corporate B & C",
-      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-B--C/Customer-Experience-Support_00629232",
+      "location": "Lowell, AR - JB Hunt Corporate A & Marketing",
+      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-A--Marketing/Customer-Experience-Support_00619314-1",
       "platform": "Workday",
       "category": "freight",
       "match_reason": "customer experience",
-      "posted_date": "Posted 2 Days Ago",
-      "first_seen": "2026-06-08"
+      "posted_date": "Posted Today",
+      "first_seen": "2026-06-11"
+    },
+    {
+      "id": "2c1f89d57682",
+      "title": "Part Time Customer Experience Support",
+      "district": "J.B. Hunt",
+      "location": "Lowell, AR - JB Hunt Corporate A & Marketing",
+      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-A--Marketing/Part-Time-Customer-Experience-Support_00630171",
+      "platform": "Workday",
+      "category": "freight",
+      "match_reason": "customer experience",
+      "posted_date": "Posted Today",
+      "first_seen": "2026-06-11"
+    },
+    {
+      "id": "238dbf335ef3",
+      "title": "Teller - 17770",
+      "district": "Arvest Bank",
+      "location": "",
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C17770%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "platform": "Infor",
+      "category": "banking",
+      "match_reason": "teller",
+      "posted_date": "",
+      "first_seen": "2026-06-11"
+    },
+    {
+      "id": "b03d12c49e65",
+      "title": "TMPS Operations Specialist 1 - 17755",
+      "district": "Arvest Bank",
+      "location": "",
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C17755%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "platform": "Infor",
+      "category": "banking",
+      "match_reason": "operations specialist",
+      "posted_date": "",
+      "first_seen": "2026-06-11"
+    },
+    {
+      "id": "f79b92fd1130",
+      "title": "TMPS Operations Specialist 1 - 17754",
+      "district": "Arvest Bank",
+      "location": "",
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C17754%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "platform": "Infor",
+      "category": "banking",
+      "match_reason": "operations specialist",
+      "posted_date": "",
+      "first_seen": "2026-06-11"
     },
     {
       "id": "ef0afbe52595",
@@ -96,6 +96,18 @@
       "match_reason": "teller",
       "posted_date": "",
       "first_seen": "2026-06-09"
+    },
+    {
+      "id": "139aebad1818",
+      "title": "Teller",
+      "district": "First National Bank",
+      "location": "Fort Smith, AR",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3630177",
+      "platform": "Paylocity",
+      "category": "banking",
+      "match_reason": "teller",
+      "posted_date": "",
+      "first_seen": "2026-06-11"
     },
     {
       "id": "323b720f35b2",
@@ -278,6 +290,18 @@
       "first_seen": "2026-06-02"
     },
     {
+      "id": "fc13bbbaa475",
+      "title": "Student Account Representative",
+      "district": "UAF",
+      "location": "Fayetteville, AR",
+      "url": "https://uasys.wd5.myworkdayjobs.com/en-US/UAF_External_Career_Site/job/Fayetteville-AR/Student-Account-Representative_R0086890-1",
+      "platform": "Workday",
+      "category": "community",
+      "match_reason": "account representative",
+      "posted_date": "Posted Yesterday",
+      "first_seen": "2026-06-11"
+    },
+    {
       "id": "a2c291dd865c",
       "title": "IT Support Specialist III",
       "district": "UAF",
@@ -286,7 +310,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "support specialist",
-      "posted_date": "Posted Today",
+      "posted_date": "Posted Yesterday",
       "first_seen": "2026-06-10"
     },
     {
@@ -298,7 +322,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "clerk",
-      "posted_date": "Posted 2 Days Ago",
+      "posted_date": "Posted 3 Days Ago",
       "first_seen": "2026-06-08"
     },
     {
@@ -310,7 +334,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "front desk",
-      "posted_date": "Posted 9 Days Ago",
+      "posted_date": "Posted 10 Days Ago",
       "first_seen": "2026-06-01"
     },
     {
@@ -322,7 +346,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "support specialist",
-      "posted_date": "Posted 6 Days Ago",
+      "posted_date": "Posted 7 Days Ago",
       "first_seen": "2026-06-05"
     },
     {
