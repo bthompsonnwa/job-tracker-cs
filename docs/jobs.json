@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-12T15:27",
+  "last_updated": "2026-06-13T14:11",
   "jobs": [
     {
       "id": "111eb69a5eca",
@@ -10,7 +10,7 @@
       "platform": "Workday",
       "category": "freight",
       "match_reason": "customer experience",
-      "posted_date": "Posted Yesterday",
+      "posted_date": "Posted 2 Days Ago",
       "first_seen": "2026-06-12"
     },
     {
@@ -22,7 +22,7 @@
       "platform": "Workday",
       "category": "freight",
       "match_reason": "customer experience",
-      "posted_date": "Posted Yesterday",
+      "posted_date": "Posted 2 Days Ago",
       "first_seen": "2026-06-11"
     },
     {
@@ -34,8 +34,20 @@
       "platform": "Workday",
       "category": "freight",
       "match_reason": "customer experience",
-      "posted_date": "Posted Yesterday",
+      "posted_date": "Posted 2 Days Ago",
       "first_seen": "2026-06-11"
+    },
+    {
+      "id": "7f56aa788584",
+      "title": "Trust Operations Assistant Manager - 17777",
+      "district": "Arvest Bank",
+      "location": "",
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C17777%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "platform": "Infor",
+      "category": "banking",
+      "match_reason": "operations assistant",
+      "posted_date": "",
+      "first_seen": "2026-06-13"
     },
     {
       "id": "f1359bb907e6",
@@ -62,42 +74,6 @@
       "first_seen": "2026-06-12"
     },
     {
-      "id": "238dbf335ef3",
-      "title": "Teller - 17770",
-      "district": "Arvest Bank",
-      "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C17770%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
-      "platform": "Infor",
-      "category": "banking",
-      "match_reason": "teller",
-      "posted_date": "",
-      "first_seen": "2026-06-11"
-    },
-    {
-      "id": "b03d12c49e65",
-      "title": "TMPS Operations Specialist 1 - 17755",
-      "district": "Arvest Bank",
-      "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C17755%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
-      "platform": "Infor",
-      "category": "banking",
-      "match_reason": "operations specialist",
-      "posted_date": "",
-      "first_seen": "2026-06-11"
-    },
-    {
-      "id": "f79b92fd1130",
-      "title": "TMPS Operations Specialist 1 - 17754",
-      "district": "Arvest Bank",
-      "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C17754%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
-      "platform": "Infor",
-      "category": "banking",
-      "match_reason": "operations specialist",
-      "posted_date": "",
-      "first_seen": "2026-06-11"
-    },
-    {
       "id": "a7724fbde306",
       "title": "Teller - Part-Time",
       "district": "First National Bank",
@@ -108,18 +84,6 @@
       "match_reason": "teller",
       "posted_date": "",
       "first_seen": "2026-06-12"
-    },
-    {
-      "id": "139aebad1818",
-      "title": "Teller",
-      "district": "First National Bank",
-      "location": "Fort Smith, AR",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3630177",
-      "platform": "Paylocity",
-      "category": "banking",
-      "match_reason": "teller",
-      "posted_date": "",
-      "first_seen": "2026-06-11"
     },
     {
       "id": "323b720f35b2",
@@ -302,6 +266,18 @@
       "first_seen": "2026-06-02"
     },
     {
+      "id": "4f5910aaa20f",
+      "title": "RazorTemp - HOUS Dispatch",
+      "district": "UAF",
+      "location": "Fayetteville",
+      "url": "https://uasys.wd5.myworkdayjobs.com/en-US/UAF_External_Career_Site/job/Fayetteville/RazorTemp---HOUS-Dispatch_R0086832-1",
+      "platform": "Workday",
+      "category": "community",
+      "match_reason": "dispatch",
+      "posted_date": "Posted Yesterday",
+      "first_seen": "2026-06-13"
+    },
+    {
       "id": "a9097b593631",
       "title": "Office Manager and Assistant to the Chair",
       "district": "UAF",
@@ -310,19 +286,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "office manager",
-      "posted_date": "Posted Yesterday",
-      "first_seen": "2026-06-12"
-    },
-    {
-      "id": "eba9ddc1617a",
-      "title": "Customer Service Representative III",
-      "district": "UAF",
-      "location": "Fayetteville, AR",
-      "url": "https://uasys.wd5.myworkdayjobs.com/en-US/UAF_External_Career_Site/job/Fayetteville-AR/Customer-Service-Representative-III_R0086770",
-      "platform": "Workday",
-      "category": "community",
-      "match_reason": "customer service",
-      "posted_date": "Posted Yesterday",
+      "posted_date": "Posted 2 Days Ago",
       "first_seen": "2026-06-12"
     },
     {
@@ -334,7 +298,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "office manager",
-      "posted_date": "Posted Yesterday",
+      "posted_date": "Posted 2 Days Ago",
       "first_seen": "2026-06-12"
     },
     {
@@ -346,7 +310,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "account representative",
-      "posted_date": "Posted 2 Days Ago",
+      "posted_date": "Posted 3 Days Ago",
       "first_seen": "2026-06-11"
     },
     {
@@ -358,7 +322,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "support specialist",
-      "posted_date": "Posted 2 Days Ago",
+      "posted_date": "Posted 3 Days Ago",
       "first_seen": "2026-06-10"
     },
     {
@@ -370,20 +334,8 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "clerk",
-      "posted_date": "Posted 4 Days Ago",
+      "posted_date": "Posted 5 Days Ago",
       "first_seen": "2026-06-08"
-    },
-    {
-      "id": "bf2366bbde7e",
-      "title": "Front Desk Assistant",
-      "district": "UAF",
-      "location": "Fayetteville, AR",
-      "url": "https://uasys.wd5.myworkdayjobs.com/en-US/UAF_External_Career_Site/job/Fayetteville-AR/Front-Desk-Assistant_R0085440-1",
-      "platform": "Workday",
-      "category": "community",
-      "match_reason": "front desk",
-      "posted_date": "Posted 11 Days Ago",
-      "first_seen": "2026-06-01"
     },
     {
       "id": "8a9add1be16a",
@@ -394,7 +346,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "support specialist",
-      "posted_date": "Posted 8 Days Ago",
+      "posted_date": "Posted 9 Days Ago",
       "first_seen": "2026-06-05"
     },
     {
