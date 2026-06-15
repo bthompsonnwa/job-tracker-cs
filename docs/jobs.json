@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-14T14:15",
+  "last_updated": "2026-06-15T17:23",
   "jobs": [
     {
       "id": "111eb69a5eca",
@@ -10,7 +10,7 @@
       "platform": "Workday",
       "category": "freight",
       "match_reason": "customer experience",
-      "posted_date": "Posted 3 Days Ago",
+      "posted_date": "Posted 4 Days Ago",
       "first_seen": "2026-06-12"
     },
     {
@@ -22,20 +22,20 @@
       "platform": "Workday",
       "category": "freight",
       "match_reason": "customer experience",
-      "posted_date": "Posted 3 Days Ago",
+      "posted_date": "Posted 4 Days Ago",
       "first_seen": "2026-06-11"
     },
     {
-      "id": "2c1f89d57682",
-      "title": "Part Time Customer Experience Support",
-      "district": "J.B. Hunt",
-      "location": "Lowell, AR - JB Hunt Corporate A & Marketing",
-      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-A--Marketing/Part-Time-Customer-Experience-Support_00630171",
-      "platform": "Workday",
-      "category": "freight",
-      "match_reason": "customer experience",
-      "posted_date": "Posted 3 Days Ago",
-      "first_seen": "2026-06-11"
+      "id": "d42e93558926",
+      "title": "Teller - 17786",
+      "district": "Arvest Bank",
+      "location": "",
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C17786%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "platform": "Infor",
+      "category": "banking",
+      "match_reason": "teller",
+      "posted_date": "",
+      "first_seen": "2026-06-15"
     },
     {
       "id": "7f56aa788584",
@@ -108,18 +108,6 @@
       "match_reason": "contact center",
       "posted_date": "",
       "first_seen": "2026-06-02"
-    },
-    {
-      "id": "5664e5ba8638",
-      "title": "DISTRICT COURT: Deputy Court Clerk I",
-      "district": "Rogers (City)",
-      "location": "Rogers, AR",
-      "url": "https://www.rogersar.gov/Jobs.aspx?UniqueId=98&From=All&CommunityJobs=False&JobID=DISTRICT-COURT-Deputy-Court-Clerk-I-123",
-      "platform": "CivicEngage",
-      "category": "community",
-      "match_reason": "clerk",
-      "posted_date": "",
-      "first_seen": "2026-06-01"
     },
     {
       "id": "0249bd149b5c",
@@ -266,6 +254,18 @@
       "first_seen": "2026-06-02"
     },
     {
+      "id": "bf2366bbde7e",
+      "title": "Front Desk Assistant",
+      "district": "UAF",
+      "location": "Fayetteville, AR",
+      "url": "https://uasys.wd5.myworkdayjobs.com/en-US/UAF_External_Career_Site/job/Fayetteville-AR/Front-Desk-Assistant_R0085440-1",
+      "platform": "Workday",
+      "category": "community",
+      "match_reason": "front desk",
+      "posted_date": "Posted Today",
+      "first_seen": "2026-06-15"
+    },
+    {
       "id": "4f5910aaa20f",
       "title": "RazorTemp - HOUS Dispatch",
       "district": "UAF",
@@ -274,7 +274,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "dispatch",
-      "posted_date": "Posted 2 Days Ago",
+      "posted_date": "Posted 3 Days Ago",
       "first_seen": "2026-06-13"
     },
     {
@@ -286,7 +286,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "office manager",
-      "posted_date": "Posted 3 Days Ago",
+      "posted_date": "Posted 4 Days Ago",
       "first_seen": "2026-06-12"
     },
     {
@@ -298,7 +298,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "office manager",
-      "posted_date": "Posted 3 Days Ago",
+      "posted_date": "Posted 4 Days Ago",
       "first_seen": "2026-06-12"
     },
     {
@@ -310,7 +310,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "account representative",
-      "posted_date": "Posted 4 Days Ago",
+      "posted_date": "Posted 5 Days Ago",
       "first_seen": "2026-06-11"
     },
     {
@@ -322,7 +322,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "support specialist",
-      "posted_date": "Posted 4 Days Ago",
+      "posted_date": "Posted 5 Days Ago",
       "first_seen": "2026-06-10"
     },
     {
@@ -334,7 +334,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "clerk",
-      "posted_date": "Posted 6 Days Ago",
+      "posted_date": "Posted 7 Days Ago",
       "first_seen": "2026-06-08"
     },
     {
@@ -346,7 +346,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "support specialist",
-      "posted_date": "Posted 10 Days Ago",
+      "posted_date": "Posted 11 Days Ago",
       "first_seen": "2026-06-05"
     },
     {
