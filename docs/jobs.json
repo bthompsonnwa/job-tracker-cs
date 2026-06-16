@@ -1,29 +1,41 @@
 {
-  "last_updated": "2026-06-15T17:23",
+  "last_updated": "2026-06-16T17:06",
   "jobs": [
     {
-      "id": "111eb69a5eca",
+      "id": "a3ee749f6fd3",
       "title": "Customer Experience Representative - ICS",
       "district": "J.B. Hunt",
       "location": "Lowell, AR - JB Hunt Corporate B & C",
-      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-B--C/Customer-Experience-Representative---ICS_00629227",
+      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-B--C/Customer-Experience-Representative---ICS_00630475",
       "platform": "Workday",
       "category": "freight",
       "match_reason": "customer experience",
-      "posted_date": "Posted 4 Days Ago",
-      "first_seen": "2026-06-12"
+      "posted_date": "Posted Yesterday",
+      "first_seen": "2026-06-16"
     },
     {
-      "id": "3b36fd2a9271",
-      "title": "Customer Experience Support",
-      "district": "J.B. Hunt",
-      "location": "Lowell, AR - JB Hunt Corporate A & Marketing",
-      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-A--Marketing/Customer-Experience-Support_00619314-1",
-      "platform": "Workday",
-      "category": "freight",
-      "match_reason": "customer experience",
-      "posted_date": "Posted 4 Days Ago",
-      "first_seen": "2026-06-11"
+      "id": "99ea9a212b69",
+      "title": "Teller - 17812",
+      "district": "Arvest Bank",
+      "location": "",
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C17812%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "platform": "Infor",
+      "category": "banking",
+      "match_reason": "teller",
+      "posted_date": "",
+      "first_seen": "2026-06-16"
+    },
+    {
+      "id": "8b3283f93d7a",
+      "title": "Teller - Bilingual - 17799",
+      "district": "Arvest Bank",
+      "location": "",
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C17799%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "platform": "Infor",
+      "category": "banking",
+      "match_reason": "teller",
+      "posted_date": "",
+      "first_seen": "2026-06-16"
     },
     {
       "id": "d42e93558926",
@@ -36,42 +48,6 @@
       "match_reason": "teller",
       "posted_date": "",
       "first_seen": "2026-06-15"
-    },
-    {
-      "id": "7f56aa788584",
-      "title": "Trust Operations Assistant Manager - 17777",
-      "district": "Arvest Bank",
-      "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C17777%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
-      "platform": "Infor",
-      "category": "banking",
-      "match_reason": "operations assistant",
-      "posted_date": "",
-      "first_seen": "2026-06-13"
-    },
-    {
-      "id": "f1359bb907e6",
-      "title": "Teller (Floater) - 17775",
-      "district": "Arvest Bank",
-      "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C17775%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
-      "platform": "Infor",
-      "category": "banking",
-      "match_reason": "teller",
-      "posted_date": "",
-      "first_seen": "2026-06-12"
-    },
-    {
-      "id": "7cd7cb7ad90c",
-      "title": "Teller - 17773",
-      "district": "Arvest Bank",
-      "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C17773%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
-      "platform": "Infor",
-      "category": "banking",
-      "match_reason": "teller",
-      "posted_date": "",
-      "first_seen": "2026-06-12"
     },
     {
       "id": "a7724fbde306",
@@ -206,28 +182,16 @@
       "first_seen": "2026-06-01"
     },
     {
-      "id": "f48fb83364f0",
-      "title": "SENIOR ACCOUNTING CLERK - FINANCE",
+      "id": "8543a63d12c8",
+      "title": "LIBRARY CLERK - PART TIME - LIBRARY",
       "district": "City of Ponca City",
       "location": "Ponca City, OK",
-      "url": "https://www.poncacityok.gov/Jobs.aspx?UniqueId=76&From=All&CommunityJobs=False&JobID=SENIOR-ACCOUNTING-CLERK-FINANCE-265",
+      "url": "https://www.poncacityok.gov/Jobs.aspx?UniqueId=76&From=All&CommunityJobs=False&JobID=LIBRARY-CLERK-PART-TIME-LIBRARY-308",
       "platform": "CivicEngage",
       "category": "community",
       "match_reason": "clerk",
       "posted_date": "",
-      "first_seen": "2026-06-01"
-    },
-    {
-      "id": "98b0680af7ec",
-      "title": "SENIOR ACCOUNTING CLERK - LIBRARY",
-      "district": "City of Ponca City",
-      "location": "Ponca City, OK",
-      "url": "https://www.poncacityok.gov/Jobs.aspx?UniqueId=76&From=All&CommunityJobs=False&JobID=SENIOR-ACCOUNTING-CLERK-LIBRARY-303",
-      "platform": "CivicEngage",
-      "category": "community",
-      "match_reason": "clerk",
-      "posted_date": "",
-      "first_seen": "2026-06-01"
+      "first_seen": "2026-06-16"
     },
     {
       "id": "dc615412e61e",
@@ -262,7 +226,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "front desk",
-      "posted_date": "Posted Today",
+      "posted_date": "Posted Yesterday",
       "first_seen": "2026-06-15"
     },
     {
@@ -274,7 +238,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "dispatch",
-      "posted_date": "Posted 3 Days Ago",
+      "posted_date": "Posted 4 Days Ago",
       "first_seen": "2026-06-13"
     },
     {
@@ -286,7 +250,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "office manager",
-      "posted_date": "Posted 4 Days Ago",
+      "posted_date": "Posted 5 Days Ago",
       "first_seen": "2026-06-12"
     },
     {
@@ -298,7 +262,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "office manager",
-      "posted_date": "Posted 4 Days Ago",
+      "posted_date": "Posted 5 Days Ago",
       "first_seen": "2026-06-12"
     },
     {
@@ -310,7 +274,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "account representative",
-      "posted_date": "Posted 5 Days Ago",
+      "posted_date": "Posted 6 Days Ago",
       "first_seen": "2026-06-11"
     },
     {
@@ -322,20 +286,8 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "support specialist",
-      "posted_date": "Posted 5 Days Ago",
+      "posted_date": "Posted 6 Days Ago",
       "first_seen": "2026-06-10"
-    },
-    {
-      "id": "f8b9af95106e",
-      "title": "Shipping and Receiving Clerk",
-      "district": "UAF",
-      "location": "Fayetteville, AR",
-      "url": "https://uasys.wd5.myworkdayjobs.com/en-US/UAF_External_Career_Site/job/Fayetteville-AR/Shipping-and-Receiving-Clerk_R0086410",
-      "platform": "Workday",
-      "category": "community",
-      "match_reason": "clerk",
-      "posted_date": "Posted 7 Days Ago",
-      "first_seen": "2026-06-08"
     },
     {
       "id": "8a9add1be16a",
@@ -346,7 +298,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "support specialist",
-      "posted_date": "Posted 11 Days Ago",
+      "posted_date": "Posted 12 Days Ago",
       "first_seen": "2026-06-05"
     },
     {
