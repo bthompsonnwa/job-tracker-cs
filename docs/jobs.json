@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-06-16T17:06",
+  "last_updated": "2026-06-17T15:47",
   "jobs": [
+    {
+      "id": "a61b002fbb7d",
+      "title": "Customer Experience Support, Weekends",
+      "district": "J.B. Hunt",
+      "location": "Lowell, AR - JB Hunt Corporate A & Marketing",
+      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-A--Marketing/Customer-Experience-Support--Weekends_00630847",
+      "platform": "Workday",
+      "category": "freight",
+      "match_reason": "customer experience",
+      "posted_date": "Posted Yesterday",
+      "first_seen": "2026-06-17"
+    },
     {
       "id": "a3ee749f6fd3",
       "title": "Customer Experience Representative - ICS",
@@ -10,8 +22,20 @@
       "platform": "Workday",
       "category": "freight",
       "match_reason": "customer experience",
-      "posted_date": "Posted Yesterday",
+      "posted_date": "Posted 2 Days Ago",
       "first_seen": "2026-06-16"
+    },
+    {
+      "id": "a19dd1d7d82d",
+      "title": "Teller (Bilingual Floater) - 17813",
+      "district": "Arvest Bank",
+      "location": "",
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C17813%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "platform": "Infor",
+      "category": "banking",
+      "match_reason": "teller",
+      "posted_date": "",
+      "first_seen": "2026-06-17"
     },
     {
       "id": "99ea9a212b69",
@@ -36,18 +60,6 @@
       "match_reason": "teller",
       "posted_date": "",
       "first_seen": "2026-06-16"
-    },
-    {
-      "id": "d42e93558926",
-      "title": "Teller - 17786",
-      "district": "Arvest Bank",
-      "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C17786%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
-      "platform": "Infor",
-      "category": "banking",
-      "match_reason": "teller",
-      "posted_date": "",
-      "first_seen": "2026-06-15"
     },
     {
       "id": "a7724fbde306",
@@ -226,7 +238,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "front desk",
-      "posted_date": "Posted Yesterday",
+      "posted_date": "Posted 2 Days Ago",
       "first_seen": "2026-06-15"
     },
     {
@@ -238,7 +250,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "dispatch",
-      "posted_date": "Posted 4 Days Ago",
+      "posted_date": "Posted 5 Days Ago",
       "first_seen": "2026-06-13"
     },
     {
@@ -250,7 +262,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "office manager",
-      "posted_date": "Posted 5 Days Ago",
+      "posted_date": "Posted 6 Days Ago",
       "first_seen": "2026-06-12"
     },
     {
@@ -262,7 +274,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "office manager",
-      "posted_date": "Posted 5 Days Ago",
+      "posted_date": "Posted 6 Days Ago",
       "first_seen": "2026-06-12"
     },
     {
@@ -274,7 +286,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "account representative",
-      "posted_date": "Posted 6 Days Ago",
+      "posted_date": "Posted 7 Days Ago",
       "first_seen": "2026-06-11"
     },
     {
@@ -286,7 +298,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "support specialist",
-      "posted_date": "Posted 6 Days Ago",
+      "posted_date": "Posted 7 Days Ago",
       "first_seen": "2026-06-10"
     },
     {
@@ -298,7 +310,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "support specialist",
-      "posted_date": "Posted 12 Days Ago",
+      "posted_date": "Posted 13 Days Ago",
       "first_seen": "2026-06-05"
     },
     {
