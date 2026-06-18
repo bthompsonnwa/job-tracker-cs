@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-17T15:47",
+  "last_updated": "2026-06-18T15:38",
   "jobs": [
     {
       "id": "a61b002fbb7d",
@@ -10,20 +10,56 @@
       "platform": "Workday",
       "category": "freight",
       "match_reason": "customer experience",
-      "posted_date": "Posted Yesterday",
+      "posted_date": "Posted 2 Days Ago",
       "first_seen": "2026-06-17"
     },
     {
-      "id": "a3ee749f6fd3",
-      "title": "Customer Experience Representative - ICS",
-      "district": "J.B. Hunt",
-      "location": "Lowell, AR - JB Hunt Corporate B & C",
-      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-B--C/Customer-Experience-Representative---ICS_00630475",
-      "platform": "Workday",
-      "category": "freight",
-      "match_reason": "customer experience",
-      "posted_date": "Posted 2 Days Ago",
-      "first_seen": "2026-06-16"
+      "id": "567388636d9c",
+      "title": "Teller - 17845",
+      "district": "Arvest Bank",
+      "location": "",
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C17845%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "platform": "Infor",
+      "category": "banking",
+      "match_reason": "teller",
+      "posted_date": "",
+      "first_seen": "2026-06-18"
+    },
+    {
+      "id": "827661821963",
+      "title": "Teller - 17830",
+      "district": "Arvest Bank",
+      "location": "",
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C17830%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "platform": "Infor",
+      "category": "banking",
+      "match_reason": "teller",
+      "posted_date": "",
+      "first_seen": "2026-06-18"
+    },
+    {
+      "id": "3cd544ccf1ea",
+      "title": "Teller - 17829",
+      "district": "Arvest Bank",
+      "location": "",
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C17829%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "platform": "Infor",
+      "category": "banking",
+      "match_reason": "teller",
+      "posted_date": "",
+      "first_seen": "2026-06-18"
+    },
+    {
+      "id": "bc669cf94fb3",
+      "title": "Teller - 17828",
+      "district": "Arvest Bank",
+      "location": "",
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C17828%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "platform": "Infor",
+      "category": "banking",
+      "match_reason": "teller",
+      "posted_date": "",
+      "first_seen": "2026-06-18"
     },
     {
       "id": "a19dd1d7d82d",
@@ -43,18 +79,6 @@
       "district": "Arvest Bank",
       "location": "",
       "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C17812%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
-      "platform": "Infor",
-      "category": "banking",
-      "match_reason": "teller",
-      "posted_date": "",
-      "first_seen": "2026-06-16"
-    },
-    {
-      "id": "8b3283f93d7a",
-      "title": "Teller - Bilingual - 17799",
-      "district": "Arvest Bank",
-      "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C17799%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
       "platform": "Infor",
       "category": "banking",
       "match_reason": "teller",
@@ -98,6 +122,18 @@
       "first_seen": "2026-06-02"
     },
     {
+      "id": "5664e5ba8638",
+      "title": "DISTRICT COURT: Deputy Court Clerk I",
+      "district": "Rogers (City)",
+      "location": "Rogers, AR",
+      "url": "https://www.rogersar.gov/Jobs.aspx?UniqueId=98&From=All&CommunityJobs=False&JobID=DISTRICT-COURT-Deputy-Court-Clerk-I-123",
+      "platform": "CivicEngage",
+      "category": "community",
+      "match_reason": "clerk",
+      "posted_date": "",
+      "first_seen": "2026-06-18"
+    },
+    {
       "id": "0249bd149b5c",
       "title": "INFORMATION TECHNOLOGY:  Application Support Specialist",
       "district": "Rogers (City)",
@@ -132,6 +168,18 @@
       "match_reason": "clerk",
       "posted_date": "",
       "first_seen": "2026-06-02"
+    },
+    {
+      "id": "f298dbdfde7b",
+      "title": "(1) Part Time Recreation Worker I/II/III Front Desk (Adult Rec Center)",
+      "district": "Bentonville (City)",
+      "location": "Bentonville, AR",
+      "url": "https://www.bentonvillear.com/1414/bentonvillear.bamboohr.com/careers/1248",
+      "platform": "CivicEngage",
+      "category": "community",
+      "match_reason": "front desk",
+      "posted_date": "",
+      "first_seen": "2026-06-18"
     },
     {
       "id": "dad1826de2c4",
@@ -170,16 +218,16 @@
       "first_seen": "2026-06-01"
     },
     {
-      "id": "79940732ad42",
+      "id": "188d019c8016",
       "title": "Purchasing & Compliance Specialist III",
       "district": "Bentonville (City)",
       "location": "Bentonville, AR",
-      "url": "https://www.bentonvillear.com/1414/bentonvillear.bamboohr.com/careers/1225",
+      "url": "https://www.bentonvillear.com/1414/bentonvillear.bamboohr.com/careers/1250",
       "platform": "CivicEngage",
       "category": "community",
       "match_reason": "compliance specialist",
       "posted_date": "",
-      "first_seen": "2026-06-01"
+      "first_seen": "2026-06-18"
     },
     {
       "id": "0fc4aeb003a0",
@@ -230,6 +278,18 @@
       "first_seen": "2026-06-02"
     },
     {
+      "id": "f0745bbb126f",
+      "title": "Customer Service Representative III",
+      "district": "UAF",
+      "location": "Fayetteville, AR",
+      "url": "https://uasys.wd5.myworkdayjobs.com/en-US/UAF_External_Career_Site/job/Fayetteville-AR/Customer-Service-Representative-III_R0087109",
+      "platform": "Workday",
+      "category": "community",
+      "match_reason": "customer service",
+      "posted_date": "Posted Today",
+      "first_seen": "2026-06-18"
+    },
+    {
       "id": "bf2366bbde7e",
       "title": "Front Desk Assistant",
       "district": "UAF",
@@ -238,7 +298,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "front desk",
-      "posted_date": "Posted 2 Days Ago",
+      "posted_date": "Posted 3 Days Ago",
       "first_seen": "2026-06-15"
     },
     {
@@ -250,7 +310,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "dispatch",
-      "posted_date": "Posted 5 Days Ago",
+      "posted_date": "Posted 6 Days Ago",
       "first_seen": "2026-06-13"
     },
     {
@@ -262,7 +322,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "office manager",
-      "posted_date": "Posted 6 Days Ago",
+      "posted_date": "Posted 7 Days Ago",
       "first_seen": "2026-06-12"
     },
     {
@@ -274,7 +334,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "office manager",
-      "posted_date": "Posted 6 Days Ago",
+      "posted_date": "Posted 7 Days Ago",
       "first_seen": "2026-06-12"
     },
     {
@@ -286,7 +346,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "account representative",
-      "posted_date": "Posted 7 Days Ago",
+      "posted_date": "Posted 8 Days Ago",
       "first_seen": "2026-06-11"
     },
     {
@@ -298,7 +358,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "support specialist",
-      "posted_date": "Posted 7 Days Ago",
+      "posted_date": "Posted 8 Days Ago",
       "first_seen": "2026-06-10"
     },
     {
@@ -310,7 +370,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "support specialist",
-      "posted_date": "Posted 13 Days Ago",
+      "posted_date": "Posted 14 Days Ago",
       "first_seen": "2026-06-05"
     },
     {
