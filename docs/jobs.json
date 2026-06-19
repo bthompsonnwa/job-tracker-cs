@@ -1,17 +1,77 @@
 {
-  "last_updated": "2026-06-18T15:38",
+  "last_updated": "2026-06-19T15:33",
   "jobs": [
     {
-      "id": "a61b002fbb7d",
-      "title": "Customer Experience Support, Weekends",
+      "id": "42805510d59e",
+      "title": "Manager Trainee",
       "district": "J.B. Hunt",
-      "location": "Lowell, AR - JB Hunt Corporate A & Marketing",
-      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-A--Marketing/Customer-Experience-Support--Weekends_00630847",
+      "location": "",
+      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Manager-Trainee_00625580",
       "platform": "Workday",
       "category": "freight",
-      "match_reason": "customer experience",
-      "posted_date": "Posted 2 Days Ago",
-      "first_seen": "2026-06-17"
+      "match_reason": "trainee",
+      "posted_date": "Posted Today",
+      "first_seen": "2026-06-19"
+    },
+    {
+      "id": "e7db28ac5474",
+      "title": "Part-time Dispatcher",
+      "district": "J.B. Hunt",
+      "location": "Lowell, AR - JB Hunt Corporate A & Marketing",
+      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-A--Marketing/Part-time-Dispatcher_00631141",
+      "platform": "Workday",
+      "category": "freight",
+      "match_reason": "dispatch",
+      "posted_date": "Posted Yesterday",
+      "first_seen": "2026-06-19"
+    },
+    {
+      "id": "df1341675b2e",
+      "title": "Dispatcher, Weekends",
+      "district": "J.B. Hunt",
+      "location": "Lowell, AR - JB Hunt Corporate A & Marketing",
+      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-A--Marketing/Part-time-Dispatcher_00623660",
+      "platform": "Workday",
+      "category": "freight",
+      "match_reason": "dispatch",
+      "posted_date": "Posted Yesterday",
+      "first_seen": "2026-06-19"
+    },
+    {
+      "id": "b5c53add8cbc",
+      "title": "Teller (Floater) - 17851",
+      "district": "Arvest Bank",
+      "location": "",
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C17851%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "platform": "Infor",
+      "category": "banking",
+      "match_reason": "teller",
+      "posted_date": "",
+      "first_seen": "2026-06-19"
+    },
+    {
+      "id": "84c35336aef3",
+      "title": "Video Banking Specialist- Bilingual - 17836",
+      "district": "Arvest Bank",
+      "location": "",
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C17836%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "platform": "Infor",
+      "category": "banking",
+      "match_reason": "banking specialist",
+      "posted_date": "",
+      "first_seen": "2026-06-19"
+    },
+    {
+      "id": "8165e7736550",
+      "title": "Video Banking Specialist - 17835",
+      "district": "Arvest Bank",
+      "location": "",
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C17835%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "platform": "Infor",
+      "category": "banking",
+      "match_reason": "banking specialist",
+      "posted_date": "",
+      "first_seen": "2026-06-19"
     },
     {
       "id": "567388636d9c",
@@ -48,42 +108,6 @@
       "match_reason": "teller",
       "posted_date": "",
       "first_seen": "2026-06-18"
-    },
-    {
-      "id": "bc669cf94fb3",
-      "title": "Teller - 17828",
-      "district": "Arvest Bank",
-      "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C17828%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
-      "platform": "Infor",
-      "category": "banking",
-      "match_reason": "teller",
-      "posted_date": "",
-      "first_seen": "2026-06-18"
-    },
-    {
-      "id": "a19dd1d7d82d",
-      "title": "Teller (Bilingual Floater) - 17813",
-      "district": "Arvest Bank",
-      "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C17813%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
-      "platform": "Infor",
-      "category": "banking",
-      "match_reason": "teller",
-      "posted_date": "",
-      "first_seen": "2026-06-17"
-    },
-    {
-      "id": "99ea9a212b69",
-      "title": "Teller - 17812",
-      "district": "Arvest Bank",
-      "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C17812%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
-      "platform": "Infor",
-      "category": "banking",
-      "match_reason": "teller",
-      "posted_date": "",
-      "first_seen": "2026-06-16"
     },
     {
       "id": "a7724fbde306",
@@ -286,7 +310,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "customer service",
-      "posted_date": "Posted Today",
+      "posted_date": "Posted Yesterday",
       "first_seen": "2026-06-18"
     },
     {
@@ -298,20 +322,8 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "front desk",
-      "posted_date": "Posted 3 Days Ago",
+      "posted_date": "Posted 4 Days Ago",
       "first_seen": "2026-06-15"
-    },
-    {
-      "id": "4f5910aaa20f",
-      "title": "RazorTemp - HOUS Dispatch",
-      "district": "UAF",
-      "location": "Fayetteville",
-      "url": "https://uasys.wd5.myworkdayjobs.com/en-US/UAF_External_Career_Site/job/Fayetteville/RazorTemp---HOUS-Dispatch_R0086832-1",
-      "platform": "Workday",
-      "category": "community",
-      "match_reason": "dispatch",
-      "posted_date": "Posted 6 Days Ago",
-      "first_seen": "2026-06-13"
     },
     {
       "id": "a9097b593631",
@@ -322,7 +334,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "office manager",
-      "posted_date": "Posted 7 Days Ago",
+      "posted_date": "Posted 8 Days Ago",
       "first_seen": "2026-06-12"
     },
     {
@@ -334,7 +346,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "office manager",
-      "posted_date": "Posted 7 Days Ago",
+      "posted_date": "Posted 8 Days Ago",
       "first_seen": "2026-06-12"
     },
     {
@@ -346,7 +358,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "account representative",
-      "posted_date": "Posted 8 Days Ago",
+      "posted_date": "Posted 9 Days Ago",
       "first_seen": "2026-06-11"
     },
     {
@@ -358,7 +370,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "support specialist",
-      "posted_date": "Posted 8 Days Ago",
+      "posted_date": "Posted 9 Days Ago",
       "first_seen": "2026-06-10"
     },
     {
@@ -370,7 +382,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "support specialist",
-      "posted_date": "Posted 14 Days Ago",
+      "posted_date": "Posted 15 Days Ago",
       "first_seen": "2026-06-05"
     },
     {
