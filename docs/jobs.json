@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-19T15:33",
+  "last_updated": "2026-06-20T14:15",
   "jobs": [
     {
       "id": "42805510d59e",
@@ -10,7 +10,7 @@
       "platform": "Workday",
       "category": "freight",
       "match_reason": "trainee",
-      "posted_date": "Posted Today",
+      "posted_date": "Posted Yesterday",
       "first_seen": "2026-06-19"
     },
     {
@@ -22,7 +22,7 @@
       "platform": "Workday",
       "category": "freight",
       "match_reason": "dispatch",
-      "posted_date": "Posted Yesterday",
+      "posted_date": "Posted 2 Days Ago",
       "first_seen": "2026-06-19"
     },
     {
@@ -34,7 +34,7 @@
       "platform": "Workday",
       "category": "freight",
       "match_reason": "dispatch",
-      "posted_date": "Posted Yesterday",
+      "posted_date": "Posted 2 Days Ago",
       "first_seen": "2026-06-19"
     },
     {
@@ -206,18 +206,6 @@
       "first_seen": "2026-06-18"
     },
     {
-      "id": "dad1826de2c4",
-      "title": "(2)Part-Time Recreation Worker I/II/III- Front Desk",
-      "district": "Bentonville (City)",
-      "location": "Bentonville, AR",
-      "url": "https://www.bentonvillear.com/1414/bentonvillear.bamboohr.com/careers/1229",
-      "platform": "CivicEngage",
-      "category": "community",
-      "match_reason": "front desk",
-      "posted_date": "",
-      "first_seen": "2026-06-01"
-    },
-    {
       "id": "7044555520f4",
       "title": "Marketing and Communications Specialist",
       "district": "Bentonville (City)",
@@ -310,20 +298,8 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "customer service",
-      "posted_date": "Posted Yesterday",
+      "posted_date": "Posted 2 Days Ago",
       "first_seen": "2026-06-18"
-    },
-    {
-      "id": "bf2366bbde7e",
-      "title": "Front Desk Assistant",
-      "district": "UAF",
-      "location": "Fayetteville, AR",
-      "url": "https://uasys.wd5.myworkdayjobs.com/en-US/UAF_External_Career_Site/job/Fayetteville-AR/Front-Desk-Assistant_R0085440-1",
-      "platform": "Workday",
-      "category": "community",
-      "match_reason": "front desk",
-      "posted_date": "Posted 4 Days Ago",
-      "first_seen": "2026-06-15"
     },
     {
       "id": "a9097b593631",
@@ -334,7 +310,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "office manager",
-      "posted_date": "Posted 8 Days Ago",
+      "posted_date": "Posted 9 Days Ago",
       "first_seen": "2026-06-12"
     },
     {
@@ -346,7 +322,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "office manager",
-      "posted_date": "Posted 8 Days Ago",
+      "posted_date": "Posted 9 Days Ago",
       "first_seen": "2026-06-12"
     },
     {
@@ -358,7 +334,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "account representative",
-      "posted_date": "Posted 9 Days Ago",
+      "posted_date": "Posted 10 Days Ago",
       "first_seen": "2026-06-11"
     },
     {
@@ -370,7 +346,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "support specialist",
-      "posted_date": "Posted 9 Days Ago",
+      "posted_date": "Posted 10 Days Ago",
       "first_seen": "2026-06-10"
     },
     {
@@ -382,7 +358,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "support specialist",
-      "posted_date": "Posted 15 Days Ago",
+      "posted_date": "Posted 16 Days Ago",
       "first_seen": "2026-06-05"
     },
     {
