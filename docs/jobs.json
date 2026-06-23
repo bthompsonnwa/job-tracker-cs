@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-22T17:07",
+  "last_updated": "2026-06-23T15:01",
   "jobs": [
     {
       "id": "42805510d59e",
@@ -10,7 +10,7 @@
       "platform": "Workday",
       "category": "freight",
       "match_reason": "trainee",
-      "posted_date": "Posted 3 Days Ago",
+      "posted_date": "Posted 4 Days Ago",
       "first_seen": "2026-06-19"
     },
     {
@@ -22,7 +22,7 @@
       "platform": "Workday",
       "category": "freight",
       "match_reason": "dispatch",
-      "posted_date": "Posted 4 Days Ago",
+      "posted_date": "Posted 5 Days Ago",
       "first_seen": "2026-06-19"
     },
     {
@@ -34,7 +34,7 @@
       "platform": "Workday",
       "category": "freight",
       "match_reason": "dispatch",
-      "posted_date": "Posted 4 Days Ago",
+      "posted_date": "Posted 5 Days Ago",
       "first_seen": "2026-06-19"
     },
     {
@@ -86,28 +86,28 @@
       "first_seen": "2026-06-18"
     },
     {
-      "id": "827661821963",
-      "title": "Teller - 17830",
-      "district": "Arvest Bank",
-      "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C17830%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
-      "platform": "Infor",
+      "id": "a7724fbde306",
+      "title": "Teller - Part-Time",
+      "district": "First National Bank",
+      "location": "Fort Smith, AR",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4228141",
+      "platform": "Paylocity",
       "category": "banking",
       "match_reason": "teller",
       "posted_date": "",
-      "first_seen": "2026-06-18"
+      "first_seen": "2026-06-23"
     },
     {
-      "id": "3cd544ccf1ea",
-      "title": "Teller - 17829",
-      "district": "Arvest Bank",
-      "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C17829%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
-      "platform": "Infor",
+      "id": "323b720f35b2",
+      "title": "CONTACT CENTER AGENT",
+      "district": "First National Bank",
+      "location": "Fort Smith, AR",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4194017",
+      "platform": "Paylocity",
       "category": "banking",
-      "match_reason": "teller",
+      "match_reason": "contact center",
       "posted_date": "",
-      "first_seen": "2026-06-18"
+      "first_seen": "2026-06-23"
     },
     {
       "id": "5b68d700f2d9",
@@ -266,6 +266,18 @@
       "first_seen": "2026-06-02"
     },
     {
+      "id": "22c97df076f9",
+      "title": "Administrative Assistant - College of Bible, Humanities and Arts",
+      "district": "JBU",
+      "location": "Siloam Springs, AR",
+      "url": "https://www.jbu.edu/human-resources/staff-job-listings/admin-assistant-cbha?hsLang=en",
+      "platform": "JBU",
+      "category": "community",
+      "match_reason": "administrative assistant",
+      "posted_date": "",
+      "first_seen": "2026-06-23"
+    },
+    {
       "id": "f0745bbb126f",
       "title": "Customer Service Representative III",
       "district": "UAF",
@@ -274,7 +286,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "customer service",
-      "posted_date": "Posted 4 Days Ago",
+      "posted_date": "Posted 5 Days Ago",
       "first_seen": "2026-06-18"
     },
     {
@@ -286,7 +298,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "office manager",
-      "posted_date": "Posted 11 Days Ago",
+      "posted_date": "Posted 12 Days Ago",
       "first_seen": "2026-06-12"
     },
     {
@@ -298,7 +310,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "support specialist",
-      "posted_date": "Posted 12 Days Ago",
+      "posted_date": "Posted 13 Days Ago",
       "first_seen": "2026-06-10"
     },
     {
@@ -310,7 +322,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "support specialist",
-      "posted_date": "Posted 18 Days Ago",
+      "posted_date": "Posted 19 Days Ago",
       "first_seen": "2026-06-05"
     },
     {
