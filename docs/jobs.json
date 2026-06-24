@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-06-23T15:01",
+  "last_updated": "2026-06-24T14:43",
   "jobs": [
+    {
+      "id": "f8085396e5c1",
+      "title": "Billing Representative I",
+      "district": "J.B. Hunt",
+      "location": "Lowell, AR - JB Hunt Corporate A & Marketing",
+      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-A--Marketing/Billing-Representative-I_00631837",
+      "platform": "Workday",
+      "category": "freight",
+      "match_reason": "billing representative",
+      "posted_date": "Posted Today",
+      "first_seen": "2026-06-24"
+    },
     {
       "id": "42805510d59e",
       "title": "Manager Trainee",
@@ -10,7 +22,7 @@
       "platform": "Workday",
       "category": "freight",
       "match_reason": "trainee",
-      "posted_date": "Posted 4 Days Ago",
+      "posted_date": "Posted 5 Days Ago",
       "first_seen": "2026-06-19"
     },
     {
@@ -22,7 +34,7 @@
       "platform": "Workday",
       "category": "freight",
       "match_reason": "dispatch",
-      "posted_date": "Posted 5 Days Ago",
+      "posted_date": "Posted 6 Days Ago",
       "first_seen": "2026-06-19"
     },
     {
@@ -34,7 +46,7 @@
       "platform": "Workday",
       "category": "freight",
       "match_reason": "dispatch",
-      "posted_date": "Posted 5 Days Ago",
+      "posted_date": "Posted 6 Days Ago",
       "first_seen": "2026-06-19"
     },
     {
@@ -50,40 +62,16 @@
       "first_seen": "2026-06-19"
     },
     {
-      "id": "84c35336aef3",
-      "title": "Video Banking Specialist- Bilingual - 17836",
-      "district": "Arvest Bank",
-      "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C17836%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
-      "platform": "Infor",
-      "category": "banking",
-      "match_reason": "banking specialist",
-      "posted_date": "",
-      "first_seen": "2026-06-19"
-    },
-    {
-      "id": "8165e7736550",
-      "title": "Video Banking Specialist - 17835",
-      "district": "Arvest Bank",
-      "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C17835%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
-      "platform": "Infor",
-      "category": "banking",
-      "match_reason": "banking specialist",
-      "posted_date": "",
-      "first_seen": "2026-06-19"
-    },
-    {
-      "id": "567388636d9c",
-      "title": "Teller - 17845",
-      "district": "Arvest Bank",
-      "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C17845%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
-      "platform": "Infor",
+      "id": "68c589a1dbb1",
+      "title": "Teller",
+      "district": "First National Bank",
+      "location": "Fort Smith, AR",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4275393",
+      "platform": "Paylocity",
       "category": "banking",
       "match_reason": "teller",
       "posted_date": "",
-      "first_seen": "2026-06-18"
+      "first_seen": "2026-06-24"
     },
     {
       "id": "a7724fbde306",
@@ -182,18 +170,6 @@
       "first_seen": "2026-06-18"
     },
     {
-      "id": "7044555520f4",
-      "title": "Marketing and Communications Specialist",
-      "district": "Bentonville (City)",
-      "location": "Bentonville, AR",
-      "url": "https://www.bentonvillear.com/1414/bentonvillear.bamboohr.com/careers/1228",
-      "platform": "CivicEngage",
-      "category": "community",
-      "match_reason": "communications specialist",
-      "posted_date": "",
-      "first_seen": "2026-06-01"
-    },
-    {
       "id": "2a1d4c16335a",
       "title": "Police Clerk I/II",
       "district": "Bentonville (City)",
@@ -278,6 +254,18 @@
       "first_seen": "2026-06-23"
     },
     {
+      "id": "6e62db24d31b",
+      "title": "Residence Hall Administrative Specialist",
+      "district": "UAF",
+      "location": "Fayetteville, AR",
+      "url": "https://uasys.wd5.myworkdayjobs.com/en-US/UAF_External_Career_Site/job/Fayetteville-AR/Residence-Hall-Administrative-Specialist_R0087420",
+      "platform": "Workday",
+      "category": "community",
+      "match_reason": "administrative specialist",
+      "posted_date": "Posted Yesterday",
+      "first_seen": "2026-06-24"
+    },
+    {
       "id": "f0745bbb126f",
       "title": "Customer Service Representative III",
       "district": "UAF",
@@ -286,32 +274,8 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "customer service",
-      "posted_date": "Posted 5 Days Ago",
+      "posted_date": "Posted 6 Days Ago",
       "first_seen": "2026-06-18"
-    },
-    {
-      "id": "709325cfb5e5",
-      "title": "Office Manager and Assistant to the Chair",
-      "district": "UAF",
-      "location": "Fayetteville, AR",
-      "url": "https://uasys.wd5.myworkdayjobs.com/en-US/UAF_External_Career_Site/job/Fayetteville-AR/Office-Manager-and-Assistant-to-the-Chair_R0086573-2",
-      "platform": "Workday",
-      "category": "community",
-      "match_reason": "office manager",
-      "posted_date": "Posted 12 Days Ago",
-      "first_seen": "2026-06-12"
-    },
-    {
-      "id": "a2c291dd865c",
-      "title": "IT Support Specialist III",
-      "district": "UAF",
-      "location": "Fayetteville, AR",
-      "url": "https://uasys.wd5.myworkdayjobs.com/en-US/UAF_External_Career_Site/job/Fayetteville-AR/IT-Support-Specialist-III_R0086531-1",
-      "platform": "Workday",
-      "category": "community",
-      "match_reason": "support specialist",
-      "posted_date": "Posted 13 Days Ago",
-      "first_seen": "2026-06-10"
     },
     {
       "id": "8a9add1be16a",
@@ -322,7 +286,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "support specialist",
-      "posted_date": "Posted 19 Days Ago",
+      "posted_date": "Posted 20 Days Ago",
       "first_seen": "2026-06-05"
     },
     {
