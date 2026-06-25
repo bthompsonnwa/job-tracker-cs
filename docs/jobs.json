@@ -1,65 +1,29 @@
 {
-  "last_updated": "2026-06-24T14:43",
+  "last_updated": "2026-06-25T14:44",
   "jobs": [
     {
-      "id": "f8085396e5c1",
-      "title": "Billing Representative I",
+      "id": "154948db9b28",
+      "title": "Customer Experience Support",
       "district": "J.B. Hunt",
       "location": "Lowell, AR - JB Hunt Corporate A & Marketing",
-      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-A--Marketing/Billing-Representative-I_00631837",
+      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-A--Marketing/Customer-Experience-Support_00631918-1",
       "platform": "Workday",
       "category": "freight",
-      "match_reason": "billing representative",
-      "posted_date": "Posted Today",
-      "first_seen": "2026-06-24"
+      "match_reason": "customer experience",
+      "posted_date": "Posted Yesterday",
+      "first_seen": "2026-06-25"
     },
     {
-      "id": "42805510d59e",
-      "title": "Manager Trainee",
-      "district": "J.B. Hunt",
-      "location": "",
-      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Manager-Trainee_00625580",
-      "platform": "Workday",
-      "category": "freight",
-      "match_reason": "trainee",
-      "posted_date": "Posted 5 Days Ago",
-      "first_seen": "2026-06-19"
-    },
-    {
-      "id": "e7db28ac5474",
-      "title": "Part-time Dispatcher",
-      "district": "J.B. Hunt",
-      "location": "Lowell, AR - JB Hunt Corporate A & Marketing",
-      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-A--Marketing/Part-time-Dispatcher_00631141",
-      "platform": "Workday",
-      "category": "freight",
-      "match_reason": "dispatch",
-      "posted_date": "Posted 6 Days Ago",
-      "first_seen": "2026-06-19"
-    },
-    {
-      "id": "df1341675b2e",
-      "title": "Dispatcher, Weekends",
-      "district": "J.B. Hunt",
-      "location": "Lowell, AR - JB Hunt Corporate A & Marketing",
-      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-A--Marketing/Part-time-Dispatcher_00623660",
-      "platform": "Workday",
-      "category": "freight",
-      "match_reason": "dispatch",
-      "posted_date": "Posted 6 Days Ago",
-      "first_seen": "2026-06-19"
-    },
-    {
-      "id": "b5c53add8cbc",
-      "title": "Teller (Floater) - 17851",
+      "id": "39d58b156098",
+      "title": "TMPS Customer Service Representative 1 - 17878",
       "district": "Arvest Bank",
       "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C17851%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C17878%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
       "platform": "Infor",
       "category": "banking",
-      "match_reason": "teller",
+      "match_reason": "customer service",
       "posted_date": "",
-      "first_seen": "2026-06-19"
+      "first_seen": "2026-06-25"
     },
     {
       "id": "68c589a1dbb1",
@@ -72,6 +36,18 @@
       "match_reason": "teller",
       "posted_date": "",
       "first_seen": "2026-06-24"
+    },
+    {
+      "id": "9100953d82ec",
+      "title": "Teller",
+      "district": "First National Bank",
+      "location": "Fort Smith, AR",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4259420",
+      "platform": "Paylocity",
+      "category": "banking",
+      "match_reason": "teller",
+      "posted_date": "",
+      "first_seen": "2026-06-25"
     },
     {
       "id": "a7724fbde306",
@@ -132,18 +108,6 @@
       "match_reason": "support specialist",
       "posted_date": "",
       "first_seen": "2026-06-10"
-    },
-    {
-      "id": "42a0e5b98250",
-      "title": "(2) Deputy Court Clerk I",
-      "district": "Bentonville (City)",
-      "location": "Bentonville, AR",
-      "url": "https://www.bentonvillear.com/1414/bentonvillear.bamboohr.com/careers/1235",
-      "platform": "CivicEngage",
-      "category": "community",
-      "match_reason": "clerk",
-      "posted_date": "",
-      "first_seen": "2026-06-08"
     },
     {
       "id": "d9592573046c",
@@ -218,18 +182,6 @@
       "first_seen": "2026-06-16"
     },
     {
-      "id": "dc615412e61e",
-      "title": "Student Financial Services Office Manager",
-      "district": "JBU",
-      "location": "Siloam Springs, AR",
-      "url": "https://www.jbu.edu/human-resources/staff-job-listings/sfs-office-manager?hsLang=en",
-      "platform": "JBU",
-      "category": "community",
-      "match_reason": "office manager",
-      "posted_date": "",
-      "first_seen": "2026-06-01"
-    },
-    {
       "id": "754fe9775d64",
       "title": "Honor Scholars Program Administrative Assistant",
       "district": "JBU",
@@ -262,7 +214,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "administrative specialist",
-      "posted_date": "Posted Yesterday",
+      "posted_date": "Posted 2 Days Ago",
       "first_seen": "2026-06-24"
     },
     {
@@ -274,7 +226,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "customer service",
-      "posted_date": "Posted 6 Days Ago",
+      "posted_date": "Posted 7 Days Ago",
       "first_seen": "2026-06-18"
     },
     {
@@ -286,7 +238,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "support specialist",
-      "posted_date": "Posted 20 Days Ago",
+      "posted_date": "Posted 21 Days Ago",
       "first_seen": "2026-06-05"
     },
     {
