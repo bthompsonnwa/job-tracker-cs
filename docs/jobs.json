@@ -1,17 +1,53 @@
 {
-  "last_updated": "2026-06-25T14:44",
+  "last_updated": "2026-06-26T14:37",
   "jobs": [
     {
-      "id": "154948db9b28",
-      "title": "Customer Experience Support",
+      "id": "0cae83bdb036",
+      "title": "Customer Experience Appointment Representative",
       "district": "J.B. Hunt",
       "location": "Lowell, AR - JB Hunt Corporate A & Marketing",
-      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-A--Marketing/Customer-Experience-Support_00631918-1",
+      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-A--Marketing/Customer-Experience-Appointment-Representative_00632194",
       "platform": "Workday",
       "category": "freight",
       "match_reason": "customer experience",
+      "posted_date": "Posted Today",
+      "first_seen": "2026-06-26"
+    },
+    {
+      "id": "3b8579532286",
+      "title": "Customer Experience Representative",
+      "district": "J.B. Hunt",
+      "location": "Lowell, AR - JB Hunt Corporate A & Marketing",
+      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-A--Marketing/Customer-Experience-Representative_00629841-1",
+      "platform": "Workday",
+      "category": "freight",
+      "match_reason": "customer experience",
+      "posted_date": "Posted Today",
+      "first_seen": "2026-06-26"
+    },
+    {
+      "id": "faee1cee5285",
+      "title": "Capacity Procurement Representative, Truckload",
+      "district": "J.B. Hunt",
+      "location": "Lowell, AR - JB Hunt Corporate A & Marketing",
+      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-A--Marketing/Capacity-Procurement-Representative--Truckload_00632155",
+      "platform": "Workday",
+      "category": "freight",
+      "match_reason": "truckload",
       "posted_date": "Posted Yesterday",
-      "first_seen": "2026-06-25"
+      "first_seen": "2026-06-26"
+    },
+    {
+      "id": "f39482273d62",
+      "title": "Sr Carrier Relations Representative",
+      "district": "J.B. Hunt",
+      "location": "Lowell, AR - JB Hunt Corporate B & C",
+      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-B--C/Sr-Carrier-Relations-Representative_00621623-1",
+      "platform": "Workday",
+      "category": "freight",
+      "match_reason": "carrier relations",
+      "posted_date": "Posted Yesterday",
+      "first_seen": "2026-06-26"
     },
     {
       "id": "39d58b156098",
@@ -58,18 +94,6 @@
       "platform": "Paylocity",
       "category": "banking",
       "match_reason": "teller",
-      "posted_date": "",
-      "first_seen": "2026-06-23"
-    },
-    {
-      "id": "323b720f35b2",
-      "title": "CONTACT CENTER AGENT",
-      "district": "First National Bank",
-      "location": "Fort Smith, AR",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4194017",
-      "platform": "Paylocity",
-      "category": "banking",
-      "match_reason": "contact center",
       "posted_date": "",
       "first_seen": "2026-06-23"
     },
@@ -206,6 +230,18 @@
       "first_seen": "2026-06-23"
     },
     {
+      "id": "2ab1302cf618",
+      "title": "Financial Support Specialist",
+      "district": "UAF",
+      "location": "Fayetteville",
+      "url": "https://uasys.wd5.myworkdayjobs.com/en-US/UAF_External_Career_Site/job/Fayetteville/Financial-Support-Specialist_R0084997",
+      "platform": "Workday",
+      "category": "community",
+      "match_reason": "support specialist",
+      "posted_date": "Posted Yesterday",
+      "first_seen": "2026-06-26"
+    },
+    {
       "id": "6e62db24d31b",
       "title": "Residence Hall Administrative Specialist",
       "district": "UAF",
@@ -214,20 +250,8 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "administrative specialist",
-      "posted_date": "Posted 2 Days Ago",
+      "posted_date": "Posted 3 Days Ago",
       "first_seen": "2026-06-24"
-    },
-    {
-      "id": "f0745bbb126f",
-      "title": "Customer Service Representative III",
-      "district": "UAF",
-      "location": "Fayetteville, AR",
-      "url": "https://uasys.wd5.myworkdayjobs.com/en-US/UAF_External_Career_Site/job/Fayetteville-AR/Customer-Service-Representative-III_R0087109",
-      "platform": "Workday",
-      "category": "community",
-      "match_reason": "customer service",
-      "posted_date": "Posted 7 Days Ago",
-      "first_seen": "2026-06-18"
     },
     {
       "id": "8a9add1be16a",
@@ -238,7 +262,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "support specialist",
-      "posted_date": "Posted 21 Days Ago",
+      "posted_date": "Posted 22 Days Ago",
       "first_seen": "2026-06-05"
     },
     {
