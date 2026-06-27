@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-06-26T14:37",
+  "last_updated": "2026-06-27T13:55",
   "jobs": [
+    {
+      "id": "5961bdd37212",
+      "title": "Nights Customer Experience Representative - ICS",
+      "district": "J.B. Hunt",
+      "location": "Lowell, AR - JB Hunt Corporate B & C",
+      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-B--C/Nights-Customer-Experience-Representative---ICS_00629759",
+      "platform": "Workday",
+      "category": "freight",
+      "match_reason": "customer experience",
+      "posted_date": "Posted Yesterday",
+      "first_seen": "2026-06-27"
+    },
     {
       "id": "0cae83bdb036",
       "title": "Customer Experience Appointment Representative",
@@ -10,7 +22,7 @@
       "platform": "Workday",
       "category": "freight",
       "match_reason": "customer experience",
-      "posted_date": "Posted Today",
+      "posted_date": "Posted Yesterday",
       "first_seen": "2026-06-26"
     },
     {
@@ -22,7 +34,7 @@
       "platform": "Workday",
       "category": "freight",
       "match_reason": "customer experience",
-      "posted_date": "Posted Today",
+      "posted_date": "Posted Yesterday",
       "first_seen": "2026-06-26"
     },
     {
@@ -34,7 +46,7 @@
       "platform": "Workday",
       "category": "freight",
       "match_reason": "truckload",
-      "posted_date": "Posted Yesterday",
+      "posted_date": "Posted 2 Days Ago",
       "first_seen": "2026-06-26"
     },
     {
@@ -46,20 +58,56 @@
       "platform": "Workday",
       "category": "freight",
       "match_reason": "carrier relations",
-      "posted_date": "Posted Yesterday",
+      "posted_date": "Posted 2 Days Ago",
       "first_seen": "2026-06-26"
     },
     {
-      "id": "39d58b156098",
-      "title": "TMPS Customer Service Representative 1 - 17878",
+      "id": "f55493242c0f",
+      "title": "Teller (Floater) - 17898",
       "district": "Arvest Bank",
       "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C17878%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C17898%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
       "platform": "Infor",
       "category": "banking",
-      "match_reason": "customer service",
+      "match_reason": "teller",
       "posted_date": "",
-      "first_seen": "2026-06-25"
+      "first_seen": "2026-06-27"
+    },
+    {
+      "id": "c24735209fcd",
+      "title": "Teller (Floater) - 17896",
+      "district": "Arvest Bank",
+      "location": "",
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C17896%2C9%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "platform": "Infor",
+      "category": "banking",
+      "match_reason": "teller",
+      "posted_date": "",
+      "first_seen": "2026-06-27"
+    },
+    {
+      "id": "641c21558a35",
+      "title": "Teller - 17895",
+      "district": "Arvest Bank",
+      "location": "",
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C17895%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "platform": "Infor",
+      "category": "banking",
+      "match_reason": "teller",
+      "posted_date": "",
+      "first_seen": "2026-06-27"
+    },
+    {
+      "id": "ad181e89443e",
+      "title": "Teller - 17894",
+      "district": "Arvest Bank",
+      "location": "",
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C17894%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "platform": "Infor",
+      "category": "banking",
+      "match_reason": "teller",
+      "posted_date": "",
+      "first_seen": "2026-06-27"
     },
     {
       "id": "68c589a1dbb1",
@@ -110,6 +158,30 @@
       "first_seen": "2026-06-02"
     },
     {
+      "id": "0ac920ec0cb0",
+      "title": "Real Estate Corporate Banking Associate",
+      "district": "Regions Bank",
+      "location": "",
+      "url": "https://careers.regions.com/us/en/job/R101375/Real-Estate-Corporate-Banking-Associate",
+      "platform": "Regions",
+      "category": "banking",
+      "match_reason": "banking associate",
+      "posted_date": "",
+      "first_seen": "2026-06-27"
+    },
+    {
+      "id": "0a16f2610ba4",
+      "title": "Apply NowReal Estate Corporate Banking Associate",
+      "district": "Regions Bank",
+      "location": "",
+      "url": "https://careers.regions.com/us/en/apply?jobSeqNo=RFCOUSR101375ENUSEXTERNAL",
+      "platform": "Regions",
+      "category": "banking",
+      "match_reason": "banking associate",
+      "posted_date": "",
+      "first_seen": "2026-06-27"
+    },
+    {
       "id": "5664e5ba8638",
       "title": "DISTRICT COURT: Deputy Court Clerk I",
       "district": "Rogers (City)",
@@ -132,18 +204,6 @@
       "match_reason": "support specialist",
       "posted_date": "",
       "first_seen": "2026-06-10"
-    },
-    {
-      "id": "d9592573046c",
-      "title": "Part Time Library Clerk II (Adult & Circulation Services) W/Th/Sa",
-      "district": "Bentonville (City)",
-      "location": "Bentonville, AR",
-      "url": "https://www.bentonvillear.com/1414/bentonvillear.bamboohr.com/careers/1239",
-      "platform": "CivicEngage",
-      "category": "community",
-      "match_reason": "clerk",
-      "posted_date": "",
-      "first_seen": "2026-06-02"
     },
     {
       "id": "f298dbdfde7b",
@@ -230,6 +290,18 @@
       "first_seen": "2026-06-23"
     },
     {
+      "id": "551f3393db9e",
+      "title": "Student Financial Services & Records Assistant",
+      "district": "UAF",
+      "location": "Fayetteville, AR",
+      "url": "https://uasys.wd5.myworkdayjobs.com/en-US/UAF_External_Career_Site/job/Fayetteville-AR/Student-Financial-Services---Records-Assistant_R0087653",
+      "platform": "Workday",
+      "category": "community",
+      "match_reason": "financial services",
+      "posted_date": "Posted Yesterday",
+      "first_seen": "2026-06-27"
+    },
+    {
       "id": "2ab1302cf618",
       "title": "Financial Support Specialist",
       "district": "UAF",
@@ -238,7 +310,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "support specialist",
-      "posted_date": "Posted Yesterday",
+      "posted_date": "Posted 2 Days Ago",
       "first_seen": "2026-06-26"
     },
     {
@@ -250,7 +322,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "administrative specialist",
-      "posted_date": "Posted 3 Days Ago",
+      "posted_date": "Posted 4 Days Ago",
       "first_seen": "2026-06-24"
     },
     {
@@ -262,20 +334,8 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "support specialist",
-      "posted_date": "Posted 22 Days Ago",
+      "posted_date": "Posted 23 Days Ago",
       "first_seen": "2026-06-05"
-    },
-    {
-      "id": "67f0d7cfcac8",
-      "title": "Death Care Jobs",
-      "district": "Connecting Directors",
-      "location": "",
-      "url": "https://deathcarejobs.com/?utm_source=Connecting%20Directors&utm_medium=page&utm_campaign=%2Fjobs",
-      "platform": "ConnectingDirectors",
-      "category": "funeral",
-      "match_reason": "death care",
-      "posted_date": "",
-      "first_seen": "2026-05-06"
     }
   ],
   "sources": [
