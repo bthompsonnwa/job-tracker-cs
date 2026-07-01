@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-06-30T14:31",
+  "last_updated": "2026-07-01T14:48",
   "jobs": [
+    {
+      "id": "fff1db692a05",
+      "title": "Customer Experience Representative - ICS",
+      "district": "J.B. Hunt",
+      "location": "Lowell, AR - JB Hunt Corporate B & C",
+      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-B--C/Customer-Experience-Representative---ICS_00625776",
+      "platform": "Workday",
+      "category": "freight",
+      "match_reason": "customer experience",
+      "posted_date": "Posted Yesterday",
+      "first_seen": "2026-07-01"
+    },
     {
       "id": "3b8579532286",
       "title": "Customer Experience Representative",
@@ -10,32 +22,44 @@
       "platform": "Workday",
       "category": "freight",
       "match_reason": "customer experience",
-      "posted_date": "Posted Yesterday",
+      "posted_date": "Posted 2 Days Ago",
       "first_seen": "2026-06-26"
     },
     {
-      "id": "e6a455277369",
-      "title": "Marketing Communications Specialist -  Executive Communications",
-      "district": "J.B. Hunt",
-      "location": "Lowell, AR - JB Hunt Corporate A & Marketing",
-      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-A--Marketing/Marketing-Communications-Specialist----Executive-Communications_00632335-1",
-      "platform": "Workday",
-      "category": "freight",
-      "match_reason": "communications specialist",
-      "posted_date": "Posted Yesterday",
-      "first_seen": "2026-06-29"
+      "id": "d0d9acedc569",
+      "title": "Administrative Assistant 2 - 17933",
+      "district": "Arvest Bank",
+      "location": "",
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C17933%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "platform": "Infor",
+      "category": "banking",
+      "match_reason": "administrative assistant",
+      "posted_date": "",
+      "first_seen": "2026-07-01"
     },
     {
-      "id": "5961bdd37212",
-      "title": "Nights Customer Experience Representative - ICS",
-      "district": "J.B. Hunt",
-      "location": "Lowell, AR - JB Hunt Corporate B & C",
-      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-B--C/Nights-Customer-Experience-Representative---ICS_00629759",
-      "platform": "Workday",
-      "category": "freight",
-      "match_reason": "customer experience",
-      "posted_date": "Posted 4 Days Ago",
-      "first_seen": "2026-06-27"
+      "id": "63c44fc45f56",
+      "title": "Teller - 17931",
+      "district": "Arvest Bank",
+      "location": "",
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C17931%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "platform": "Infor",
+      "category": "banking",
+      "match_reason": "teller",
+      "posted_date": "",
+      "first_seen": "2026-07-01"
+    },
+    {
+      "id": "6db394e91234",
+      "title": "Teller (Floater) - 17918",
+      "district": "Arvest Bank",
+      "location": "",
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C17918%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "platform": "Infor",
+      "category": "banking",
+      "match_reason": "teller",
+      "posted_date": "",
+      "first_seen": "2026-07-01"
     },
     {
       "id": "40b1c33aca68",
@@ -67,42 +91,6 @@
       "district": "Arvest Bank",
       "location": "",
       "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C17898%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
-      "platform": "Infor",
-      "category": "banking",
-      "match_reason": "teller",
-      "posted_date": "",
-      "first_seen": "2026-06-27"
-    },
-    {
-      "id": "c24735209fcd",
-      "title": "Teller (Floater) - 17896",
-      "district": "Arvest Bank",
-      "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C17896%2C9%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
-      "platform": "Infor",
-      "category": "banking",
-      "match_reason": "teller",
-      "posted_date": "",
-      "first_seen": "2026-06-27"
-    },
-    {
-      "id": "641c21558a35",
-      "title": "Teller - 17895",
-      "district": "Arvest Bank",
-      "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C17895%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
-      "platform": "Infor",
-      "category": "banking",
-      "match_reason": "teller",
-      "posted_date": "",
-      "first_seen": "2026-06-27"
-    },
-    {
-      "id": "ad181e89443e",
-      "title": "Teller - 17894",
-      "district": "Arvest Bank",
-      "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C17894%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
       "platform": "Infor",
       "category": "banking",
       "match_reason": "teller",
@@ -286,7 +274,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "financial services",
-      "posted_date": "Posted 4 Days Ago",
+      "posted_date": "Posted 5 Days Ago",
       "first_seen": "2026-06-27"
     },
     {
@@ -298,20 +286,8 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "support specialist",
-      "posted_date": "Posted 5 Days Ago",
+      "posted_date": "Posted 6 Days Ago",
       "first_seen": "2026-06-26"
-    },
-    {
-      "id": "6e62db24d31b",
-      "title": "Residence Hall Administrative Specialist",
-      "district": "UAF",
-      "location": "Fayetteville, AR",
-      "url": "https://uasys.wd5.myworkdayjobs.com/en-US/UAF_External_Career_Site/job/Fayetteville-AR/Residence-Hall-Administrative-Specialist_R0087420",
-      "platform": "Workday",
-      "category": "community",
-      "match_reason": "administrative specialist",
-      "posted_date": "Posted 7 Days Ago",
-      "first_seen": "2026-06-24"
     },
     {
       "id": "8a9add1be16a",
@@ -322,7 +298,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "support specialist",
-      "posted_date": "Posted 26 Days Ago",
+      "posted_date": "Posted 27 Days Ago",
       "first_seen": "2026-06-05"
     },
     {
