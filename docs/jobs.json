@@ -1,113 +1,41 @@
 {
-  "last_updated": "2026-07-01T14:48",
+  "last_updated": "2026-07-02T14:14",
   "jobs": [
     {
-      "id": "fff1db692a05",
-      "title": "Customer Experience Representative - ICS",
-      "district": "J.B. Hunt",
-      "location": "Lowell, AR - JB Hunt Corporate B & C",
-      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-B--C/Customer-Experience-Representative---ICS_00625776",
-      "platform": "Workday",
-      "category": "freight",
-      "match_reason": "customer experience",
-      "posted_date": "Posted Yesterday",
-      "first_seen": "2026-07-01"
-    },
-    {
-      "id": "3b8579532286",
-      "title": "Customer Experience Representative",
-      "district": "J.B. Hunt",
-      "location": "Lowell, AR - JB Hunt Corporate A & Marketing",
-      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-A--Marketing/Customer-Experience-Representative_00629841-1",
-      "platform": "Workday",
-      "category": "freight",
-      "match_reason": "customer experience",
-      "posted_date": "Posted 2 Days Ago",
-      "first_seen": "2026-06-26"
-    },
-    {
-      "id": "d0d9acedc569",
-      "title": "Administrative Assistant 2 - 17933",
+      "id": "a13b9abd784f",
+      "title": "Teller - 17950",
       "district": "Arvest Bank",
       "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C17933%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
-      "platform": "Infor",
-      "category": "banking",
-      "match_reason": "administrative assistant",
-      "posted_date": "",
-      "first_seen": "2026-07-01"
-    },
-    {
-      "id": "63c44fc45f56",
-      "title": "Teller - 17931",
-      "district": "Arvest Bank",
-      "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C17931%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C17950%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
       "platform": "Infor",
       "category": "banking",
       "match_reason": "teller",
       "posted_date": "",
-      "first_seen": "2026-07-01"
+      "first_seen": "2026-07-02"
     },
     {
-      "id": "6db394e91234",
-      "title": "Teller (Floater) - 17918",
+      "id": "8348442901d4",
+      "title": "Teller - 17948",
       "district": "Arvest Bank",
       "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C17918%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C17948%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
       "platform": "Infor",
       "category": "banking",
       "match_reason": "teller",
       "posted_date": "",
-      "first_seen": "2026-07-01"
+      "first_seen": "2026-07-02"
     },
     {
-      "id": "40b1c33aca68",
-      "title": "Credit Analyst 3 - 17920",
+      "id": "cf513edcd1ad",
+      "title": "Teller - 17944",
       "district": "Arvest Bank",
       "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C17920%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
-      "platform": "Infor",
-      "category": "banking",
-      "match_reason": "credit analyst",
-      "posted_date": "",
-      "first_seen": "2026-06-30"
-    },
-    {
-      "id": "b166f8d9e5a5",
-      "title": "Teller - 17916",
-      "district": "Arvest Bank",
-      "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C17916%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C17944%2C9%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
       "platform": "Infor",
       "category": "banking",
       "match_reason": "teller",
       "posted_date": "",
-      "first_seen": "2026-06-30"
-    },
-    {
-      "id": "f55493242c0f",
-      "title": "Teller (Floater) - 17898",
-      "district": "Arvest Bank",
-      "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C17898%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
-      "platform": "Infor",
-      "category": "banking",
-      "match_reason": "teller",
-      "posted_date": "",
-      "first_seen": "2026-06-27"
-    },
-    {
-      "id": "9100953d82ec",
-      "title": "Teller",
-      "district": "First National Bank",
-      "location": "Fort Smith, AR",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4259420",
-      "platform": "Paylocity",
-      "category": "banking",
-      "match_reason": "teller",
-      "posted_date": "",
-      "first_seen": "2026-06-25"
+      "first_seen": "2026-07-02"
     },
     {
       "id": "a7724fbde306",
@@ -266,6 +194,18 @@
       "first_seen": "2026-06-23"
     },
     {
+      "id": "1a27df35cb35",
+      "title": "Hourly Transit Dispatcher",
+      "district": "UAF",
+      "location": "Fayetteville, AR",
+      "url": "https://uasys.wd5.myworkdayjobs.com/en-US/UAF_External_Career_Site/job/Fayetteville-AR/Hourly-Transit-Dispatcher_R0087670-1",
+      "platform": "Workday",
+      "category": "community",
+      "match_reason": "dispatch",
+      "posted_date": "Posted Yesterday",
+      "first_seen": "2026-07-02"
+    },
+    {
       "id": "551f3393db9e",
       "title": "Student Financial Services & Records Assistant",
       "district": "UAF",
@@ -274,7 +214,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "financial services",
-      "posted_date": "Posted 5 Days Ago",
+      "posted_date": "Posted 6 Days Ago",
       "first_seen": "2026-06-27"
     },
     {
@@ -286,7 +226,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "support specialist",
-      "posted_date": "Posted 6 Days Ago",
+      "posted_date": "Posted 7 Days Ago",
       "first_seen": "2026-06-26"
     },
     {
@@ -298,7 +238,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "support specialist",
-      "posted_date": "Posted 27 Days Ago",
+      "posted_date": "Posted 28 Days Ago",
       "first_seen": "2026-06-05"
     },
     {
