@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-07-02T14:14",
+  "last_updated": "2026-07-03T14:19",
   "jobs": [
+    {
+      "id": "4a56abb9ddb8",
+      "title": "Sr Carrier Relations Representative",
+      "district": "J.B. Hunt",
+      "location": "Lowell, AR - JB Hunt Corporate B & C",
+      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-B--C/Sr-Carrier-Relations-Representative_00632310-1",
+      "platform": "Workday",
+      "category": "freight",
+      "match_reason": "carrier relations",
+      "posted_date": "Posted Yesterday",
+      "first_seen": "2026-07-03"
+    },
+    {
+      "id": "62dda0a82199",
+      "title": "Customer Experience Support",
+      "district": "J.B. Hunt",
+      "location": "Lowell, AR - JB Hunt Corporate B & C",
+      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-B--C/Customer-Experience-Support_00632997",
+      "platform": "Workday",
+      "category": "freight",
+      "match_reason": "customer experience",
+      "posted_date": "Posted Yesterday",
+      "first_seen": "2026-07-03"
+    },
+    {
+      "id": "e7e1b7f422b3",
+      "title": "Customer Experience Representative - ICS",
+      "district": "J.B. Hunt",
+      "location": "Lowell, AR - JB Hunt Corporate B & C",
+      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-B--C/Customer-Experience-Representative---ICS_00632742",
+      "platform": "Workday",
+      "category": "freight",
+      "match_reason": "customer experience",
+      "posted_date": "Posted Yesterday",
+      "first_seen": "2026-07-03"
+    },
     {
       "id": "a13b9abd784f",
       "title": "Teller - 17950",
@@ -122,6 +158,18 @@
       "first_seen": "2026-06-18"
     },
     {
+      "id": "fb077f7df073",
+      "title": "Recreation Services Representative II - Front Desk",
+      "district": "Bentonville (City)",
+      "location": "Bentonville, AR",
+      "url": "https://www.bentonvillear.com/1414/bentonvillear.bamboohr.com/careers/1256",
+      "platform": "CivicEngage",
+      "category": "community",
+      "match_reason": "front desk",
+      "posted_date": "",
+      "first_seen": "2026-07-03"
+    },
+    {
       "id": "2a1d4c16335a",
       "title": "Police Clerk I/II",
       "district": "Bentonville (City)",
@@ -202,7 +250,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "dispatch",
-      "posted_date": "Posted Yesterday",
+      "posted_date": "Posted 2 Days Ago",
       "first_seen": "2026-07-02"
     },
     {
@@ -214,7 +262,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "financial services",
-      "posted_date": "Posted 6 Days Ago",
+      "posted_date": "Posted 7 Days Ago",
       "first_seen": "2026-06-27"
     },
     {
@@ -226,7 +274,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "support specialist",
-      "posted_date": "Posted 7 Days Ago",
+      "posted_date": "Posted 8 Days Ago",
       "first_seen": "2026-06-26"
     },
     {
@@ -238,7 +286,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "support specialist",
-      "posted_date": "Posted 28 Days Ago",
+      "posted_date": "Posted 29 Days Ago",
       "first_seen": "2026-06-05"
     },
     {
