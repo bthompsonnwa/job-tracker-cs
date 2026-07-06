@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-07-05T13:52",
+  "last_updated": "2026-07-06T15:45",
   "jobs": [
+    {
+      "id": "09682fb55bde",
+      "title": "Billing Representative I",
+      "district": "J.B. Hunt",
+      "location": "Lowell, AR - JB Hunt Corporate A & Marketing",
+      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-A--Marketing/Billing-Representative-I_00633155",
+      "platform": "Workday",
+      "category": "freight",
+      "match_reason": "billing representative",
+      "posted_date": "Posted Today",
+      "first_seen": "2026-07-06"
+    },
     {
       "id": "4a56abb9ddb8",
       "title": "Sr Carrier Relations Representative",
@@ -10,7 +22,7 @@
       "platform": "Workday",
       "category": "freight",
       "match_reason": "carrier relations",
-      "posted_date": "Posted 3 Days Ago",
+      "posted_date": "Posted 4 Days Ago",
       "first_seen": "2026-07-03"
     },
     {
@@ -22,7 +34,7 @@
       "platform": "Workday",
       "category": "freight",
       "match_reason": "customer experience",
-      "posted_date": "Posted 3 Days Ago",
+      "posted_date": "Posted 4 Days Ago",
       "first_seen": "2026-07-03"
     },
     {
@@ -34,8 +46,20 @@
       "platform": "Workday",
       "category": "freight",
       "match_reason": "customer experience",
-      "posted_date": "Posted 3 Days Ago",
+      "posted_date": "Posted 4 Days Ago",
       "first_seen": "2026-07-03"
+    },
+    {
+      "id": "c11938a07c40",
+      "title": "Teller",
+      "district": "First National Bank",
+      "location": "Fort Smith, AR",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4306843",
+      "platform": "Paylocity",
+      "category": "banking",
+      "match_reason": "teller",
+      "posted_date": "",
+      "first_seen": "2026-07-06"
     },
     {
       "id": "a7724fbde306",
@@ -214,7 +238,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "dispatch",
-      "posted_date": "Posted 4 Days Ago",
+      "posted_date": "Posted 5 Days Ago",
       "first_seen": "2026-07-02"
     },
     {
@@ -226,7 +250,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "financial services",
-      "posted_date": "Posted 9 Days Ago",
+      "posted_date": "Posted 10 Days Ago",
       "first_seen": "2026-06-27"
     },
     {
@@ -238,7 +262,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "support specialist",
-      "posted_date": "Posted 10 Days Ago",
+      "posted_date": "Posted 11 Days Ago",
       "first_seen": "2026-06-26"
     },
     {
