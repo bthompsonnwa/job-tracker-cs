@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-07-06T15:45",
+  "last_updated": "2026-07-07T14:49",
   "jobs": [
+    {
+      "id": "ec1f1a59bf0a",
+      "title": "Customer Experience Representative - ICS",
+      "district": "J.B. Hunt",
+      "location": "Lowell, AR - JB Hunt Corporate E",
+      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-E/Customer-Experience-Representative---ICS_00633086",
+      "platform": "Workday",
+      "category": "freight",
+      "match_reason": "customer experience",
+      "posted_date": "Posted Yesterday",
+      "first_seen": "2026-07-07"
+    },
+    {
+      "id": "0cae83bdb036",
+      "title": "Customer Experience Appointment Representative",
+      "district": "J.B. Hunt",
+      "location": "Lowell, AR - JB Hunt Corporate A & Marketing",
+      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-A--Marketing/Customer-Experience-Appointment-Representative_00632194",
+      "platform": "Workday",
+      "category": "freight",
+      "match_reason": "customer experience",
+      "posted_date": "Posted Yesterday",
+      "first_seen": "2026-07-07"
+    },
     {
       "id": "09682fb55bde",
       "title": "Billing Representative I",
@@ -10,7 +34,7 @@
       "platform": "Workday",
       "category": "freight",
       "match_reason": "billing representative",
-      "posted_date": "Posted Today",
+      "posted_date": "Posted Yesterday",
       "first_seen": "2026-07-06"
     },
     {
@@ -22,7 +46,7 @@
       "platform": "Workday",
       "category": "freight",
       "match_reason": "carrier relations",
-      "posted_date": "Posted 4 Days Ago",
+      "posted_date": "Posted 5 Days Ago",
       "first_seen": "2026-07-03"
     },
     {
@@ -34,7 +58,7 @@
       "platform": "Workday",
       "category": "freight",
       "match_reason": "customer experience",
-      "posted_date": "Posted 4 Days Ago",
+      "posted_date": "Posted 5 Days Ago",
       "first_seen": "2026-07-03"
     },
     {
@@ -46,8 +70,44 @@
       "platform": "Workday",
       "category": "freight",
       "match_reason": "customer experience",
-      "posted_date": "Posted 4 Days Ago",
+      "posted_date": "Posted 5 Days Ago",
       "first_seen": "2026-07-03"
+    },
+    {
+      "id": "5acf25fbd82e",
+      "title": "Teller - 17995",
+      "district": "Arvest Bank",
+      "location": "",
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C17995%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "platform": "Infor",
+      "category": "banking",
+      "match_reason": "teller",
+      "posted_date": "",
+      "first_seen": "2026-07-07"
+    },
+    {
+      "id": "d85996c0755f",
+      "title": "Teller - 17982",
+      "district": "Arvest Bank",
+      "location": "",
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C17982%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "platform": "Infor",
+      "category": "banking",
+      "match_reason": "teller",
+      "posted_date": "",
+      "first_seen": "2026-07-07"
+    },
+    {
+      "id": "d0b168d84106",
+      "title": "Teller (Floater) - 17938",
+      "district": "Arvest Bank",
+      "location": "",
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C17938%2C3%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "platform": "Infor",
+      "category": "banking",
+      "match_reason": "teller",
+      "posted_date": "",
+      "first_seen": "2026-07-07"
     },
     {
       "id": "c11938a07c40",
@@ -132,6 +192,18 @@
       "match_reason": "support specialist",
       "posted_date": "",
       "first_seen": "2026-06-10"
+    },
+    {
+      "id": "bda86fab4acc",
+      "title": "Part Time Library Clerk II (Teen Services) M/T/W/S",
+      "district": "Bentonville (City)",
+      "location": "Bentonville, AR",
+      "url": "https://www.bentonvillear.com/1414/bentonvillear.bamboohr.com/careers/1257",
+      "platform": "CivicEngage",
+      "category": "community",
+      "match_reason": "clerk",
+      "posted_date": "",
+      "first_seen": "2026-07-07"
     },
     {
       "id": "f298dbdfde7b",
@@ -238,7 +310,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "dispatch",
-      "posted_date": "Posted 5 Days Ago",
+      "posted_date": "Posted 6 Days Ago",
       "first_seen": "2026-07-02"
     },
     {
@@ -250,7 +322,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "financial services",
-      "posted_date": "Posted 10 Days Ago",
+      "posted_date": "Posted 11 Days Ago",
       "first_seen": "2026-06-27"
     },
     {
@@ -262,7 +334,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "support specialist",
-      "posted_date": "Posted 11 Days Ago",
+      "posted_date": "Posted 12 Days Ago",
       "first_seen": "2026-06-26"
     },
     {
