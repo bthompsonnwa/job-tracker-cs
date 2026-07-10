@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-07-09T15:21",
+  "last_updated": "2026-07-10T00:44",
   "jobs": [
+    {
+      "id": "5a8a30fabfff",
+      "title": "Internal Communications Specialist I",
+      "district": "ArcBest",
+      "location": "Fort Smith, AR",
+      "url": "https://careers.arcb.com/careersmarketplace/JobDetail/Fort-Smith-Arkansas-United-States-Internal-Communications-Specialist-I/28918",
+      "platform": "CareersMarketplace",
+      "category": "freight",
+      "match_reason": "communications specialist",
+      "posted_date": "",
+      "first_seen": "2026-07-10"
+    },
+    {
+      "id": "f15daf61f410",
+      "title": "Customer Experience Representative",
+      "district": "J.B. Hunt",
+      "location": "Lowell, AR - JB Hunt Corporate B & C",
+      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-B--C/Nights-Customer-Experience-Representativ_00620428",
+      "platform": "Workday",
+      "category": "freight",
+      "match_reason": "customer experience",
+      "posted_date": "Posted Today",
+      "first_seen": "2026-07-10"
+    },
     {
       "id": "ec1f1a59bf0a",
       "title": "Customer Experience Representative - ICS",
@@ -26,28 +50,28 @@
       "first_seen": "2026-07-07"
     },
     {
-      "id": "4a56abb9ddb8",
-      "title": "Sr Carrier Relations Representative",
-      "district": "J.B. Hunt",
-      "location": "Lowell, AR - JB Hunt Corporate B & C",
-      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-B--C/Sr-Carrier-Relations-Representative_00632310-1",
-      "platform": "Workday",
-      "category": "freight",
-      "match_reason": "carrier relations",
-      "posted_date": "Posted 7 Days Ago",
-      "first_seen": "2026-07-03"
+      "id": "62031a407d4d",
+      "title": "Teller - 18041",
+      "district": "Arvest Bank",
+      "location": "",
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18041%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "platform": "Infor",
+      "category": "banking",
+      "match_reason": "teller",
+      "posted_date": "",
+      "first_seen": "2026-07-10"
     },
     {
-      "id": "62dda0a82199",
-      "title": "Customer Experience Support",
-      "district": "J.B. Hunt",
-      "location": "Lowell, AR - JB Hunt Corporate B & C",
-      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-B--C/Customer-Experience-Support_00632997",
-      "platform": "Workday",
-      "category": "freight",
-      "match_reason": "customer experience",
-      "posted_date": "Posted 7 Days Ago",
-      "first_seen": "2026-07-03"
+      "id": "d7d8fb1adc7b",
+      "title": "Teller - 18021",
+      "district": "Arvest Bank",
+      "location": "",
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18021%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "platform": "Infor",
+      "category": "banking",
+      "match_reason": "teller",
+      "posted_date": "",
+      "first_seen": "2026-07-10"
     },
     {
       "id": "0a26f2abd4c9",
@@ -67,18 +91,6 @@
       "district": "Arvest Bank",
       "location": "",
       "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18019%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
-      "platform": "Infor",
-      "category": "banking",
-      "match_reason": "teller",
-      "posted_date": "",
-      "first_seen": "2026-07-09"
-    },
-    {
-      "id": "cf07ff01e12a",
-      "title": "Teller - 18018",
-      "district": "Arvest Bank",
-      "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18018%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
       "platform": "Infor",
       "category": "banking",
       "match_reason": "teller",
@@ -110,18 +122,6 @@
       "first_seen": "2026-06-23"
     },
     {
-      "id": "5b68d700f2d9",
-      "title": "Contact Center/Operations",
-      "district": "Regions Bank",
-      "location": "",
-      "url": "https://careers.regions.com/us/en/explore-contact-center-and-operations",
-      "platform": "Regions",
-      "category": "banking",
-      "match_reason": "contact center",
-      "posted_date": "",
-      "first_seen": "2026-06-02"
-    },
-    {
       "id": "0ac920ec0cb0",
       "title": "Real Estate Corporate Banking Associate",
       "district": "Regions Bank",
@@ -134,28 +134,16 @@
       "first_seen": "2026-06-27"
     },
     {
-      "id": "0a16f2610ba4",
-      "title": "Apply NowReal Estate Corporate Banking Associate",
-      "district": "Regions Bank",
+      "id": "9a3e1777d9d1",
+      "title": "Senior Credit Analyst/Underwriter",
+      "district": "Centennial Bank",
       "location": "",
-      "url": "https://careers.regions.com/us/en/apply?jobSeqNo=RFCOUSR101375ENUSEXTERNAL",
-      "platform": "Regions",
+      "url": "https://recruiting.ultipro.com/CEN1011CENBA/JobBoard/51298f34-52ec-478d-bafa-d62ea4ea8c52/OpportunityDetail?opportunityId=6b20b652-7263-4b39-a38c-4ef5bc3a726a",
+      "platform": "UltiPro",
       "category": "banking",
-      "match_reason": "banking associate",
+      "match_reason": "credit analyst",
       "posted_date": "",
-      "first_seen": "2026-06-27"
-    },
-    {
-      "id": "5664e5ba8638",
-      "title": "DISTRICT COURT: Deputy Court Clerk I",
-      "district": "Rogers (City)",
-      "location": "Rogers, AR",
-      "url": "https://www.rogersar.gov/Jobs.aspx?UniqueId=98&From=All&CommunityJobs=False&JobID=DISTRICT-COURT-Deputy-Court-Clerk-I-123",
-      "platform": "CivicEngage",
-      "category": "community",
-      "match_reason": "clerk",
-      "posted_date": "",
-      "first_seen": "2026-06-18"
+      "first_seen": "2026-07-10"
     },
     {
       "id": "0249bd149b5c",
@@ -170,88 +158,88 @@
       "first_seen": "2026-06-10"
     },
     {
-      "id": "bda86fab4acc",
-      "title": "Part Time Library Clerk II (Teen Services) M/T/W/S",
-      "district": "Bentonville (City)",
-      "location": "Bentonville, AR",
-      "url": "https://www.bentonvillear.com/1414/bentonvillear.bamboohr.com/careers/1257",
-      "platform": "CivicEngage",
-      "category": "community",
-      "match_reason": "clerk",
-      "posted_date": "",
-      "first_seen": "2026-07-07"
-    },
-    {
-      "id": "f298dbdfde7b",
+      "id": "2aa2fd89401f",
       "title": "(1) Part Time Recreation Worker I/II/III Front Desk (Adult Rec Center)",
       "district": "Bentonville (City)",
       "location": "Bentonville, AR",
-      "url": "https://www.bentonvillear.com/1414/bentonvillear.bamboohr.com/careers/1248",
+      "url": "https://www.bentonvillear.com//bentonvillear.bamboohr.com/careers/1248",
       "platform": "CivicEngage",
       "category": "community",
       "match_reason": "front desk",
       "posted_date": "",
-      "first_seen": "2026-06-18"
+      "first_seen": "2026-07-10"
     },
     {
-      "id": "fb077f7df073",
+      "id": "e90d0005a47a",
       "title": "Recreation Services Representative II - Front Desk",
       "district": "Bentonville (City)",
       "location": "Bentonville, AR",
-      "url": "https://www.bentonvillear.com/1414/bentonvillear.bamboohr.com/careers/1256",
+      "url": "https://www.bentonvillear.com//bentonvillear.bamboohr.com/careers/1256",
       "platform": "CivicEngage",
       "category": "community",
       "match_reason": "front desk",
       "posted_date": "",
-      "first_seen": "2026-07-03"
+      "first_seen": "2026-07-10"
     },
     {
-      "id": "2a1d4c16335a",
-      "title": "Police Clerk I/II",
-      "district": "Bentonville (City)",
-      "location": "Bentonville, AR",
-      "url": "https://www.bentonvillear.com/1414/bentonvillear.bamboohr.com/careers/1224",
-      "platform": "CivicEngage",
-      "category": "community",
-      "match_reason": "clerk",
-      "posted_date": "",
-      "first_seen": "2026-06-01"
-    },
-    {
-      "id": "188d019c8016",
+      "id": "98e3f4a213ee",
       "title": "Purchasing & Compliance Specialist III",
       "district": "Bentonville (City)",
       "location": "Bentonville, AR",
-      "url": "https://www.bentonvillear.com/1414/bentonvillear.bamboohr.com/careers/1250",
+      "url": "https://www.bentonvillear.com//bentonvillear.bamboohr.com/careers/1250",
       "platform": "CivicEngage",
       "category": "community",
       "match_reason": "compliance specialist",
       "posted_date": "",
-      "first_seen": "2026-06-18"
+      "first_seen": "2026-07-10"
     },
     {
-      "id": "0fc4aeb003a0",
+      "id": "b3cf160aa78a",
       "title": "(1) Customer Service Rep I",
       "district": "Bentonville (City)",
       "location": "Bentonville, AR",
-      "url": "https://www.bentonvillear.com/1414/bentonvillear.bamboohr.com/careers/1233",
+      "url": "https://www.bentonvillear.com//bentonvillear.bamboohr.com/careers/1233",
       "platform": "CivicEngage",
       "category": "community",
       "match_reason": "customer service",
       "posted_date": "",
-      "first_seen": "2026-06-01"
+      "first_seen": "2026-07-10"
     },
     {
-      "id": "8543a63d12c8",
-      "title": "LIBRARY CLERK - PART TIME - LIBRARY",
-      "district": "City of Ponca City",
-      "location": "Ponca City, OK",
-      "url": "https://www.poncacityok.gov/Jobs.aspx?UniqueId=76&From=All&CommunityJobs=False&JobID=LIBRARY-CLERK-PART-TIME-LIBRARY-308",
+      "id": "4b560cb659c1",
+      "title": "Project Coordinator",
+      "district": "Bentonville (City)",
+      "location": "Bentonville, AR",
+      "url": "https://www.bentonvillear.com//bentonvillear.bamboohr.com/careers/1209",
       "platform": "CivicEngage",
       "category": "community",
-      "match_reason": "clerk",
+      "match_reason": "project coordinator",
       "posted_date": "",
-      "first_seen": "2026-06-16"
+      "first_seen": "2026-07-10"
+    },
+    {
+      "id": "469d9f38d7a4",
+      "title": "DISPATCHER I (Shift: 2pm-10pm)  2026 - 03090",
+      "district": "Fayetteville (City)",
+      "location": "Fayetteville, AR",
+      "url": "https://www.governmentjobs.com/careers/fayettevillear/jobs/5377242/dispatcher-i-shift-2pm-10pm-2026-03090",
+      "platform": "GovernmentJobs",
+      "category": "community",
+      "match_reason": "dispatch",
+      "posted_date": "",
+      "first_seen": "2026-07-10"
+    },
+    {
+      "id": "4557d34401c3",
+      "title": "Front Desk - Part Time",
+      "district": "Springdale (City)",
+      "location": "Springdale, AR",
+      "url": "https://www.governmentjobs.com/careers/springdalear/jobs/5325879/front-desk-part-time",
+      "platform": "GovernmentJobs",
+      "category": "community",
+      "match_reason": "front desk",
+      "posted_date": "",
+      "first_seen": "2026-07-10"
     },
     {
       "id": "754fe9775d64",
@@ -266,6 +254,18 @@
       "first_seen": "2026-06-02"
     },
     {
+      "id": "f9025ce4da87",
+      "title": "Honor Scholars Program Coordinator and Advisor",
+      "district": "JBU",
+      "location": "Siloam Springs, AR",
+      "url": "https://www.jbu.edu/human-resources/staff-job-listings/hsp-program-coordinator?hsLang=en",
+      "platform": "JBU",
+      "category": "community",
+      "match_reason": "program coordinator",
+      "posted_date": "",
+      "first_seen": "2026-07-10"
+    },
+    {
       "id": "22c97df076f9",
       "title": "Administrative Assistant - College of Bible, Humanities and Arts",
       "district": "JBU",
@@ -278,16 +278,16 @@
       "first_seen": "2026-06-23"
     },
     {
-      "id": "456f6450c4ed",
-      "title": "RazorTemp - AVCF Student Account Representative",
+      "id": "fc13bbbaa475",
+      "title": "Student Account Representative",
       "district": "UAF",
-      "location": "Fayetteville",
-      "url": "https://uasys.wd5.myworkdayjobs.com/en-US/UAF_External_Career_Site/job/Fayetteville/RazorTemp---AVCF-Student-Account-Representative_R0087893-1",
+      "location": "Fayetteville, AR",
+      "url": "https://uasys.wd5.myworkdayjobs.com/en-US/UAF_External_Career_Site/job/Fayetteville-AR/Student-Account-Representative_R0086890-1",
       "platform": "Workday",
       "category": "community",
       "match_reason": "account representative",
-      "posted_date": "Posted Yesterday",
-      "first_seen": "2026-07-09"
+      "posted_date": "Posted Today",
+      "first_seen": "2026-07-10"
     },
     {
       "id": "7b616ee8ae2d",
@@ -326,18 +326,6 @@
       "first_seen": "2026-06-27"
     },
     {
-      "id": "2ab1302cf618",
-      "title": "Financial Support Specialist",
-      "district": "UAF",
-      "location": "Fayetteville",
-      "url": "https://uasys.wd5.myworkdayjobs.com/en-US/UAF_External_Career_Site/job/Fayetteville/Financial-Support-Specialist_R0084997",
-      "platform": "Workday",
-      "category": "community",
-      "match_reason": "support specialist",
-      "posted_date": "Posted 14 Days Ago",
-      "first_seen": "2026-06-26"
-    },
-    {
       "id": "8a9add1be16a",
       "title": "Fiscal Support Specialist",
       "district": "NWACC",
@@ -350,16 +338,40 @@
       "first_seen": "2026-06-05"
     },
     {
-      "id": "67f0d7cfcac8",
-      "title": "Death Care Jobs",
-      "district": "Connecting Directors",
-      "location": "",
-      "url": "https://deathcarejobs.com/?utm_source=Connecting%20Directors&utm_medium=page&utm_campaign=%2Fjobs",
-      "platform": "ConnectingDirectors",
-      "category": "funeral",
-      "match_reason": "death care",
+      "id": "a02e8a2e9444",
+      "title": "Patient Access Representative",
+      "district": "Mercy (Springdale)",
+      "location": "Springdale, AR",
+      "url": "https://careers.mercy.net/jobs/JR254873?lang=en-us",
+      "platform": "Mercy",
+      "category": "healthcare",
+      "match_reason": "patient access",
       "posted_date": "",
-      "first_seen": "2026-06-29"
+      "first_seen": "2026-07-10"
+    },
+    {
+      "id": "cea5bc064a65",
+      "title": "Patient Access Representative",
+      "district": "Mercy (Springdale)",
+      "location": "Springdale, AR",
+      "url": "https://careers.mercy.net/jobs/JR261200?lang=en-us",
+      "platform": "Mercy",
+      "category": "healthcare",
+      "match_reason": "patient access",
+      "posted_date": "",
+      "first_seen": "2026-07-10"
+    },
+    {
+      "id": "d36b8e39d14d",
+      "title": "Insurance Verification Specialist I",
+      "district": "UAMS (NWA campuses)",
+      "location": "2 Locations",
+      "url": "https://uasys.wd5.myworkdayjobs.com/en-US/UAMS_All_Careers/job/UAMS/Insurance-Verification-Specialist-I_R0086292",
+      "platform": "Workday",
+      "category": "healthcare",
+      "match_reason": "insurance verification",
+      "posted_date": "Posted 9 Days Ago",
+      "first_seen": "2026-07-10"
     }
   ],
   "sources": [
@@ -379,18 +391,8 @@
       "category": "freight"
     },
     {
-      "name": "XPO",
-      "url": "https://jobs.xpo.com/search/",
-      "category": "freight"
-    },
-    {
-      "name": "Echo Global",
-      "url": "https://www.echo.com/company/careers/open-positions/",
-      "category": "freight"
-    },
-    {
       "name": "Arvest Bank",
-      "url": "https://css-arvest-prd.inforcloudsuite.com/hcm/Jobs/form/JobBoard%28ARV,EXTERNAL%29.JobSearchCompositeForm?navigation=JobBoard%28ARV,EXTERNAL%29.JobSearchCompositeFormNav&csk.JobBoard=EXTERNAL&csk.showusingxi=true&csk.HROrganization=ARV",
+      "url": "https://css-arvest-prd.inforcloudsuite.com/hcm/Jobs/form/JobBoard%28ARV,EXTERNAL%29.JobSearchCompositeForm?csk.JobBoard=EXTERNAL&csk.HROrganization=ARV&menu=JobsNavigationMenu.NewJobSearch",
       "category": "banking"
     },
     {
@@ -410,17 +412,17 @@
     },
     {
       "name": "Bank of America",
-      "url": "https://careers.bankofamerica.com/en-us/job-search",
+      "url": "https://careers.bankofamerica.com/en-us/job-search?ref=search&search=jobsByLocation&start=0&rows=25&searchstring=Fayetteville%2C+AR&searchstring=Bentonville%2C+AR&searchstring=Springdale%2C+AR&searchstring=Rogers%2C+AR",
       "category": "banking"
     },
     {
-      "name": "Walmart (Supply Chain)",
-      "url": "https://careers.walmart.com/us/en/results?searchQuery=Bentonville&careerareas=Supply%20Chain%20and%20Transportation",
-      "category": "corporate"
+      "name": "Centennial Bank",
+      "url": "https://recruiting.ultipro.com/CEN1011CENBA/JobBoard/51298f34-52ec-478d-bafa-d62ea4ea8c52/?q=&o=postedDateDesc&w=&wc=&we=&wpst=&f4=C67HCFOqPkiqxo0wXsSoig",
+      "category": "banking"
     },
     {
-      "name": "Walmart (Corporate)",
-      "url": "https://careers.walmart.com/us/en/results?searchQuery=Bentonville&careerareas=Corporate",
+      "name": "Phillips 66 (Ponca City)",
+      "url": "https://careers.phillips66.com/search/?createNewAlert=false&q=&locationsearch=ponca+city&optionsFacetsDD_dept=&optionsFacetsDD_department=",
       "category": "corporate"
     },
     {
@@ -495,18 +497,67 @@
     },
     {
       "name": "ADP (NWA)",
-      "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=dd3989d6-a17f-4803-bdaa-54bf26faf499",
+      "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=dd3989d6-a17f-4803-bdaa-54bf26faf499&ccId=19000101_000001&lang=en_US",
       "category": "community"
     },
     {
-      "name": "NFDA Career Center",
-      "url": "https://www.nfda.org/career-center",
-      "category": "funeral"
+      "name": "MANA Clinics",
+      "url": "https://careers-mana.icims.com/jobs/search?ss=1&searchRelation=keyword_all&searchCategory=8721",
+      "category": "healthcare"
     },
     {
-      "name": "Connecting Directors Jobs",
-      "url": "https://www.connectingdirectors.com/jobs",
-      "category": "funeral"
+      "name": "NW Medical Center (Springdale)",
+      "url": "https://chsmedcareers.com/ar/northwest-medical-center-springdale",
+      "category": "healthcare"
+    },
+    {
+      "name": "Washington Regional",
+      "url": "https://www.wregional.com/main/open-positions",
+      "category": "healthcare"
+    },
+    {
+      "name": "UAMS (NWA campuses)",
+      "url": "https://uasys.wd5.myworkdayjobs.com/UAMS_All_Careers",
+      "category": "healthcare"
+    },
+    {
+      "name": "ADP (Healthcare)",
+      "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=102b6d5e-4045-46b7-a5d5-3dfdcf08d104&ccId=19000101_000001&lang=en_US",
+      "category": "healthcare"
+    },
+    {
+      "name": "Mercy (Springdale)",
+      "url": "https://careers.mercy.net/jobs?page=1&location=Springdale,%20AR&woe=7&regionCode=US&stretchUnit=MILES&stretch=25&categories=Support%20Services",
+      "category": "healthcare"
+    },
+    {
+      "name": "AR Blue Cross",
+      "url": "https://arkbluecross.wd1.myworkdayjobs.com/ABCBS_External_Careers",
+      "category": "healthcare"
+    },
+    {
+      "name": "Team 1 Supplier Services",
+      "url": "https://team1supplierservices.com/careers",
+      "category": "misc",
+      "note": "Email resume"
+    },
+    {
+      "name": "RitePak",
+      "url": "https://ritepak-us.com/services/",
+      "category": "misc",
+      "note": "Email resume"
+    },
+    {
+      "name": "ICS Pharmacy Services",
+      "url": "https://icsrx.com/careers/",
+      "category": "misc",
+      "note": "Email resume"
+    },
+    {
+      "name": "Walmart HQ (all Bentonville)",
+      "url": "https://careers.walmart.com/us/en/results?searchQuery=Bentonville",
+      "category": "misc",
+      "note": "Check manually"
     }
   ]
 }
