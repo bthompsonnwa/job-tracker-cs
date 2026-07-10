@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-10T02:49",
+  "last_updated": "2026-07-10T14:40",
   "jobs": [
     {
       "id": "5a8a30fabfff",
@@ -22,32 +22,8 @@
       "platform": "Workday",
       "category": "freight",
       "match_reason": "customer experience",
-      "posted_date": "Posted Today",
+      "posted_date": "Posted Yesterday",
       "first_seen": "2026-07-10"
-    },
-    {
-      "id": "ec1f1a59bf0a",
-      "title": "Customer Experience Representative - ICS",
-      "district": "J.B. Hunt",
-      "location": "Lowell, AR - JB Hunt Corporate E",
-      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-E/Customer-Experience-Representative---ICS_00633086",
-      "platform": "Workday",
-      "category": "freight",
-      "match_reason": "customer experience",
-      "posted_date": "Posted 3 Days Ago",
-      "first_seen": "2026-07-07"
-    },
-    {
-      "id": "0cae83bdb036",
-      "title": "Customer Experience Appointment Representative",
-      "district": "J.B. Hunt",
-      "location": "Lowell, AR - JB Hunt Corporate A & Marketing",
-      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-A--Marketing/Customer-Experience-Appointment-Representative_00632194",
-      "platform": "Workday",
-      "category": "freight",
-      "match_reason": "customer experience",
-      "posted_date": "Posted 3 Days Ago",
-      "first_seen": "2026-07-07"
     },
     {
       "id": "62031a407d4d",
@@ -286,7 +262,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "account representative",
-      "posted_date": "Posted Today",
+      "posted_date": "Posted Yesterday",
       "first_seen": "2026-07-10"
     },
     {
@@ -298,7 +274,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "office support",
-      "posted_date": "Posted 2 Days Ago",
+      "posted_date": "Posted 3 Days Ago",
       "first_seen": "2026-07-08"
     },
     {
@@ -310,7 +286,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "dispatch",
-      "posted_date": "Posted 8 Days Ago",
+      "posted_date": "Posted 9 Days Ago",
       "first_seen": "2026-07-02"
     },
     {
@@ -322,7 +298,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "financial services",
-      "posted_date": "Posted 13 Days Ago",
+      "posted_date": "Posted 14 Days Ago",
       "first_seen": "2026-06-27"
     },
     {
@@ -350,6 +326,18 @@
       "first_seen": "2026-07-10"
     },
     {
+      "id": "3338d8f94caf",
+      "title": "Patient Access Representative - Remote",
+      "district": "Mercy (Springdale)",
+      "location": "Springdale, AR",
+      "url": "https://careers.mercy.net/jobs/JR261604?lang=en-us",
+      "platform": "Mercy",
+      "category": "healthcare",
+      "match_reason": "patient access",
+      "posted_date": "",
+      "first_seen": "2026-07-10"
+    },
+    {
       "id": "cea5bc064a65",
       "title": "Patient Access Representative",
       "district": "Mercy (Springdale)",
@@ -370,7 +358,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "insurance verification",
-      "posted_date": "Posted 9 Days Ago",
+      "posted_date": "Posted 10 Days Ago",
       "first_seen": "2026-07-10"
     }
   ],
