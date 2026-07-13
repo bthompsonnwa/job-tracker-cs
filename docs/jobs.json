@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-12T13:39",
+  "last_updated": "2026-07-13T14:47",
   "jobs": [
     {
       "id": "5a8a30fabfff",
@@ -14,16 +14,16 @@
       "first_seen": "2026-07-10"
     },
     {
-      "id": "f15daf61f410",
-      "title": "Customer Experience Representative",
+      "id": "0ddef51e1a8e",
+      "title": "Customer Experience Internship, Managed Logistics",
       "district": "J.B. Hunt",
       "location": "Lowell, AR - JB Hunt Corporate B & C",
-      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-B--C/Nights-Customer-Experience-Representativ_00620428",
+      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-B--C/Customer-Experience-Internship--Managed-Logistics_00631915",
       "platform": "Workday",
       "category": "freight",
       "match_reason": "customer experience",
-      "posted_date": "Posted 3 Days Ago",
-      "first_seen": "2026-07-10"
+      "posted_date": "Posted Today",
+      "first_seen": "2026-07-13"
     },
     {
       "id": "699e97557130",
@@ -182,6 +182,18 @@
       "first_seen": "2026-07-10"
     },
     {
+      "id": "fdeb0f9d20d0",
+      "title": "Administrative Assistant/Training",
+      "district": "Springdale (City)",
+      "location": "Springdale, AR",
+      "url": "https://www.governmentjobs.com/careers/springdalear/jobs/5407218/administrative-assistant-training",
+      "platform": "GovernmentJobs",
+      "category": "community",
+      "match_reason": "administrative assistant",
+      "posted_date": "",
+      "first_seen": "2026-07-13"
+    },
+    {
       "id": "4557d34401c3",
       "title": "Front Desk - Part Time",
       "district": "Springdale (City)",
@@ -238,7 +250,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "account representative",
-      "posted_date": "Posted 3 Days Ago",
+      "posted_date": "Posted 4 Days Ago",
       "first_seen": "2026-07-10"
     },
     {
@@ -250,7 +262,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "office support",
-      "posted_date": "Posted 5 Days Ago",
+      "posted_date": "Posted 6 Days Ago",
       "first_seen": "2026-07-08"
     },
     {
@@ -262,7 +274,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "dispatch",
-      "posted_date": "Posted 11 Days Ago",
+      "posted_date": "Posted 12 Days Ago",
       "first_seen": "2026-07-02"
     },
     {
@@ -322,7 +334,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "insurance verification",
-      "posted_date": "Posted 12 Days Ago",
+      "posted_date": "Posted 13 Days Ago",
       "first_seen": "2026-07-10"
     }
   ],
