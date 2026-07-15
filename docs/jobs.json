@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-07-14T13:56",
+  "last_updated": "2026-07-15T13:54",
   "jobs": [
+    {
+      "id": "a09b541148cc",
+      "title": "Billing Representative I",
+      "district": "J.B. Hunt",
+      "location": "Lowell, AR - JB Hunt Corporate B & C",
+      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-B--C/Billing-Representative-I_00634516-1",
+      "platform": "Workday",
+      "category": "freight",
+      "match_reason": "billing representative",
+      "posted_date": "Posted Yesterday",
+      "first_seen": "2026-07-15"
+    },
+    {
+      "id": "b37a33d68fc5",
+      "title": "Call Center Support I",
+      "district": "J.B. Hunt",
+      "location": "Lowell, AR - JB Hunt Corporate B & C",
+      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-B--C/Call-Center-Support-I_00634298",
+      "platform": "Workday",
+      "category": "freight",
+      "match_reason": "call center",
+      "posted_date": "Posted Yesterday",
+      "first_seen": "2026-07-15"
+    },
+    {
+      "id": "2c1f89d57682",
+      "title": "Part Time Customer Experience Support",
+      "district": "J.B. Hunt",
+      "location": "Lowell, AR - JB Hunt Corporate A & Marketing",
+      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-A--Marketing/Part-Time-Customer-Experience-Support_00630171",
+      "platform": "Workday",
+      "category": "freight",
+      "match_reason": "customer experience",
+      "posted_date": "Posted Yesterday",
+      "first_seen": "2026-07-15"
+    },
     {
       "id": "c8f72445fcf0",
       "title": "Customer Experience Appointment Representative",
@@ -10,7 +46,7 @@
       "platform": "Workday",
       "category": "freight",
       "match_reason": "customer experience",
-      "posted_date": "Posted Yesterday",
+      "posted_date": "Posted 2 Days Ago",
       "first_seen": "2026-07-14"
     },
     {
@@ -22,7 +58,7 @@
       "platform": "Workday",
       "category": "freight",
       "match_reason": "dispatch",
-      "posted_date": "Posted Yesterday",
+      "posted_date": "Posted 2 Days Ago",
       "first_seen": "2026-07-14"
     },
     {
@@ -34,7 +70,7 @@
       "platform": "Workday",
       "category": "freight",
       "match_reason": "customer experience",
-      "posted_date": "Posted Yesterday",
+      "posted_date": "Posted 2 Days Ago",
       "first_seen": "2026-07-14"
     },
     {
@@ -46,8 +82,32 @@
       "platform": "Workday",
       "category": "freight",
       "match_reason": "customer experience",
-      "posted_date": "Posted Yesterday",
+      "posted_date": "Posted 2 Days Ago",
       "first_seen": "2026-07-13"
+    },
+    {
+      "id": "8de35142e39e",
+      "title": "Teller - 18119",
+      "district": "Arvest Bank",
+      "location": "",
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18119%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "platform": "Infor",
+      "category": "banking",
+      "match_reason": "teller",
+      "posted_date": "",
+      "first_seen": "2026-07-15"
+    },
+    {
+      "id": "b578b21a1c94",
+      "title": "Teller - 18093",
+      "district": "Arvest Bank",
+      "location": "",
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18093%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "platform": "Infor",
+      "category": "banking",
+      "match_reason": "teller",
+      "posted_date": "",
+      "first_seen": "2026-07-15"
     },
     {
       "id": "329ba8bd038a",
@@ -62,16 +122,16 @@
       "first_seen": "2026-07-14"
     },
     {
-      "id": "699e97557130",
-      "title": "Teller (Floater) - 18069",
-      "district": "Arvest Bank",
-      "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18069%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
-      "platform": "Infor",
+      "id": "139aebad1818",
+      "title": "Teller",
+      "district": "First National Bank",
+      "location": "Fort Smith, AR",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3630177",
+      "platform": "Paylocity",
       "category": "banking",
       "match_reason": "teller",
       "posted_date": "",
-      "first_seen": "2026-07-11"
+      "first_seen": "2026-07-15"
     },
     {
       "id": "c11938a07c40",
@@ -266,18 +326,6 @@
       "first_seen": "2026-06-23"
     },
     {
-      "id": "fc13bbbaa475",
-      "title": "Student Account Representative",
-      "district": "UAF",
-      "location": "Fayetteville, AR",
-      "url": "https://uasys.wd5.myworkdayjobs.com/en-US/UAF_External_Career_Site/job/Fayetteville-AR/Student-Account-Representative_R0086890-1",
-      "platform": "Workday",
-      "category": "community",
-      "match_reason": "account representative",
-      "posted_date": "Posted 5 Days Ago",
-      "first_seen": "2026-07-10"
-    },
-    {
       "id": "7b616ee8ae2d",
       "title": "Office Support Specialist",
       "district": "UAF",
@@ -286,7 +334,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "office support",
-      "posted_date": "Posted 7 Days Ago",
+      "posted_date": "Posted 8 Days Ago",
       "first_seen": "2026-07-08"
     },
     {
