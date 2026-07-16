@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-07-15T13:54",
+  "last_updated": "2026-07-16T14:06",
   "jobs": [
+    {
+      "id": "0cae83bdb036",
+      "title": "Customer Experience Appointment Representative",
+      "district": "J.B. Hunt",
+      "location": "Lowell, AR - JB Hunt Corporate A & Marketing",
+      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-A--Marketing/Customer-Experience-Appointment-Representative_00632194",
+      "platform": "Workday",
+      "category": "freight",
+      "match_reason": "customer experience",
+      "posted_date": "Posted Yesterday",
+      "first_seen": "2026-07-16"
+    },
+    {
+      "id": "0fd9e2d64ebf",
+      "title": "Customer Experience Support",
+      "district": "J.B. Hunt",
+      "location": "Lowell, AR - JB Hunt Corporate A & Marketing",
+      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-A--Marketing/Customer-Experience-Support_00634291",
+      "platform": "Workday",
+      "category": "freight",
+      "match_reason": "customer experience",
+      "posted_date": "Posted Yesterday",
+      "first_seen": "2026-07-16"
+    },
+    {
+      "id": "3b36fd2a9271",
+      "title": "Customer Experience Support",
+      "district": "J.B. Hunt",
+      "location": "Lowell, AR - JB Hunt Corporate A & Marketing",
+      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-A--Marketing/Customer-Experience-Support_00619314-1",
+      "platform": "Workday",
+      "category": "freight",
+      "match_reason": "customer experience",
+      "posted_date": "Posted Yesterday",
+      "first_seen": "2026-07-14"
+    },
     {
       "id": "a09b541148cc",
       "title": "Billing Representative I",
@@ -10,7 +46,7 @@
       "platform": "Workday",
       "category": "freight",
       "match_reason": "billing representative",
-      "posted_date": "Posted Yesterday",
+      "posted_date": "Posted 2 Days Ago",
       "first_seen": "2026-07-15"
     },
     {
@@ -22,7 +58,7 @@
       "platform": "Workday",
       "category": "freight",
       "match_reason": "call center",
-      "posted_date": "Posted Yesterday",
+      "posted_date": "Posted 2 Days Ago",
       "first_seen": "2026-07-15"
     },
     {
@@ -34,56 +70,8 @@
       "platform": "Workday",
       "category": "freight",
       "match_reason": "customer experience",
-      "posted_date": "Posted Yesterday",
+      "posted_date": "Posted 2 Days Ago",
       "first_seen": "2026-07-15"
-    },
-    {
-      "id": "c8f72445fcf0",
-      "title": "Customer Experience Appointment Representative",
-      "district": "J.B. Hunt",
-      "location": "Lowell, AR - JB Hunt Corporate A & Marketing",
-      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-A--Marketing/Customer-Experience-Appointment-Representative_00634336",
-      "platform": "Workday",
-      "category": "freight",
-      "match_reason": "customer experience",
-      "posted_date": "Posted 2 Days Ago",
-      "first_seen": "2026-07-14"
-    },
-    {
-      "id": "c517feea68a7",
-      "title": "Dispatcher, Part-time Nights & Weekends",
-      "district": "J.B. Hunt",
-      "location": "Lowell, AR - JB Hunt Corporate A & Marketing",
-      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-A--Marketing/Dispatcher--Part-time-Nights---Weekends_00634049",
-      "platform": "Workday",
-      "category": "freight",
-      "match_reason": "dispatch",
-      "posted_date": "Posted 2 Days Ago",
-      "first_seen": "2026-07-14"
-    },
-    {
-      "id": "3b36fd2a9271",
-      "title": "Customer Experience Support",
-      "district": "J.B. Hunt",
-      "location": "Lowell, AR - JB Hunt Corporate A & Marketing",
-      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-A--Marketing/Customer-Experience-Support_00619314-1",
-      "platform": "Workday",
-      "category": "freight",
-      "match_reason": "customer experience",
-      "posted_date": "Posted 2 Days Ago",
-      "first_seen": "2026-07-14"
-    },
-    {
-      "id": "0ddef51e1a8e",
-      "title": "Customer Experience Internship, Managed Logistics",
-      "district": "J.B. Hunt",
-      "location": "Lowell, AR - JB Hunt Corporate B & C",
-      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-B--C/Customer-Experience-Internship--Managed-Logistics_00631915",
-      "platform": "Workday",
-      "category": "freight",
-      "match_reason": "customer experience",
-      "posted_date": "Posted 2 Days Ago",
-      "first_seen": "2026-07-13"
     },
     {
       "id": "8de35142e39e",
@@ -108,18 +96,6 @@
       "match_reason": "teller",
       "posted_date": "",
       "first_seen": "2026-07-15"
-    },
-    {
-      "id": "329ba8bd038a",
-      "title": "Teller - 18088",
-      "district": "Arvest Bank",
-      "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18088%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
-      "platform": "Infor",
-      "category": "banking",
-      "match_reason": "teller",
-      "posted_date": "",
-      "first_seen": "2026-07-14"
     },
     {
       "id": "139aebad1818",
@@ -254,18 +230,6 @@
       "first_seen": "2026-07-11"
     },
     {
-      "id": "469d9f38d7a4",
-      "title": "DISPATCHER I (Shift: 2pm-10pm)  2026 - 03090",
-      "district": "Fayetteville (City)",
-      "location": "Fayetteville, AR",
-      "url": "https://www.governmentjobs.com/careers/fayettevillear/jobs/5377242/dispatcher-i-shift-2pm-10pm-2026-03090",
-      "platform": "GovernmentJobs",
-      "category": "community",
-      "match_reason": "dispatch",
-      "posted_date": "",
-      "first_seen": "2026-07-10"
-    },
-    {
       "id": "fdeb0f9d20d0",
       "title": "Administrative Assistant/Training",
       "district": "Springdale (City)",
@@ -334,7 +298,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "office support",
-      "posted_date": "Posted 8 Days Ago",
+      "posted_date": "Posted 9 Days Ago",
       "first_seen": "2026-07-08"
     },
     {
@@ -348,6 +312,18 @@
       "match_reason": "support specialist",
       "posted_date": "Posted 30+ Days Ago",
       "first_seen": "2026-06-05"
+    },
+    {
+      "id": "2d477db1977e",
+      "title": "Patient Access Representative (Non-Exempt)",
+      "district": "Mercy (Springdale)",
+      "location": "Springdale, AR",
+      "url": "https://careers.mercy.net/jobs/JR262287?lang=en-us",
+      "platform": "Mercy",
+      "category": "healthcare",
+      "match_reason": "patient access",
+      "posted_date": "",
+      "first_seen": "2026-07-16"
     }
   ],
   "sources": [
