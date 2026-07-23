@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-22T14:08",
+  "last_updated": "2026-07-23T14:14",
   "jobs": [
     {
       "id": "f15daf61f410",
@@ -10,20 +10,8 @@
       "platform": "Workday",
       "category": "freight",
       "match_reason": "customer experience",
-      "posted_date": "Posted Yesterday",
+      "posted_date": "Posted 2 Days Ago",
       "first_seen": "2026-07-22"
-    },
-    {
-      "id": "2ef0de15270f",
-      "title": "Billing Representative I",
-      "district": "J.B. Hunt",
-      "location": "Lowell, AR - Commerce Center 2",
-      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---Commerce-Center-2/Billing-Representative-I_00635338",
-      "platform": "Workday",
-      "category": "freight",
-      "match_reason": "billing representative",
-      "posted_date": "Posted Yesterday",
-      "first_seen": "2026-07-21"
     },
     {
       "id": "384c7b77c211",
@@ -60,6 +48,18 @@
       "match_reason": "teller",
       "posted_date": "",
       "first_seen": "2026-07-18"
+    },
+    {
+      "id": "f3b076c1e0f0",
+      "title": "Teller (Part-Time) - 18136",
+      "district": "Arvest Bank",
+      "location": "",
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18136%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "platform": "Infor",
+      "category": "banking",
+      "match_reason": "teller",
+      "posted_date": "",
+      "first_seen": "2026-07-23"
     },
     {
       "id": "c11938a07c40",
@@ -182,6 +182,18 @@
       "first_seen": "2026-07-10"
     },
     {
+      "id": "a349ded81cdb",
+      "title": "Senior Academic Division Administrative Specialist - BCIS",
+      "district": "NWACC",
+      "location": "Benton County Campus, Arkansas",
+      "url": "https://nwacc.wd1.myworkdayjobs.com/en-US/NWACC_External_Career_Site/job/Benton-County-Campus-Arkansas/Senior-Academic-Division-Administrative-Specialist---BCIS_JR-1239",
+      "platform": "Workday",
+      "category": "community",
+      "match_reason": "administrative specialist",
+      "posted_date": "Posted Yesterday",
+      "first_seen": "2026-07-23"
+    },
+    {
       "id": "8a9add1be16a",
       "title": "Fiscal Support Specialist",
       "district": "NWACC",
@@ -192,6 +204,18 @@
       "match_reason": "support specialist",
       "posted_date": "Posted 30+ Days Ago",
       "first_seen": "2026-06-05"
+    },
+    {
+      "id": "e1ac248fe3ce",
+      "title": "Patient Access Representative",
+      "district": "Mercy (Springdale)",
+      "location": "Springdale, AR",
+      "url": "https://careers.mercy.net/jobs/JR263278?lang=en-us",
+      "platform": "Mercy",
+      "category": "healthcare",
+      "match_reason": "patient access",
+      "posted_date": "",
+      "first_seen": "2026-07-23"
     },
     {
       "id": "19afd1047026",
