@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-07-23T14:14",
+  "last_updated": "2026-07-24T13:57",
   "jobs": [
     {
-      "id": "f15daf61f410",
-      "title": "Customer Experience Representative",
+      "id": "3b36fd2a9271",
+      "title": "Customer Experience Support",
       "district": "J.B. Hunt",
-      "location": "Lowell, AR - JB Hunt Corporate B & C",
-      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-B--C/Nights-Customer-Experience-Representativ_00620428",
+      "location": "Lowell, AR - JB Hunt Corporate A & Marketing",
+      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-A--Marketing/Customer-Experience-Support_00619314-1",
       "platform": "Workday",
       "category": "freight",
       "match_reason": "customer experience",
-      "posted_date": "Posted 2 Days Ago",
-      "first_seen": "2026-07-22"
+      "posted_date": "Posted Yesterday",
+      "first_seen": "2026-07-24"
     },
     {
       "id": "384c7b77c211",
@@ -190,7 +190,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "administrative specialist",
-      "posted_date": "Posted Yesterday",
+      "posted_date": "Posted 2 Days Ago",
       "first_seen": "2026-07-23"
     },
     {
@@ -230,16 +230,16 @@
       "first_seen": "2026-07-18"
     },
     {
-      "id": "2d477db1977e",
-      "title": "Patient Access Representative (Non-Exempt)",
-      "district": "Mercy (Springdale)",
-      "location": "Springdale, AR",
-      "url": "https://careers.mercy.net/jobs/JR262287?lang=en-us",
-      "platform": "Mercy",
+      "id": "2b756af22597",
+      "title": "Claims Specialist I",
+      "district": "AR Blue Cross",
+      "location": "2 Locations",
+      "url": "https://arkbluecross.wd1.myworkdayjobs.com/en-US/ABCBS_External_Careers/job/Arkansas-Remote/Claims-Specialist-I_R0013660",
+      "platform": "Workday",
       "category": "healthcare",
-      "match_reason": "patient access",
-      "posted_date": "",
-      "first_seen": "2026-07-16"
+      "match_reason": "claims specialist",
+      "posted_date": "Posted Yesterday",
+      "first_seen": "2026-07-24"
     }
   ],
   "sources": [
