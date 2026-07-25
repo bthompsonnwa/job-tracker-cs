@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-07-24T13:57",
+  "last_updated": "2026-07-25T13:46",
   "jobs": [
+    {
+      "id": "578e6891dc5b",
+      "title": "Customer Service Coordinator I",
+      "district": "ArcBest",
+      "location": "Fort Smith, AR",
+      "url": "https://careers.arcb.com/careersmarketplace/JobDetail/Fort-Smith-Arkansas-United-States-Customer-Service-Coordinator-I/29247",
+      "platform": "CareersMarketplace",
+      "category": "freight",
+      "match_reason": "customer service",
+      "posted_date": "",
+      "first_seen": "2026-07-25"
+    },
+    {
+      "id": "e7b93469b761",
+      "title": "Nights Billing Representative I",
+      "district": "J.B. Hunt",
+      "location": "Lowell, AR - JB Hunt Corporate A & Marketing",
+      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-A--Marketing/Nights-Billing-Representative-I_00635523",
+      "platform": "Workday",
+      "category": "freight",
+      "match_reason": "billing representative",
+      "posted_date": "Posted Yesterday",
+      "first_seen": "2026-07-25"
+    },
     {
       "id": "3b36fd2a9271",
       "title": "Customer Experience Support",
@@ -10,20 +34,20 @@
       "platform": "Workday",
       "category": "freight",
       "match_reason": "customer experience",
-      "posted_date": "Posted Yesterday",
+      "posted_date": "Posted 2 Days Ago",
       "first_seen": "2026-07-24"
     },
     {
-      "id": "384c7b77c211",
-      "title": "Teller - 18179",
+      "id": "49d242414fae",
+      "title": "Teller - 18156",
       "district": "Arvest Bank",
       "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18179%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18156%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
       "platform": "Infor",
       "category": "banking",
       "match_reason": "teller",
       "posted_date": "",
-      "first_seen": "2026-07-22"
+      "first_seen": "2026-07-25"
     },
     {
       "id": "18d7d0ae36f3",
@@ -50,16 +74,16 @@
       "first_seen": "2026-07-18"
     },
     {
-      "id": "f3b076c1e0f0",
-      "title": "Teller (Part-Time) - 18136",
-      "district": "Arvest Bank",
-      "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18136%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
-      "platform": "Infor",
+      "id": "139aebad1818",
+      "title": "Teller",
+      "district": "First National Bank",
+      "location": "Fort Smith, AR",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3630177",
+      "platform": "Paylocity",
       "category": "banking",
       "match_reason": "teller",
       "posted_date": "",
-      "first_seen": "2026-07-23"
+      "first_seen": "2026-07-25"
     },
     {
       "id": "c11938a07c40",
@@ -134,18 +158,6 @@
       "first_seen": "2026-07-11"
     },
     {
-      "id": "fdeb0f9d20d0",
-      "title": "Administrative Assistant/Training",
-      "district": "Springdale (City)",
-      "location": "Springdale, AR",
-      "url": "https://www.governmentjobs.com/careers/springdalear/jobs/5407218/administrative-assistant-training",
-      "platform": "GovernmentJobs",
-      "category": "community",
-      "match_reason": "administrative assistant",
-      "posted_date": "",
-      "first_seen": "2026-07-13"
-    },
-    {
       "id": "4557d34401c3",
       "title": "Front Desk - Part Time",
       "district": "Springdale (City)",
@@ -190,7 +202,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "administrative specialist",
-      "posted_date": "Posted 2 Days Ago",
+      "posted_date": "Posted 3 Days Ago",
       "first_seen": "2026-07-23"
     },
     {
@@ -238,7 +250,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "claims specialist",
-      "posted_date": "Posted Yesterday",
+      "posted_date": "Posted 2 Days Ago",
       "first_seen": "2026-07-24"
     }
   ],
