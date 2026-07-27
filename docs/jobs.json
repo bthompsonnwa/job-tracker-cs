@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-26T13:41",
+  "last_updated": "2026-07-27T14:48",
   "jobs": [
     {
       "id": "578e6891dc5b",
@@ -22,20 +22,8 @@
       "platform": "Workday",
       "category": "freight",
       "match_reason": "billing representative",
-      "posted_date": "Posted 2 Days Ago",
-      "first_seen": "2026-07-25"
-    },
-    {
-      "id": "3b36fd2a9271",
-      "title": "Customer Experience Support",
-      "district": "J.B. Hunt",
-      "location": "Lowell, AR - JB Hunt Corporate A & Marketing",
-      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-A--Marketing/Customer-Experience-Support_00619314-1",
-      "platform": "Workday",
-      "category": "freight",
-      "match_reason": "customer experience",
       "posted_date": "Posted 3 Days Ago",
-      "first_seen": "2026-07-24"
+      "first_seen": "2026-07-25"
     },
     {
       "id": "49d242414fae",
@@ -62,28 +50,16 @@
       "first_seen": "2026-07-21"
     },
     {
-      "id": "56867067d692",
-      "title": "Teller - 18147",
+      "id": "e271847c5c7a",
+      "title": "Mortgage Processor - 18108",
       "district": "Arvest Bank",
       "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18147%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18108%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
       "platform": "Infor",
       "category": "banking",
-      "match_reason": "teller",
+      "match_reason": "mortgage processor",
       "posted_date": "",
-      "first_seen": "2026-07-18"
-    },
-    {
-      "id": "139aebad1818",
-      "title": "Teller",
-      "district": "First National Bank",
-      "location": "Fort Smith, AR",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3630177",
-      "platform": "Paylocity",
-      "category": "banking",
-      "match_reason": "teller",
-      "posted_date": "",
-      "first_seen": "2026-07-25"
+      "first_seen": "2026-07-27"
     },
     {
       "id": "c11938a07c40",
@@ -202,7 +178,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "administrative specialist",
-      "posted_date": "Posted 4 Days Ago",
+      "posted_date": "Posted 5 Days Ago",
       "first_seen": "2026-07-23"
     },
     {
@@ -250,7 +226,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "claims specialist",
-      "posted_date": "Posted 3 Days Ago",
+      "posted_date": "Posted 4 Days Ago",
       "first_seen": "2026-07-24"
     }
   ],
