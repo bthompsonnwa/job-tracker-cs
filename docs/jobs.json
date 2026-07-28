@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-27T14:48",
+  "last_updated": "2026-07-28T14:21",
   "jobs": [
     {
       "id": "578e6891dc5b",
@@ -14,16 +14,28 @@
       "first_seen": "2026-07-25"
     },
     {
-      "id": "e7b93469b761",
-      "title": "Nights Billing Representative I",
+      "id": "4f51de61f9e5",
+      "title": "Customer Experience Representative",
       "district": "J.B. Hunt",
       "location": "Lowell, AR - JB Hunt Corporate A & Marketing",
-      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-A--Marketing/Nights-Billing-Representative-I_00635523",
+      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-A--Marketing/Customer-Experience-Representative_00636080",
       "platform": "Workday",
       "category": "freight",
-      "match_reason": "billing representative",
-      "posted_date": "Posted 3 Days Ago",
-      "first_seen": "2026-07-25"
+      "match_reason": "customer experience",
+      "posted_date": "Posted Today",
+      "first_seen": "2026-07-28"
+    },
+    {
+      "id": "3b36fd2a9271",
+      "title": "Customer Experience Support",
+      "district": "J.B. Hunt",
+      "location": "Lowell, AR - JB Hunt Corporate A & Marketing",
+      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-A--Marketing/Customer-Experience-Support_00619314-1",
+      "platform": "Workday",
+      "category": "freight",
+      "match_reason": "customer experience",
+      "posted_date": "Posted Today",
+      "first_seen": "2026-07-28"
     },
     {
       "id": "49d242414fae",
@@ -38,18 +50,6 @@
       "first_seen": "2026-07-25"
     },
     {
-      "id": "18d7d0ae36f3",
-      "title": "Teller - 18133",
-      "district": "Arvest Bank",
-      "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18133%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
-      "platform": "Infor",
-      "category": "banking",
-      "match_reason": "teller",
-      "posted_date": "",
-      "first_seen": "2026-07-21"
-    },
-    {
       "id": "e271847c5c7a",
       "title": "Mortgage Processor - 18108",
       "district": "Arvest Bank",
@@ -60,6 +60,30 @@
       "match_reason": "mortgage processor",
       "posted_date": "",
       "first_seen": "2026-07-27"
+    },
+    {
+      "id": "699e97557130",
+      "title": "Teller (Floater) - 18069",
+      "district": "Arvest Bank",
+      "location": "",
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18069%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "platform": "Infor",
+      "category": "banking",
+      "match_reason": "teller",
+      "posted_date": "",
+      "first_seen": "2026-07-28"
+    },
+    {
+      "id": "d7d8fb1adc7b",
+      "title": "Teller - 18021",
+      "district": "Arvest Bank",
+      "location": "",
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18021%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "platform": "Infor",
+      "category": "banking",
+      "match_reason": "teller",
+      "posted_date": "",
+      "first_seen": "2026-07-28"
     },
     {
       "id": "c11938a07c40",
@@ -98,16 +122,28 @@
       "first_seen": "2026-07-10"
     },
     {
-      "id": "e90d0005a47a",
-      "title": "Recreation Services Representative II - Front Desk",
+      "id": "99c134c019f5",
+      "title": "(1)Part-Time Recreation Worker I/II/III- Front Desk",
       "district": "Bentonville (City)",
       "location": "Bentonville, AR",
-      "url": "https://www.bentonvillear.com//bentonvillear.bamboohr.com/careers/1256",
+      "url": "https://www.bentonvillear.com//bentonvillear.bamboohr.com/careers/1272",
       "platform": "CivicEngage",
       "category": "community",
       "match_reason": "front desk",
       "posted_date": "",
-      "first_seen": "2026-07-10"
+      "first_seen": "2026-07-28"
+    },
+    {
+      "id": "8ff27e4e315e",
+      "title": "(1) Customer Service Rep I",
+      "district": "Bentonville (City)",
+      "location": "Bentonville, AR",
+      "url": "https://www.bentonvillear.com//bentonvillear.bamboohr.com/careers/1270",
+      "platform": "CivicEngage",
+      "category": "community",
+      "match_reason": "customer service",
+      "posted_date": "",
+      "first_seen": "2026-07-28"
     },
     {
       "id": "4b560cb659c1",
@@ -178,7 +214,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "administrative specialist",
-      "posted_date": "Posted 5 Days Ago",
+      "posted_date": "Posted 6 Days Ago",
       "first_seen": "2026-07-23"
     },
     {
@@ -226,7 +262,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "claims specialist",
-      "posted_date": "Posted 4 Days Ago",
+      "posted_date": "Posted 5 Days Ago",
       "first_seen": "2026-07-24"
     }
   ],
