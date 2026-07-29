@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-28T14:21",
+  "last_updated": "2026-07-29T14:23",
   "jobs": [
     {
       "id": "578e6891dc5b",
@@ -14,6 +14,42 @@
       "first_seen": "2026-07-25"
     },
     {
+      "id": "5b87d245d6a7",
+      "title": "Data Analyst I - Financial Services",
+      "district": "ArcBest",
+      "location": "Fort Smith, AR",
+      "url": "https://careers.arcb.com/careersmarketplace/JobDetail/Fort-Smith-Arkansas-United-States-Data-Analyst-I-Financial-Services/28931",
+      "platform": "CareersMarketplace",
+      "category": "freight",
+      "match_reason": "financial services",
+      "posted_date": "",
+      "first_seen": "2026-07-29"
+    },
+    {
+      "id": "a12a806818d0",
+      "title": "Pricing Analyst I",
+      "district": "J.B. Hunt",
+      "location": "Lowell, AR - JB Hunt Corporate B & C",
+      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-B--C/Pricing-Analyst-I_00636001",
+      "platform": "Workday",
+      "category": "freight",
+      "match_reason": "pricing analyst",
+      "posted_date": "Posted Yesterday",
+      "first_seen": "2026-07-29"
+    },
+    {
+      "id": "1b527708cdaf",
+      "title": "Billing Representative I",
+      "district": "J.B. Hunt",
+      "location": "Lowell, AR - JB Hunt Corporate A & Marketing",
+      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-A--Marketing/Billing-Representative-I_00636337",
+      "platform": "Workday",
+      "category": "freight",
+      "match_reason": "billing representative",
+      "posted_date": "Posted Yesterday",
+      "first_seen": "2026-07-29"
+    },
+    {
       "id": "4f51de61f9e5",
       "title": "Customer Experience Representative",
       "district": "J.B. Hunt",
@@ -22,7 +58,7 @@
       "platform": "Workday",
       "category": "freight",
       "match_reason": "customer experience",
-      "posted_date": "Posted Today",
+      "posted_date": "Posted Yesterday",
       "first_seen": "2026-07-28"
     },
     {
@@ -34,56 +70,32 @@
       "platform": "Workday",
       "category": "freight",
       "match_reason": "customer experience",
-      "posted_date": "Posted Today",
+      "posted_date": "Posted Yesterday",
       "first_seen": "2026-07-28"
     },
     {
-      "id": "49d242414fae",
-      "title": "Teller - 18156",
+      "id": "46fafb9bbe1d",
+      "title": "Teller (Floater) - 18200",
       "district": "Arvest Bank",
       "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18156%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18200%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
       "platform": "Infor",
       "category": "banking",
       "match_reason": "teller",
       "posted_date": "",
-      "first_seen": "2026-07-25"
+      "first_seen": "2026-07-29"
     },
     {
-      "id": "e271847c5c7a",
-      "title": "Mortgage Processor - 18108",
+      "id": "f84f6882b20f",
+      "title": "Teller - 18177",
       "district": "Arvest Bank",
       "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18108%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
-      "platform": "Infor",
-      "category": "banking",
-      "match_reason": "mortgage processor",
-      "posted_date": "",
-      "first_seen": "2026-07-27"
-    },
-    {
-      "id": "699e97557130",
-      "title": "Teller (Floater) - 18069",
-      "district": "Arvest Bank",
-      "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18069%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18177%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
       "platform": "Infor",
       "category": "banking",
       "match_reason": "teller",
       "posted_date": "",
-      "first_seen": "2026-07-28"
-    },
-    {
-      "id": "d7d8fb1adc7b",
-      "title": "Teller - 18021",
-      "district": "Arvest Bank",
-      "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18021%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
-      "platform": "Infor",
-      "category": "banking",
-      "match_reason": "teller",
-      "posted_date": "",
-      "first_seen": "2026-07-28"
+      "first_seen": "2026-07-29"
     },
     {
       "id": "c11938a07c40",
@@ -134,8 +146,8 @@
       "first_seen": "2026-07-28"
     },
     {
-      "id": "8ff27e4e315e",
-      "title": "(1) Customer Service Rep I",
+      "id": "7b7e58adfaaf",
+      "title": "(2) Customer Service Rep I",
       "district": "Bentonville (City)",
       "location": "Bentonville, AR",
       "url": "https://www.bentonvillear.com//bentonvillear.bamboohr.com/careers/1270",
@@ -143,7 +155,7 @@
       "category": "community",
       "match_reason": "customer service",
       "posted_date": "",
-      "first_seen": "2026-07-28"
+      "first_seen": "2026-07-29"
     },
     {
       "id": "4b560cb659c1",
@@ -214,7 +226,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "administrative specialist",
-      "posted_date": "Posted 6 Days Ago",
+      "posted_date": "Posted 7 Days Ago",
       "first_seen": "2026-07-23"
     },
     {
@@ -262,7 +274,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "claims specialist",
-      "posted_date": "Posted 5 Days Ago",
+      "posted_date": "Posted 6 Days Ago",
       "first_seen": "2026-07-24"
     }
   ],
