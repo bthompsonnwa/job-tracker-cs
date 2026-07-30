@@ -1,18 +1,6 @@
 {
-  "last_updated": "2026-07-29T14:23",
+  "last_updated": "2026-07-30T14:14",
   "jobs": [
-    {
-      "id": "578e6891dc5b",
-      "title": "Customer Service Coordinator I",
-      "district": "ArcBest",
-      "location": "Fort Smith, AR",
-      "url": "https://careers.arcb.com/careersmarketplace/JobDetail/Fort-Smith-Arkansas-United-States-Customer-Service-Coordinator-I/29247",
-      "platform": "CareersMarketplace",
-      "category": "freight",
-      "match_reason": "customer service",
-      "posted_date": "",
-      "first_seen": "2026-07-25"
-    },
     {
       "id": "5b87d245d6a7",
       "title": "Data Analyst I - Financial Services",
@@ -26,16 +14,52 @@
       "first_seen": "2026-07-29"
     },
     {
-      "id": "a12a806818d0",
-      "title": "Pricing Analyst I",
+      "id": "6e45dbc30501",
+      "title": "Billing Representative I",
       "district": "J.B. Hunt",
-      "location": "Lowell, AR - JB Hunt Corporate B & C",
-      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-B--C/Pricing-Analyst-I_00636001",
+      "location": "Lowell, AR - JB Hunt Corporate A & Marketing",
+      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-A--Marketing/Billing-Representative-I_00636342",
       "platform": "Workday",
       "category": "freight",
-      "match_reason": "pricing analyst",
+      "match_reason": "billing representative",
       "posted_date": "Posted Yesterday",
-      "first_seen": "2026-07-29"
+      "first_seen": "2026-07-30"
+    },
+    {
+      "id": "6476109ab049",
+      "title": "Billing Representative I",
+      "district": "J.B. Hunt",
+      "location": "Lowell, AR - JB Hunt Corporate B & C",
+      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-B--C/Billing-Representative-I_00636353",
+      "platform": "Workday",
+      "category": "freight",
+      "match_reason": "billing representative",
+      "posted_date": "Posted Yesterday",
+      "first_seen": "2026-07-30"
+    },
+    {
+      "id": "a9c8a0926ecc",
+      "title": "Billing Representative I",
+      "district": "J.B. Hunt",
+      "location": "Lowell, AR - JB Hunt Corporate B & C",
+      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-B--C/Billing-Representative-I_00636358",
+      "platform": "Workday",
+      "category": "freight",
+      "match_reason": "billing representative",
+      "posted_date": "Posted Yesterday",
+      "first_seen": "2026-07-30"
+    },
+    {
+      "id": "4e6b16aad838",
+      "title": "Nights Billing Representative I",
+      "district": "J.B. Hunt",
+      "location": "Lowell, AR - JB Hunt Corporate A & Marketing",
+      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-A--Marketing/Nights-Billing-Representative-I_00636370-1",
+      "platform": "Workday",
+      "category": "freight",
+      "match_reason": "billing representative",
+      "posted_date": "Posted Yesterday",
+      "first_seen": "2026-07-30"
     },
     {
       "id": "1b527708cdaf",
@@ -46,32 +70,20 @@
       "platform": "Workday",
       "category": "freight",
       "match_reason": "billing representative",
-      "posted_date": "Posted Yesterday",
+      "posted_date": "Posted 2 Days Ago",
       "first_seen": "2026-07-29"
     },
     {
-      "id": "4f51de61f9e5",
-      "title": "Customer Experience Representative",
-      "district": "J.B. Hunt",
-      "location": "Lowell, AR - JB Hunt Corporate A & Marketing",
-      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-A--Marketing/Customer-Experience-Representative_00636080",
-      "platform": "Workday",
-      "category": "freight",
-      "match_reason": "customer experience",
-      "posted_date": "Posted Yesterday",
-      "first_seen": "2026-07-28"
-    },
-    {
-      "id": "3b36fd2a9271",
-      "title": "Customer Experience Support",
-      "district": "J.B. Hunt",
-      "location": "Lowell, AR - JB Hunt Corporate A & Marketing",
-      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-A--Marketing/Customer-Experience-Support_00619314-1",
-      "platform": "Workday",
-      "category": "freight",
-      "match_reason": "customer experience",
-      "posted_date": "Posted Yesterday",
-      "first_seen": "2026-07-28"
+      "id": "7970c55b9f61",
+      "title": "Teller - 18172",
+      "district": "Arvest Bank",
+      "location": "",
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18172%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "platform": "Infor",
+      "category": "banking",
+      "match_reason": "teller",
+      "posted_date": "",
+      "first_seen": "2026-07-30"
     },
     {
       "id": "46fafb9bbe1d",
@@ -182,30 +194,6 @@
       "first_seen": "2026-07-11"
     },
     {
-      "id": "4557d34401c3",
-      "title": "Front Desk - Part Time",
-      "district": "Springdale (City)",
-      "location": "Springdale, AR",
-      "url": "https://www.governmentjobs.com/careers/springdalear/jobs/5325879/front-desk-part-time",
-      "platform": "GovernmentJobs",
-      "category": "community",
-      "match_reason": "front desk",
-      "posted_date": "",
-      "first_seen": "2026-07-10"
-    },
-    {
-      "id": "754fe9775d64",
-      "title": "Honor Scholars Program Administrative Assistant",
-      "district": "JBU",
-      "location": "Siloam Springs, AR",
-      "url": "https://www.jbu.edu/human-resources/staff-job-listings/hsp-admin-assistant?hsLang=en",
-      "platform": "JBU",
-      "category": "community",
-      "match_reason": "administrative assistant",
-      "posted_date": "",
-      "first_seen": "2026-06-02"
-    },
-    {
       "id": "f9025ce4da87",
       "title": "Honor Scholars Program Coordinator and Advisor",
       "district": "JBU",
@@ -226,7 +214,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "administrative specialist",
-      "posted_date": "Posted 7 Days Ago",
+      "posted_date": "Posted 8 Days Ago",
       "first_seen": "2026-07-23"
     },
     {
@@ -264,18 +252,6 @@
       "match_reason": "health information",
       "posted_date": "",
       "first_seen": "2026-07-18"
-    },
-    {
-      "id": "2b756af22597",
-      "title": "Claims Specialist I",
-      "district": "AR Blue Cross",
-      "location": "2 Locations",
-      "url": "https://arkbluecross.wd1.myworkdayjobs.com/en-US/ABCBS_External_Careers/job/Arkansas-Remote/Claims-Specialist-I_R0013660",
-      "platform": "Workday",
-      "category": "healthcare",
-      "match_reason": "claims specialist",
-      "posted_date": "Posted 6 Days Ago",
-      "first_seen": "2026-07-24"
     }
   ],
   "sources": [
