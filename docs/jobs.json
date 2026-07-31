@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-30T14:14",
+  "last_updated": "2026-07-31T14:20",
   "jobs": [
     {
       "id": "5b87d245d6a7",
@@ -22,7 +22,7 @@
       "platform": "Workday",
       "category": "freight",
       "match_reason": "billing representative",
-      "posted_date": "Posted Yesterday",
+      "posted_date": "Posted 2 Days Ago",
       "first_seen": "2026-07-30"
     },
     {
@@ -34,44 +34,20 @@
       "platform": "Workday",
       "category": "freight",
       "match_reason": "billing representative",
-      "posted_date": "Posted Yesterday",
-      "first_seen": "2026-07-30"
-    },
-    {
-      "id": "a9c8a0926ecc",
-      "title": "Billing Representative I",
-      "district": "J.B. Hunt",
-      "location": "Lowell, AR - JB Hunt Corporate B & C",
-      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-B--C/Billing-Representative-I_00636358",
-      "platform": "Workday",
-      "category": "freight",
-      "match_reason": "billing representative",
-      "posted_date": "Posted Yesterday",
-      "first_seen": "2026-07-30"
-    },
-    {
-      "id": "4e6b16aad838",
-      "title": "Nights Billing Representative I",
-      "district": "J.B. Hunt",
-      "location": "Lowell, AR - JB Hunt Corporate A & Marketing",
-      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-A--Marketing/Nights-Billing-Representative-I_00636370-1",
-      "platform": "Workday",
-      "category": "freight",
-      "match_reason": "billing representative",
-      "posted_date": "Posted Yesterday",
-      "first_seen": "2026-07-30"
-    },
-    {
-      "id": "1b527708cdaf",
-      "title": "Billing Representative I",
-      "district": "J.B. Hunt",
-      "location": "Lowell, AR - JB Hunt Corporate A & Marketing",
-      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-A--Marketing/Billing-Representative-I_00636337",
-      "platform": "Workday",
-      "category": "freight",
-      "match_reason": "billing representative",
       "posted_date": "Posted 2 Days Ago",
-      "first_seen": "2026-07-29"
+      "first_seen": "2026-07-30"
+    },
+    {
+      "id": "da40e5c2dec8",
+      "title": "Mortgage Servicing Customer Care Representative 1 - Bilingual - 18202",
+      "district": "Arvest Bank",
+      "location": "",
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18202%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "platform": "Infor",
+      "category": "banking",
+      "match_reason": "customer care",
+      "posted_date": "",
+      "first_seen": "2026-07-31"
     },
     {
       "id": "7970c55b9f61",
@@ -91,18 +67,6 @@
       "district": "Arvest Bank",
       "location": "",
       "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18200%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
-      "platform": "Infor",
-      "category": "banking",
-      "match_reason": "teller",
-      "posted_date": "",
-      "first_seen": "2026-07-29"
-    },
-    {
-      "id": "f84f6882b20f",
-      "title": "Teller - 18177",
-      "district": "Arvest Bank",
-      "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18177%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
       "platform": "Infor",
       "category": "banking",
       "match_reason": "teller",
@@ -182,6 +146,30 @@
       "first_seen": "2026-07-10"
     },
     {
+      "id": "f86c32402d63",
+      "title": "97-26 Dispatcher",
+      "district": "City of Stillwater",
+      "location": "Stillwater, OK",
+      "url": "https://stillwaterok.gov/Jobs.aspx?UniqueId=101&From=All&CommunityJobs=False&JobID=9726-Dispatcher-398",
+      "platform": "CivicEngage",
+      "category": "community",
+      "match_reason": "dispatch",
+      "posted_date": "",
+      "first_seen": "2026-07-31"
+    },
+    {
+      "id": "07f1c2b0d173",
+      "title": "ADMINISTRATIVE ASSISTANT - RECEPTIONIST 2026-03129",
+      "district": "Fayetteville (City)",
+      "location": "Fayetteville, AR",
+      "url": "https://www.governmentjobs.com/careers/fayettevillear/jobs/5431280/administrative-assistant-receptionist-2026-03129",
+      "platform": "GovernmentJobs",
+      "category": "community",
+      "match_reason": "administrative assistant",
+      "posted_date": "",
+      "first_seen": "2026-07-31"
+    },
+    {
       "id": "f93df62c1105",
       "title": "DISPATCHER I (Shift: 10pm-6am)  2026 - 03106",
       "district": "Fayetteville (City)",
@@ -192,6 +180,18 @@
       "match_reason": "dispatch",
       "posted_date": "",
       "first_seen": "2026-07-11"
+    },
+    {
+      "id": "64f961e89693",
+      "title": "Office Manager, Registrar's Office",
+      "district": "JBU",
+      "location": "Siloam Springs, AR",
+      "url": "https://www.jbu.edu/human-resources/staff-job-listings/registrar-office-manager?hsLang=en",
+      "platform": "JBU",
+      "category": "community",
+      "match_reason": "office manager",
+      "posted_date": "",
+      "first_seen": "2026-07-31"
     },
     {
       "id": "f9025ce4da87",
@@ -206,6 +206,18 @@
       "first_seen": "2026-07-10"
     },
     {
+      "id": "0858fbae2200",
+      "title": "IT Support Specialist",
+      "district": "UAF",
+      "location": "Fayetteville, AR",
+      "url": "https://uasys.wd5.myworkdayjobs.com/en-US/UAF_External_Career_Site/job/Fayetteville-AR/IT-Support-Specialist_R0089083",
+      "platform": "Workday",
+      "category": "community",
+      "match_reason": "support specialist",
+      "posted_date": "Posted Today",
+      "first_seen": "2026-07-31"
+    },
+    {
       "id": "a349ded81cdb",
       "title": "Senior Academic Division Administrative Specialist - BCIS",
       "district": "NWACC",
@@ -214,7 +226,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "administrative specialist",
-      "posted_date": "Posted 8 Days Ago",
+      "posted_date": "Posted 9 Days Ago",
       "first_seen": "2026-07-23"
     },
     {
