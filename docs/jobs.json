@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-31T14:20",
+  "last_updated": "2026-08-01T13:39",
   "jobs": [
     {
       "id": "5b87d245d6a7",
@@ -14,28 +14,16 @@
       "first_seen": "2026-07-29"
     },
     {
-      "id": "6e45dbc30501",
-      "title": "Billing Representative I",
-      "district": "J.B. Hunt",
-      "location": "Lowell, AR - JB Hunt Corporate A & Marketing",
-      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-A--Marketing/Billing-Representative-I_00636342",
-      "platform": "Workday",
-      "category": "freight",
-      "match_reason": "billing representative",
-      "posted_date": "Posted 2 Days Ago",
-      "first_seen": "2026-07-30"
-    },
-    {
-      "id": "6476109ab049",
-      "title": "Billing Representative I",
+      "id": "9fd562cbf21c",
+      "title": "Customer Experience Representative",
       "district": "J.B. Hunt",
       "location": "Lowell, AR - JB Hunt Corporate B & C",
-      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-B--C/Billing-Representative-I_00636353",
+      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-B--C/Customer-Experience-Representative_00636908",
       "platform": "Workday",
       "category": "freight",
-      "match_reason": "billing representative",
-      "posted_date": "Posted 2 Days Ago",
-      "first_seen": "2026-07-30"
+      "match_reason": "customer experience",
+      "posted_date": "Posted Yesterday",
+      "first_seen": "2026-08-01"
     },
     {
       "id": "da40e5c2dec8",
@@ -60,30 +48,6 @@
       "match_reason": "teller",
       "posted_date": "",
       "first_seen": "2026-07-30"
-    },
-    {
-      "id": "46fafb9bbe1d",
-      "title": "Teller (Floater) - 18200",
-      "district": "Arvest Bank",
-      "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18200%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
-      "platform": "Infor",
-      "category": "banking",
-      "match_reason": "teller",
-      "posted_date": "",
-      "first_seen": "2026-07-29"
-    },
-    {
-      "id": "c11938a07c40",
-      "title": "Teller",
-      "district": "First National Bank",
-      "location": "Fort Smith, AR",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4306843",
-      "platform": "Paylocity",
-      "category": "banking",
-      "match_reason": "teller",
-      "posted_date": "",
-      "first_seen": "2026-07-06"
     },
     {
       "id": "9a3e1777d9d1",
@@ -182,6 +146,18 @@
       "first_seen": "2026-07-11"
     },
     {
+      "id": "9e48d3214bb7",
+      "title": "Police Support Specialist",
+      "district": "Springdale (City)",
+      "location": "Springdale, AR",
+      "url": "https://www.governmentjobs.com/careers/springdalear/jobs/5433242/police-support-specialist",
+      "platform": "GovernmentJobs",
+      "category": "community",
+      "match_reason": "support specialist",
+      "posted_date": "",
+      "first_seen": "2026-08-01"
+    },
+    {
       "id": "64f961e89693",
       "title": "Office Manager, Registrar's Office",
       "district": "JBU",
@@ -214,8 +190,20 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "support specialist",
-      "posted_date": "Posted Today",
+      "posted_date": "Posted Yesterday",
       "first_seen": "2026-07-31"
+    },
+    {
+      "id": "b0d79daa4d61",
+      "title": "Accounting Program Coordinator",
+      "district": "UAF",
+      "location": "Fayetteville, AR",
+      "url": "https://uasys.wd5.myworkdayjobs.com/en-US/UAF_External_Career_Site/job/Fayetteville-AR/Accounting-Program-Coordinator_R0089166",
+      "platform": "Workday",
+      "category": "community",
+      "match_reason": "program coordinator",
+      "posted_date": "Posted Yesterday",
+      "first_seen": "2026-08-01"
     },
     {
       "id": "a349ded81cdb",
@@ -226,7 +214,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "administrative specialist",
-      "posted_date": "Posted 9 Days Ago",
+      "posted_date": "Posted 10 Days Ago",
       "first_seen": "2026-07-23"
     },
     {
@@ -264,6 +252,18 @@
       "match_reason": "health information",
       "posted_date": "",
       "first_seen": "2026-07-18"
+    },
+    {
+      "id": "66bca2bb4186",
+      "title": "Executive Assistant II",
+      "district": "UAMS (NWA campuses)",
+      "location": "UAMS",
+      "url": "https://uasys.wd5.myworkdayjobs.com/en-US/UAMS_All_Careers/job/UAMS/Executive-Assistant-II_R0089248",
+      "platform": "Workday",
+      "category": "healthcare",
+      "match_reason": "executive assistant",
+      "posted_date": "Posted Yesterday",
+      "first_seen": "2026-08-01"
     }
   ],
   "sources": [
