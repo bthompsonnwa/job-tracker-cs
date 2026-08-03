@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-02T13:44",
+  "last_updated": "2026-08-03T14:53",
   "jobs": [
     {
       "id": "5b87d245d6a7",
@@ -22,7 +22,7 @@
       "platform": "Workday",
       "category": "freight",
       "match_reason": "customer experience",
-      "posted_date": "Posted 2 Days Ago",
+      "posted_date": "Posted 3 Days Ago",
       "first_seen": "2026-08-01"
     },
     {
@@ -60,66 +60,6 @@
       "match_reason": "credit analyst",
       "posted_date": "",
       "first_seen": "2026-07-10"
-    },
-    {
-      "id": "2aa2fd89401f",
-      "title": "(1) Part Time Recreation Worker I/II/III Front Desk (Adult Rec Center)",
-      "district": "Bentonville (City)",
-      "location": "Bentonville, AR",
-      "url": "https://www.bentonvillear.com//bentonvillear.bamboohr.com/careers/1248",
-      "platform": "CivicEngage",
-      "category": "community",
-      "match_reason": "front desk",
-      "posted_date": "",
-      "first_seen": "2026-07-10"
-    },
-    {
-      "id": "99c134c019f5",
-      "title": "(1)Part-Time Recreation Worker I/II/III- Front Desk",
-      "district": "Bentonville (City)",
-      "location": "Bentonville, AR",
-      "url": "https://www.bentonvillear.com//bentonvillear.bamboohr.com/careers/1272",
-      "platform": "CivicEngage",
-      "category": "community",
-      "match_reason": "front desk",
-      "posted_date": "",
-      "first_seen": "2026-07-28"
-    },
-    {
-      "id": "7b7e58adfaaf",
-      "title": "(2) Customer Service Rep I",
-      "district": "Bentonville (City)",
-      "location": "Bentonville, AR",
-      "url": "https://www.bentonvillear.com//bentonvillear.bamboohr.com/careers/1270",
-      "platform": "CivicEngage",
-      "category": "community",
-      "match_reason": "customer service",
-      "posted_date": "",
-      "first_seen": "2026-07-29"
-    },
-    {
-      "id": "4b560cb659c1",
-      "title": "Project Coordinator",
-      "district": "Bentonville (City)",
-      "location": "Bentonville, AR",
-      "url": "https://www.bentonvillear.com//bentonvillear.bamboohr.com/careers/1209",
-      "platform": "CivicEngage",
-      "category": "community",
-      "match_reason": "project coordinator",
-      "posted_date": "",
-      "first_seen": "2026-07-10"
-    },
-    {
-      "id": "f86c32402d63",
-      "title": "97-26 Dispatcher",
-      "district": "City of Stillwater",
-      "location": "Stillwater, OK",
-      "url": "https://stillwaterok.gov/Jobs.aspx?UniqueId=101&From=All&CommunityJobs=False&JobID=9726-Dispatcher-398",
-      "platform": "CivicEngage",
-      "category": "community",
-      "match_reason": "dispatch",
-      "posted_date": "",
-      "first_seen": "2026-07-31"
     },
     {
       "id": "07f1c2b0d173",
@@ -190,7 +130,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "support specialist",
-      "posted_date": "Posted 2 Days Ago",
+      "posted_date": "Posted 3 Days Ago",
       "first_seen": "2026-07-31"
     },
     {
@@ -202,20 +142,8 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "program coordinator",
-      "posted_date": "Posted 2 Days Ago",
+      "posted_date": "Posted 3 Days Ago",
       "first_seen": "2026-08-01"
-    },
-    {
-      "id": "a349ded81cdb",
-      "title": "Senior Academic Division Administrative Specialist - BCIS",
-      "district": "NWACC",
-      "location": "Benton County Campus, Arkansas",
-      "url": "https://nwacc.wd1.myworkdayjobs.com/en-US/NWACC_External_Career_Site/job/Benton-County-Campus-Arkansas/Senior-Academic-Division-Administrative-Specialist---BCIS_JR-1239",
-      "platform": "Workday",
-      "category": "community",
-      "match_reason": "administrative specialist",
-      "posted_date": "Posted 11 Days Ago",
-      "first_seen": "2026-07-23"
     },
     {
       "id": "8a9add1be16a",
@@ -262,7 +190,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "executive assistant",
-      "posted_date": "Posted 2 Days Ago",
+      "posted_date": "Posted 3 Days Ago",
       "first_seen": "2026-08-01"
     }
   ],
