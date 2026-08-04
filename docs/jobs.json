@@ -1,17 +1,41 @@
 {
-  "last_updated": "2026-08-03T14:53",
+  "last_updated": "2026-08-04T14:28",
   "jobs": [
     {
-      "id": "5b87d245d6a7",
-      "title": "Data Analyst I - Financial Services",
-      "district": "ArcBest",
-      "location": "Fort Smith, AR",
-      "url": "https://careers.arcb.com/careersmarketplace/JobDetail/Fort-Smith-Arkansas-United-States-Data-Analyst-I-Financial-Services/28931",
-      "platform": "CareersMarketplace",
+      "id": "6f3d5f1ca0b9",
+      "title": "Billing Representative I",
+      "district": "J.B. Hunt",
+      "location": "Lowell, AR - JB Hunt Corporate A & Marketing",
+      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-A--Marketing/Billing-Representative-I_00636702",
+      "platform": "Workday",
       "category": "freight",
-      "match_reason": "financial services",
-      "posted_date": "",
-      "first_seen": "2026-07-29"
+      "match_reason": "billing representative",
+      "posted_date": "Posted Today",
+      "first_seen": "2026-08-04"
+    },
+    {
+      "id": "3bcba88adffd",
+      "title": "Customer Experience Account Manager",
+      "district": "J.B. Hunt",
+      "location": "Lowell, AR - JB Hunt Corporate B & C",
+      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-B--C/Customer-Experience-Account-Manager_00636503-1",
+      "platform": "Workday",
+      "category": "freight",
+      "match_reason": "customer experience",
+      "posted_date": "Posted Today",
+      "first_seen": "2026-08-04"
+    },
+    {
+      "id": "96e97ec63cc0",
+      "title": "Customer Experience Representative II - ICS",
+      "district": "J.B. Hunt",
+      "location": "Lowell, AR - JB Hunt Corporate B & C",
+      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-B--C/Customer-Experience-Representative-II---ICS_00636610",
+      "platform": "Workday",
+      "category": "freight",
+      "match_reason": "customer experience",
+      "posted_date": "Posted Yesterday",
+      "first_seen": "2026-08-04"
     },
     {
       "id": "9fd562cbf21c",
@@ -22,8 +46,20 @@
       "platform": "Workday",
       "category": "freight",
       "match_reason": "customer experience",
-      "posted_date": "Posted 3 Days Ago",
+      "posted_date": "Posted 4 Days Ago",
       "first_seen": "2026-08-01"
+    },
+    {
+      "id": "b803994aaf00",
+      "title": "Teller - 18216",
+      "district": "Arvest Bank",
+      "location": "",
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18216%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "platform": "Infor",
+      "category": "banking",
+      "match_reason": "teller",
+      "posted_date": "",
+      "first_seen": "2026-08-04"
     },
     {
       "id": "da40e5c2dec8",
@@ -60,6 +96,66 @@
       "match_reason": "credit analyst",
       "posted_date": "",
       "first_seen": "2026-07-10"
+    },
+    {
+      "id": "2aa2fd89401f",
+      "title": "(1) Part Time Recreation Worker I/II/III Front Desk (Adult Rec Center)",
+      "district": "Bentonville (City)",
+      "location": "Bentonville, AR",
+      "url": "https://www.bentonvillear.com//bentonvillear.bamboohr.com/careers/1248",
+      "platform": "CivicEngage",
+      "category": "community",
+      "match_reason": "front desk",
+      "posted_date": "",
+      "first_seen": "2026-08-04"
+    },
+    {
+      "id": "99c134c019f5",
+      "title": "(1)Part-Time Recreation Worker I/II/III- Front Desk",
+      "district": "Bentonville (City)",
+      "location": "Bentonville, AR",
+      "url": "https://www.bentonvillear.com//bentonvillear.bamboohr.com/careers/1272",
+      "platform": "CivicEngage",
+      "category": "community",
+      "match_reason": "front desk",
+      "posted_date": "",
+      "first_seen": "2026-08-04"
+    },
+    {
+      "id": "7b7e58adfaaf",
+      "title": "(2) Customer Service Rep I",
+      "district": "Bentonville (City)",
+      "location": "Bentonville, AR",
+      "url": "https://www.bentonvillear.com//bentonvillear.bamboohr.com/careers/1270",
+      "platform": "CivicEngage",
+      "category": "community",
+      "match_reason": "customer service",
+      "posted_date": "",
+      "first_seen": "2026-08-04"
+    },
+    {
+      "id": "4b560cb659c1",
+      "title": "Project Coordinator",
+      "district": "Bentonville (City)",
+      "location": "Bentonville, AR",
+      "url": "https://www.bentonvillear.com//bentonvillear.bamboohr.com/careers/1209",
+      "platform": "CivicEngage",
+      "category": "community",
+      "match_reason": "project coordinator",
+      "posted_date": "",
+      "first_seen": "2026-08-04"
+    },
+    {
+      "id": "f86c32402d63",
+      "title": "97-26 Dispatcher",
+      "district": "City of Stillwater",
+      "location": "Stillwater, OK",
+      "url": "https://stillwaterok.gov/Jobs.aspx?UniqueId=101&From=All&CommunityJobs=False&JobID=9726-Dispatcher-398",
+      "platform": "CivicEngage",
+      "category": "community",
+      "match_reason": "dispatch",
+      "posted_date": "",
+      "first_seen": "2026-08-04"
     },
     {
       "id": "07f1c2b0d173",
@@ -130,7 +226,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "support specialist",
-      "posted_date": "Posted 3 Days Ago",
+      "posted_date": "Posted 4 Days Ago",
       "first_seen": "2026-07-31"
     },
     {
@@ -142,7 +238,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "program coordinator",
-      "posted_date": "Posted 3 Days Ago",
+      "posted_date": "Posted 4 Days Ago",
       "first_seen": "2026-08-01"
     },
     {
@@ -182,6 +278,18 @@
       "first_seen": "2026-07-18"
     },
     {
+      "id": "d51e301f8066",
+      "title": "Program Coordinator",
+      "district": "UAMS (NWA campuses)",
+      "location": "UAMS",
+      "url": "https://uasys.wd5.myworkdayjobs.com/en-US/UAMS_All_Careers/job/UAMS/Program-Coordinator_R0089194",
+      "platform": "Workday",
+      "category": "healthcare",
+      "match_reason": "program coordinator",
+      "posted_date": "Posted Today",
+      "first_seen": "2026-08-04"
+    },
+    {
       "id": "66bca2bb4186",
       "title": "Executive Assistant II",
       "district": "UAMS (NWA campuses)",
@@ -190,7 +298,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "executive assistant",
-      "posted_date": "Posted 3 Days Ago",
+      "posted_date": "Posted 4 Days Ago",
       "first_seen": "2026-08-01"
     }
   ],
