@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-08-04T14:28",
+  "last_updated": "2026-08-05T14:22",
   "jobs": [
+    {
+      "id": "44e7f1f386db",
+      "title": "Dispatcher",
+      "district": "J.B. Hunt",
+      "location": "Lowell, AR - JB Hunt Corporate A & Marketing",
+      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-A--Marketing/Dispatcher_00637073",
+      "platform": "Workday",
+      "category": "freight",
+      "match_reason": "dispatch",
+      "posted_date": "Posted Yesterday",
+      "first_seen": "2026-08-05"
+    },
+    {
+      "id": "6f1a4ab430e9",
+      "title": "Billing Representative I",
+      "district": "J.B. Hunt",
+      "location": "Lowell, AR - JB Hunt Corporate A & Marketing",
+      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-A--Marketing/Billing-Representative-I_00637088",
+      "platform": "Workday",
+      "category": "freight",
+      "match_reason": "billing representative",
+      "posted_date": "Posted Yesterday",
+      "first_seen": "2026-08-05"
+    },
+    {
+      "id": "7df9eedec9d8",
+      "title": "Customer Experience Account Manager",
+      "district": "J.B. Hunt",
+      "location": "Lowell, AR - JB Hunt Corporate B & C",
+      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-B--C/Customer-Experience-Account-Manager_00637200",
+      "platform": "Workday",
+      "category": "freight",
+      "match_reason": "customer experience",
+      "posted_date": "Posted Yesterday",
+      "first_seen": "2026-08-05"
+    },
     {
       "id": "6f3d5f1ca0b9",
       "title": "Billing Representative I",
@@ -10,7 +46,7 @@
       "platform": "Workday",
       "category": "freight",
       "match_reason": "billing representative",
-      "posted_date": "Posted Today",
+      "posted_date": "Posted Yesterday",
       "first_seen": "2026-08-04"
     },
     {
@@ -22,32 +58,20 @@
       "platform": "Workday",
       "category": "freight",
       "match_reason": "customer experience",
-      "posted_date": "Posted Today",
-      "first_seen": "2026-08-04"
-    },
-    {
-      "id": "96e97ec63cc0",
-      "title": "Customer Experience Representative II - ICS",
-      "district": "J.B. Hunt",
-      "location": "Lowell, AR - JB Hunt Corporate B & C",
-      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-B--C/Customer-Experience-Representative-II---ICS_00636610",
-      "platform": "Workday",
-      "category": "freight",
-      "match_reason": "customer experience",
       "posted_date": "Posted Yesterday",
       "first_seen": "2026-08-04"
     },
     {
-      "id": "9fd562cbf21c",
-      "title": "Customer Experience Representative",
-      "district": "J.B. Hunt",
-      "location": "Lowell, AR - JB Hunt Corporate B & C",
-      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-B--C/Customer-Experience-Representative_00636908",
-      "platform": "Workday",
-      "category": "freight",
-      "match_reason": "customer experience",
-      "posted_date": "Posted 4 Days Ago",
-      "first_seen": "2026-08-01"
+      "id": "00a357556ba0",
+      "title": "Teller (Floater) - 18217",
+      "district": "Arvest Bank",
+      "location": "",
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18217%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "platform": "Infor",
+      "category": "banking",
+      "match_reason": "teller",
+      "posted_date": "",
+      "first_seen": "2026-08-05"
     },
     {
       "id": "b803994aaf00",
@@ -206,6 +230,18 @@
       "first_seen": "2026-07-31"
     },
     {
+      "id": "9250b2a96bcb",
+      "title": "Student Financial Services Representative",
+      "district": "JBU",
+      "location": "Siloam Springs, AR",
+      "url": "https://www.jbu.edu/human-resources/staff-job-listings/student-financial-services-representative?hsLang=en",
+      "platform": "JBU",
+      "category": "community",
+      "match_reason": "financial services",
+      "posted_date": "",
+      "first_seen": "2026-08-05"
+    },
+    {
       "id": "f9025ce4da87",
       "title": "Honor Scholars Program Coordinator and Advisor",
       "district": "JBU",
@@ -226,7 +262,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "support specialist",
-      "posted_date": "Posted 4 Days Ago",
+      "posted_date": "Posted 5 Days Ago",
       "first_seen": "2026-07-31"
     },
     {
@@ -238,7 +274,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "program coordinator",
-      "posted_date": "Posted 4 Days Ago",
+      "posted_date": "Posted 5 Days Ago",
       "first_seen": "2026-08-01"
     },
     {
@@ -252,18 +288,6 @@
       "match_reason": "support specialist",
       "posted_date": "Posted 30+ Days Ago",
       "first_seen": "2026-06-05"
-    },
-    {
-      "id": "e1ac248fe3ce",
-      "title": "Patient Access Representative",
-      "district": "Mercy (Springdale)",
-      "location": "Springdale, AR",
-      "url": "https://careers.mercy.net/jobs/JR263278?lang=en-us",
-      "platform": "Mercy",
-      "category": "healthcare",
-      "match_reason": "patient access",
-      "posted_date": "",
-      "first_seen": "2026-07-23"
     },
     {
       "id": "19afd1047026",
@@ -286,7 +310,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "program coordinator",
-      "posted_date": "Posted Today",
+      "posted_date": "Posted Yesterday",
       "first_seen": "2026-08-04"
     },
     {
@@ -298,7 +322,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "executive assistant",
-      "posted_date": "Posted 4 Days Ago",
+      "posted_date": "Posted 5 Days Ago",
       "first_seen": "2026-08-01"
     }
   ],
