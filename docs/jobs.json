@@ -1,65 +1,41 @@
 {
-  "last_updated": "2026-08-05T14:22",
+  "last_updated": "2026-08-06T14:25",
   "jobs": [
     {
-      "id": "44e7f1f386db",
-      "title": "Dispatcher",
-      "district": "J.B. Hunt",
-      "location": "Lowell, AR - JB Hunt Corporate A & Marketing",
-      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-A--Marketing/Dispatcher_00637073",
-      "platform": "Workday",
+      "id": "5b87d245d6a7",
+      "title": "Data Analyst I - Financial Services",
+      "district": "ArcBest",
+      "location": "Fort Smith, AR",
+      "url": "https://careers.arcb.com/careersmarketplace/JobDetail/Fort-Smith-Arkansas-United-States-Data-Analyst-I-Financial-Services/28931",
+      "platform": "CareersMarketplace",
       "category": "freight",
-      "match_reason": "dispatch",
-      "posted_date": "Posted Yesterday",
-      "first_seen": "2026-08-05"
+      "match_reason": "financial services",
+      "posted_date": "",
+      "first_seen": "2026-08-06"
     },
     {
-      "id": "6f1a4ab430e9",
-      "title": "Billing Representative I",
+      "id": "3b36fd2a9271",
+      "title": "Customer Experience Support",
       "district": "J.B. Hunt",
       "location": "Lowell, AR - JB Hunt Corporate A & Marketing",
-      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-A--Marketing/Billing-Representative-I_00637088",
-      "platform": "Workday",
-      "category": "freight",
-      "match_reason": "billing representative",
-      "posted_date": "Posted Yesterday",
-      "first_seen": "2026-08-05"
-    },
-    {
-      "id": "7df9eedec9d8",
-      "title": "Customer Experience Account Manager",
-      "district": "J.B. Hunt",
-      "location": "Lowell, AR - JB Hunt Corporate B & C",
-      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-B--C/Customer-Experience-Account-Manager_00637200",
+      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-A--Marketing/Customer-Experience-Support_00619314-1",
       "platform": "Workday",
       "category": "freight",
       "match_reason": "customer experience",
       "posted_date": "Posted Yesterday",
-      "first_seen": "2026-08-05"
+      "first_seen": "2026-08-06"
     },
     {
-      "id": "6f3d5f1ca0b9",
-      "title": "Billing Representative I",
-      "district": "J.B. Hunt",
-      "location": "Lowell, AR - JB Hunt Corporate A & Marketing",
-      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-A--Marketing/Billing-Representative-I_00636702",
-      "platform": "Workday",
-      "category": "freight",
-      "match_reason": "billing representative",
-      "posted_date": "Posted Yesterday",
-      "first_seen": "2026-08-04"
-    },
-    {
-      "id": "3bcba88adffd",
-      "title": "Customer Experience Account Manager",
-      "district": "J.B. Hunt",
-      "location": "Lowell, AR - JB Hunt Corporate B & C",
-      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-B--C/Customer-Experience-Account-Manager_00636503-1",
-      "platform": "Workday",
-      "category": "freight",
-      "match_reason": "customer experience",
-      "posted_date": "Posted Yesterday",
-      "first_seen": "2026-08-04"
+      "id": "d0581e9cd544",
+      "title": "Teller - 18223",
+      "district": "Arvest Bank",
+      "location": "",
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18223%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "platform": "Infor",
+      "category": "banking",
+      "match_reason": "teller",
+      "posted_date": "",
+      "first_seen": "2026-08-06"
     },
     {
       "id": "00a357556ba0",
@@ -96,18 +72,6 @@
       "match_reason": "customer care",
       "posted_date": "",
       "first_seen": "2026-07-31"
-    },
-    {
-      "id": "7970c55b9f61",
-      "title": "Teller - 18172",
-      "district": "Arvest Bank",
-      "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18172%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
-      "platform": "Infor",
-      "category": "banking",
-      "match_reason": "teller",
-      "posted_date": "",
-      "first_seen": "2026-07-30"
     },
     {
       "id": "9a3e1777d9d1",
@@ -262,7 +226,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "support specialist",
-      "posted_date": "Posted 5 Days Ago",
+      "posted_date": "Posted 6 Days Ago",
       "first_seen": "2026-07-31"
     },
     {
@@ -274,20 +238,8 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "program coordinator",
-      "posted_date": "Posted 5 Days Ago",
+      "posted_date": "Posted 6 Days Ago",
       "first_seen": "2026-08-01"
-    },
-    {
-      "id": "8a9add1be16a",
-      "title": "Fiscal Support Specialist",
-      "district": "NWACC",
-      "location": "Benton County Campus, Arkansas",
-      "url": "https://nwacc.wd1.myworkdayjobs.com/en-US/NWACC_External_Career_Site/job/Benton-County-Campus-Arkansas/Fiscal-Support-Specialist_JR-1204",
-      "platform": "Workday",
-      "category": "community",
-      "match_reason": "support specialist",
-      "posted_date": "Posted 30+ Days Ago",
-      "first_seen": "2026-06-05"
     },
     {
       "id": "19afd1047026",
@@ -310,7 +262,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "program coordinator",
-      "posted_date": "Posted Yesterday",
+      "posted_date": "Posted 2 Days Ago",
       "first_seen": "2026-08-04"
     },
     {
@@ -322,7 +274,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "executive assistant",
-      "posted_date": "Posted 5 Days Ago",
+      "posted_date": "Posted 6 Days Ago",
       "first_seen": "2026-08-01"
     }
   ],
