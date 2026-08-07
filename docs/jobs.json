@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-06T14:25",
+  "last_updated": "2026-08-07T13:16",
   "jobs": [
     {
       "id": "5b87d245d6a7",
@@ -14,16 +14,76 @@
       "first_seen": "2026-08-06"
     },
     {
-      "id": "3b36fd2a9271",
-      "title": "Customer Experience Support",
+      "id": "08e7bd049d81",
+      "title": "Customer Experience Representative - ICS",
       "district": "J.B. Hunt",
-      "location": "Lowell, AR - JB Hunt Corporate A & Marketing",
-      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-A--Marketing/Customer-Experience-Support_00619314-1",
+      "location": "Lowell, AR - JB Hunt Corporate B & C",
+      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-B--C/Customer-Experience-Representative---ICS_00629879",
       "platform": "Workday",
       "category": "freight",
       "match_reason": "customer experience",
       "posted_date": "Posted Yesterday",
-      "first_seen": "2026-08-06"
+      "first_seen": "2026-08-07"
+    },
+    {
+      "id": "d8ad131076a8",
+      "title": "Customer Experience Representative - ICS",
+      "district": "J.B. Hunt",
+      "location": "Lowell, AR - JB Hunt Corporate B & C",
+      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-B--C/Customer-Experience-Representative---ICS_00634805",
+      "platform": "Workday",
+      "category": "freight",
+      "match_reason": "customer experience",
+      "posted_date": "Posted Yesterday",
+      "first_seen": "2026-08-07"
+    },
+    {
+      "id": "e45da44da413",
+      "title": "Customer Experience Support",
+      "district": "J.B. Hunt",
+      "location": "Lowell, AR - JB Hunt Corporate B & C",
+      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-B--C/Customer-Experience-Support_00637383",
+      "platform": "Workday",
+      "category": "freight",
+      "match_reason": "customer experience",
+      "posted_date": "Posted Yesterday",
+      "first_seen": "2026-08-07"
+    },
+    {
+      "id": "c37b92bcb160",
+      "title": "Teller (Floater) - 18235",
+      "district": "Arvest Bank",
+      "location": "",
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18235%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "platform": "Infor",
+      "category": "banking",
+      "match_reason": "teller",
+      "posted_date": "",
+      "first_seen": "2026-08-07"
+    },
+    {
+      "id": "31e939ddee8e",
+      "title": "Teller - 18222",
+      "district": "Arvest Bank",
+      "location": "",
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18222%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "platform": "Infor",
+      "category": "banking",
+      "match_reason": "teller",
+      "posted_date": "",
+      "first_seen": "2026-08-07"
+    },
+    {
+      "id": "acf619aed5d0",
+      "title": "Teller - 18219",
+      "district": "Arvest Bank",
+      "location": "",
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18219%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "platform": "Infor",
+      "category": "banking",
+      "match_reason": "teller",
+      "posted_date": "",
+      "first_seen": "2026-08-07"
     },
     {
       "id": "d0581e9cd544",
@@ -48,30 +108,6 @@
       "match_reason": "teller",
       "posted_date": "",
       "first_seen": "2026-08-05"
-    },
-    {
-      "id": "b803994aaf00",
-      "title": "Teller - 18216",
-      "district": "Arvest Bank",
-      "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18216%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
-      "platform": "Infor",
-      "category": "banking",
-      "match_reason": "teller",
-      "posted_date": "",
-      "first_seen": "2026-08-04"
-    },
-    {
-      "id": "da40e5c2dec8",
-      "title": "Mortgage Servicing Customer Care Representative 1 - Bilingual - 18202",
-      "district": "Arvest Bank",
-      "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18202%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
-      "platform": "Infor",
-      "category": "banking",
-      "match_reason": "customer care",
-      "posted_date": "",
-      "first_seen": "2026-07-31"
     },
     {
       "id": "9a3e1777d9d1",
@@ -146,18 +182,6 @@
       "first_seen": "2026-08-04"
     },
     {
-      "id": "07f1c2b0d173",
-      "title": "ADMINISTRATIVE ASSISTANT - RECEPTIONIST 2026-03129",
-      "district": "Fayetteville (City)",
-      "location": "Fayetteville, AR",
-      "url": "https://www.governmentjobs.com/careers/fayettevillear/jobs/5431280/administrative-assistant-receptionist-2026-03129",
-      "platform": "GovernmentJobs",
-      "category": "community",
-      "match_reason": "administrative assistant",
-      "posted_date": "",
-      "first_seen": "2026-07-31"
-    },
-    {
       "id": "f93df62c1105",
       "title": "DISPATCHER I (Shift: 10pm-6am)  2026 - 03106",
       "district": "Fayetteville (City)",
@@ -226,7 +250,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "support specialist",
-      "posted_date": "Posted 6 Days Ago",
+      "posted_date": "Posted 7 Days Ago",
       "first_seen": "2026-07-31"
     },
     {
@@ -238,7 +262,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "program coordinator",
-      "posted_date": "Posted 6 Days Ago",
+      "posted_date": "Posted 7 Days Ago",
       "first_seen": "2026-08-01"
     },
     {
@@ -262,7 +286,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "program coordinator",
-      "posted_date": "Posted 2 Days Ago",
+      "posted_date": "Posted 3 Days Ago",
       "first_seen": "2026-08-04"
     },
     {
@@ -274,7 +298,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "executive assistant",
-      "posted_date": "Posted 6 Days Ago",
+      "posted_date": "Posted 7 Days Ago",
       "first_seen": "2026-08-01"
     }
   ],
