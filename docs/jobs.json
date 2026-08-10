@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-09T13:01",
+  "last_updated": "2026-08-10T13:20",
   "jobs": [
     {
       "id": "5b87d245d6a7",
@@ -22,7 +22,7 @@
       "platform": "Workday",
       "category": "freight",
       "match_reason": "customer experience",
-      "posted_date": "Posted 2 Days Ago",
+      "posted_date": "Posted 3 Days Ago",
       "first_seen": "2026-08-08"
     },
     {
@@ -34,7 +34,7 @@
       "platform": "Workday",
       "category": "freight",
       "match_reason": "billing representative",
-      "posted_date": "Posted 2 Days Ago",
+      "posted_date": "Posted 3 Days Ago",
       "first_seen": "2026-08-08"
     },
     {
@@ -46,7 +46,7 @@
       "platform": "Workday",
       "category": "freight",
       "match_reason": "customer experience",
-      "posted_date": "Posted 3 Days Ago",
+      "posted_date": "Posted 4 Days Ago",
       "first_seen": "2026-08-07"
     },
     {
@@ -58,19 +58,7 @@
       "platform": "Workday",
       "category": "freight",
       "match_reason": "customer experience",
-      "posted_date": "Posted 3 Days Ago",
-      "first_seen": "2026-08-07"
-    },
-    {
-      "id": "e45da44da413",
-      "title": "Customer Experience Support",
-      "district": "J.B. Hunt",
-      "location": "Lowell, AR - JB Hunt Corporate B & C",
-      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-B--C/Customer-Experience-Support_00637383",
-      "platform": "Workday",
-      "category": "freight",
-      "match_reason": "customer experience",
-      "posted_date": "Posted 3 Days Ago",
+      "posted_date": "Posted 4 Days Ago",
       "first_seen": "2026-08-07"
     },
     {
@@ -286,7 +274,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "operations coordinator",
-      "posted_date": "Posted 2 Days Ago",
+      "posted_date": "Posted 3 Days Ago",
       "first_seen": "2026-08-08"
     },
     {
@@ -298,7 +286,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "program coordinator",
-      "posted_date": "Posted 9 Days Ago",
+      "posted_date": "Posted 10 Days Ago",
       "first_seen": "2026-08-01"
     },
     {
@@ -322,7 +310,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "program coordinator",
-      "posted_date": "Posted 5 Days Ago",
+      "posted_date": "Posted 6 Days Ago",
       "first_seen": "2026-08-04"
     },
     {
@@ -334,8 +322,20 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "executive assistant",
-      "posted_date": "Posted 9 Days Ago",
+      "posted_date": "Posted 10 Days Ago",
       "first_seen": "2026-08-01"
+    },
+    {
+      "id": "c137a13a9c68",
+      "title": "Customer Service Representative I",
+      "district": "AR Blue Cross",
+      "location": "2 Locations",
+      "url": "https://arkbluecross.wd1.myworkdayjobs.com/en-US/ABCBS_External_Careers/job/Arkansas-Remote/Customer-Service-Representative-I_R0013712",
+      "platform": "Workday",
+      "category": "healthcare",
+      "match_reason": "customer service",
+      "posted_date": "Posted Today",
+      "first_seen": "2026-08-10"
     }
   ],
   "sources": [
