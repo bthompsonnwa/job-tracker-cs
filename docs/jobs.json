@@ -1,65 +1,41 @@
 {
-  "last_updated": "2026-08-10T13:20",
+  "last_updated": "2026-08-11T13:17",
   "jobs": [
     {
-      "id": "5b87d245d6a7",
-      "title": "Data Analyst I - Financial Services",
-      "district": "ArcBest",
-      "location": "Fort Smith, AR",
-      "url": "https://careers.arcb.com/careersmarketplace/JobDetail/Fort-Smith-Arkansas-United-States-Data-Analyst-I-Financial-Services/28931",
-      "platform": "CareersMarketplace",
-      "category": "freight",
-      "match_reason": "financial services",
-      "posted_date": "",
-      "first_seen": "2026-08-06"
-    },
-    {
-      "id": "027938ceb772",
-      "title": "Customer Experience Representative",
+      "id": "1b527708cdaf",
+      "title": "Billing Representative I",
       "district": "J.B. Hunt",
       "location": "Lowell, AR - JB Hunt Corporate A & Marketing",
-      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-A--Marketing/Customer-Experience-Representative_00637662-1",
-      "platform": "Workday",
-      "category": "freight",
-      "match_reason": "customer experience",
-      "posted_date": "Posted 3 Days Ago",
-      "first_seen": "2026-08-08"
-    },
-    {
-      "id": "4fcbac21f519",
-      "title": "Billing Representative I Nights",
-      "district": "J.B. Hunt",
-      "location": "Lowell, AR - JB Hunt Corporate B & C",
-      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-B--C/Billing-Representative-I-Nights_00637817",
+      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-A--Marketing/Billing-Representative-I_00636337",
       "platform": "Workday",
       "category": "freight",
       "match_reason": "billing representative",
-      "posted_date": "Posted 3 Days Ago",
-      "first_seen": "2026-08-08"
+      "posted_date": "Posted Yesterday",
+      "first_seen": "2026-08-11"
     },
     {
-      "id": "08e7bd049d81",
-      "title": "Customer Experience Representative - ICS",
+      "id": "2c1f89d57682",
+      "title": "Part Time Customer Experience Support",
       "district": "J.B. Hunt",
-      "location": "Lowell, AR - JB Hunt Corporate B & C",
-      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-B--C/Customer-Experience-Representative---ICS_00629879",
+      "location": "Lowell, AR - JB Hunt Corporate A & Marketing",
+      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-A--Marketing/Part-Time-Customer-Experience-Support_00630171",
       "platform": "Workday",
       "category": "freight",
       "match_reason": "customer experience",
-      "posted_date": "Posted 4 Days Ago",
-      "first_seen": "2026-08-07"
+      "posted_date": "Posted Yesterday",
+      "first_seen": "2026-08-11"
     },
     {
-      "id": "d8ad131076a8",
-      "title": "Customer Experience Representative - ICS",
-      "district": "J.B. Hunt",
-      "location": "Lowell, AR - JB Hunt Corporate B & C",
-      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-B--C/Customer-Experience-Representative---ICS_00634805",
-      "platform": "Workday",
-      "category": "freight",
-      "match_reason": "customer experience",
-      "posted_date": "Posted 4 Days Ago",
-      "first_seen": "2026-08-07"
+      "id": "99e8c6fc0ca0",
+      "title": "Teller - 18241",
+      "district": "Arvest Bank",
+      "location": "",
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18241%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "platform": "Infor",
+      "category": "banking",
+      "match_reason": "teller",
+      "posted_date": "",
+      "first_seen": "2026-08-11"
     },
     {
       "id": "50ea8dc359b4",
@@ -120,18 +96,6 @@
       "match_reason": "teller",
       "posted_date": "",
       "first_seen": "2026-08-06"
-    },
-    {
-      "id": "00a357556ba0",
-      "title": "Teller (Floater) - 18217",
-      "district": "Arvest Bank",
-      "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18217%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
-      "platform": "Infor",
-      "category": "banking",
-      "match_reason": "teller",
-      "posted_date": "",
-      "first_seen": "2026-08-05"
     },
     {
       "id": "9a3e1777d9d1",
@@ -206,16 +170,16 @@
       "first_seen": "2026-08-04"
     },
     {
-      "id": "f93df62c1105",
-      "title": "DISPATCHER I (Shift: 10pm-6am)  2026 - 03106",
-      "district": "Fayetteville (City)",
-      "location": "Fayetteville, AR",
-      "url": "https://www.governmentjobs.com/careers/fayettevillear/jobs/5405886/dispatcher-i-shift-10pm-6am-2026-03106",
+      "id": "b12bafa676aa",
+      "title": "Dispatcher",
+      "district": "Springdale (City)",
+      "location": "Springdale, AR",
+      "url": "https://www.governmentjobs.com/careers/springdalear/jobs/5443087/dispatcher",
       "platform": "GovernmentJobs",
       "category": "community",
       "match_reason": "dispatch",
       "posted_date": "",
-      "first_seen": "2026-07-11"
+      "first_seen": "2026-08-11"
     },
     {
       "id": "9e48d3214bb7",
@@ -274,7 +238,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "operations coordinator",
-      "posted_date": "Posted 3 Days Ago",
+      "posted_date": "Posted 4 Days Ago",
       "first_seen": "2026-08-08"
     },
     {
@@ -286,7 +250,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "program coordinator",
-      "posted_date": "Posted 10 Days Ago",
+      "posted_date": "Posted 11 Days Ago",
       "first_seen": "2026-08-01"
     },
     {
@@ -310,7 +274,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "program coordinator",
-      "posted_date": "Posted 6 Days Ago",
+      "posted_date": "Posted 7 Days Ago",
       "first_seen": "2026-08-04"
     },
     {
@@ -322,7 +286,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "executive assistant",
-      "posted_date": "Posted 10 Days Ago",
+      "posted_date": "Posted 11 Days Ago",
       "first_seen": "2026-08-01"
     },
     {
@@ -334,7 +298,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "customer service",
-      "posted_date": "Posted Today",
+      "posted_date": "Posted Yesterday",
       "first_seen": "2026-08-10"
     }
   ],
