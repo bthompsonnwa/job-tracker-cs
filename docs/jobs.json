@@ -1,29 +1,17 @@
 {
-  "last_updated": "2026-08-11T13:17",
+  "last_updated": "2026-08-12T13:21",
   "jobs": [
     {
-      "id": "1b527708cdaf",
-      "title": "Billing Representative I",
-      "district": "J.B. Hunt",
-      "location": "Lowell, AR - JB Hunt Corporate A & Marketing",
-      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-A--Marketing/Billing-Representative-I_00636337",
-      "platform": "Workday",
-      "category": "freight",
-      "match_reason": "billing representative",
-      "posted_date": "Posted Yesterday",
-      "first_seen": "2026-08-11"
-    },
-    {
-      "id": "2c1f89d57682",
-      "title": "Part Time Customer Experience Support",
-      "district": "J.B. Hunt",
-      "location": "Lowell, AR - JB Hunt Corporate A & Marketing",
-      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-A--Marketing/Part-Time-Customer-Experience-Support_00630171",
-      "platform": "Workday",
-      "category": "freight",
-      "match_reason": "customer experience",
-      "posted_date": "Posted Yesterday",
-      "first_seen": "2026-08-11"
+      "id": "39584aaaa9e2",
+      "title": "TMPS Operations Specialist 1 - 18244",
+      "district": "Arvest Bank",
+      "location": "",
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18244%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "platform": "Infor",
+      "category": "banking",
+      "match_reason": "operations specialist",
+      "posted_date": "",
+      "first_seen": "2026-08-12"
     },
     {
       "id": "99e8c6fc0ca0",
@@ -62,42 +50,6 @@
       "first_seen": "2026-08-07"
     },
     {
-      "id": "31e939ddee8e",
-      "title": "Teller - 18222",
-      "district": "Arvest Bank",
-      "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18222%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
-      "platform": "Infor",
-      "category": "banking",
-      "match_reason": "teller",
-      "posted_date": "",
-      "first_seen": "2026-08-07"
-    },
-    {
-      "id": "acf619aed5d0",
-      "title": "Teller - 18219",
-      "district": "Arvest Bank",
-      "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18219%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
-      "platform": "Infor",
-      "category": "banking",
-      "match_reason": "teller",
-      "posted_date": "",
-      "first_seen": "2026-08-07"
-    },
-    {
-      "id": "d0581e9cd544",
-      "title": "Teller - 18223",
-      "district": "Arvest Bank",
-      "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18223%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
-      "platform": "Infor",
-      "category": "banking",
-      "match_reason": "teller",
-      "posted_date": "",
-      "first_seen": "2026-08-06"
-    },
-    {
       "id": "9a3e1777d9d1",
       "title": "Senior Credit Analyst/Underwriter",
       "district": "Centennial Bank",
@@ -134,8 +86,8 @@
       "first_seen": "2026-08-04"
     },
     {
-      "id": "7b7e58adfaaf",
-      "title": "(2) Customer Service Rep I",
+      "id": "8ff27e4e315e",
+      "title": "(1) Customer Service Rep I",
       "district": "Bentonville (City)",
       "location": "Bentonville, AR",
       "url": "https://www.bentonvillear.com//bentonvillear.bamboohr.com/careers/1270",
@@ -143,7 +95,7 @@
       "category": "community",
       "match_reason": "customer service",
       "posted_date": "",
-      "first_seen": "2026-08-04"
+      "first_seen": "2026-08-12"
     },
     {
       "id": "4b560cb659c1",
@@ -180,18 +132,6 @@
       "match_reason": "dispatch",
       "posted_date": "",
       "first_seen": "2026-08-11"
-    },
-    {
-      "id": "9e48d3214bb7",
-      "title": "Police Support Specialist",
-      "district": "Springdale (City)",
-      "location": "Springdale, AR",
-      "url": "https://www.governmentjobs.com/careers/springdalear/jobs/5433242/police-support-specialist",
-      "platform": "GovernmentJobs",
-      "category": "community",
-      "match_reason": "support specialist",
-      "posted_date": "",
-      "first_seen": "2026-08-01"
     },
     {
       "id": "64f961e89693",
@@ -238,7 +178,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "operations coordinator",
-      "posted_date": "Posted 4 Days Ago",
+      "posted_date": "Posted 5 Days Ago",
       "first_seen": "2026-08-08"
     },
     {
@@ -250,7 +190,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "program coordinator",
-      "posted_date": "Posted 11 Days Ago",
+      "posted_date": "Posted 12 Days Ago",
       "first_seen": "2026-08-01"
     },
     {
@@ -274,7 +214,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "program coordinator",
-      "posted_date": "Posted 7 Days Ago",
+      "posted_date": "Posted 8 Days Ago",
       "first_seen": "2026-08-04"
     },
     {
@@ -286,8 +226,20 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "executive assistant",
-      "posted_date": "Posted 11 Days Ago",
+      "posted_date": "Posted 12 Days Ago",
       "first_seen": "2026-08-01"
+    },
+    {
+      "id": "70c177139806",
+      "title": "Claims Specialist I",
+      "district": "AR Blue Cross",
+      "location": "Arkansas Remote",
+      "url": "https://arkbluecross.wd1.myworkdayjobs.com/en-US/ABCBS_External_Careers/job/Arkansas-Remote/Claims-Specialist-I_R0013702",
+      "platform": "Workday",
+      "category": "healthcare",
+      "match_reason": "claims specialist",
+      "posted_date": "Posted Yesterday",
+      "first_seen": "2026-08-12"
     },
     {
       "id": "c137a13a9c68",
@@ -298,7 +250,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "customer service",
-      "posted_date": "Posted Yesterday",
+      "posted_date": "Posted 2 Days Ago",
       "first_seen": "2026-08-10"
     }
   ],
