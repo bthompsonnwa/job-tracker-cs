@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-08-12T13:21",
+  "last_updated": "2026-08-13T13:23",
   "jobs": [
+    {
+      "id": "0cae83bdb036",
+      "title": "Customer Experience Appointment Representative",
+      "district": "J.B. Hunt",
+      "location": "Lowell, AR - JB Hunt Corporate A & Marketing",
+      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-A--Marketing/Customer-Experience-Appointment-Representative_00632194",
+      "platform": "Workday",
+      "category": "freight",
+      "match_reason": "customer experience",
+      "posted_date": "Posted Yesterday",
+      "first_seen": "2026-08-13"
+    },
+    {
+      "id": "15de254df3a6",
+      "title": "Billing Representative I",
+      "district": "J.B. Hunt",
+      "location": "Lowell, AR - JB Hunt Corporate B & C",
+      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-B--C/Billing-Representative-I_00638527",
+      "platform": "Workday",
+      "category": "freight",
+      "match_reason": "billing representative",
+      "posted_date": "Posted Yesterday",
+      "first_seen": "2026-08-13"
+    },
     {
       "id": "39584aaaa9e2",
       "title": "TMPS Operations Specialist 1 - 18244",
@@ -38,18 +62,6 @@
       "first_seen": "2026-08-08"
     },
     {
-      "id": "c37b92bcb160",
-      "title": "Teller (Floater) - 18235",
-      "district": "Arvest Bank",
-      "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18235%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
-      "platform": "Infor",
-      "category": "banking",
-      "match_reason": "teller",
-      "posted_date": "",
-      "first_seen": "2026-08-07"
-    },
-    {
       "id": "9a3e1777d9d1",
       "title": "Senior Credit Analyst/Underwriter",
       "district": "Centennial Bank",
@@ -60,18 +72,6 @@
       "match_reason": "credit analyst",
       "posted_date": "",
       "first_seen": "2026-07-10"
-    },
-    {
-      "id": "2aa2fd89401f",
-      "title": "(1) Part Time Recreation Worker I/II/III Front Desk (Adult Rec Center)",
-      "district": "Bentonville (City)",
-      "location": "Bentonville, AR",
-      "url": "https://www.bentonvillear.com//bentonvillear.bamboohr.com/careers/1248",
-      "platform": "CivicEngage",
-      "category": "community",
-      "match_reason": "front desk",
-      "posted_date": "",
-      "first_seen": "2026-08-04"
     },
     {
       "id": "99c134c019f5",
@@ -178,7 +178,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "operations coordinator",
-      "posted_date": "Posted 5 Days Ago",
+      "posted_date": "Posted 6 Days Ago",
       "first_seen": "2026-08-08"
     },
     {
@@ -190,7 +190,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "program coordinator",
-      "posted_date": "Posted 12 Days Ago",
+      "posted_date": "Posted 13 Days Ago",
       "first_seen": "2026-08-01"
     },
     {
@@ -214,7 +214,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "program coordinator",
-      "posted_date": "Posted 8 Days Ago",
+      "posted_date": "Posted 9 Days Ago",
       "first_seen": "2026-08-04"
     },
     {
@@ -226,7 +226,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "executive assistant",
-      "posted_date": "Posted 12 Days Ago",
+      "posted_date": "Posted 13 Days Ago",
       "first_seen": "2026-08-01"
     },
     {
@@ -238,20 +238,8 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "claims specialist",
-      "posted_date": "Posted Yesterday",
-      "first_seen": "2026-08-12"
-    },
-    {
-      "id": "c137a13a9c68",
-      "title": "Customer Service Representative I",
-      "district": "AR Blue Cross",
-      "location": "2 Locations",
-      "url": "https://arkbluecross.wd1.myworkdayjobs.com/en-US/ABCBS_External_Careers/job/Arkansas-Remote/Customer-Service-Representative-I_R0013712",
-      "platform": "Workday",
-      "category": "healthcare",
-      "match_reason": "customer service",
       "posted_date": "Posted 2 Days Ago",
-      "first_seen": "2026-08-10"
+      "first_seen": "2026-08-12"
     }
   ],
   "sources": [
