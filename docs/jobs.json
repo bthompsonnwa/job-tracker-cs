@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-08-13T13:23",
+  "last_updated": "2026-08-14T13:18",
   "jobs": [
+    {
+      "id": "b37a33d68fc5",
+      "title": "Call Center Support I",
+      "district": "J.B. Hunt",
+      "location": "Lowell, AR - JB Hunt Corporate B & C",
+      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-B--C/Call-Center-Support-I_00634298",
+      "platform": "Workday",
+      "category": "freight",
+      "match_reason": "call center",
+      "posted_date": "Posted Yesterday",
+      "first_seen": "2026-08-14"
+    },
+    {
+      "id": "702cb170dc08",
+      "title": "Customer Experience Appointment Representative",
+      "district": "J.B. Hunt",
+      "location": "Lowell, AR - JB Hunt Corporate A & Marketing",
+      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-A--Marketing/Customer-Experience-Appointment-Representative_00638700",
+      "platform": "Workday",
+      "category": "freight",
+      "match_reason": "customer experience",
+      "posted_date": "Posted Yesterday",
+      "first_seen": "2026-08-14"
+    },
+    {
+      "id": "6de188200dfd",
+      "title": "Customer Experience Representative",
+      "district": "J.B. Hunt",
+      "location": "Lowell, AR - JB Hunt Corporate B & C",
+      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-B--C/Customer-Experience-Representative_00638693",
+      "platform": "Workday",
+      "category": "freight",
+      "match_reason": "customer experience",
+      "posted_date": "Posted Yesterday",
+      "first_seen": "2026-08-14"
+    },
     {
       "id": "0cae83bdb036",
       "title": "Customer Experience Appointment Representative",
@@ -10,7 +46,7 @@
       "platform": "Workday",
       "category": "freight",
       "match_reason": "customer experience",
-      "posted_date": "Posted Yesterday",
+      "posted_date": "Posted 2 Days Ago",
       "first_seen": "2026-08-13"
     },
     {
@@ -22,8 +58,32 @@
       "platform": "Workday",
       "category": "freight",
       "match_reason": "billing representative",
-      "posted_date": "Posted Yesterday",
+      "posted_date": "Posted 2 Days Ago",
       "first_seen": "2026-08-13"
+    },
+    {
+      "id": "9e0ace356d78",
+      "title": "Teller - 18249",
+      "district": "Arvest Bank",
+      "location": "",
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18249%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "platform": "Infor",
+      "category": "banking",
+      "match_reason": "teller",
+      "posted_date": "",
+      "first_seen": "2026-08-14"
+    },
+    {
+      "id": "fc37898f9b9d",
+      "title": "Arvest Wealth Management Trust Support Specialist - 18000",
+      "district": "Arvest Bank",
+      "location": "",
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18000%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "platform": "Infor",
+      "category": "banking",
+      "match_reason": "support specialist",
+      "posted_date": "",
+      "first_seen": "2026-08-14"
     },
     {
       "id": "39584aaaa9e2",
@@ -38,28 +98,16 @@
       "first_seen": "2026-08-12"
     },
     {
-      "id": "99e8c6fc0ca0",
-      "title": "Teller - 18241",
-      "district": "Arvest Bank",
-      "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18241%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
-      "platform": "Infor",
+      "id": "139aebad1818",
+      "title": "Teller",
+      "district": "First National Bank",
+      "location": "Fort Smith, AR",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3630177",
+      "platform": "Paylocity",
       "category": "banking",
       "match_reason": "teller",
       "posted_date": "",
-      "first_seen": "2026-08-11"
-    },
-    {
-      "id": "50ea8dc359b4",
-      "title": "Teller - 18240",
-      "district": "Arvest Bank",
-      "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18240%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
-      "platform": "Infor",
-      "category": "banking",
-      "match_reason": "teller",
-      "posted_date": "",
-      "first_seen": "2026-08-08"
+      "first_seen": "2026-08-14"
     },
     {
       "id": "9a3e1777d9d1",
@@ -178,7 +226,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "operations coordinator",
-      "posted_date": "Posted 6 Days Ago",
+      "posted_date": "Posted 7 Days Ago",
       "first_seen": "2026-08-08"
     },
     {
@@ -190,8 +238,32 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "program coordinator",
-      "posted_date": "Posted 13 Days Ago",
+      "posted_date": "Posted 14 Days Ago",
       "first_seen": "2026-08-01"
+    },
+    {
+      "id": "105c9321a01a",
+      "title": "Fiscal Support Specialist, Washington County Campus",
+      "district": "NWACC",
+      "location": "Washington County Campus, Arkansas",
+      "url": "https://nwacc.wd1.myworkdayjobs.com/en-US/NWACC_External_Career_Site/job/Washington-County-Campus-Arkansas/Fiscal-Support-Specialist--Washington-County-Campus_JR-1276",
+      "platform": "Workday",
+      "category": "community",
+      "match_reason": "support specialist",
+      "posted_date": "Posted Yesterday",
+      "first_seen": "2026-08-14"
+    },
+    {
+      "id": "7d5df5a925d8",
+      "title": "Unit Secretary (Emergency Dept.) - Mercy Hospital NW Arkansas",
+      "district": "Mercy (Springdale)",
+      "location": "Springdale, AR",
+      "url": "https://careers.mercy.net/jobs/JR265918?lang=en-us",
+      "platform": "Mercy",
+      "category": "healthcare",
+      "match_reason": "unit secretary",
+      "posted_date": "",
+      "first_seen": "2026-08-14"
     },
     {
       "id": "19afd1047026",
@@ -214,7 +286,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "program coordinator",
-      "posted_date": "Posted 9 Days Ago",
+      "posted_date": "Posted 10 Days Ago",
       "first_seen": "2026-08-04"
     },
     {
@@ -226,7 +298,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "executive assistant",
-      "posted_date": "Posted 13 Days Ago",
+      "posted_date": "Posted 14 Days Ago",
       "first_seen": "2026-08-01"
     },
     {
@@ -238,7 +310,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "claims specialist",
-      "posted_date": "Posted 2 Days Ago",
+      "posted_date": "Posted 3 Days Ago",
       "first_seen": "2026-08-12"
     }
   ],
