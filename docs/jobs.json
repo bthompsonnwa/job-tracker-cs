@@ -1,113 +1,17 @@
 {
-  "last_updated": "2026-08-14T13:18",
+  "last_updated": "2026-08-15T12:47",
   "jobs": [
     {
-      "id": "b37a33d68fc5",
-      "title": "Call Center Support I",
-      "district": "J.B. Hunt",
-      "location": "Lowell, AR - JB Hunt Corporate B & C",
-      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-B--C/Call-Center-Support-I_00634298",
-      "platform": "Workday",
-      "category": "freight",
-      "match_reason": "call center",
-      "posted_date": "Posted Yesterday",
-      "first_seen": "2026-08-14"
-    },
-    {
-      "id": "702cb170dc08",
-      "title": "Customer Experience Appointment Representative",
-      "district": "J.B. Hunt",
-      "location": "Lowell, AR - JB Hunt Corporate A & Marketing",
-      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-A--Marketing/Customer-Experience-Appointment-Representative_00638700",
-      "platform": "Workday",
-      "category": "freight",
-      "match_reason": "customer experience",
-      "posted_date": "Posted Yesterday",
-      "first_seen": "2026-08-14"
-    },
-    {
-      "id": "6de188200dfd",
-      "title": "Customer Experience Representative",
-      "district": "J.B. Hunt",
-      "location": "Lowell, AR - JB Hunt Corporate B & C",
-      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-B--C/Customer-Experience-Representative_00638693",
-      "platform": "Workday",
-      "category": "freight",
-      "match_reason": "customer experience",
-      "posted_date": "Posted Yesterday",
-      "first_seen": "2026-08-14"
-    },
-    {
-      "id": "0cae83bdb036",
-      "title": "Customer Experience Appointment Representative",
-      "district": "J.B. Hunt",
-      "location": "Lowell, AR - JB Hunt Corporate A & Marketing",
-      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-A--Marketing/Customer-Experience-Appointment-Representative_00632194",
-      "platform": "Workday",
-      "category": "freight",
-      "match_reason": "customer experience",
-      "posted_date": "Posted 2 Days Ago",
-      "first_seen": "2026-08-13"
-    },
-    {
-      "id": "15de254df3a6",
-      "title": "Billing Representative I",
-      "district": "J.B. Hunt",
-      "location": "Lowell, AR - JB Hunt Corporate B & C",
-      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-B--C/Billing-Representative-I_00638527",
-      "platform": "Workday",
-      "category": "freight",
-      "match_reason": "billing representative",
-      "posted_date": "Posted 2 Days Ago",
-      "first_seen": "2026-08-13"
-    },
-    {
-      "id": "9e0ace356d78",
-      "title": "Teller - 18249",
-      "district": "Arvest Bank",
-      "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18249%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
-      "platform": "Infor",
-      "category": "banking",
-      "match_reason": "teller",
-      "posted_date": "",
-      "first_seen": "2026-08-14"
-    },
-    {
-      "id": "fc37898f9b9d",
-      "title": "Arvest Wealth Management Trust Support Specialist - 18000",
-      "district": "Arvest Bank",
-      "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18000%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
-      "platform": "Infor",
-      "category": "banking",
-      "match_reason": "support specialist",
-      "posted_date": "",
-      "first_seen": "2026-08-14"
-    },
-    {
-      "id": "39584aaaa9e2",
-      "title": "TMPS Operations Specialist 1 - 18244",
-      "district": "Arvest Bank",
-      "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18244%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
-      "platform": "Infor",
-      "category": "banking",
-      "match_reason": "operations specialist",
-      "posted_date": "",
-      "first_seen": "2026-08-12"
-    },
-    {
-      "id": "139aebad1818",
-      "title": "Teller",
-      "district": "First National Bank",
+      "id": "578e6891dc5b",
+      "title": "Customer Service Coordinator I",
+      "district": "ArcBest",
       "location": "Fort Smith, AR",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3630177",
-      "platform": "Paylocity",
-      "category": "banking",
-      "match_reason": "teller",
+      "url": "https://careers.arcb.com/careersmarketplace/JobDetail/Fort-Smith-Arkansas-United-States-Customer-Service-Coordinator-I/29247",
+      "platform": "CareersMarketplace",
+      "category": "freight",
+      "match_reason": "customer service",
       "posted_date": "",
-      "first_seen": "2026-08-14"
+      "first_seen": "2026-08-15"
     },
     {
       "id": "9a3e1777d9d1",
@@ -170,6 +74,18 @@
       "first_seen": "2026-08-04"
     },
     {
+      "id": "9aed3086587d",
+      "title": "DISPATCH TRAINER  (Internal Applicants Only)  2026-03143",
+      "district": "Fayetteville (City)",
+      "location": "Fayetteville, AR",
+      "url": "https://www.governmentjobs.com/careers/fayettevillear/jobs/5449645/dispatch-trainer-internal-applicants-only-2026-03143",
+      "platform": "GovernmentJobs",
+      "category": "community",
+      "match_reason": "dispatch",
+      "posted_date": "",
+      "first_seen": "2026-08-15"
+    },
+    {
       "id": "b12bafa676aa",
       "title": "Dispatcher",
       "district": "Springdale (City)",
@@ -226,20 +142,8 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "operations coordinator",
-      "posted_date": "Posted 7 Days Ago",
+      "posted_date": "Posted 8 Days Ago",
       "first_seen": "2026-08-08"
-    },
-    {
-      "id": "b0d79daa4d61",
-      "title": "Accounting Program Coordinator",
-      "district": "UAF",
-      "location": "Fayetteville, AR",
-      "url": "https://uasys.wd5.myworkdayjobs.com/en-US/UAF_External_Career_Site/job/Fayetteville-AR/Accounting-Program-Coordinator_R0089166",
-      "platform": "Workday",
-      "category": "community",
-      "match_reason": "program coordinator",
-      "posted_date": "Posted 14 Days Ago",
-      "first_seen": "2026-08-01"
     },
     {
       "id": "105c9321a01a",
@@ -250,7 +154,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "support specialist",
-      "posted_date": "Posted Yesterday",
+      "posted_date": "Posted 2 Days Ago",
       "first_seen": "2026-08-14"
     },
     {
@@ -266,18 +170,6 @@
       "first_seen": "2026-08-14"
     },
     {
-      "id": "19afd1047026",
-      "title": "Manager-Health Information Services",
-      "district": "Mercy (Springdale)",
-      "location": "Springdale, AR",
-      "url": "https://careers.mercy.net/jobs/JR263127?lang=en-us",
-      "platform": "Mercy",
-      "category": "healthcare",
-      "match_reason": "health information",
-      "posted_date": "",
-      "first_seen": "2026-07-18"
-    },
-    {
       "id": "d51e301f8066",
       "title": "Program Coordinator",
       "district": "UAMS (NWA campuses)",
@@ -286,32 +178,8 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "program coordinator",
-      "posted_date": "Posted 10 Days Ago",
+      "posted_date": "Posted 11 Days Ago",
       "first_seen": "2026-08-04"
-    },
-    {
-      "id": "66bca2bb4186",
-      "title": "Executive Assistant II",
-      "district": "UAMS (NWA campuses)",
-      "location": "UAMS",
-      "url": "https://uasys.wd5.myworkdayjobs.com/en-US/UAMS_All_Careers/job/UAMS/Executive-Assistant-II_R0089248",
-      "platform": "Workday",
-      "category": "healthcare",
-      "match_reason": "executive assistant",
-      "posted_date": "Posted 14 Days Ago",
-      "first_seen": "2026-08-01"
-    },
-    {
-      "id": "70c177139806",
-      "title": "Claims Specialist I",
-      "district": "AR Blue Cross",
-      "location": "Arkansas Remote",
-      "url": "https://arkbluecross.wd1.myworkdayjobs.com/en-US/ABCBS_External_Careers/job/Arkansas-Remote/Claims-Specialist-I_R0013702",
-      "platform": "Workday",
-      "category": "healthcare",
-      "match_reason": "claims specialist",
-      "posted_date": "Posted 3 Days Ago",
-      "first_seen": "2026-08-12"
     }
   ],
   "sources": [
