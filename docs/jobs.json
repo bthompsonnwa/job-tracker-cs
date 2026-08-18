@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-08-17T12:55",
+  "last_updated": "2026-08-18T12:56",
   "jobs": [
+    {
+      "id": "fa3324256e90",
+      "title": "Audit Compliance Coordinator I",
+      "district": "ArcBest",
+      "location": "Fort Smith, AR",
+      "url": "https://careers.arcb.com/careersmarketplace/JobDetail/Fort-Smith-Arkansas-United-States-Audit-Compliance-Coordinator-I/29400",
+      "platform": "CareersMarketplace",
+      "category": "freight",
+      "match_reason": "compliance coordinator",
+      "posted_date": "",
+      "first_seen": "2026-08-18"
+    },
     {
       "id": "578e6891dc5b",
       "title": "Customer Service Coordinator I",
@@ -62,18 +74,6 @@
       "first_seen": "2026-08-04"
     },
     {
-      "id": "f86c32402d63",
-      "title": "97-26 Dispatcher",
-      "district": "City of Stillwater",
-      "location": "Stillwater, OK",
-      "url": "https://stillwaterok.gov/Jobs.aspx?UniqueId=101&From=All&CommunityJobs=False&JobID=9726-Dispatcher-398",
-      "platform": "CivicEngage",
-      "category": "community",
-      "match_reason": "dispatch",
-      "posted_date": "",
-      "first_seen": "2026-08-04"
-    },
-    {
       "id": "9aed3086587d",
       "title": "DISPATCH TRAINER  (Internal Applicants Only)  2026-03143",
       "district": "Fayetteville (City)",
@@ -122,16 +122,16 @@
       "first_seen": "2026-08-05"
     },
     {
-      "id": "f9025ce4da87",
-      "title": "Honor Scholars Program Coordinator and Advisor",
-      "district": "JBU",
-      "location": "Siloam Springs, AR",
-      "url": "https://www.jbu.edu/human-resources/staff-job-listings/hsp-program-coordinator?hsLang=en",
-      "platform": "JBU",
+      "id": "a349ded81cdb",
+      "title": "Senior Academic Division Administrative Specialist - BCIS",
+      "district": "NWACC",
+      "location": "Benton County Campus, Arkansas",
+      "url": "https://nwacc.wd1.myworkdayjobs.com/en-US/NWACC_External_Career_Site/job/Benton-County-Campus-Arkansas/Senior-Academic-Division-Administrative-Specialist---BCIS_JR-1239",
+      "platform": "Workday",
       "category": "community",
-      "match_reason": "program coordinator",
-      "posted_date": "",
-      "first_seen": "2026-07-10"
+      "match_reason": "administrative specialist",
+      "posted_date": "Posted Yesterday",
+      "first_seen": "2026-08-18"
     },
     {
       "id": "105c9321a01a",
@@ -142,7 +142,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "support specialist",
-      "posted_date": "Posted 4 Days Ago",
+      "posted_date": "Posted 5 Days Ago",
       "first_seen": "2026-08-14"
     },
     {
@@ -166,7 +166,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "program coordinator",
-      "posted_date": "Posted 13 Days Ago",
+      "posted_date": "Posted 14 Days Ago",
       "first_seen": "2026-08-04"
     }
   ],
