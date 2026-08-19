@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-18T12:56",
+  "last_updated": "2026-08-19T12:58",
   "jobs": [
     {
       "id": "fa3324256e90",
@@ -24,6 +24,42 @@
       "match_reason": "customer service",
       "posted_date": "",
       "first_seen": "2026-08-15"
+    },
+    {
+      "id": "a4a784692914",
+      "title": "Video Banking Specialist - 18221",
+      "district": "Arvest Bank",
+      "location": "",
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18221%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "platform": "Infor",
+      "category": "banking",
+      "match_reason": "banking specialist",
+      "posted_date": "",
+      "first_seen": "2026-08-19"
+    },
+    {
+      "id": "fc37898f9b9d",
+      "title": "Arvest Wealth Management Trust Support Specialist - 18000",
+      "district": "Arvest Bank",
+      "location": "",
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18000%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "platform": "Infor",
+      "category": "banking",
+      "match_reason": "support specialist",
+      "posted_date": "",
+      "first_seen": "2026-08-19"
+    },
+    {
+      "id": "39584aaaa9e2",
+      "title": "TMPS Operations Specialist 1 - 18244",
+      "district": "Arvest Bank",
+      "location": "",
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18244%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "platform": "Infor",
+      "category": "banking",
+      "match_reason": "operations specialist",
+      "posted_date": "",
+      "first_seen": "2026-08-19"
     },
     {
       "id": "9a3e1777d9d1",
@@ -130,7 +166,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "administrative specialist",
-      "posted_date": "Posted Yesterday",
+      "posted_date": "Posted 2 Days Ago",
       "first_seen": "2026-08-18"
     },
     {
@@ -142,7 +178,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "support specialist",
-      "posted_date": "Posted 5 Days Ago",
+      "posted_date": "Posted 6 Days Ago",
       "first_seen": "2026-08-14"
     },
     {
@@ -166,7 +202,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "program coordinator",
-      "posted_date": "Posted 14 Days Ago",
+      "posted_date": "Posted 15 Days Ago",
       "first_seen": "2026-08-04"
     }
   ],
