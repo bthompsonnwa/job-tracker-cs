@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-19T12:58",
+  "last_updated": "2026-08-20T12:59",
   "jobs": [
     {
       "id": "fa3324256e90",
@@ -26,6 +26,54 @@
       "first_seen": "2026-08-15"
     },
     {
+      "id": "01ece995510d",
+      "title": "Administrative Assistant",
+      "district": "J.B. Hunt",
+      "location": "Lowell, AR - JB Hunt Corporate A & Marketing",
+      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-A--Marketing/Administrative-Assistant_00639668",
+      "platform": "Workday",
+      "category": "freight",
+      "match_reason": "administrative assistant",
+      "posted_date": "Posted Yesterday",
+      "first_seen": "2026-08-20"
+    },
+    {
+      "id": "eae28039177c",
+      "title": "Teller (Part-Time) - 18319",
+      "district": "Arvest Bank",
+      "location": "",
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18319%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "platform": "Infor",
+      "category": "banking",
+      "match_reason": "teller",
+      "posted_date": "",
+      "first_seen": "2026-08-20"
+    },
+    {
+      "id": "c85b2272a033",
+      "title": "Teller - Part Time - 18318",
+      "district": "Arvest Bank",
+      "location": "",
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18318%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "platform": "Infor",
+      "category": "banking",
+      "match_reason": "teller",
+      "posted_date": "",
+      "first_seen": "2026-08-20"
+    },
+    {
+      "id": "32f4b29c18b2",
+      "title": "Administrative Assistant 1 - 18316",
+      "district": "Arvest Bank",
+      "location": "",
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18316%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "platform": "Infor",
+      "category": "banking",
+      "match_reason": "administrative assistant",
+      "posted_date": "",
+      "first_seen": "2026-08-20"
+    },
+    {
       "id": "a4a784692914",
       "title": "Video Banking Specialist - 18221",
       "district": "Arvest Bank",
@@ -34,30 +82,6 @@
       "platform": "Infor",
       "category": "banking",
       "match_reason": "banking specialist",
-      "posted_date": "",
-      "first_seen": "2026-08-19"
-    },
-    {
-      "id": "fc37898f9b9d",
-      "title": "Arvest Wealth Management Trust Support Specialist - 18000",
-      "district": "Arvest Bank",
-      "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18000%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
-      "platform": "Infor",
-      "category": "banking",
-      "match_reason": "support specialist",
-      "posted_date": "",
-      "first_seen": "2026-08-19"
-    },
-    {
-      "id": "39584aaaa9e2",
-      "title": "TMPS Operations Specialist 1 - 18244",
-      "district": "Arvest Bank",
-      "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18244%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
-      "platform": "Infor",
-      "category": "banking",
-      "match_reason": "operations specialist",
       "posted_date": "",
       "first_seen": "2026-08-19"
     },
@@ -166,7 +190,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "administrative specialist",
-      "posted_date": "Posted 2 Days Ago",
+      "posted_date": "Posted 3 Days Ago",
       "first_seen": "2026-08-18"
     },
     {
@@ -178,7 +202,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "support specialist",
-      "posted_date": "Posted 6 Days Ago",
+      "posted_date": "Posted 7 Days Ago",
       "first_seen": "2026-08-14"
     },
     {
@@ -194,6 +218,18 @@
       "first_seen": "2026-08-14"
     },
     {
+      "id": "f9c801f060b4",
+      "title": "Patient Access Representative",
+      "district": "Mercy (Springdale)",
+      "location": "Springdale, AR",
+      "url": "https://careers.mercy.net/jobs/JR266330?lang=en-us",
+      "platform": "Mercy",
+      "category": "healthcare",
+      "match_reason": "patient access",
+      "posted_date": "",
+      "first_seen": "2026-08-20"
+    },
+    {
       "id": "d51e301f8066",
       "title": "Program Coordinator",
       "district": "UAMS (NWA campuses)",
@@ -202,7 +238,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "program coordinator",
-      "posted_date": "Posted 15 Days Ago",
+      "posted_date": "Posted 16 Days Ago",
       "first_seen": "2026-08-04"
     }
   ],
