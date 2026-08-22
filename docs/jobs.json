@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-21T12:58",
+  "last_updated": "2026-08-22T12:49",
   "jobs": [
     {
       "id": "fa3324256e90",
@@ -14,16 +14,16 @@
       "first_seen": "2026-08-18"
     },
     {
-      "id": "578e6891dc5b",
-      "title": "Customer Service Coordinator I",
-      "district": "ArcBest",
-      "location": "Fort Smith, AR",
-      "url": "https://careers.arcb.com/careersmarketplace/JobDetail/Fort-Smith-Arkansas-United-States-Customer-Service-Coordinator-I/29247",
-      "platform": "CareersMarketplace",
+      "id": "a68ce0ade935",
+      "title": "Marketing Communications Specialist - Internal Communications",
+      "district": "J.B. Hunt",
+      "location": "Lowell, AR - JB Hunt Corporate A & Marketing",
+      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-A--Marketing/Marketing-Communications-Specialist---Internal-Communications_00640202",
+      "platform": "Workday",
       "category": "freight",
-      "match_reason": "customer service",
-      "posted_date": "",
-      "first_seen": "2026-08-15"
+      "match_reason": "communications specialist",
+      "posted_date": "Posted Yesterday",
+      "first_seen": "2026-08-22"
     },
     {
       "id": "e77f7812a5c8",
@@ -34,20 +34,32 @@
       "platform": "Workday",
       "category": "freight",
       "match_reason": "billing representative",
-      "posted_date": "Posted Yesterday",
+      "posted_date": "Posted 2 Days Ago",
       "first_seen": "2026-08-21"
     },
     {
-      "id": "01ece995510d",
-      "title": "Administrative Assistant",
-      "district": "J.B. Hunt",
-      "location": "Lowell, AR - JB Hunt Corporate A & Marketing",
-      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-A--Marketing/Administrative-Assistant_00639668",
-      "platform": "Workday",
-      "category": "freight",
-      "match_reason": "administrative assistant",
-      "posted_date": "Posted 2 Days Ago",
-      "first_seen": "2026-08-20"
+      "id": "9b1b2eac7089",
+      "title": "Teller (Part-Time) - 18352",
+      "district": "Arvest Bank",
+      "location": "",
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18352%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "platform": "Infor",
+      "category": "banking",
+      "match_reason": "teller",
+      "posted_date": "",
+      "first_seen": "2026-08-22"
+    },
+    {
+      "id": "bf333b797cee",
+      "title": "Teller (Part-Time) - 18341",
+      "district": "Arvest Bank",
+      "location": "",
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18341%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "platform": "Infor",
+      "category": "banking",
+      "match_reason": "teller",
+      "posted_date": "",
+      "first_seen": "2026-08-22"
     },
     {
       "id": "28fe01b5671c",
@@ -110,16 +122,16 @@
       "first_seen": "2026-08-20"
     },
     {
-      "id": "32f4b29c18b2",
-      "title": "Administrative Assistant 1 - 18316",
-      "district": "Arvest Bank",
-      "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18316%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
-      "platform": "Infor",
+      "id": "139aebad1818",
+      "title": "Teller",
+      "district": "First National Bank",
+      "location": "Fort Smith, AR",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3630177",
+      "platform": "Paylocity",
       "category": "banking",
-      "match_reason": "administrative assistant",
+      "match_reason": "teller",
       "posted_date": "",
-      "first_seen": "2026-08-20"
+      "first_seen": "2026-08-22"
     },
     {
       "id": "9a3e1777d9d1",
@@ -226,7 +238,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "administrative specialist",
-      "posted_date": "Posted 4 Days Ago",
+      "posted_date": "Posted 5 Days Ago",
       "first_seen": "2026-08-18"
     },
     {
@@ -238,7 +250,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "support specialist",
-      "posted_date": "Posted 8 Days Ago",
+      "posted_date": "Posted 9 Days Ago",
       "first_seen": "2026-08-14"
     },
     {
@@ -266,6 +278,18 @@
       "first_seen": "2026-08-20"
     },
     {
+      "id": "ba31213e3cef",
+      "title": "Administrative Coordinator",
+      "district": "UAMS (NWA campuses)",
+      "location": "UAMS",
+      "url": "https://uasys.wd5.myworkdayjobs.com/en-US/UAMS_All_Careers/job/UAMS/Administrative-Coordinator_R0089846-1",
+      "platform": "Workday",
+      "category": "healthcare",
+      "match_reason": "administrative coordinator",
+      "posted_date": "Posted Yesterday",
+      "first_seen": "2026-08-22"
+    },
+    {
       "id": "d51e301f8066",
       "title": "Program Coordinator",
       "district": "UAMS (NWA campuses)",
@@ -274,7 +298,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "program coordinator",
-      "posted_date": "Posted 17 Days Ago",
+      "posted_date": "Posted 18 Days Ago",
       "first_seen": "2026-08-04"
     }
   ],
