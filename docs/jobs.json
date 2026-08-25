@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-24T13:00",
+  "last_updated": "2026-08-25T12:57",
   "jobs": [
     {
       "id": "fa3324256e90",
@@ -22,7 +22,7 @@
       "platform": "Workday",
       "category": "freight",
       "match_reason": "communications specialist",
-      "posted_date": "Posted 3 Days Ago",
+      "posted_date": "Posted 4 Days Ago",
       "first_seen": "2026-08-22"
     },
     {
@@ -34,7 +34,7 @@
       "platform": "Workday",
       "category": "freight",
       "match_reason": "billing representative",
-      "posted_date": "Posted 4 Days Ago",
+      "posted_date": "Posted 5 Days Ago",
       "first_seen": "2026-08-21"
     },
     {
@@ -98,30 +98,6 @@
       "first_seen": "2026-08-21"
     },
     {
-      "id": "eae28039177c",
-      "title": "Teller (Part-Time) - 18319",
-      "district": "Arvest Bank",
-      "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18319%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
-      "platform": "Infor",
-      "category": "banking",
-      "match_reason": "teller",
-      "posted_date": "",
-      "first_seen": "2026-08-20"
-    },
-    {
-      "id": "c85b2272a033",
-      "title": "Teller - Part Time - 18318",
-      "district": "Arvest Bank",
-      "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18318%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
-      "platform": "Infor",
-      "category": "banking",
-      "match_reason": "teller",
-      "posted_date": "",
-      "first_seen": "2026-08-20"
-    },
-    {
       "id": "139aebad1818",
       "title": "Teller",
       "district": "First National Bank",
@@ -132,6 +108,18 @@
       "match_reason": "teller",
       "posted_date": "",
       "first_seen": "2026-08-22"
+    },
+    {
+      "id": "fb68204b16cb",
+      "title": "Mortgage Loan Processor II",
+      "district": "Centennial Bank",
+      "location": "",
+      "url": "https://recruiting.ultipro.com/CEN1011CENBA/JobBoard/51298f34-52ec-478d-bafa-d62ea4ea8c52/OpportunityDetail?opportunityId=0a3b8e56-1e7a-4dc6-be9e-ff1a25daa969",
+      "platform": "UltiPro",
+      "category": "banking",
+      "match_reason": "loan processor",
+      "posted_date": "",
+      "first_seen": "2026-08-25"
     },
     {
       "id": "9a3e1777d9d1",
@@ -182,6 +170,18 @@
       "first_seen": "2026-08-04"
     },
     {
+      "id": "be0195ed24d4",
+      "title": "CUSTOMER SERVICE REPRESENTATIVE-METER (INTERNAL ONLY)2026 - 03147",
+      "district": "Fayetteville (City)",
+      "location": "Fayetteville, AR",
+      "url": "https://www.governmentjobs.com/careers/fayettevillear/jobs/5458095/customer-service-representative-meter-internal-only2026-03147",
+      "platform": "GovernmentJobs",
+      "category": "community",
+      "match_reason": "customer service",
+      "posted_date": "",
+      "first_seen": "2026-08-25"
+    },
+    {
       "id": "9aed3086587d",
       "title": "DISPATCH TRAINER  (Internal Applicants Only)  2026-03143",
       "district": "Fayetteville (City)",
@@ -192,18 +192,6 @@
       "match_reason": "dispatch",
       "posted_date": "",
       "first_seen": "2026-08-15"
-    },
-    {
-      "id": "b12bafa676aa",
-      "title": "Dispatcher",
-      "district": "Springdale (City)",
-      "location": "Springdale, AR",
-      "url": "https://www.governmentjobs.com/careers/springdalear/jobs/5443087/dispatcher",
-      "platform": "GovernmentJobs",
-      "category": "community",
-      "match_reason": "dispatch",
-      "posted_date": "",
-      "first_seen": "2026-08-11"
     },
     {
       "id": "64f961e89693",
@@ -238,7 +226,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "administrative specialist",
-      "posted_date": "Posted 7 Days Ago",
+      "posted_date": "Posted 8 Days Ago",
       "first_seen": "2026-08-18"
     },
     {
@@ -250,7 +238,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "support specialist",
-      "posted_date": "Posted 11 Days Ago",
+      "posted_date": "Posted 12 Days Ago",
       "first_seen": "2026-08-14"
     },
     {
@@ -286,7 +274,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "administrative coordinator",
-      "posted_date": "Posted 3 Days Ago",
+      "posted_date": "Posted 4 Days Ago",
       "first_seen": "2026-08-22"
     },
     {
@@ -298,7 +286,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "program coordinator",
-      "posted_date": "Posted 20 Days Ago",
+      "posted_date": "Posted 21 Days Ago",
       "first_seen": "2026-08-04"
     }
   ],
