@@ -1,29 +1,89 @@
 {
-  "last_updated": "2026-08-26T13:02",
+  "last_updated": "2026-08-27T22:05",
   "jobs": [
     {
-      "id": "fa3324256e90",
-      "title": "Audit Compliance Coordinator I",
-      "district": "ArcBest",
-      "location": "Fort Smith, AR",
-      "url": "https://careers.arcb.com/careersmarketplace/JobDetail/Fort-Smith-Arkansas-United-States-Audit-Compliance-Coordinator-I/29400",
-      "platform": "CareersMarketplace",
-      "category": "freight",
-      "match_reason": "compliance coordinator",
-      "posted_date": "",
-      "first_seen": "2026-08-18"
-    },
-    {
-      "id": "6de188200dfd",
-      "title": "Customer Experience Representative",
+      "id": "895009ccd7dd",
+      "title": "Pricing Analyst I",
       "district": "J.B. Hunt",
       "location": "Lowell, AR - JB Hunt Corporate B & C",
-      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-B--C/Customer-Experience-Representative_00638693",
+      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-B--C/Pricing-Analyst-I_00638426-1",
+      "platform": "Workday",
+      "category": "freight",
+      "match_reason": "pricing analyst",
+      "posted_date": "Posted Today",
+      "first_seen": "2026-08-27"
+    },
+    {
+      "id": "a68ce0ade935",
+      "title": "Marketing Communications Specialist - Internal Communications",
+      "district": "J.B. Hunt",
+      "location": "Lowell, AR - JB Hunt Corporate A & Marketing",
+      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-A--Marketing/Marketing-Communications-Specialist---Internal-Communications_00640202",
+      "platform": "Workday",
+      "category": "freight",
+      "match_reason": "communications specialist",
+      "posted_date": "Posted Today",
+      "first_seen": "2026-08-27"
+    },
+    {
+      "id": "47f0465ce26a",
+      "title": "Customer Experience Account Manager",
+      "district": "J.B. Hunt",
+      "location": "",
+      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Customer-Experience-Account-Manager_00638158",
       "platform": "Workday",
       "category": "freight",
       "match_reason": "customer experience",
-      "posted_date": "Posted Yesterday",
-      "first_seen": "2026-08-26"
+      "posted_date": "Posted Today",
+      "first_seen": "2026-08-27"
+    },
+    {
+      "id": "e425799cce42",
+      "title": "Client Relationship Coordinator - 18391",
+      "district": "Arvest Bank",
+      "location": "",
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18391%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "platform": "Infor",
+      "category": "banking",
+      "match_reason": "client relations",
+      "posted_date": "",
+      "first_seen": "2026-08-27"
+    },
+    {
+      "id": "a05af87a228c",
+      "title": "Teller - 18389",
+      "district": "Arvest Bank",
+      "location": "",
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18389%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "platform": "Infor",
+      "category": "banking",
+      "match_reason": "teller",
+      "posted_date": "",
+      "first_seen": "2026-08-27"
+    },
+    {
+      "id": "2dcf3aa34d3c",
+      "title": "AWM Trust Support Specialist - 18387",
+      "district": "Arvest Bank",
+      "location": "",
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18387%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "platform": "Infor",
+      "category": "banking",
+      "match_reason": "support specialist",
+      "posted_date": "",
+      "first_seen": "2026-08-27"
+    },
+    {
+      "id": "0469b8010b15",
+      "title": "Teller - 18373",
+      "district": "Arvest Bank",
+      "location": "",
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18373%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "platform": "Infor",
+      "category": "banking",
+      "match_reason": "teller",
+      "posted_date": "",
+      "first_seen": "2026-08-27"
     },
     {
       "id": "b83c86390281",
@@ -36,30 +96,6 @@
       "match_reason": "teller",
       "posted_date": "",
       "first_seen": "2026-08-26"
-    },
-    {
-      "id": "9b1b2eac7089",
-      "title": "Teller (Part-Time) - 18352",
-      "district": "Arvest Bank",
-      "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18352%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
-      "platform": "Infor",
-      "category": "banking",
-      "match_reason": "teller",
-      "posted_date": "",
-      "first_seen": "2026-08-22"
-    },
-    {
-      "id": "bf333b797cee",
-      "title": "Teller (Part-Time) - 18341",
-      "district": "Arvest Bank",
-      "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18341%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
-      "platform": "Infor",
-      "category": "banking",
-      "match_reason": "teller",
-      "posted_date": "",
-      "first_seen": "2026-08-22"
     },
     {
       "id": "fb68204b16cb",
@@ -158,28 +194,28 @@
       "first_seen": "2026-08-05"
     },
     {
-      "id": "a349ded81cdb",
+      "id": "7bc53f91b855",
       "title": "Senior Academic Division Administrative Specialist - BCIS",
       "district": "NWACC",
-      "location": "Benton County Campus, Arkansas",
-      "url": "https://nwacc.wd1.myworkdayjobs.com/en-US/NWACC_External_Career_Site/job/Benton-County-Campus-Arkansas/Senior-Academic-Division-Administrative-Specialist---BCIS_JR-1239",
+      "location": "Benton County Location, Arkansas",
+      "url": "https://nwacc.wd1.myworkdayjobs.com/en-US/NWACC_External_Career_Site/job/Benton-County-Location-Arkansas/Senior-Academic-Division-Administrative-Specialist---BCIS_JR-1239",
       "platform": "Workday",
       "category": "community",
       "match_reason": "administrative specialist",
-      "posted_date": "Posted 9 Days Ago",
-      "first_seen": "2026-08-18"
+      "posted_date": "Posted 10 Days Ago",
+      "first_seen": "2026-08-27"
     },
     {
-      "id": "105c9321a01a",
+      "id": "fc75b2a04d68",
       "title": "Fiscal Support Specialist, Washington County Campus",
       "district": "NWACC",
-      "location": "Washington County Campus, Arkansas",
-      "url": "https://nwacc.wd1.myworkdayjobs.com/en-US/NWACC_External_Career_Site/job/Washington-County-Campus-Arkansas/Fiscal-Support-Specialist--Washington-County-Campus_JR-1276",
+      "location": "Washington County Location, Arkansas",
+      "url": "https://nwacc.wd1.myworkdayjobs.com/en-US/NWACC_External_Career_Site/job/Washington-County-Location-Arkansas/Fiscal-Support-Specialist--Washington-County-Campus_JR-1276",
       "platform": "Workday",
       "category": "community",
       "match_reason": "support specialist",
-      "posted_date": "Posted 13 Days Ago",
-      "first_seen": "2026-08-14"
+      "posted_date": "Posted 14 Days Ago",
+      "first_seen": "2026-08-27"
     },
     {
       "id": "7d5df5a925d8",
@@ -206,6 +242,18 @@
       "first_seen": "2026-08-26"
     },
     {
+      "id": "d36b8e39d14d",
+      "title": "Insurance Verification Specialist I",
+      "district": "UAMS (NWA campuses)",
+      "location": "2 Locations",
+      "url": "https://uasys.wd5.myworkdayjobs.com/en-US/UAMS_All_Careers/job/UAMS/Insurance-Verification-Specialist-I_R0086292",
+      "platform": "Workday",
+      "category": "healthcare",
+      "match_reason": "insurance verification",
+      "posted_date": "Posted Today",
+      "first_seen": "2026-08-27"
+    },
+    {
       "id": "ba31213e3cef",
       "title": "Administrative Coordinator",
       "district": "UAMS (NWA campuses)",
@@ -214,8 +262,20 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "administrative coordinator",
-      "posted_date": "Posted 5 Days Ago",
+      "posted_date": "Posted 6 Days Ago",
       "first_seen": "2026-08-22"
+    },
+    {
+      "id": "9372e424878b",
+      "title": "Claims Specialist I",
+      "district": "AR Blue Cross",
+      "location": "2 Locations",
+      "url": "https://arkbluecross.wd1.myworkdayjobs.com/en-US/ABCBS_External_Careers/job/Arkansas-Remote/Claims-Specialist-I_R0013765",
+      "platform": "Workday",
+      "category": "healthcare",
+      "match_reason": "claims specialist",
+      "posted_date": "Posted Today",
+      "first_seen": "2026-08-27"
     },
     {
       "id": "3b3a06a27d98",
@@ -226,7 +286,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "customer service",
-      "posted_date": "Posted Yesterday",
+      "posted_date": "Posted 2 Days Ago",
       "first_seen": "2026-08-26"
     },
     {
@@ -238,7 +298,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "customer service",
-      "posted_date": "Posted Yesterday",
+      "posted_date": "Posted 2 Days Ago",
       "first_seen": "2026-08-26"
     }
   ],
