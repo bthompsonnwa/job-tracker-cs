@@ -1,41 +1,17 @@
 {
-  "last_updated": "2026-08-27T22:05",
+  "last_updated": "2026-08-28T22:00",
   "jobs": [
     {
-      "id": "895009ccd7dd",
-      "title": "Pricing Analyst I",
-      "district": "J.B. Hunt",
-      "location": "Lowell, AR - JB Hunt Corporate B & C",
-      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-B--C/Pricing-Analyst-I_00638426-1",
-      "platform": "Workday",
-      "category": "freight",
-      "match_reason": "pricing analyst",
-      "posted_date": "Posted Today",
-      "first_seen": "2026-08-27"
-    },
-    {
-      "id": "a68ce0ade935",
-      "title": "Marketing Communications Specialist - Internal Communications",
+      "id": "e6a455277369",
+      "title": "Marketing Communications Specialist -  Executive Communications",
       "district": "J.B. Hunt",
       "location": "Lowell, AR - JB Hunt Corporate A & Marketing",
-      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-A--Marketing/Marketing-Communications-Specialist---Internal-Communications_00640202",
+      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-A--Marketing/Marketing-Communications-Specialist----Executive-Communications_00632335-1",
       "platform": "Workday",
       "category": "freight",
       "match_reason": "communications specialist",
       "posted_date": "Posted Today",
-      "first_seen": "2026-08-27"
-    },
-    {
-      "id": "47f0465ce26a",
-      "title": "Customer Experience Account Manager",
-      "district": "J.B. Hunt",
-      "location": "",
-      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Customer-Experience-Account-Manager_00638158",
-      "platform": "Workday",
-      "category": "freight",
-      "match_reason": "customer experience",
-      "posted_date": "Posted Today",
-      "first_seen": "2026-08-27"
+      "first_seen": "2026-08-28"
     },
     {
       "id": "e425799cce42",
@@ -122,28 +98,28 @@
       "first_seen": "2026-07-10"
     },
     {
-      "id": "8ff27e4e315e",
+      "id": "9fae904decfb",
       "title": "(1) Customer Service Rep I",
       "district": "Bentonville (City)",
       "location": "Bentonville, AR",
-      "url": "https://www.bentonvillear.com//bentonvillear.bamboohr.com/careers/1270",
+      "url": "https://bentonvillear.bamboohr.com/careers/1270",
       "platform": "CivicEngage",
       "category": "community",
       "match_reason": "customer service",
       "posted_date": "",
-      "first_seen": "2026-08-12"
+      "first_seen": "2026-08-28"
     },
     {
-      "id": "4b560cb659c1",
+      "id": "55cbe27821c9",
       "title": "Project Coordinator",
       "district": "Bentonville (City)",
       "location": "Bentonville, AR",
-      "url": "https://www.bentonvillear.com//bentonvillear.bamboohr.com/careers/1209",
+      "url": "https://bentonvillear.bamboohr.com/careers/1209",
       "platform": "CivicEngage",
       "category": "community",
       "match_reason": "project coordinator",
       "posted_date": "",
-      "first_seen": "2026-08-04"
+      "first_seen": "2026-08-28"
     },
     {
       "id": "be0195ed24d4",
@@ -202,7 +178,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "administrative specialist",
-      "posted_date": "Posted 10 Days Ago",
+      "posted_date": "Posted 11 Days Ago",
       "first_seen": "2026-08-27"
     },
     {
@@ -214,7 +190,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "support specialist",
-      "posted_date": "Posted 14 Days Ago",
+      "posted_date": "Posted 15 Days Ago",
       "first_seen": "2026-08-27"
     },
     {
@@ -250,8 +226,20 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "insurance verification",
-      "posted_date": "Posted Today",
+      "posted_date": "Posted Yesterday",
       "first_seen": "2026-08-27"
+    },
+    {
+      "id": "4b0ad90d3310",
+      "title": "GME Program Coordinator (Jonesboro, AR)",
+      "district": "UAMS (NWA campuses)",
+      "location": "2 Locations",
+      "url": "https://uasys.wd5.myworkdayjobs.com/en-US/UAMS_All_Careers/job/UAMS/GME-Program-Coordinator--Jonesboro--AR-_R0090737",
+      "platform": "Workday",
+      "category": "healthcare",
+      "match_reason": "program coordinator",
+      "posted_date": "Posted Today",
+      "first_seen": "2026-08-28"
     },
     {
       "id": "ba31213e3cef",
@@ -262,7 +250,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "administrative coordinator",
-      "posted_date": "Posted 6 Days Ago",
+      "posted_date": "Posted 7 Days Ago",
       "first_seen": "2026-08-22"
     },
     {
@@ -274,7 +262,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "claims specialist",
-      "posted_date": "Posted Today",
+      "posted_date": "Posted Yesterday",
       "first_seen": "2026-08-27"
     },
     {
@@ -286,7 +274,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "customer service",
-      "posted_date": "Posted 2 Days Ago",
+      "posted_date": "Posted 3 Days Ago",
       "first_seen": "2026-08-26"
     },
     {
@@ -298,7 +286,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "customer service",
-      "posted_date": "Posted 2 Days Ago",
+      "posted_date": "Posted 3 Days Ago",
       "first_seen": "2026-08-26"
     }
   ],
