@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-08-28T22:00",
+  "last_updated": "2026-08-29T16:32",
   "jobs": [
+    {
+      "id": "144c2916c325",
+      "title": "Nights Customer Experience Support",
+      "district": "J.B. Hunt",
+      "location": "Lowell, AR - JB Hunt Corporate A & Marketing",
+      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-A--Marketing/Customer-Experience-Support_00641364",
+      "platform": "Workday",
+      "category": "freight",
+      "match_reason": "customer experience",
+      "posted_date": "Posted Yesterday",
+      "first_seen": "2026-08-29"
+    },
     {
       "id": "e6a455277369",
       "title": "Marketing Communications Specialist -  Executive Communications",
@@ -10,7 +22,7 @@
       "platform": "Workday",
       "category": "freight",
       "match_reason": "communications specialist",
-      "posted_date": "Posted Today",
+      "posted_date": "Posted Yesterday",
       "first_seen": "2026-08-28"
     },
     {
@@ -122,30 +134,6 @@
       "first_seen": "2026-08-28"
     },
     {
-      "id": "be0195ed24d4",
-      "title": "CUSTOMER SERVICE REPRESENTATIVE-METER (INTERNAL ONLY)2026 - 03147",
-      "district": "Fayetteville (City)",
-      "location": "Fayetteville, AR",
-      "url": "https://www.governmentjobs.com/careers/fayettevillear/jobs/5458095/customer-service-representative-meter-internal-only2026-03147",
-      "platform": "GovernmentJobs",
-      "category": "community",
-      "match_reason": "customer service",
-      "posted_date": "",
-      "first_seen": "2026-08-25"
-    },
-    {
-      "id": "9aed3086587d",
-      "title": "DISPATCH TRAINER  (Internal Applicants Only)  2026-03143",
-      "district": "Fayetteville (City)",
-      "location": "Fayetteville, AR",
-      "url": "https://www.governmentjobs.com/careers/fayettevillear/jobs/5449645/dispatch-trainer-internal-applicants-only-2026-03143",
-      "platform": "GovernmentJobs",
-      "category": "community",
-      "match_reason": "dispatch",
-      "posted_date": "",
-      "first_seen": "2026-08-15"
-    },
-    {
       "id": "64f961e89693",
       "title": "Office Manager, Registrar's Office",
       "district": "JBU",
@@ -178,7 +166,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "administrative specialist",
-      "posted_date": "Posted 11 Days Ago",
+      "posted_date": "Posted 12 Days Ago",
       "first_seen": "2026-08-27"
     },
     {
@@ -190,7 +178,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "support specialist",
-      "posted_date": "Posted 15 Days Ago",
+      "posted_date": "Posted 16 Days Ago",
       "first_seen": "2026-08-27"
     },
     {
@@ -226,7 +214,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "insurance verification",
-      "posted_date": "Posted Yesterday",
+      "posted_date": "Posted 2 Days Ago",
       "first_seen": "2026-08-27"
     },
     {
@@ -238,20 +226,8 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "program coordinator",
-      "posted_date": "Posted Today",
+      "posted_date": "Posted Yesterday",
       "first_seen": "2026-08-28"
-    },
-    {
-      "id": "ba31213e3cef",
-      "title": "Administrative Coordinator",
-      "district": "UAMS (NWA campuses)",
-      "location": "UAMS",
-      "url": "https://uasys.wd5.myworkdayjobs.com/en-US/UAMS_All_Careers/job/UAMS/Administrative-Coordinator_R0089846-1",
-      "platform": "Workday",
-      "category": "healthcare",
-      "match_reason": "administrative coordinator",
-      "posted_date": "Posted 7 Days Ago",
-      "first_seen": "2026-08-22"
     },
     {
       "id": "9372e424878b",
@@ -262,32 +238,8 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "claims specialist",
-      "posted_date": "Posted Yesterday",
+      "posted_date": "Posted 2 Days Ago",
       "first_seen": "2026-08-27"
-    },
-    {
-      "id": "3b3a06a27d98",
-      "title": "Customer Service Representative I (Multiple Shifts Available)",
-      "district": "AR Blue Cross",
-      "location": "2 Locations",
-      "url": "https://arkbluecross.wd1.myworkdayjobs.com/en-US/ABCBS_External_Careers/job/Arkansas-Remote/Customer-Service-Representative-I--Multiple-Shifts-Available-_R0013763",
-      "platform": "Workday",
-      "category": "healthcare",
-      "match_reason": "customer service",
-      "posted_date": "Posted 3 Days Ago",
-      "first_seen": "2026-08-26"
-    },
-    {
-      "id": "746131112def",
-      "title": "Customer Service Representative I 10:30 AM-7PM",
-      "district": "AR Blue Cross",
-      "location": "2 Locations",
-      "url": "https://arkbluecross.wd1.myworkdayjobs.com/en-US/ABCBS_External_Careers/job/Arkansas-Remote/Customer-Service-Representative-I-10-30-AM-7PM_R0013760",
-      "platform": "Workday",
-      "category": "healthcare",
-      "match_reason": "customer service",
-      "posted_date": "Posted 3 Days Ago",
-      "first_seen": "2026-08-26"
     }
   ],
   "sources": [
