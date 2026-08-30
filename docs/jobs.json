@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-29T16:32",
+  "last_updated": "2026-08-30T16:25",
   "jobs": [
     {
       "id": "144c2916c325",
@@ -10,7 +10,7 @@
       "platform": "Workday",
       "category": "freight",
       "match_reason": "customer experience",
-      "posted_date": "Posted Yesterday",
+      "posted_date": "Posted 2 Days Ago",
       "first_seen": "2026-08-29"
     },
     {
@@ -22,7 +22,7 @@
       "platform": "Workday",
       "category": "freight",
       "match_reason": "communications specialist",
-      "posted_date": "Posted Yesterday",
+      "posted_date": "Posted 2 Days Ago",
       "first_seen": "2026-08-28"
     },
     {
@@ -166,7 +166,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "administrative specialist",
-      "posted_date": "Posted 12 Days Ago",
+      "posted_date": "Posted 13 Days Ago",
       "first_seen": "2026-08-27"
     },
     {
@@ -178,7 +178,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "support specialist",
-      "posted_date": "Posted 16 Days Ago",
+      "posted_date": "Posted 17 Days Ago",
       "first_seen": "2026-08-27"
     },
     {
@@ -206,18 +206,6 @@
       "first_seen": "2026-08-26"
     },
     {
-      "id": "d36b8e39d14d",
-      "title": "Insurance Verification Specialist I",
-      "district": "UAMS (NWA campuses)",
-      "location": "2 Locations",
-      "url": "https://uasys.wd5.myworkdayjobs.com/en-US/UAMS_All_Careers/job/UAMS/Insurance-Verification-Specialist-I_R0086292",
-      "platform": "Workday",
-      "category": "healthcare",
-      "match_reason": "insurance verification",
-      "posted_date": "Posted 2 Days Ago",
-      "first_seen": "2026-08-27"
-    },
-    {
       "id": "4b0ad90d3310",
       "title": "GME Program Coordinator (Jonesboro, AR)",
       "district": "UAMS (NWA campuses)",
@@ -226,7 +214,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "program coordinator",
-      "posted_date": "Posted Yesterday",
+      "posted_date": "Posted 2 Days Ago",
       "first_seen": "2026-08-28"
     },
     {
@@ -238,7 +226,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "claims specialist",
-      "posted_date": "Posted 2 Days Ago",
+      "posted_date": "Posted 3 Days Ago",
       "first_seen": "2026-08-27"
     }
   ],
