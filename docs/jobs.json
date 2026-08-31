@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-30T16:25",
+  "last_updated": "2026-08-31T19:02",
   "jobs": [
     {
       "id": "144c2916c325",
@@ -10,20 +10,20 @@
       "platform": "Workday",
       "category": "freight",
       "match_reason": "customer experience",
-      "posted_date": "Posted 2 Days Ago",
+      "posted_date": "Posted 3 Days Ago",
       "first_seen": "2026-08-29"
     },
     {
-      "id": "e6a455277369",
-      "title": "Marketing Communications Specialist -  Executive Communications",
-      "district": "J.B. Hunt",
-      "location": "Lowell, AR - JB Hunt Corporate A & Marketing",
-      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-A--Marketing/Marketing-Communications-Specialist----Executive-Communications_00632335-1",
-      "platform": "Workday",
-      "category": "freight",
-      "match_reason": "communications specialist",
-      "posted_date": "Posted 2 Days Ago",
-      "first_seen": "2026-08-28"
+      "id": "2f477b1b52a7",
+      "title": "Teller - 18396",
+      "district": "Arvest Bank",
+      "location": "",
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18396%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "platform": "Infor",
+      "category": "banking",
+      "match_reason": "teller",
+      "posted_date": "",
+      "first_seen": "2026-08-31"
     },
     {
       "id": "e425799cce42",
@@ -72,18 +72,6 @@
       "match_reason": "teller",
       "posted_date": "",
       "first_seen": "2026-08-27"
-    },
-    {
-      "id": "b83c86390281",
-      "title": "Teller - 18329",
-      "district": "Arvest Bank",
-      "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18329%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
-      "platform": "Infor",
-      "category": "banking",
-      "match_reason": "teller",
-      "posted_date": "",
-      "first_seen": "2026-08-26"
     },
     {
       "id": "fb68204b16cb",
@@ -166,7 +154,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "administrative specialist",
-      "posted_date": "Posted 13 Days Ago",
+      "posted_date": "Posted 14 Days Ago",
       "first_seen": "2026-08-27"
     },
     {
@@ -178,7 +166,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "support specialist",
-      "posted_date": "Posted 17 Days Ago",
+      "posted_date": "Posted 18 Days Ago",
       "first_seen": "2026-08-27"
     },
     {
@@ -194,16 +182,16 @@
       "first_seen": "2026-08-14"
     },
     {
-      "id": "e398e1228802",
+      "id": "11f03b823fd9",
       "title": "Patient Access Representative",
       "district": "Mercy (Springdale)",
       "location": "Springdale, AR",
-      "url": "https://careers.mercy.net/jobs/JR267098?lang=en-us",
+      "url": "https://careers.mercy.net/jobs/JR268306?lang=en-us",
       "platform": "Mercy",
       "category": "healthcare",
       "match_reason": "patient access",
       "posted_date": "",
-      "first_seen": "2026-08-26"
+      "first_seen": "2026-08-31"
     },
     {
       "id": "4b0ad90d3310",
@@ -214,7 +202,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "program coordinator",
-      "posted_date": "Posted 2 Days Ago",
+      "posted_date": "Posted 3 Days Ago",
       "first_seen": "2026-08-28"
     },
     {
@@ -226,7 +214,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "claims specialist",
-      "posted_date": "Posted 3 Days Ago",
+      "posted_date": "Posted 4 Days Ago",
       "first_seen": "2026-08-27"
     }
   ],
