@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-31T19:02",
+  "last_updated": "2026-09-01T16:23",
   "jobs": [
     {
       "id": "144c2916c325",
@@ -10,7 +10,7 @@
       "platform": "Workday",
       "category": "freight",
       "match_reason": "customer experience",
-      "posted_date": "Posted 3 Days Ago",
+      "posted_date": "Posted 4 Days Ago",
       "first_seen": "2026-08-29"
     },
     {
@@ -38,40 +38,28 @@
       "first_seen": "2026-08-27"
     },
     {
-      "id": "a05af87a228c",
-      "title": "Teller - 18389",
+      "id": "b83c86390281",
+      "title": "Teller - 18329",
       "district": "Arvest Bank",
       "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18389%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18329%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
       "platform": "Infor",
       "category": "banking",
       "match_reason": "teller",
       "posted_date": "",
-      "first_seen": "2026-08-27"
+      "first_seen": "2026-09-01"
     },
     {
-      "id": "2dcf3aa34d3c",
-      "title": "AWM Trust Support Specialist - 18387",
-      "district": "Arvest Bank",
-      "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18387%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
-      "platform": "Infor",
-      "category": "banking",
-      "match_reason": "support specialist",
-      "posted_date": "",
-      "first_seen": "2026-08-27"
-    },
-    {
-      "id": "0469b8010b15",
-      "title": "Teller - 18373",
-      "district": "Arvest Bank",
-      "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18373%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
-      "platform": "Infor",
+      "id": "139aebad1818",
+      "title": "Teller",
+      "district": "First National Bank",
+      "location": "Fort Smith, AR",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3630177",
+      "platform": "Paylocity",
       "category": "banking",
       "match_reason": "teller",
       "posted_date": "",
-      "first_seen": "2026-08-27"
+      "first_seen": "2026-09-01"
     },
     {
       "id": "fb68204b16cb",
@@ -110,18 +98,6 @@
       "first_seen": "2026-08-28"
     },
     {
-      "id": "55cbe27821c9",
-      "title": "Project Coordinator",
-      "district": "Bentonville (City)",
-      "location": "Bentonville, AR",
-      "url": "https://bentonvillear.bamboohr.com/careers/1209",
-      "platform": "CivicEngage",
-      "category": "community",
-      "match_reason": "project coordinator",
-      "posted_date": "",
-      "first_seen": "2026-08-28"
-    },
-    {
       "id": "64f961e89693",
       "title": "Office Manager, Registrar's Office",
       "district": "JBU",
@@ -154,7 +130,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "administrative specialist",
-      "posted_date": "Posted 14 Days Ago",
+      "posted_date": "Posted 15 Days Ago",
       "first_seen": "2026-08-27"
     },
     {
@@ -166,7 +142,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "support specialist",
-      "posted_date": "Posted 18 Days Ago",
+      "posted_date": "Posted 19 Days Ago",
       "first_seen": "2026-08-27"
     },
     {
@@ -194,6 +170,18 @@
       "first_seen": "2026-08-31"
     },
     {
+      "id": "502f03c3cc87",
+      "title": "Executive Assistant - Mercy NWA",
+      "district": "Mercy (Springdale)",
+      "location": "Springdale, AR",
+      "url": "https://careers.mercy.net/jobs/JR268535?lang=en-us",
+      "platform": "Mercy",
+      "category": "healthcare",
+      "match_reason": "executive assistant",
+      "posted_date": "",
+      "first_seen": "2026-09-01"
+    },
+    {
       "id": "4b0ad90d3310",
       "title": "GME Program Coordinator (Jonesboro, AR)",
       "district": "UAMS (NWA campuses)",
@@ -202,20 +190,8 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "program coordinator",
-      "posted_date": "Posted 3 Days Ago",
-      "first_seen": "2026-08-28"
-    },
-    {
-      "id": "9372e424878b",
-      "title": "Claims Specialist I",
-      "district": "AR Blue Cross",
-      "location": "2 Locations",
-      "url": "https://arkbluecross.wd1.myworkdayjobs.com/en-US/ABCBS_External_Careers/job/Arkansas-Remote/Claims-Specialist-I_R0013765",
-      "platform": "Workday",
-      "category": "healthcare",
-      "match_reason": "claims specialist",
       "posted_date": "Posted 4 Days Ago",
-      "first_seen": "2026-08-27"
+      "first_seen": "2026-08-28"
     }
   ],
   "sources": [
