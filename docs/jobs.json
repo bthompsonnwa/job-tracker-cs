@@ -1,48 +1,48 @@
 {
-  "last_updated": "2026-09-02T16:19",
+  "last_updated": "2026-09-03T16:09",
   "jobs": [
+    {
+      "id": "a68ce0ade935",
+      "title": "Marketing Communications Specialist - Internal Communications",
+      "district": "J.B. Hunt",
+      "location": "Lowell, AR - JB Hunt Corporate A & Marketing",
+      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-A--Marketing/Marketing-Communications-Specialist---Internal-Communications_00640202",
+      "platform": "Workday",
+      "category": "freight",
+      "match_reason": "communications specialist",
+      "posted_date": "Posted Today",
+      "first_seen": "2026-09-03"
+    },
+    {
+      "id": "651ba8d53ed0",
+      "title": "Customer Experience Representative - ICS",
+      "district": "J.B. Hunt",
+      "location": "Lowell, AR - JB Hunt Corporate B & C",
+      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-B--C/Customer-Experience-Representative---ICS_00641948",
+      "platform": "Workday",
+      "category": "freight",
+      "match_reason": "customer experience",
+      "posted_date": "Posted Today",
+      "first_seen": "2026-09-03"
+    },
+    {
+      "id": "66c965bac18b",
+      "title": "Call Center Support I-1",
+      "district": "J.B. Hunt",
+      "location": "Lowell, AR - JB Hunt Corporate B & C",
+      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-B--C/Call-Center-Support-I-1_00642000",
+      "platform": "Workday",
+      "category": "freight",
+      "match_reason": "call center",
+      "posted_date": "Posted Today",
+      "first_seen": "2026-09-03"
+    },
     {
       "id": "3b36fd2a9271",
       "title": "Customer Experience Support",
       "district": "J.B. Hunt",
       "location": "Lowell, AR - JB Hunt Corporate A & Marketing",
       "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-A--Marketing/Customer-Experience-Support_00619314-1",
-      "platform": "Workday",
-      "category": "freight",
-      "match_reason": "customer experience",
-      "posted_date": "Posted Today",
-      "first_seen": "2026-09-02"
-    },
-    {
-      "id": "c22e65d9aced",
-      "title": "Customer Experience Representative",
-      "district": "J.B. Hunt",
-      "location": "Lowell, AR - JB Hunt Corporate B & C",
-      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-B--C/Customer-Experience-Representative_00641811",
-      "platform": "Workday",
-      "category": "freight",
-      "match_reason": "customer experience",
-      "posted_date": "Posted Yesterday",
-      "first_seen": "2026-09-02"
-    },
-    {
-      "id": "c1882f9d8b44",
-      "title": "Customer Experience Support",
-      "district": "J.B. Hunt",
-      "location": "Lowell, AR - JB Hunt Corporate A & Marketing",
-      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-A--Marketing/Customer-Experience-Support_00641803",
-      "platform": "Workday",
-      "category": "freight",
-      "match_reason": "customer experience",
-      "posted_date": "Posted Yesterday",
-      "first_seen": "2026-09-02"
-    },
-    {
-      "id": "38d22f6c4568",
-      "title": "Customer Experience Account Manager",
-      "district": "J.B. Hunt",
-      "location": "Lowell, AR - JB Hunt Corporate B & C",
-      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-B--C/Customer-Experience-Account-Manager_00638158",
       "platform": "Workday",
       "category": "freight",
       "match_reason": "customer experience",
@@ -84,18 +84,6 @@
       "match_reason": "teller",
       "posted_date": "",
       "first_seen": "2026-08-31"
-    },
-    {
-      "id": "139aebad1818",
-      "title": "Teller",
-      "district": "First National Bank",
-      "location": "Fort Smith, AR",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3630177",
-      "platform": "Paylocity",
-      "category": "banking",
-      "match_reason": "teller",
-      "posted_date": "",
-      "first_seen": "2026-09-01"
     },
     {
       "id": "fb68204b16cb",
@@ -146,6 +134,30 @@
       "first_seen": "2026-08-28"
     },
     {
+      "id": "55cbe27821c9",
+      "title": "Project Coordinator",
+      "district": "Bentonville (City)",
+      "location": "Bentonville, AR",
+      "url": "https://bentonvillear.bamboohr.com/careers/1209",
+      "platform": "CivicEngage",
+      "category": "community",
+      "match_reason": "project coordinator",
+      "posted_date": "",
+      "first_seen": "2026-09-03"
+    },
+    {
+      "id": "2fa14ff5f3e4",
+      "title": "Police Support Specialist",
+      "district": "Springdale (City)",
+      "location": "Springdale, AR",
+      "url": "https://www.governmentjobs.com/careers/springdalear/jobs/5471231/police-support-specialist",
+      "platform": "GovernmentJobs",
+      "category": "community",
+      "match_reason": "support specialist",
+      "posted_date": "",
+      "first_seen": "2026-09-03"
+    },
+    {
       "id": "64f961e89693",
       "title": "Office Manager, Registrar's Office",
       "district": "JBU",
@@ -178,8 +190,20 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "customer service",
-      "posted_date": "Posted Yesterday",
+      "posted_date": "Posted 2 Days Ago",
       "first_seen": "2026-09-02"
+    },
+    {
+      "id": "bbcf7e86307b",
+      "title": "Trades & Apprenticeship Program Coordinator",
+      "district": "NWACC",
+      "location": "Benton County Location, Arkansas",
+      "url": "https://nwacc.wd1.myworkdayjobs.com/en-US/NWACC_External_Career_Site/job/Benton-County-Location-Arkansas/Trades---Apprenticeship-Program-Coordinator_JR-1286",
+      "platform": "Workday",
+      "category": "community",
+      "match_reason": "program coordinator",
+      "posted_date": "Posted Today",
+      "first_seen": "2026-09-03"
     },
     {
       "id": "7bc53f91b855",
@@ -190,7 +214,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "administrative specialist",
-      "posted_date": "Posted 16 Days Ago",
+      "posted_date": "Posted 17 Days Ago",
       "first_seen": "2026-08-27"
     },
     {
@@ -202,20 +226,8 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "support specialist",
-      "posted_date": "Posted 20 Days Ago",
+      "posted_date": "Posted 21 Days Ago",
       "first_seen": "2026-08-27"
-    },
-    {
-      "id": "7d5df5a925d8",
-      "title": "Unit Secretary (Emergency Dept.) - Mercy Hospital NW Arkansas",
-      "district": "Mercy (Springdale)",
-      "location": "Springdale, AR",
-      "url": "https://careers.mercy.net/jobs/JR265918?lang=en-us",
-      "platform": "Mercy",
-      "category": "healthcare",
-      "match_reason": "unit secretary",
-      "posted_date": "",
-      "first_seen": "2026-08-14"
     },
     {
       "id": "11f03b823fd9",
@@ -242,6 +254,18 @@
       "first_seen": "2026-09-01"
     },
     {
+      "id": "1ab520b04ee2",
+      "title": "Patient Representative (Northwest, AR)",
+      "district": "UAMS (NWA campuses)",
+      "location": "3 Locations",
+      "url": "https://uasys.wd5.myworkdayjobs.com/en-US/UAMS_All_Careers/job/UAMS/Patient-Representative--Northwest--AR-_R0090824",
+      "platform": "Workday",
+      "category": "healthcare",
+      "match_reason": "patient representative",
+      "posted_date": "Posted Yesterday",
+      "first_seen": "2026-09-03"
+    },
+    {
       "id": "4b0ad90d3310",
       "title": "GME Program Coordinator (Jonesboro, AR)",
       "district": "UAMS (NWA campuses)",
@@ -250,7 +274,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "program coordinator",
-      "posted_date": "Posted 5 Days Ago",
+      "posted_date": "Posted 6 Days Ago",
       "first_seen": "2026-08-28"
     }
   ],
