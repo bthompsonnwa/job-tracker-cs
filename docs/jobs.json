@@ -1,29 +1,29 @@
 {
-  "last_updated": "2026-09-04T16:05",
+  "last_updated": "2026-09-05T14:56",
   "jobs": [
     {
-      "id": "1276bf8ebde7",
-      "title": "Credit Analyst 1 - 18416",
+      "id": "357defd2dfcf",
+      "title": "Teller - 18437",
       "district": "Arvest Bank",
       "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18416%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
-      "platform": "Infor",
-      "category": "banking",
-      "match_reason": "credit analyst",
-      "posted_date": "",
-      "first_seen": "2026-09-02"
-    },
-    {
-      "id": "402d1189e0b8",
-      "title": "Teller - 18405",
-      "district": "Arvest Bank",
-      "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18405%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18437%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
       "platform": "Infor",
       "category": "banking",
       "match_reason": "teller",
       "posted_date": "",
-      "first_seen": "2026-09-02"
+      "first_seen": "2026-09-05"
+    },
+    {
+      "id": "49dcc2e779f8",
+      "title": "Teller - 18425",
+      "district": "Arvest Bank",
+      "location": "",
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18425%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "platform": "Infor",
+      "category": "banking",
+      "match_reason": "teller",
+      "posted_date": "",
+      "first_seen": "2026-09-05"
     },
     {
       "id": "2f477b1b52a7",
@@ -36,18 +36,6 @@
       "match_reason": "teller",
       "posted_date": "",
       "first_seen": "2026-08-31"
-    },
-    {
-      "id": "a4a784692914",
-      "title": "Video Banking Specialist - 18221",
-      "district": "Arvest Bank",
-      "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18221%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
-      "platform": "Infor",
-      "category": "banking",
-      "match_reason": "banking specialist",
-      "posted_date": "",
-      "first_seen": "2026-09-04"
     },
     {
       "id": "fb68204b16cb",
@@ -154,7 +142,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "customer service",
-      "posted_date": "Posted 3 Days Ago",
+      "posted_date": "Posted 4 Days Ago",
       "first_seen": "2026-09-02"
     },
     {
@@ -166,7 +154,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "program coordinator",
-      "posted_date": "Posted Yesterday",
+      "posted_date": "Posted 2 Days Ago",
       "first_seen": "2026-09-03"
     },
     {
@@ -178,7 +166,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "administrative specialist",
-      "posted_date": "Posted 18 Days Ago",
+      "posted_date": "Posted 19 Days Ago",
       "first_seen": "2026-08-27"
     },
     {
@@ -190,7 +178,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "support specialist",
-      "posted_date": "Posted 22 Days Ago",
+      "posted_date": "Posted 23 Days Ago",
       "first_seen": "2026-08-27"
     },
     {
@@ -230,6 +218,18 @@
       "first_seen": "2026-09-01"
     },
     {
+      "id": "f67f1845e405",
+      "title": "Executive Assistant I",
+      "district": "UAMS (NWA campuses)",
+      "location": "UAMS",
+      "url": "https://uasys.wd5.myworkdayjobs.com/en-US/UAMS_All_Careers/job/UAMS/Executive-Assistant-I_R0091109",
+      "platform": "Workday",
+      "category": "healthcare",
+      "match_reason": "executive assistant",
+      "posted_date": "Posted Yesterday",
+      "first_seen": "2026-09-05"
+    },
+    {
       "id": "1ab520b04ee2",
       "title": "Patient Representative (Northwest, AR)",
       "district": "UAMS (NWA campuses)",
@@ -238,7 +238,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "patient representative",
-      "posted_date": "Posted 2 Days Ago",
+      "posted_date": "Posted 3 Days Ago",
       "first_seen": "2026-09-03"
     },
     {
@@ -250,7 +250,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "program coordinator",
-      "posted_date": "Posted 7 Days Ago",
+      "posted_date": "Posted 8 Days Ago",
       "first_seen": "2026-08-28"
     }
   ],
