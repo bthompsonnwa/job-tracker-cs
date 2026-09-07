@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-06T15:15",
+  "last_updated": "2026-09-07T17:41",
   "jobs": [
     {
       "id": "357defd2dfcf",
@@ -98,18 +98,6 @@
       "first_seen": "2026-09-03"
     },
     {
-      "id": "2fa14ff5f3e4",
-      "title": "Police Support Specialist",
-      "district": "Springdale (City)",
-      "location": "Springdale, AR",
-      "url": "https://www.governmentjobs.com/careers/springdalear/jobs/5471231/police-support-specialist",
-      "platform": "GovernmentJobs",
-      "category": "community",
-      "match_reason": "support specialist",
-      "posted_date": "",
-      "first_seen": "2026-09-03"
-    },
-    {
       "id": "64f961e89693",
       "title": "Office Manager, Registrar's Office",
       "district": "JBU",
@@ -142,7 +130,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "customer service",
-      "posted_date": "Posted 5 Days Ago",
+      "posted_date": "Posted 6 Days Ago",
       "first_seen": "2026-09-02"
     },
     {
@@ -154,7 +142,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "program coordinator",
-      "posted_date": "Posted 3 Days Ago",
+      "posted_date": "Posted 4 Days Ago",
       "first_seen": "2026-09-03"
     },
     {
@@ -166,7 +154,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "administrative specialist",
-      "posted_date": "Posted 20 Days Ago",
+      "posted_date": "Posted 21 Days Ago",
       "first_seen": "2026-08-27"
     },
     {
@@ -178,7 +166,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "support specialist",
-      "posted_date": "Posted 24 Days Ago",
+      "posted_date": "Posted 25 Days Ago",
       "first_seen": "2026-08-27"
     },
     {
@@ -226,7 +214,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "executive assistant",
-      "posted_date": "Posted 2 Days Ago",
+      "posted_date": "Posted 3 Days Ago",
       "first_seen": "2026-09-05"
     },
     {
@@ -238,7 +226,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "patient representative",
-      "posted_date": "Posted 4 Days Ago",
+      "posted_date": "Posted 5 Days Ago",
       "first_seen": "2026-09-03"
     },
     {
@@ -250,7 +238,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "program coordinator",
-      "posted_date": "Posted 9 Days Ago",
+      "posted_date": "Posted 10 Days Ago",
       "first_seen": "2026-08-28"
     }
   ],
