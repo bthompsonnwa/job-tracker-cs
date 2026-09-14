@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-09-13T15:56",
+  "last_updated": "2026-09-14T18:00",
   "jobs": [
+    {
+      "id": "8e1ab5502f03",
+      "title": "Security Operations Coordinator I",
+      "district": "J.B. Hunt",
+      "location": "Lowell, AR - JB Hunt Corporate B & C",
+      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-B--C/Security-Operations-Coordinator-I_00643498",
+      "platform": "Workday",
+      "category": "freight",
+      "match_reason": "operations coordinator",
+      "posted_date": "Posted Today",
+      "first_seen": "2026-09-14"
+    },
     {
       "id": "e1ab04e6608e",
       "title": "Customer Experience Account Manager",
@@ -10,7 +22,7 @@
       "platform": "Workday",
       "category": "freight",
       "match_reason": "customer experience",
-      "posted_date": "Posted 2 Days Ago",
+      "posted_date": "Posted 3 Days Ago",
       "first_seen": "2026-09-12"
     },
     {
@@ -22,7 +34,7 @@
       "platform": "Workday",
       "category": "freight",
       "match_reason": "claims specialist",
-      "posted_date": "Posted 2 Days Ago",
+      "posted_date": "Posted 3 Days Ago",
       "first_seen": "2026-09-11"
     },
     {
@@ -34,32 +46,20 @@
       "platform": "Workday",
       "category": "freight",
       "match_reason": "customer experience",
-      "posted_date": "Posted 2 Days Ago",
-      "first_seen": "2026-09-11"
-    },
-    {
-      "id": "29826ab0a0ac",
-      "title": "Customer Experience Support",
-      "district": "J.B. Hunt",
-      "location": "Lowell, AR - JB Hunt Corporate A & Marketing",
-      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-A--Marketing/Customer-Experience-Support_00643163",
-      "platform": "Workday",
-      "category": "freight",
-      "match_reason": "customer experience",
-      "posted_date": "Posted 2 Days Ago",
-      "first_seen": "2026-09-11"
-    },
-    {
-      "id": "6b18805326ee",
-      "title": "Customer Experience Representative - ICS",
-      "district": "J.B. Hunt",
-      "location": "Lowell, AR - JB Hunt Corporate B & C",
-      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-B--C/Customer-Experience-Representative---ICS_00643097-1",
-      "platform": "Workday",
-      "category": "freight",
-      "match_reason": "customer experience",
       "posted_date": "Posted 3 Days Ago",
       "first_seen": "2026-09-11"
+    },
+    {
+      "id": "8aa48555f9b8",
+      "title": "Teller - 18473",
+      "district": "Arvest Bank",
+      "location": "",
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18473%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "platform": "Infor",
+      "category": "banking",
+      "match_reason": "teller",
+      "posted_date": "",
+      "first_seen": "2026-09-14"
     },
     {
       "id": "c46d3c7c422d",
@@ -238,7 +238,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "program coordinator",
-      "posted_date": "Posted 10 Days Ago",
+      "posted_date": "Posted 11 Days Ago",
       "first_seen": "2026-09-03"
     },
     {
@@ -250,7 +250,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "administrative specialist",
-      "posted_date": "Posted 27 Days Ago",
+      "posted_date": "Posted 28 Days Ago",
       "first_seen": "2026-08-27"
     },
     {
@@ -302,6 +302,18 @@
       "first_seen": "2026-09-12"
     },
     {
+      "id": "66bca2bb4186",
+      "title": "Executive Assistant II",
+      "district": "UAMS (NWA campuses)",
+      "location": "UAMS",
+      "url": "https://uasys.wd5.myworkdayjobs.com/en-US/UAMS_All_Careers/job/UAMS/Executive-Assistant-II_R0089248",
+      "platform": "Workday",
+      "category": "healthcare",
+      "match_reason": "executive assistant",
+      "posted_date": "Posted Today",
+      "first_seen": "2026-09-14"
+    },
+    {
       "id": "0c1bdc46e0aa",
       "title": "Administrative Coordinator",
       "district": "UAMS (NWA campuses)",
@@ -310,7 +322,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "administrative coordinator",
-      "posted_date": "Posted 3 Days Ago",
+      "posted_date": "Posted 4 Days Ago",
       "first_seen": "2026-09-11"
     },
     {
@@ -322,7 +334,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "program coordinator",
-      "posted_date": "Posted 3 Days Ago",
+      "posted_date": "Posted 4 Days Ago",
       "first_seen": "2026-09-11"
     },
     {
@@ -334,7 +346,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "executive assistant",
-      "posted_date": "Posted 9 Days Ago",
+      "posted_date": "Posted 10 Days Ago",
       "first_seen": "2026-09-05"
     },
     {
@@ -346,7 +358,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "patient representative",
-      "posted_date": "Posted 11 Days Ago",
+      "posted_date": "Posted 12 Days Ago",
       "first_seen": "2026-09-03"
     },
     {
@@ -358,8 +370,20 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "program coordinator",
-      "posted_date": "Posted 16 Days Ago",
+      "posted_date": "Posted 17 Days Ago",
       "first_seen": "2026-08-28"
+    },
+    {
+      "id": "cf2154eb27ed",
+      "title": "Bilingual Customer Service Representative I 10AM-7PM",
+      "district": "AR Blue Cross",
+      "location": "2 Locations",
+      "url": "https://arkbluecross.wd1.myworkdayjobs.com/en-US/ABCBS_External_Careers/job/Arkansas-Remote/Customer-Service-Representative-I--Multiple-Shifts-Available-_R0013763",
+      "platform": "Workday",
+      "category": "healthcare",
+      "match_reason": "customer service",
+      "posted_date": "Posted Today",
+      "first_seen": "2026-09-14"
     }
   ],
   "sources": [
