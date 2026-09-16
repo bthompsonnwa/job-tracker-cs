@@ -1,41 +1,41 @@
 {
-  "last_updated": "2026-09-15T16:40",
+  "last_updated": "2026-09-16T16:32",
   "jobs": [
     {
-      "id": "df1341675b2e",
-      "title": "Dispatcher, Weekends",
+      "id": "031f6a8ff615",
+      "title": "Customer Experience Representative",
       "district": "J.B. Hunt",
-      "location": "Lowell, AR - JB Hunt Corporate A & Marketing",
-      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-A--Marketing/Part-time-Dispatcher_00623660",
+      "location": "Lowell, AR - JB Hunt Corporate B & C",
+      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-B--C/Customer-Experience-Representative_00642098-1",
       "platform": "Workday",
       "category": "freight",
-      "match_reason": "dispatch",
+      "match_reason": "customer experience",
       "posted_date": "Posted Today",
-      "first_seen": "2026-09-15"
+      "first_seen": "2026-09-16"
     },
     {
-      "id": "22b35a5bc0ef",
-      "title": "Customer Experience Intern, Summer 2027",
+      "id": "9b47ffc7d8d5",
+      "title": "Customer Experience Support",
       "district": "J.B. Hunt",
-      "location": "Lowell, AR - JB Hunt Corporate A & Marketing",
-      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-A--Marketing/Customer-Experience-Intern--Summer-2027_00643612",
+      "location": "Lowell, AR - JB Hunt Corporate B & C",
+      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-B--C/Customer-Experience-Support_00642582",
       "platform": "Workday",
       "category": "freight",
       "match_reason": "customer experience",
       "posted_date": "Posted Yesterday",
-      "first_seen": "2026-09-15"
+      "first_seen": "2026-09-16"
     },
     {
-      "id": "8e1ab5502f03",
-      "title": "Security Operations Coordinator I",
+      "id": "f21e4f3f8007",
+      "title": "Weekends Customer Experience Support",
       "district": "J.B. Hunt",
       "location": "Lowell, AR - JB Hunt Corporate B & C",
-      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-B--C/Security-Operations-Coordinator-I_00643498",
+      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-B--C/Weekends-Customer-Experience-Support_00642585",
       "platform": "Workday",
       "category": "freight",
-      "match_reason": "operations coordinator",
+      "match_reason": "customer experience",
       "posted_date": "Posted Yesterday",
-      "first_seen": "2026-09-14"
+      "first_seen": "2026-09-16"
     },
     {
       "id": "1c97ea079068",
@@ -98,30 +98,6 @@
       "first_seen": "2026-09-14"
     },
     {
-      "id": "c46d3c7c422d",
-      "title": "Teller (Floater)-Bilingual - 18471",
-      "district": "Arvest Bank",
-      "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18471%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
-      "platform": "Infor",
-      "category": "banking",
-      "match_reason": "teller",
-      "posted_date": "",
-      "first_seen": "2026-09-12"
-    },
-    {
-      "id": "52ac4738a0bf",
-      "title": "Teller - 18470",
-      "district": "Arvest Bank",
-      "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18470%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
-      "platform": "Infor",
-      "category": "banking",
-      "match_reason": "teller",
-      "posted_date": "",
-      "first_seen": "2026-09-12"
-    },
-    {
       "id": "fb68204b16cb",
       "title": "Mortgage Loan Processor II",
       "district": "Centennial Bank",
@@ -182,18 +158,6 @@
       "first_seen": "2026-09-03"
     },
     {
-      "id": "2fa14ff5f3e4",
-      "title": "Police Support Specialist",
-      "district": "Springdale (City)",
-      "location": "Springdale, AR",
-      "url": "https://www.governmentjobs.com/careers/springdalear/jobs/5471231/police-support-specialist",
-      "platform": "GovernmentJobs",
-      "category": "community",
-      "match_reason": "support specialist",
-      "posted_date": "",
-      "first_seen": "2026-09-08"
-    },
-    {
       "id": "64f961e89693",
       "title": "Office Manager, Registrar's Office",
       "district": "JBU",
@@ -226,7 +190,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "compliance coordinator",
-      "posted_date": "Posted Today",
+      "posted_date": "Posted Yesterday",
       "first_seen": "2026-09-15"
     },
     {
@@ -238,7 +202,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "program coordinator",
-      "posted_date": "Posted 12 Days Ago",
+      "posted_date": "Posted 13 Days Ago",
       "first_seen": "2026-09-03"
     },
     {
@@ -250,19 +214,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "administrative specialist",
-      "posted_date": "Posted 29 Days Ago",
-      "first_seen": "2026-08-27"
-    },
-    {
-      "id": "fc75b2a04d68",
-      "title": "Fiscal Support Specialist, Washington County Campus",
-      "district": "NWACC",
-      "location": "Washington County Location, Arkansas",
-      "url": "https://nwacc.wd1.myworkdayjobs.com/en-US/NWACC_External_Career_Site/job/Washington-County-Location-Arkansas/Fiscal-Support-Specialist--Washington-County-Campus_JR-1276",
-      "platform": "Workday",
-      "category": "community",
-      "match_reason": "support specialist",
-      "posted_date": "Posted 30+ Days Ago",
+      "posted_date": "Posted 30 Days Ago",
       "first_seen": "2026-08-27"
     },
     {
@@ -310,7 +262,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "executive assistant",
-      "posted_date": "Posted Yesterday",
+      "posted_date": "Posted 2 Days Ago",
       "first_seen": "2026-09-14"
     },
     {
@@ -322,7 +274,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "administrative coordinator",
-      "posted_date": "Posted 5 Days Ago",
+      "posted_date": "Posted 6 Days Ago",
       "first_seen": "2026-09-11"
     },
     {
@@ -334,7 +286,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "program coordinator",
-      "posted_date": "Posted 5 Days Ago",
+      "posted_date": "Posted 6 Days Ago",
       "first_seen": "2026-09-11"
     },
     {
@@ -346,20 +298,8 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "executive assistant",
-      "posted_date": "Posted 11 Days Ago",
+      "posted_date": "Posted 12 Days Ago",
       "first_seen": "2026-09-05"
-    },
-    {
-      "id": "1ab520b04ee2",
-      "title": "Patient Representative (Northwest, AR)",
-      "district": "UAMS (NWA campuses)",
-      "location": "3 Locations",
-      "url": "https://uasys.wd5.myworkdayjobs.com/en-US/UAMS_All_Careers/job/UAMS/Patient-Representative--Northwest--AR-_R0090824",
-      "platform": "Workday",
-      "category": "healthcare",
-      "match_reason": "patient representative",
-      "posted_date": "Posted 13 Days Ago",
-      "first_seen": "2026-09-03"
     },
     {
       "id": "4b0ad90d3310",
@@ -370,7 +310,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "program coordinator",
-      "posted_date": "Posted 18 Days Ago",
+      "posted_date": "Posted 19 Days Ago",
       "first_seen": "2026-08-28"
     },
     {
@@ -382,7 +322,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "customer service",
-      "posted_date": "Posted Yesterday",
+      "posted_date": "Posted 2 Days Ago",
       "first_seen": "2026-09-14"
     }
   ],
