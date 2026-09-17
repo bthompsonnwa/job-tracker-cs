@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-09-16T16:32",
+  "last_updated": "2026-09-17T16:38",
   "jobs": [
+    {
+      "id": "3e9c918fa59b",
+      "title": "Customer Support Coordinator II - Enterprise",
+      "district": "ArcBest",
+      "location": "Fort Smith, AR",
+      "url": "https://careers.arcb.com/careersmarketplace/JobDetail/Fayetteville-Arkansas-United-States-Customer-Support-Coordinator-II-Enterprise/29464",
+      "platform": "CareersMarketplace",
+      "category": "freight",
+      "match_reason": "customer support",
+      "posted_date": "",
+      "first_seen": "2026-09-17"
+    },
     {
       "id": "031f6a8ff615",
       "title": "Customer Experience Representative",
@@ -10,32 +22,20 @@
       "platform": "Workday",
       "category": "freight",
       "match_reason": "customer experience",
-      "posted_date": "Posted Today",
-      "first_seen": "2026-09-16"
-    },
-    {
-      "id": "9b47ffc7d8d5",
-      "title": "Customer Experience Support",
-      "district": "J.B. Hunt",
-      "location": "Lowell, AR - JB Hunt Corporate B & C",
-      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-B--C/Customer-Experience-Support_00642582",
-      "platform": "Workday",
-      "category": "freight",
-      "match_reason": "customer experience",
       "posted_date": "Posted Yesterday",
       "first_seen": "2026-09-16"
     },
     {
-      "id": "f21e4f3f8007",
-      "title": "Weekends Customer Experience Support",
-      "district": "J.B. Hunt",
-      "location": "Lowell, AR - JB Hunt Corporate B & C",
-      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-B--C/Weekends-Customer-Experience-Support_00642585",
-      "platform": "Workday",
-      "category": "freight",
-      "match_reason": "customer experience",
-      "posted_date": "Posted Yesterday",
-      "first_seen": "2026-09-16"
+      "id": "4d1aa0a10033",
+      "title": "Mortgage Support Specialist - 18489",
+      "district": "Arvest Bank",
+      "location": "",
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18489%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "platform": "Infor",
+      "category": "banking",
+      "match_reason": "support specialist",
+      "posted_date": "",
+      "first_seen": "2026-09-17"
     },
     {
       "id": "1c97ea079068",
@@ -86,18 +86,6 @@
       "first_seen": "2026-09-15"
     },
     {
-      "id": "8aa48555f9b8",
-      "title": "Teller - 18473",
-      "district": "Arvest Bank",
-      "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18473%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
-      "platform": "Infor",
-      "category": "banking",
-      "match_reason": "teller",
-      "posted_date": "",
-      "first_seen": "2026-09-14"
-    },
-    {
       "id": "fb68204b16cb",
       "title": "Mortgage Loan Processor II",
       "district": "Centennial Bank",
@@ -120,6 +108,18 @@
       "match_reason": "credit analyst",
       "posted_date": "",
       "first_seen": "2026-07-10"
+    },
+    {
+      "id": "4279a7d247dd",
+      "title": "(1) Part Time Recreation Worker I/II/III Front Desk (Adult Rec Center)",
+      "district": "Bentonville (City)",
+      "location": "Bentonville, AR",
+      "url": "https://bentonvillear.bamboohr.com/careers/1295",
+      "platform": "CivicEngage",
+      "category": "community",
+      "match_reason": "front desk",
+      "posted_date": "",
+      "first_seen": "2026-09-17"
     },
     {
       "id": "28c43eda1e60",
@@ -158,6 +158,18 @@
       "first_seen": "2026-09-03"
     },
     {
+      "id": "4d7edc3857a9",
+      "title": "DISPATCHER I (Shift: 10pm-6am)  2026 - 03146",
+      "district": "Fayetteville (City)",
+      "location": "Fayetteville, AR",
+      "url": "https://www.governmentjobs.com/careers/fayettevillear/jobs/5486164/dispatcher-i-shift-10pm-6am-2026-03146",
+      "platform": "GovernmentJobs",
+      "category": "community",
+      "match_reason": "dispatch",
+      "posted_date": "",
+      "first_seen": "2026-09-17"
+    },
+    {
       "id": "64f961e89693",
       "title": "Office Manager, Registrar's Office",
       "district": "JBU",
@@ -190,7 +202,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "compliance coordinator",
-      "posted_date": "Posted Yesterday",
+      "posted_date": "Posted 2 Days Ago",
       "first_seen": "2026-09-15"
     },
     {
@@ -202,7 +214,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "program coordinator",
-      "posted_date": "Posted 13 Days Ago",
+      "posted_date": "Posted 14 Days Ago",
       "first_seen": "2026-09-03"
     },
     {
@@ -214,20 +226,20 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "administrative specialist",
-      "posted_date": "Posted 30 Days Ago",
+      "posted_date": "Posted 30+ Days Ago",
       "first_seen": "2026-08-27"
     },
     {
-      "id": "e1ac248fe3ce",
+      "id": "66887acb73fb",
       "title": "Patient Access Representative",
       "district": "Mercy (Springdale)",
       "location": "Springdale, AR",
-      "url": "https://careers.mercy.net/jobs/JR263278?lang=en-us",
+      "url": "https://careers.mercy.net/jobs/JR269263?lang=en-us",
       "platform": "Mercy",
       "category": "healthcare",
       "match_reason": "patient access",
       "posted_date": "",
-      "first_seen": "2026-09-04"
+      "first_seen": "2026-09-17"
     },
     {
       "id": "502f03c3cc87",
@@ -254,6 +266,18 @@
       "first_seen": "2026-09-12"
     },
     {
+      "id": "4c3e9371586f",
+      "title": "Patient Representative-Ortho Clinic (Northwest, AR)",
+      "district": "UAMS (NWA campuses)",
+      "location": "3 Locations",
+      "url": "https://uasys.wd5.myworkdayjobs.com/en-US/UAMS_All_Careers/job/UAMS---NWA/Patient-Representative-Ortho-Clinic--Northwest--AR-_R0091594-2",
+      "platform": "Workday",
+      "category": "healthcare",
+      "match_reason": "patient representative",
+      "posted_date": "Posted Yesterday",
+      "first_seen": "2026-09-17"
+    },
+    {
       "id": "66bca2bb4186",
       "title": "Executive Assistant II",
       "district": "UAMS (NWA campuses)",
@@ -262,7 +286,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "executive assistant",
-      "posted_date": "Posted 2 Days Ago",
+      "posted_date": "Posted 3 Days Ago",
       "first_seen": "2026-09-14"
     },
     {
@@ -274,7 +298,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "administrative coordinator",
-      "posted_date": "Posted 6 Days Ago",
+      "posted_date": "Posted 7 Days Ago",
       "first_seen": "2026-09-11"
     },
     {
@@ -286,7 +310,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "program coordinator",
-      "posted_date": "Posted 6 Days Ago",
+      "posted_date": "Posted 7 Days Ago",
       "first_seen": "2026-09-11"
     },
     {
@@ -298,7 +322,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "executive assistant",
-      "posted_date": "Posted 12 Days Ago",
+      "posted_date": "Posted 13 Days Ago",
       "first_seen": "2026-09-05"
     },
     {
@@ -310,20 +334,8 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "program coordinator",
-      "posted_date": "Posted 19 Days Ago",
+      "posted_date": "Posted 20 Days Ago",
       "first_seen": "2026-08-28"
-    },
-    {
-      "id": "cf2154eb27ed",
-      "title": "Bilingual Customer Service Representative I 10AM-7PM",
-      "district": "AR Blue Cross",
-      "location": "2 Locations",
-      "url": "https://arkbluecross.wd1.myworkdayjobs.com/en-US/ABCBS_External_Careers/job/Arkansas-Remote/Customer-Service-Representative-I--Multiple-Shifts-Available-_R0013763",
-      "platform": "Workday",
-      "category": "healthcare",
-      "match_reason": "customer service",
-      "posted_date": "Posted 2 Days Ago",
-      "first_seen": "2026-09-14"
     }
   ],
   "sources": [
