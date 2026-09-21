@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-09-20T15:48",
+  "last_updated": "2026-09-21T18:06",
   "jobs": [
+    {
+      "id": "2a0bc577688b",
+      "title": "Senior Administrative Assistant",
+      "district": "J.B. Hunt",
+      "location": "Lowell, AR - JB Hunt Corporate B & C",
+      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-B--C/Senior-Administrative-Assistant_00643947-1",
+      "platform": "Workday",
+      "category": "freight",
+      "match_reason": "administrative assistant",
+      "posted_date": "Posted Today",
+      "first_seen": "2026-09-21"
+    },
     {
       "id": "d8eaaaf63685",
       "title": "Customer Experience Representative - ICS",
@@ -10,7 +22,7 @@
       "platform": "Workday",
       "category": "freight",
       "match_reason": "customer experience",
-      "posted_date": "Posted 2 Days Ago",
+      "posted_date": "Posted 3 Days Ago",
       "first_seen": "2026-09-19"
     },
     {
@@ -190,8 +202,20 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "compliance coordinator",
-      "posted_date": "Posted 5 Days Ago",
+      "posted_date": "Posted 6 Days Ago",
       "first_seen": "2026-09-15"
+    },
+    {
+      "id": "6000e7e95cf0",
+      "title": "Information Technology Support Specialist",
+      "district": "NWACC",
+      "location": "Benton County Location, Arkansas",
+      "url": "https://nwacc.wd1.myworkdayjobs.com/en-US/NWACC_External_Career_Site/job/Benton-County-Location-Arkansas/Information-Technology-Support-Specialist_JR-1308",
+      "platform": "Workday",
+      "category": "community",
+      "match_reason": "support specialist",
+      "posted_date": "Posted Today",
+      "first_seen": "2026-09-21"
     },
     {
       "id": "bbcf7e86307b",
@@ -202,7 +226,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "program coordinator",
-      "posted_date": "Posted 17 Days Ago",
+      "posted_date": "Posted 18 Days Ago",
       "first_seen": "2026-09-03"
     },
     {
@@ -262,20 +286,8 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "patient representative",
-      "posted_date": "Posted 4 Days Ago",
+      "posted_date": "Posted 5 Days Ago",
       "first_seen": "2026-09-17"
-    },
-    {
-      "id": "66bca2bb4186",
-      "title": "Executive Assistant II",
-      "district": "UAMS (NWA campuses)",
-      "location": "UAMS",
-      "url": "https://uasys.wd5.myworkdayjobs.com/en-US/UAMS_All_Careers/job/UAMS/Executive-Assistant-II_R0089248",
-      "platform": "Workday",
-      "category": "healthcare",
-      "match_reason": "executive assistant",
-      "posted_date": "Posted 6 Days Ago",
-      "first_seen": "2026-09-14"
     },
     {
       "id": "0c1bdc46e0aa",
@@ -286,7 +298,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "administrative coordinator",
-      "posted_date": "Posted 10 Days Ago",
+      "posted_date": "Posted 11 Days Ago",
       "first_seen": "2026-09-11"
     },
     {
@@ -298,7 +310,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "program coordinator",
-      "posted_date": "Posted 10 Days Ago",
+      "posted_date": "Posted 11 Days Ago",
       "first_seen": "2026-09-11"
     },
     {
@@ -310,7 +322,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "program coordinator",
-      "posted_date": "Posted 23 Days Ago",
+      "posted_date": "Posted 24 Days Ago",
       "first_seen": "2026-08-28"
     }
   ],
