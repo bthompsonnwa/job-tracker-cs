@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-21T18:06",
+  "last_updated": "2026-09-22T16:40",
   "jobs": [
     {
       "id": "2a0bc577688b",
@@ -10,20 +10,8 @@
       "platform": "Workday",
       "category": "freight",
       "match_reason": "administrative assistant",
-      "posted_date": "Posted Today",
+      "posted_date": "Posted Yesterday",
       "first_seen": "2026-09-21"
-    },
-    {
-      "id": "d8eaaaf63685",
-      "title": "Customer Experience Representative - ICS",
-      "district": "J.B. Hunt",
-      "location": "Lowell, AR - JB Hunt Corporate B & C",
-      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-B--C/Customer-Experience-Representative---ICS_00644266",
-      "platform": "Workday",
-      "category": "freight",
-      "match_reason": "customer experience",
-      "posted_date": "Posted 3 Days Ago",
-      "first_seen": "2026-09-19"
     },
     {
       "id": "cb6e86b92b7e",
@@ -202,7 +190,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "compliance coordinator",
-      "posted_date": "Posted 6 Days Ago",
+      "posted_date": "Posted 7 Days Ago",
       "first_seen": "2026-09-15"
     },
     {
@@ -214,7 +202,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "support specialist",
-      "posted_date": "Posted Today",
+      "posted_date": "Posted Yesterday",
       "first_seen": "2026-09-21"
     },
     {
@@ -226,7 +214,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "program coordinator",
-      "posted_date": "Posted 18 Days Ago",
+      "posted_date": "Posted 19 Days Ago",
       "first_seen": "2026-09-03"
     },
     {
@@ -266,18 +254,6 @@
       "first_seen": "2026-09-01"
     },
     {
-      "id": "fa621d406f8f",
-      "title": "Unit Secretary (Woman's Education) - Mercy Hospital NW Arkansas",
-      "district": "Mercy (Springdale)",
-      "location": "Springdale, AR",
-      "url": "https://careers.mercy.net/jobs/JR268685?lang=en-us",
-      "platform": "Mercy",
-      "category": "healthcare",
-      "match_reason": "unit secretary",
-      "posted_date": "",
-      "first_seen": "2026-09-12"
-    },
-    {
       "id": "4c3e9371586f",
       "title": "Patient Representative-Ortho Clinic (Northwest, AR)",
       "district": "UAMS (NWA campuses)",
@@ -286,7 +262,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "patient representative",
-      "posted_date": "Posted 5 Days Ago",
+      "posted_date": "Posted 6 Days Ago",
       "first_seen": "2026-09-17"
     },
     {
@@ -298,7 +274,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "administrative coordinator",
-      "posted_date": "Posted 11 Days Ago",
+      "posted_date": "Posted 12 Days Ago",
       "first_seen": "2026-09-11"
     },
     {
@@ -310,7 +286,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "program coordinator",
-      "posted_date": "Posted 11 Days Ago",
+      "posted_date": "Posted 12 Days Ago",
       "first_seen": "2026-09-11"
     },
     {
@@ -322,7 +298,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "program coordinator",
-      "posted_date": "Posted 24 Days Ago",
+      "posted_date": "Posted 25 Days Ago",
       "first_seen": "2026-08-28"
     }
   ],
