@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-09-22T16:40",
+  "last_updated": "2026-09-23T16:32",
   "jobs": [
     {
-      "id": "2a0bc577688b",
-      "title": "Senior Administrative Assistant",
+      "id": "918052266bc5",
+      "title": "Customer Experience Representative - ICS",
       "district": "J.B. Hunt",
       "location": "Lowell, AR - JB Hunt Corporate B & C",
-      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-B--C/Senior-Administrative-Assistant_00643947-1",
+      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-B--C/Customer-Experience-Representative---ICS_00644833",
       "platform": "Workday",
       "category": "freight",
-      "match_reason": "administrative assistant",
-      "posted_date": "Posted Yesterday",
-      "first_seen": "2026-09-21"
+      "match_reason": "customer experience",
+      "posted_date": "Posted Today",
+      "first_seen": "2026-09-23"
     },
     {
       "id": "cb6e86b92b7e",
@@ -50,16 +50,28 @@
       "first_seen": "2026-09-19"
     },
     {
-      "id": "c52749f44a71",
-      "title": "Teller - 18497",
-      "district": "Arvest Bank",
-      "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18497%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
-      "platform": "Infor",
+      "id": "28da52523676",
+      "title": "Teller",
+      "district": "First National Bank",
+      "location": "Fort Smith, AR",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4528646",
+      "platform": "Paylocity",
       "category": "banking",
       "match_reason": "teller",
       "posted_date": "",
-      "first_seen": "2026-09-19"
+      "first_seen": "2026-09-23"
+    },
+    {
+      "id": "139aebad1818",
+      "title": "Teller",
+      "district": "First National Bank",
+      "location": "Fort Smith, AR",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3630177",
+      "platform": "Paylocity",
+      "category": "banking",
+      "match_reason": "teller",
+      "posted_date": "",
+      "first_seen": "2026-09-23"
     },
     {
       "id": "fb68204b16cb",
@@ -182,18 +194,6 @@
       "first_seen": "2026-08-05"
     },
     {
-      "id": "f2edda69e178",
-      "title": "Risk Management and Accreditation Compliance Coordinator",
-      "district": "UAF",
-      "location": "Fayetteville, AR",
-      "url": "https://uasys.wd5.myworkdayjobs.com/en-US/UAF_External_Career_Site/job/Fayetteville-AR/Risk-Management-and-Accreditation-Compliance-Coordinator_R0091503",
-      "platform": "Workday",
-      "category": "community",
-      "match_reason": "compliance coordinator",
-      "posted_date": "Posted 7 Days Ago",
-      "first_seen": "2026-09-15"
-    },
-    {
       "id": "6000e7e95cf0",
       "title": "Information Technology Support Specialist",
       "district": "NWACC",
@@ -202,7 +202,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "support specialist",
-      "posted_date": "Posted Yesterday",
+      "posted_date": "Posted 2 Days Ago",
       "first_seen": "2026-09-21"
     },
     {
@@ -214,7 +214,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "program coordinator",
-      "posted_date": "Posted 19 Days Ago",
+      "posted_date": "Posted 20 Days Ago",
       "first_seen": "2026-09-03"
     },
     {
@@ -242,6 +242,18 @@
       "first_seen": "2026-09-17"
     },
     {
+      "id": "e1ac248fe3ce",
+      "title": "Patient Access Representative",
+      "district": "Mercy (Springdale)",
+      "location": "Springdale, AR",
+      "url": "https://careers.mercy.net/jobs/JR263278?lang=en-us",
+      "platform": "Mercy",
+      "category": "healthcare",
+      "match_reason": "patient access",
+      "posted_date": "",
+      "first_seen": "2026-09-23"
+    },
+    {
       "id": "502f03c3cc87",
       "title": "Executive Assistant - Mercy NWA",
       "district": "Mercy (Springdale)",
@@ -254,6 +266,18 @@
       "first_seen": "2026-09-01"
     },
     {
+      "id": "ba31213e3cef",
+      "title": "Administrative Coordinator",
+      "district": "UAMS (NWA campuses)",
+      "location": "UAMS",
+      "url": "https://uasys.wd5.myworkdayjobs.com/en-US/UAMS_All_Careers/job/UAMS/Administrative-Coordinator_R0089846-1",
+      "platform": "Workday",
+      "category": "healthcare",
+      "match_reason": "administrative coordinator",
+      "posted_date": "Posted Yesterday",
+      "first_seen": "2026-09-23"
+    },
+    {
       "id": "4c3e9371586f",
       "title": "Patient Representative-Ortho Clinic (Northwest, AR)",
       "district": "UAMS (NWA campuses)",
@@ -262,7 +286,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "patient representative",
-      "posted_date": "Posted 6 Days Ago",
+      "posted_date": "Posted 7 Days Ago",
       "first_seen": "2026-09-17"
     },
     {
@@ -274,7 +298,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "administrative coordinator",
-      "posted_date": "Posted 12 Days Ago",
+      "posted_date": "Posted 13 Days Ago",
       "first_seen": "2026-09-11"
     },
     {
@@ -286,7 +310,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "program coordinator",
-      "posted_date": "Posted 12 Days Ago",
+      "posted_date": "Posted 13 Days Ago",
       "first_seen": "2026-09-11"
     },
     {
@@ -298,7 +322,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "program coordinator",
-      "posted_date": "Posted 25 Days Ago",
+      "posted_date": "Posted 26 Days Ago",
       "first_seen": "2026-08-28"
     }
   ],
