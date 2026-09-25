@@ -1,6 +1,66 @@
 {
-  "last_updated": "2026-09-24T16:52",
+  "last_updated": "2026-09-25T16:57",
   "jobs": [
+    {
+      "id": "7d2f0c6406e0",
+      "title": "Customer Support Coordinator - Enterprise",
+      "district": "ArcBest",
+      "location": "Fort Smith, AR",
+      "url": "https://careers.arcb.com/careersmarketplace/JobDetail/Fort-Smith-Arkansas-United-States-Customer-Support-Coordinator-Enterprise/29662",
+      "platform": "CareersMarketplace",
+      "category": "freight",
+      "match_reason": "customer support",
+      "posted_date": "",
+      "first_seen": "2026-09-25"
+    },
+    {
+      "id": "c82031e1307b",
+      "title": "Customer Experience Representative - ICS",
+      "district": "J.B. Hunt",
+      "location": "Lowell, AR - JB Hunt Corporate B & C",
+      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-B--C/Customer-Experience-Representative---ICS_00645402-1",
+      "platform": "Workday",
+      "category": "freight",
+      "match_reason": "customer experience",
+      "posted_date": "Posted Today",
+      "first_seen": "2026-09-25"
+    },
+    {
+      "id": "1b2f35cfea58",
+      "title": "Customer Experience Representative - ICS",
+      "district": "J.B. Hunt",
+      "location": "",
+      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Customer-Experience-Representative---ICS_00645396",
+      "platform": "Workday",
+      "category": "freight",
+      "match_reason": "customer experience",
+      "posted_date": "Posted Today",
+      "first_seen": "2026-09-25"
+    },
+    {
+      "id": "7fa08388d307",
+      "title": "Casualty Claims Specialist I",
+      "district": "J.B. Hunt",
+      "location": "Lowell, AR - JB Hunt Corporate A & Marketing",
+      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-A--Marketing/Casualty-Claims-Specialist-I_00645095",
+      "platform": "Workday",
+      "category": "freight",
+      "match_reason": "claims specialist",
+      "posted_date": "Posted Today",
+      "first_seen": "2026-09-25"
+    },
+    {
+      "id": "9c3e2d7dd3f0",
+      "title": "Customer Experience Support",
+      "district": "J.B. Hunt",
+      "location": "Lowell, AR - JB Hunt Corporate B & C",
+      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-B--C/Customer-Experience-Support_00642809",
+      "platform": "Workday",
+      "category": "freight",
+      "match_reason": "customer experience",
+      "posted_date": "Posted Yesterday",
+      "first_seen": "2026-09-25"
+    },
     {
       "id": "a04f9fe947ce",
       "title": "Billing Representative I",
@@ -10,8 +70,20 @@
       "platform": "Workday",
       "category": "freight",
       "match_reason": "billing representative",
-      "posted_date": "Posted Today",
+      "posted_date": "Posted Yesterday",
       "first_seen": "2026-09-24"
+    },
+    {
+      "id": "6660d3d0c27c",
+      "title": "Administrative Assistant 1 - 18561",
+      "district": "Arvest Bank",
+      "location": "",
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18561%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "platform": "Infor",
+      "category": "banking",
+      "match_reason": "administrative assistant",
+      "posted_date": "",
+      "first_seen": "2026-09-25"
     },
     {
       "id": "31fbd93d2b8f",
@@ -34,18 +106,6 @@
       "platform": "Infor",
       "category": "banking",
       "match_reason": "customer service",
-      "posted_date": "",
-      "first_seen": "2026-09-24"
-    },
-    {
-      "id": "902c13cecac8",
-      "title": "Teller - 18509",
-      "district": "Arvest Bank",
-      "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18509%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
-      "platform": "Infor",
-      "category": "banking",
-      "match_reason": "teller",
       "posted_date": "",
       "first_seen": "2026-09-24"
     },
@@ -110,18 +170,6 @@
       "first_seen": "2026-09-17"
     },
     {
-      "id": "28c43eda1e60",
-      "title": "Administrative Assistant II",
-      "district": "Bentonville (City)",
-      "location": "Bentonville, AR",
-      "url": "https://bentonvillear.bamboohr.com/careers/1286",
-      "platform": "CivicEngage",
-      "category": "community",
-      "match_reason": "administrative assistant",
-      "posted_date": "",
-      "first_seen": "2026-09-02"
-    },
-    {
       "id": "9fae904decfb",
       "title": "(1) Customer Service Rep I",
       "district": "Bentonville (City)",
@@ -146,16 +194,28 @@
       "first_seen": "2026-09-03"
     },
     {
-      "id": "4d7edc3857a9",
-      "title": "DISPATCHER I (Shift: 10pm-6am)  2026 - 03146",
+      "id": "15e2c54033de",
+      "title": "DISPATCHER I (Shift: 2pm-10pm)  2026 - 03165",
       "district": "Fayetteville (City)",
       "location": "Fayetteville, AR",
-      "url": "https://www.governmentjobs.com/careers/fayettevillear/jobs/5486164/dispatcher-i-shift-10pm-6am-2026-03146",
+      "url": "https://www.governmentjobs.com/careers/fayettevillear/jobs/5494949/dispatcher-i-shift-2pm-10pm-2026-03165",
       "platform": "GovernmentJobs",
       "category": "community",
       "match_reason": "dispatch",
       "posted_date": "",
-      "first_seen": "2026-09-17"
+      "first_seen": "2026-09-25"
+    },
+    {
+      "id": "1f0e93b37908",
+      "title": "POLICE SUPPORT SPECIALIST (Shift: 11am-7pm) 2026 - 03167",
+      "district": "Fayetteville (City)",
+      "location": "Fayetteville, AR",
+      "url": "https://www.governmentjobs.com/careers/fayettevillear/jobs/5495311/police-support-specialist-shift-11am-7pm-2026-03167",
+      "platform": "GovernmentJobs",
+      "category": "community",
+      "match_reason": "support specialist",
+      "posted_date": "",
+      "first_seen": "2026-09-25"
     },
     {
       "id": "552342e97205",
@@ -168,6 +228,18 @@
       "match_reason": "program coordinator",
       "posted_date": "",
       "first_seen": "2026-09-18"
+    },
+    {
+      "id": "4c01067acbe4",
+      "title": "Technology Support Specialist/AV",
+      "district": "Springdale (City)",
+      "location": "Springdale, AR",
+      "url": "https://www.governmentjobs.com/careers/springdalear/jobs/5492972/technology-support-specialist-av",
+      "platform": "GovernmentJobs",
+      "category": "community",
+      "match_reason": "support specialist",
+      "posted_date": "",
+      "first_seen": "2026-09-25"
     },
     {
       "id": "64f961e89693",
@@ -194,6 +266,18 @@
       "first_seen": "2026-08-05"
     },
     {
+      "id": "b564d1c3ba1b",
+      "title": "Residence Hall Administrative Specialist",
+      "district": "UAF",
+      "location": "Fayetteville, AR",
+      "url": "https://uasys.wd5.myworkdayjobs.com/en-US/UAF_External_Career_Site/job/Fayetteville-AR/Residence-Hall-Administrative-Specialist_R0092054",
+      "platform": "Workday",
+      "category": "community",
+      "match_reason": "administrative specialist",
+      "posted_date": "Posted Today",
+      "first_seen": "2026-09-25"
+    },
+    {
       "id": "6000e7e95cf0",
       "title": "Information Technology Support Specialist",
       "district": "NWACC",
@@ -202,7 +286,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "support specialist",
-      "posted_date": "Posted 3 Days Ago",
+      "posted_date": "Posted 4 Days Ago",
       "first_seen": "2026-09-21"
     },
     {
@@ -214,7 +298,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "program coordinator",
-      "posted_date": "Posted 21 Days Ago",
+      "posted_date": "Posted 22 Days Ago",
       "first_seen": "2026-09-03"
     },
     {
@@ -266,6 +350,18 @@
       "first_seen": "2026-09-01"
     },
     {
+      "id": "dd2eb457d6d2",
+      "title": "Project Coordinator",
+      "district": "UAMS (NWA campuses)",
+      "location": "UAMS",
+      "url": "https://uasys.wd5.myworkdayjobs.com/en-US/UAMS_All_Careers/job/UAMS/Project-Coordinator_R0091111",
+      "platform": "Workday",
+      "category": "healthcare",
+      "match_reason": "project coordinator",
+      "posted_date": "Posted Today",
+      "first_seen": "2026-09-25"
+    },
+    {
       "id": "ba31213e3cef",
       "title": "Administrative Coordinator",
       "district": "UAMS (NWA campuses)",
@@ -274,7 +370,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "administrative coordinator",
-      "posted_date": "Posted 2 Days Ago",
+      "posted_date": "Posted 3 Days Ago",
       "first_seen": "2026-09-23"
     },
     {
@@ -286,32 +382,20 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "patient representative",
-      "posted_date": "Posted 8 Days Ago",
+      "posted_date": "Posted 9 Days Ago",
       "first_seen": "2026-09-17"
     },
     {
-      "id": "0c1bdc46e0aa",
-      "title": "Administrative Coordinator",
+      "id": "4b0ad90d3310",
+      "title": "GME Program Coordinator (Jonesboro, AR)",
       "district": "UAMS (NWA campuses)",
-      "location": "UAMS",
-      "url": "https://uasys.wd5.myworkdayjobs.com/en-US/UAMS_All_Careers/job/UAMS/Administrative-Coordinator_R0091357",
-      "platform": "Workday",
-      "category": "healthcare",
-      "match_reason": "administrative coordinator",
-      "posted_date": "Posted 14 Days Ago",
-      "first_seen": "2026-09-11"
-    },
-    {
-      "id": "3b9446c72a86",
-      "title": "GME Program Coordinator",
-      "district": "UAMS (NWA campuses)",
-      "location": "UAMS",
-      "url": "https://uasys.wd5.myworkdayjobs.com/en-US/UAMS_All_Careers/job/UAMS/GME-Program-Coordinator_R0091363-1",
+      "location": "2 Locations",
+      "url": "https://uasys.wd5.myworkdayjobs.com/en-US/UAMS_All_Careers/job/UAMS/GME-Program-Coordinator--Jonesboro--AR-_R0090737",
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "program coordinator",
-      "posted_date": "Posted 14 Days Ago",
-      "first_seen": "2026-09-11"
+      "posted_date": "Posted 28 Days Ago",
+      "first_seen": "2026-09-25"
     }
   ],
   "sources": [
