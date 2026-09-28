@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-27T16:45",
+  "last_updated": "2026-09-28T19:32",
   "jobs": [
     {
       "id": "7d2f0c6406e0",
@@ -22,7 +22,7 @@
       "platform": "Workday",
       "category": "freight",
       "match_reason": "customer experience",
-      "posted_date": "Posted 2 Days Ago",
+      "posted_date": "Posted 3 Days Ago",
       "first_seen": "2026-09-25"
     },
     {
@@ -34,44 +34,8 @@
       "platform": "Workday",
       "category": "freight",
       "match_reason": "customer experience",
-      "posted_date": "Posted 2 Days Ago",
-      "first_seen": "2026-09-25"
-    },
-    {
-      "id": "7fa08388d307",
-      "title": "Casualty Claims Specialist I",
-      "district": "J.B. Hunt",
-      "location": "Lowell, AR - JB Hunt Corporate A & Marketing",
-      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-A--Marketing/Casualty-Claims-Specialist-I_00645095",
-      "platform": "Workday",
-      "category": "freight",
-      "match_reason": "claims specialist",
-      "posted_date": "Posted 2 Days Ago",
-      "first_seen": "2026-09-25"
-    },
-    {
-      "id": "9c3e2d7dd3f0",
-      "title": "Customer Experience Support",
-      "district": "J.B. Hunt",
-      "location": "Lowell, AR - JB Hunt Corporate B & C",
-      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-B--C/Customer-Experience-Support_00642809",
-      "platform": "Workday",
-      "category": "freight",
-      "match_reason": "customer experience",
       "posted_date": "Posted 3 Days Ago",
       "first_seen": "2026-09-25"
-    },
-    {
-      "id": "a04f9fe947ce",
-      "title": "Billing Representative I",
-      "district": "J.B. Hunt",
-      "location": "Lowell, AR - JB Hunt Corporate A & Marketing",
-      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-A--Marketing/Billing-Representative-I_00645070",
-      "platform": "Workday",
-      "category": "freight",
-      "match_reason": "billing representative",
-      "posted_date": "Posted 3 Days Ago",
-      "first_seen": "2026-09-24"
     },
     {
       "id": "ed89ed0ac2cc",
@@ -120,6 +84,18 @@
       "match_reason": "teller",
       "posted_date": "",
       "first_seen": "2026-09-24"
+    },
+    {
+      "id": "a8ddeca31d3d",
+      "title": "Teller - Part Time",
+      "district": "First National Bank",
+      "location": "Fort Smith, AR",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4540851",
+      "platform": "Paylocity",
+      "category": "banking",
+      "match_reason": "teller",
+      "posted_date": "",
+      "first_seen": "2026-09-28"
     },
     {
       "id": "28da52523676",
@@ -182,6 +158,18 @@
       "first_seen": "2026-09-17"
     },
     {
+      "id": "9f037e9e2045",
+      "title": "(1)Part-Time Recreation Worker I/II/III- Front Desk",
+      "district": "Bentonville (City)",
+      "location": "Bentonville, AR",
+      "url": "https://bentonvillear.bamboohr.com/careers/1298",
+      "platform": "CivicEngage",
+      "category": "community",
+      "match_reason": "front desk",
+      "posted_date": "",
+      "first_seen": "2026-09-28"
+    },
+    {
       "id": "55cbe27821c9",
       "title": "Project Coordinator",
       "district": "Bentonville (City)",
@@ -230,18 +218,6 @@
       "first_seen": "2026-09-18"
     },
     {
-      "id": "4c01067acbe4",
-      "title": "Technology Support Specialist/AV",
-      "district": "Springdale (City)",
-      "location": "Springdale, AR",
-      "url": "https://www.governmentjobs.com/careers/springdalear/jobs/5492972/technology-support-specialist-av",
-      "platform": "GovernmentJobs",
-      "category": "community",
-      "match_reason": "support specialist",
-      "posted_date": "",
-      "first_seen": "2026-09-25"
-    },
-    {
       "id": "64f961e89693",
       "title": "Office Manager, Registrar's Office",
       "district": "JBU",
@@ -274,7 +250,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "administrative specialist",
-      "posted_date": "Posted 2 Days Ago",
+      "posted_date": "Posted 3 Days Ago",
       "first_seen": "2026-09-25"
     },
     {
@@ -286,7 +262,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "support specialist",
-      "posted_date": "Posted 6 Days Ago",
+      "posted_date": "Posted 7 Days Ago",
       "first_seen": "2026-09-21"
     },
     {
@@ -298,7 +274,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "program coordinator",
-      "posted_date": "Posted 24 Days Ago",
+      "posted_date": "Posted 25 Days Ago",
       "first_seen": "2026-09-03"
     },
     {
@@ -312,30 +288,6 @@
       "match_reason": "administrative specialist",
       "posted_date": "Posted 30+ Days Ago",
       "first_seen": "2026-08-27"
-    },
-    {
-      "id": "66887acb73fb",
-      "title": "Patient Access Representative",
-      "district": "Mercy (Springdale)",
-      "location": "Springdale, AR",
-      "url": "https://careers.mercy.net/jobs/JR269263?lang=en-us",
-      "platform": "Mercy",
-      "category": "healthcare",
-      "match_reason": "patient access",
-      "posted_date": "",
-      "first_seen": "2026-09-17"
-    },
-    {
-      "id": "e1ac248fe3ce",
-      "title": "Patient Access Representative",
-      "district": "Mercy (Springdale)",
-      "location": "Springdale, AR",
-      "url": "https://careers.mercy.net/jobs/JR263278?lang=en-us",
-      "platform": "Mercy",
-      "category": "healthcare",
-      "match_reason": "patient access",
-      "posted_date": "",
-      "first_seen": "2026-09-23"
     },
     {
       "id": "502f03c3cc87",
@@ -358,7 +310,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "project coordinator",
-      "posted_date": "Posted 2 Days Ago",
+      "posted_date": "Posted 3 Days Ago",
       "first_seen": "2026-09-25"
     },
     {
@@ -370,7 +322,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "administrative coordinator",
-      "posted_date": "Posted 5 Days Ago",
+      "posted_date": "Posted 6 Days Ago",
       "first_seen": "2026-09-23"
     },
     {
@@ -382,7 +334,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "patient representative",
-      "posted_date": "Posted 11 Days Ago",
+      "posted_date": "Posted 12 Days Ago",
       "first_seen": "2026-09-17"
     }
   ],
