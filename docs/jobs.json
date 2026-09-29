@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-09-28T19:32",
+  "last_updated": "2026-09-29T17:57",
   "jobs": [
+    {
+      "id": "20af8761b82b",
+      "title": "Customer Service Coordinator I",
+      "district": "ArcBest",
+      "location": "Fort Smith, AR",
+      "url": "https://careers.arcb.com/careersmarketplace/JobDetail/Fort-Smith-Arkansas-United-States-Customer-Service-Coordinator-I/29672",
+      "platform": "CareersMarketplace",
+      "category": "freight",
+      "match_reason": "customer service",
+      "posted_date": "",
+      "first_seen": "2026-09-29"
+    },
     {
       "id": "7d2f0c6406e0",
       "title": "Customer Support Coordinator - Enterprise",
@@ -14,28 +26,28 @@
       "first_seen": "2026-09-25"
     },
     {
-      "id": "c82031e1307b",
-      "title": "Customer Experience Representative - ICS",
+      "id": "c889dabcca6f",
+      "title": "Casualty Claims Specialist I",
       "district": "J.B. Hunt",
-      "location": "Lowell, AR - JB Hunt Corporate B & C",
-      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-B--C/Customer-Experience-Representative---ICS_00645402-1",
+      "location": "Lowell, AR - JB Hunt Corporate A & Marketing",
+      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-A--Marketing/Casualty-Claims-Specialist-I_00645763",
       "platform": "Workday",
       "category": "freight",
-      "match_reason": "customer experience",
-      "posted_date": "Posted 3 Days Ago",
-      "first_seen": "2026-09-25"
+      "match_reason": "claims specialist",
+      "posted_date": "Posted Today",
+      "first_seen": "2026-09-29"
     },
     {
-      "id": "1b2f35cfea58",
-      "title": "Customer Experience Representative - ICS",
-      "district": "J.B. Hunt",
+      "id": "c5210ccfeeec",
+      "title": "Teller - 18563",
+      "district": "Arvest Bank",
       "location": "",
-      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Customer-Experience-Representative---ICS_00645396",
-      "platform": "Workday",
-      "category": "freight",
-      "match_reason": "customer experience",
-      "posted_date": "Posted 3 Days Ago",
-      "first_seen": "2026-09-25"
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18563%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "platform": "Infor",
+      "category": "banking",
+      "match_reason": "teller",
+      "posted_date": "",
+      "first_seen": "2026-09-29"
     },
     {
       "id": "ed89ed0ac2cc",
@@ -60,30 +72,6 @@
       "match_reason": "teller",
       "posted_date": "",
       "first_seen": "2026-09-26"
-    },
-    {
-      "id": "6660d3d0c27c",
-      "title": "Administrative Assistant 1 - 18561",
-      "district": "Arvest Bank",
-      "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18561%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
-      "platform": "Infor",
-      "category": "banking",
-      "match_reason": "administrative assistant",
-      "posted_date": "",
-      "first_seen": "2026-09-25"
-    },
-    {
-      "id": "31fbd93d2b8f",
-      "title": "Teller - 18547",
-      "district": "Arvest Bank",
-      "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18547%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
-      "platform": "Infor",
-      "category": "banking",
-      "match_reason": "teller",
-      "posted_date": "",
-      "first_seen": "2026-09-24"
     },
     {
       "id": "a8ddeca31d3d",
@@ -218,6 +206,18 @@
       "first_seen": "2026-09-18"
     },
     {
+      "id": "4c01067acbe4",
+      "title": "Technology Support Specialist/AV",
+      "district": "Springdale (City)",
+      "location": "Springdale, AR",
+      "url": "https://www.governmentjobs.com/careers/springdalear/jobs/5492972/technology-support-specialist-av",
+      "platform": "GovernmentJobs",
+      "category": "community",
+      "match_reason": "support specialist",
+      "posted_date": "",
+      "first_seen": "2026-09-29"
+    },
+    {
       "id": "64f961e89693",
       "title": "Office Manager, Registrar's Office",
       "district": "JBU",
@@ -250,7 +250,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "administrative specialist",
-      "posted_date": "Posted 3 Days Ago",
+      "posted_date": "Posted 4 Days Ago",
       "first_seen": "2026-09-25"
     },
     {
@@ -262,7 +262,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "support specialist",
-      "posted_date": "Posted 7 Days Ago",
+      "posted_date": "Posted 8 Days Ago",
       "first_seen": "2026-09-21"
     },
     {
@@ -274,7 +274,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "program coordinator",
-      "posted_date": "Posted 25 Days Ago",
+      "posted_date": "Posted 26 Days Ago",
       "first_seen": "2026-09-03"
     },
     {
@@ -310,7 +310,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "project coordinator",
-      "posted_date": "Posted 3 Days Ago",
+      "posted_date": "Posted 4 Days Ago",
       "first_seen": "2026-09-25"
     },
     {
@@ -322,7 +322,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "administrative coordinator",
-      "posted_date": "Posted 6 Days Ago",
+      "posted_date": "Posted 7 Days Ago",
       "first_seen": "2026-09-23"
     },
     {
@@ -334,8 +334,20 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "patient representative",
-      "posted_date": "Posted 12 Days Ago",
+      "posted_date": "Posted 13 Days Ago",
       "first_seen": "2026-09-17"
+    },
+    {
+      "id": "9bcc95b682e4",
+      "title": "Support Specialist Customer Service I",
+      "district": "AR Blue Cross",
+      "location": "2 Locations",
+      "url": "https://arkbluecross.wd1.myworkdayjobs.com/en-US/ABCBS_External_Careers/job/Fayetteville-AR/Support-Specialist-Customer-Service-I_R0013808",
+      "platform": "Workday",
+      "category": "healthcare",
+      "match_reason": "customer service",
+      "posted_date": "Posted Yesterday",
+      "first_seen": "2026-09-29"
     }
   ],
   "sources": [
