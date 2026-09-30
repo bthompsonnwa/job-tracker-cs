@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-29T17:57",
+  "last_updated": "2026-09-30T17:52",
   "jobs": [
     {
       "id": "20af8761b82b",
@@ -26,6 +26,30 @@
       "first_seen": "2026-09-25"
     },
     {
+      "id": "1133fbcd484d",
+      "title": "Casualty Claims Specialist I",
+      "district": "J.B. Hunt",
+      "location": "Lowell, AR - JB Hunt Corporate E",
+      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-E/Casualty-Claims-Intake-Representative-I_00634823-1",
+      "platform": "Workday",
+      "category": "freight",
+      "match_reason": "claims specialist",
+      "posted_date": "Posted Today",
+      "first_seen": "2026-09-30"
+    },
+    {
+      "id": "a0e791f13285",
+      "title": "Customer Experience Representative",
+      "district": "J.B. Hunt",
+      "location": "Lowell, AR - JB Hunt Corporate B & C",
+      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-B--C/Customer-Experience-Representative_00644975",
+      "platform": "Workday",
+      "category": "freight",
+      "match_reason": "customer experience",
+      "posted_date": "Posted Today",
+      "first_seen": "2026-09-30"
+    },
+    {
       "id": "c889dabcca6f",
       "title": "Casualty Claims Specialist I",
       "district": "J.B. Hunt",
@@ -34,7 +58,7 @@
       "platform": "Workday",
       "category": "freight",
       "match_reason": "claims specialist",
-      "posted_date": "Posted Today",
+      "posted_date": "Posted Yesterday",
       "first_seen": "2026-09-29"
     },
     {
@@ -62,16 +86,16 @@
       "first_seen": "2026-09-26"
     },
     {
-      "id": "0a76051b4151",
-      "title": "Teller - 18573",
+      "id": "31fbd93d2b8f",
+      "title": "Teller - 18547",
       "district": "Arvest Bank",
       "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18573%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18547%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
       "platform": "Infor",
       "category": "banking",
       "match_reason": "teller",
       "posted_date": "",
-      "first_seen": "2026-09-26"
+      "first_seen": "2026-09-30"
     },
     {
       "id": "a8ddeca31d3d",
@@ -250,7 +274,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "administrative specialist",
-      "posted_date": "Posted 4 Days Ago",
+      "posted_date": "Posted 5 Days Ago",
       "first_seen": "2026-09-25"
     },
     {
@@ -262,7 +286,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "support specialist",
-      "posted_date": "Posted 8 Days Ago",
+      "posted_date": "Posted 9 Days Ago",
       "first_seen": "2026-09-21"
     },
     {
@@ -274,7 +298,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "program coordinator",
-      "posted_date": "Posted 26 Days Ago",
+      "posted_date": "Posted 27 Days Ago",
       "first_seen": "2026-09-03"
     },
     {
@@ -310,7 +334,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "project coordinator",
-      "posted_date": "Posted 4 Days Ago",
+      "posted_date": "Posted 5 Days Ago",
       "first_seen": "2026-09-25"
     },
     {
@@ -322,7 +346,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "administrative coordinator",
-      "posted_date": "Posted 7 Days Ago",
+      "posted_date": "Posted 8 Days Ago",
       "first_seen": "2026-09-23"
     },
     {
@@ -334,7 +358,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "patient representative",
-      "posted_date": "Posted 13 Days Ago",
+      "posted_date": "Posted 14 Days Ago",
       "first_seen": "2026-09-17"
     },
     {
@@ -346,7 +370,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "customer service",
-      "posted_date": "Posted Yesterday",
+      "posted_date": "Posted 2 Days Ago",
       "first_seen": "2026-09-29"
     }
   ],
