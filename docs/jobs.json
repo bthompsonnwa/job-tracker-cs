@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-30T17:52",
+  "last_updated": "2026-10-01T18:18",
   "jobs": [
     {
       "id": "20af8761b82b",
@@ -26,6 +26,42 @@
       "first_seen": "2026-09-25"
     },
     {
+      "id": "fbf0bfaa742e",
+      "title": "Customer Experience Representative II",
+      "district": "J.B. Hunt",
+      "location": "Lowell, AR - JB Hunt Corporate A & Marketing",
+      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-A--Marketing/Customer-Experience-Representative-II_00645432-1",
+      "platform": "Workday",
+      "category": "freight",
+      "match_reason": "customer experience",
+      "posted_date": "Posted Today",
+      "first_seen": "2026-10-01"
+    },
+    {
+      "id": "d84d112af2e7",
+      "title": "Customer Experience Appointment Representative",
+      "district": "J.B. Hunt",
+      "location": "Lowell, AR - JB Hunt Corporate A & Marketing",
+      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-A--Marketing/Customer-Experience-Appointment-Representative_00646332",
+      "platform": "Workday",
+      "category": "freight",
+      "match_reason": "customer experience",
+      "posted_date": "Posted Today",
+      "first_seen": "2026-10-01"
+    },
+    {
+      "id": "c22e65d9aced",
+      "title": "Customer Experience Representative",
+      "district": "J.B. Hunt",
+      "location": "Lowell, AR - JB Hunt Corporate B & C",
+      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-B--C/Customer-Experience-Representative_00641811",
+      "platform": "Workday",
+      "category": "freight",
+      "match_reason": "customer experience",
+      "posted_date": "Posted Yesterday",
+      "first_seen": "2026-10-01"
+    },
+    {
       "id": "1133fbcd484d",
       "title": "Casualty Claims Specialist I",
       "district": "J.B. Hunt",
@@ -34,7 +70,7 @@
       "platform": "Workday",
       "category": "freight",
       "match_reason": "claims specialist",
-      "posted_date": "Posted Today",
+      "posted_date": "Posted Yesterday",
       "first_seen": "2026-09-30"
     },
     {
@@ -46,20 +82,20 @@
       "platform": "Workday",
       "category": "freight",
       "match_reason": "customer experience",
-      "posted_date": "Posted Today",
+      "posted_date": "Posted Yesterday",
       "first_seen": "2026-09-30"
     },
     {
-      "id": "c889dabcca6f",
-      "title": "Casualty Claims Specialist I",
-      "district": "J.B. Hunt",
-      "location": "Lowell, AR - JB Hunt Corporate A & Marketing",
-      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-A--Marketing/Casualty-Claims-Specialist-I_00645763",
-      "platform": "Workday",
-      "category": "freight",
-      "match_reason": "claims specialist",
-      "posted_date": "Posted Yesterday",
-      "first_seen": "2026-09-29"
+      "id": "e7ade800c49d",
+      "title": "Teller (Floater) - 18609",
+      "district": "Arvest Bank",
+      "location": "",
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18609%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "platform": "Infor",
+      "category": "banking",
+      "match_reason": "teller",
+      "posted_date": "",
+      "first_seen": "2026-10-01"
     },
     {
       "id": "c5210ccfeeec",
@@ -86,16 +122,16 @@
       "first_seen": "2026-09-26"
     },
     {
-      "id": "31fbd93d2b8f",
-      "title": "Teller - 18547",
-      "district": "Arvest Bank",
-      "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18547%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
-      "platform": "Infor",
+      "id": "591e30eff5b7",
+      "title": "Teller",
+      "district": "First National Bank",
+      "location": "Fort Smith, AR",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4551353",
+      "platform": "Paylocity",
       "category": "banking",
       "match_reason": "teller",
       "posted_date": "",
-      "first_seen": "2026-09-30"
+      "first_seen": "2026-10-01"
     },
     {
       "id": "a8ddeca31d3d",
@@ -115,18 +151,6 @@
       "district": "First National Bank",
       "location": "Fort Smith, AR",
       "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4528646",
-      "platform": "Paylocity",
-      "category": "banking",
-      "match_reason": "teller",
-      "posted_date": "",
-      "first_seen": "2026-09-23"
-    },
-    {
-      "id": "139aebad1818",
-      "title": "Teller",
-      "district": "First National Bank",
-      "location": "Fort Smith, AR",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3630177",
       "platform": "Paylocity",
       "category": "banking",
       "match_reason": "teller",
@@ -266,6 +290,18 @@
       "first_seen": "2026-08-05"
     },
     {
+      "id": "8a772938dde4",
+      "title": "Registrar's Administrative Coordinator",
+      "district": "UAF",
+      "location": "Fayetteville, AR",
+      "url": "https://uasys.wd5.myworkdayjobs.com/en-US/UAF_External_Career_Site/job/Fayetteville-AR/Registrar-s-Administrative-Coordinator_R0091829",
+      "platform": "Workday",
+      "category": "community",
+      "match_reason": "administrative coordinator",
+      "posted_date": "Posted Yesterday",
+      "first_seen": "2026-10-01"
+    },
+    {
       "id": "b564d1c3ba1b",
       "title": "Residence Hall Administrative Specialist",
       "district": "UAF",
@@ -274,7 +310,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "administrative specialist",
-      "posted_date": "Posted 5 Days Ago",
+      "posted_date": "Posted 6 Days Ago",
       "first_seen": "2026-09-25"
     },
     {
@@ -286,7 +322,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "support specialist",
-      "posted_date": "Posted 9 Days Ago",
+      "posted_date": "Posted 10 Days Ago",
       "first_seen": "2026-09-21"
     },
     {
@@ -298,7 +334,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "program coordinator",
-      "posted_date": "Posted 27 Days Ago",
+      "posted_date": "Posted 28 Days Ago",
       "first_seen": "2026-09-03"
     },
     {
@@ -334,7 +370,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "project coordinator",
-      "posted_date": "Posted 5 Days Ago",
+      "posted_date": "Posted 6 Days Ago",
       "first_seen": "2026-09-25"
     },
     {
@@ -346,7 +382,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "administrative coordinator",
-      "posted_date": "Posted 8 Days Ago",
+      "posted_date": "Posted 9 Days Ago",
       "first_seen": "2026-09-23"
     },
     {
@@ -358,7 +394,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "patient representative",
-      "posted_date": "Posted 14 Days Ago",
+      "posted_date": "Posted 15 Days Ago",
       "first_seen": "2026-09-17"
     },
     {
@@ -370,7 +406,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "customer service",
-      "posted_date": "Posted 2 Days Ago",
+      "posted_date": "Posted 3 Days Ago",
       "first_seen": "2026-09-29"
     }
   ],
