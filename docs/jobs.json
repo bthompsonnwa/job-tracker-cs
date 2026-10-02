@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-01T18:18",
+  "last_updated": "2026-10-02T17:44",
   "jobs": [
     {
       "id": "20af8761b82b",
@@ -14,16 +14,16 @@
       "first_seen": "2026-09-29"
     },
     {
-      "id": "7d2f0c6406e0",
-      "title": "Customer Support Coordinator - Enterprise",
-      "district": "ArcBest",
-      "location": "Fort Smith, AR",
-      "url": "https://careers.arcb.com/careersmarketplace/JobDetail/Fort-Smith-Arkansas-United-States-Customer-Support-Coordinator-Enterprise/29662",
-      "platform": "CareersMarketplace",
+      "id": "7af52620ef39",
+      "title": "Customer Experience Support",
+      "district": "J.B. Hunt",
+      "location": "Lowell, AR - JB Hunt Corporate B & C",
+      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-B--C/Customer-Experience-Support_00645968",
+      "platform": "Workday",
       "category": "freight",
-      "match_reason": "customer support",
-      "posted_date": "",
-      "first_seen": "2026-09-25"
+      "match_reason": "customer experience",
+      "posted_date": "Posted Today",
+      "first_seen": "2026-10-02"
     },
     {
       "id": "fbf0bfaa742e",
@@ -34,7 +34,7 @@
       "platform": "Workday",
       "category": "freight",
       "match_reason": "customer experience",
-      "posted_date": "Posted Today",
+      "posted_date": "Posted Yesterday",
       "first_seen": "2026-10-01"
     },
     {
@@ -46,7 +46,7 @@
       "platform": "Workday",
       "category": "freight",
       "match_reason": "customer experience",
-      "posted_date": "Posted Today",
+      "posted_date": "Posted Yesterday",
       "first_seen": "2026-10-01"
     },
     {
@@ -58,7 +58,7 @@
       "platform": "Workday",
       "category": "freight",
       "match_reason": "customer experience",
-      "posted_date": "Posted Yesterday",
+      "posted_date": "Posted 2 Days Ago",
       "first_seen": "2026-10-01"
     },
     {
@@ -70,19 +70,7 @@
       "platform": "Workday",
       "category": "freight",
       "match_reason": "claims specialist",
-      "posted_date": "Posted Yesterday",
-      "first_seen": "2026-09-30"
-    },
-    {
-      "id": "a0e791f13285",
-      "title": "Customer Experience Representative",
-      "district": "J.B. Hunt",
-      "location": "Lowell, AR - JB Hunt Corporate B & C",
-      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-B--C/Customer-Experience-Representative_00644975",
-      "platform": "Workday",
-      "category": "freight",
-      "match_reason": "customer experience",
-      "posted_date": "Posted Yesterday",
+      "posted_date": "Posted 2 Days Ago",
       "first_seen": "2026-09-30"
     },
     {
@@ -98,18 +86,6 @@
       "first_seen": "2026-10-01"
     },
     {
-      "id": "c5210ccfeeec",
-      "title": "Teller - 18563",
-      "district": "Arvest Bank",
-      "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18563%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
-      "platform": "Infor",
-      "category": "banking",
-      "match_reason": "teller",
-      "posted_date": "",
-      "first_seen": "2026-09-29"
-    },
-    {
       "id": "ed89ed0ac2cc",
       "title": "Teller (Bilingual) - 18594",
       "district": "Arvest Bank",
@@ -120,6 +96,18 @@
       "match_reason": "teller",
       "posted_date": "",
       "first_seen": "2026-09-26"
+    },
+    {
+      "id": "101310df8d5e",
+      "title": "Teller",
+      "district": "First National Bank",
+      "location": "Fort Smith, AR",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4553962",
+      "platform": "Paylocity",
+      "category": "banking",
+      "match_reason": "teller",
+      "posted_date": "",
+      "first_seen": "2026-10-02"
     },
     {
       "id": "591e30eff5b7",
@@ -182,18 +170,6 @@
       "first_seen": "2026-07-10"
     },
     {
-      "id": "4279a7d247dd",
-      "title": "(1) Part Time Recreation Worker I/II/III Front Desk (Adult Rec Center)",
-      "district": "Bentonville (City)",
-      "location": "Bentonville, AR",
-      "url": "https://bentonvillear.bamboohr.com/careers/1295",
-      "platform": "CivicEngage",
-      "category": "community",
-      "match_reason": "front desk",
-      "posted_date": "",
-      "first_seen": "2026-09-17"
-    },
-    {
       "id": "9f037e9e2045",
       "title": "(1)Part-Time Recreation Worker I/II/III- Front Desk",
       "district": "Bentonville (City)",
@@ -242,6 +218,18 @@
       "first_seen": "2026-09-25"
     },
     {
+      "id": "e352c089f58b",
+      "title": "Front Desk - Part Time",
+      "district": "Springdale (City)",
+      "location": "Springdale, AR",
+      "url": "https://www.governmentjobs.com/careers/springdalear/jobs/5503203/front-desk-part-time",
+      "platform": "GovernmentJobs",
+      "category": "community",
+      "match_reason": "front desk",
+      "posted_date": "",
+      "first_seen": "2026-10-02"
+    },
+    {
       "id": "552342e97205",
       "title": "Program Coordinator",
       "district": "Springdale (City)",
@@ -252,18 +240,6 @@
       "match_reason": "program coordinator",
       "posted_date": "",
       "first_seen": "2026-09-18"
-    },
-    {
-      "id": "4c01067acbe4",
-      "title": "Technology Support Specialist/AV",
-      "district": "Springdale (City)",
-      "location": "Springdale, AR",
-      "url": "https://www.governmentjobs.com/careers/springdalear/jobs/5492972/technology-support-specialist-av",
-      "platform": "GovernmentJobs",
-      "category": "community",
-      "match_reason": "support specialist",
-      "posted_date": "",
-      "first_seen": "2026-09-29"
     },
     {
       "id": "64f961e89693",
@@ -298,7 +274,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "administrative coordinator",
-      "posted_date": "Posted Yesterday",
+      "posted_date": "Posted 2 Days Ago",
       "first_seen": "2026-10-01"
     },
     {
@@ -310,7 +286,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "administrative specialist",
-      "posted_date": "Posted 6 Days Ago",
+      "posted_date": "Posted 7 Days Ago",
       "first_seen": "2026-09-25"
     },
     {
@@ -322,7 +298,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "support specialist",
-      "posted_date": "Posted 10 Days Ago",
+      "posted_date": "Posted 11 Days Ago",
       "first_seen": "2026-09-21"
     },
     {
@@ -334,7 +310,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "program coordinator",
-      "posted_date": "Posted 28 Days Ago",
+      "posted_date": "Posted 29 Days Ago",
       "first_seen": "2026-09-03"
     },
     {
@@ -370,7 +346,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "project coordinator",
-      "posted_date": "Posted 6 Days Ago",
+      "posted_date": "Posted 7 Days Ago",
       "first_seen": "2026-09-25"
     },
     {
@@ -382,7 +358,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "administrative coordinator",
-      "posted_date": "Posted 9 Days Ago",
+      "posted_date": "Posted 10 Days Ago",
       "first_seen": "2026-09-23"
     },
     {
@@ -394,7 +370,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "patient representative",
-      "posted_date": "Posted 15 Days Ago",
+      "posted_date": "Posted 16 Days Ago",
       "first_seen": "2026-09-17"
     },
     {
@@ -406,7 +382,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "customer service",
-      "posted_date": "Posted 3 Days Ago",
+      "posted_date": "Posted Today",
       "first_seen": "2026-09-29"
     }
   ],
