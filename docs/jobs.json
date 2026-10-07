@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-06T18:12",
+  "last_updated": "2026-10-07T18:44",
   "jobs": [
     {
       "id": "20af8761b82b",
@@ -14,6 +14,42 @@
       "first_seen": "2026-09-29"
     },
     {
+      "id": "ff131bc1ff7b",
+      "title": "Credit Card Customer Service Representative 1 - 18630",
+      "district": "Arvest Bank",
+      "location": "",
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18630%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "platform": "Infor",
+      "category": "banking",
+      "match_reason": "customer service",
+      "posted_date": "",
+      "first_seen": "2026-10-07"
+    },
+    {
+      "id": "909e49943497",
+      "title": "Teller - 18629",
+      "district": "Arvest Bank",
+      "location": "",
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18629%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "platform": "Infor",
+      "category": "banking",
+      "match_reason": "teller",
+      "posted_date": "",
+      "first_seen": "2026-10-07"
+    },
+    {
+      "id": "58b000348507",
+      "title": "Teller - 18625",
+      "district": "Arvest Bank",
+      "location": "",
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18625%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "platform": "Infor",
+      "category": "banking",
+      "match_reason": "teller",
+      "posted_date": "",
+      "first_seen": "2026-10-07"
+    },
+    {
       "id": "1bcd3e2a108c",
       "title": "Video Banking Specialist - 18628",
       "district": "Arvest Bank",
@@ -26,16 +62,16 @@
       "first_seen": "2026-10-05"
     },
     {
-      "id": "e7ade800c49d",
-      "title": "Teller (Floater) - 18609",
-      "district": "Arvest Bank",
-      "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18609%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
-      "platform": "Infor",
+      "id": "101310df8d5e",
+      "title": "Teller",
+      "district": "First National Bank",
+      "location": "Fort Smith, AR",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4553962",
+      "platform": "Paylocity",
       "category": "banking",
       "match_reason": "teller",
       "posted_date": "",
-      "first_seen": "2026-10-01"
+      "first_seen": "2026-10-07"
     },
     {
       "id": "591e30eff5b7",
@@ -48,18 +84,6 @@
       "match_reason": "teller",
       "posted_date": "",
       "first_seen": "2026-10-01"
-    },
-    {
-      "id": "28da52523676",
-      "title": "Teller",
-      "district": "First National Bank",
-      "location": "Fort Smith, AR",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4528646",
-      "platform": "Paylocity",
-      "category": "banking",
-      "match_reason": "teller",
-      "posted_date": "",
-      "first_seen": "2026-09-23"
     },
     {
       "id": "fb68204b16cb",
@@ -166,7 +190,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "administrative coordinator",
-      "posted_date": "Posted 6 Days Ago",
+      "posted_date": "Posted 7 Days Ago",
       "first_seen": "2026-10-01"
     },
     {
@@ -178,20 +202,8 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "administrative specialist",
-      "posted_date": "Posted 11 Days Ago",
+      "posted_date": "Posted 12 Days Ago",
       "first_seen": "2026-09-25"
-    },
-    {
-      "id": "6000e7e95cf0",
-      "title": "Information Technology Support Specialist",
-      "district": "NWACC",
-      "location": "Benton County Location, Arkansas",
-      "url": "https://nwacc.wd1.myworkdayjobs.com/en-US/NWACC_External_Career_Site/job/Benton-County-Location-Arkansas/Information-Technology-Support-Specialist_JR-1308",
-      "platform": "Workday",
-      "category": "community",
-      "match_reason": "support specialist",
-      "posted_date": "Posted 15 Days Ago",
-      "first_seen": "2026-09-21"
     },
     {
       "id": "bbcf7e86307b",
@@ -218,6 +230,30 @@
       "first_seen": "2026-08-27"
     },
     {
+      "id": "25f576279acf",
+      "title": "Patient Access Representative",
+      "district": "Mercy (Springdale)",
+      "location": "Springdale, AR",
+      "url": "https://careers.mercy.net/jobs/JR272207?lang=en-us",
+      "platform": "Mercy",
+      "category": "healthcare",
+      "match_reason": "patient access",
+      "posted_date": "",
+      "first_seen": "2026-10-07"
+    },
+    {
+      "id": "66887acb73fb",
+      "title": "Patient Access Representative",
+      "district": "Mercy (Springdale)",
+      "location": "Springdale, AR",
+      "url": "https://careers.mercy.net/jobs/JR269263?lang=en-us",
+      "platform": "Mercy",
+      "category": "healthcare",
+      "match_reason": "patient access",
+      "posted_date": "",
+      "first_seen": "2026-10-07"
+    },
+    {
       "id": "502f03c3cc87",
       "title": "Executive Assistant - Mercy NWA",
       "district": "Mercy (Springdale)",
@@ -238,7 +274,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "project coordinator",
-      "posted_date": "Posted 11 Days Ago",
+      "posted_date": "Posted 12 Days Ago",
       "first_seen": "2026-09-25"
     },
     {
@@ -250,7 +286,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "administrative coordinator",
-      "posted_date": "Posted 14 Days Ago",
+      "posted_date": "Posted 15 Days Ago",
       "first_seen": "2026-09-23"
     },
     {
@@ -262,7 +298,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "customer service",
-      "posted_date": "Posted 4 Days Ago",
+      "posted_date": "Posted 5 Days Ago",
       "first_seen": "2026-09-29"
     }
   ],
