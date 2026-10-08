@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-07T18:44",
+  "last_updated": "2026-10-08T18:43",
   "jobs": [
     {
       "id": "20af8761b82b",
@@ -12,6 +12,18 @@
       "match_reason": "customer service",
       "posted_date": "",
       "first_seen": "2026-09-29"
+    },
+    {
+      "id": "7d958224c417",
+      "title": "Teller (Floater) - 18652",
+      "district": "Arvest Bank",
+      "location": "",
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18652%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "platform": "Infor",
+      "category": "banking",
+      "match_reason": "teller",
+      "posted_date": "",
+      "first_seen": "2026-10-08"
     },
     {
       "id": "ff131bc1ff7b",
@@ -36,30 +48,6 @@
       "match_reason": "teller",
       "posted_date": "",
       "first_seen": "2026-10-07"
-    },
-    {
-      "id": "58b000348507",
-      "title": "Teller - 18625",
-      "district": "Arvest Bank",
-      "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18625%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
-      "platform": "Infor",
-      "category": "banking",
-      "match_reason": "teller",
-      "posted_date": "",
-      "first_seen": "2026-10-07"
-    },
-    {
-      "id": "1bcd3e2a108c",
-      "title": "Video Banking Specialist - 18628",
-      "district": "Arvest Bank",
-      "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18628%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
-      "platform": "Infor",
-      "category": "banking",
-      "match_reason": "banking specialist",
-      "posted_date": "",
-      "first_seen": "2026-10-05"
     },
     {
       "id": "101310df8d5e",
@@ -122,18 +110,6 @@
       "first_seen": "2026-09-28"
     },
     {
-      "id": "55cbe27821c9",
-      "title": "Project Coordinator",
-      "district": "Bentonville (City)",
-      "location": "Bentonville, AR",
-      "url": "https://bentonvillear.bamboohr.com/careers/1209",
-      "platform": "CivicEngage",
-      "category": "community",
-      "match_reason": "project coordinator",
-      "posted_date": "",
-      "first_seen": "2026-09-03"
-    },
-    {
       "id": "1f0e93b37908",
       "title": "POLICE SUPPORT SPECIALIST (Shift: 11am-7pm) 2026 - 03167",
       "district": "Fayetteville (City)",
@@ -158,18 +134,6 @@
       "first_seen": "2026-10-02"
     },
     {
-      "id": "64f961e89693",
-      "title": "Office Manager, Registrar's Office",
-      "district": "JBU",
-      "location": "Siloam Springs, AR",
-      "url": "https://www.jbu.edu/human-resources/staff-job-listings/registrar-office-manager?hsLang=en",
-      "platform": "JBU",
-      "category": "community",
-      "match_reason": "office manager",
-      "posted_date": "",
-      "first_seen": "2026-07-31"
-    },
-    {
       "id": "9250b2a96bcb",
       "title": "Student Financial Services Representative",
       "district": "JBU",
@@ -182,18 +146,6 @@
       "first_seen": "2026-08-05"
     },
     {
-      "id": "8a772938dde4",
-      "title": "Registrar's Administrative Coordinator",
-      "district": "UAF",
-      "location": "Fayetteville, AR",
-      "url": "https://uasys.wd5.myworkdayjobs.com/en-US/UAF_External_Career_Site/job/Fayetteville-AR/Registrar-s-Administrative-Coordinator_R0091829",
-      "platform": "Workday",
-      "category": "community",
-      "match_reason": "administrative coordinator",
-      "posted_date": "Posted 7 Days Ago",
-      "first_seen": "2026-10-01"
-    },
-    {
       "id": "b564d1c3ba1b",
       "title": "Residence Hall Administrative Specialist",
       "district": "UAF",
@@ -202,7 +154,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "administrative specialist",
-      "posted_date": "Posted 12 Days Ago",
+      "posted_date": "Posted 13 Days Ago",
       "first_seen": "2026-09-25"
     },
     {
@@ -216,18 +168,6 @@
       "match_reason": "program coordinator",
       "posted_date": "Posted 30+ Days Ago",
       "first_seen": "2026-09-03"
-    },
-    {
-      "id": "7bc53f91b855",
-      "title": "Senior Academic Division Administrative Specialist - BCIS",
-      "district": "NWACC",
-      "location": "Benton County Location, Arkansas",
-      "url": "https://nwacc.wd1.myworkdayjobs.com/en-US/NWACC_External_Career_Site/job/Benton-County-Location-Arkansas/Senior-Academic-Division-Administrative-Specialist---BCIS_JR-1239",
-      "platform": "Workday",
-      "category": "community",
-      "match_reason": "administrative specialist",
-      "posted_date": "Posted 30+ Days Ago",
-      "first_seen": "2026-08-27"
     },
     {
       "id": "25f576279acf",
@@ -274,7 +214,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "project coordinator",
-      "posted_date": "Posted 12 Days Ago",
+      "posted_date": "Posted 13 Days Ago",
       "first_seen": "2026-09-25"
     },
     {
@@ -286,7 +226,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "administrative coordinator",
-      "posted_date": "Posted 15 Days Ago",
+      "posted_date": "Posted 16 Days Ago",
       "first_seen": "2026-09-23"
     },
     {
@@ -298,7 +238,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "customer service",
-      "posted_date": "Posted 5 Days Ago",
+      "posted_date": "Posted 6 Days Ago",
       "first_seen": "2026-09-29"
     }
   ],
