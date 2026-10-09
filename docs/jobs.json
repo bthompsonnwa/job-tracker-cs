@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-08T18:43",
+  "last_updated": "2026-10-09T18:14",
   "jobs": [
     {
       "id": "20af8761b82b",
@@ -12,6 +12,30 @@
       "match_reason": "customer service",
       "posted_date": "",
       "first_seen": "2026-09-29"
+    },
+    {
+      "id": "fbf0bfaa742e",
+      "title": "Customer Experience Representative II",
+      "district": "J.B. Hunt",
+      "location": "Lowell, AR - JB Hunt Corporate A & Marketing",
+      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-A--Marketing/Customer-Experience-Representative-II_00645432-1",
+      "platform": "Workday",
+      "category": "freight",
+      "match_reason": "customer experience",
+      "posted_date": "Posted Yesterday",
+      "first_seen": "2026-10-09"
+    },
+    {
+      "id": "67af82a511fe",
+      "title": "SBD Loan Coordinator - 18664",
+      "district": "Arvest Bank",
+      "location": "",
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18664%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "platform": "Infor",
+      "category": "banking",
+      "match_reason": "loan coordinator",
+      "posted_date": "",
+      "first_seen": "2026-10-09"
     },
     {
       "id": "7d958224c417",
@@ -38,28 +62,16 @@
       "first_seen": "2026-10-07"
     },
     {
-      "id": "909e49943497",
-      "title": "Teller - 18629",
-      "district": "Arvest Bank",
-      "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18629%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
-      "platform": "Infor",
-      "category": "banking",
-      "match_reason": "teller",
-      "posted_date": "",
-      "first_seen": "2026-10-07"
-    },
-    {
-      "id": "101310df8d5e",
+      "id": "28da52523676",
       "title": "Teller",
       "district": "First National Bank",
       "location": "Fort Smith, AR",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4553962",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4528646",
       "platform": "Paylocity",
       "category": "banking",
       "match_reason": "teller",
       "posted_date": "",
-      "first_seen": "2026-10-07"
+      "first_seen": "2026-10-09"
     },
     {
       "id": "591e30eff5b7",
@@ -110,6 +122,18 @@
       "first_seen": "2026-09-28"
     },
     {
+      "id": "c30d552b29d5",
+      "title": "Administrative Assistant II - Water",
+      "district": "Bentonville (City)",
+      "location": "Bentonville, AR",
+      "url": "https://bentonvillear.bamboohr.com/careers/1302",
+      "platform": "CivicEngage",
+      "category": "community",
+      "match_reason": "administrative assistant",
+      "posted_date": "",
+      "first_seen": "2026-10-09"
+    },
+    {
       "id": "1f0e93b37908",
       "title": "POLICE SUPPORT SPECIALIST (Shift: 11am-7pm) 2026 - 03167",
       "district": "Fayetteville (City)",
@@ -146,6 +170,18 @@
       "first_seen": "2026-08-05"
     },
     {
+      "id": "67e1c727559b",
+      "title": "Administrative Support Specialist",
+      "district": "UAF",
+      "location": "Fayetteville, AR",
+      "url": "https://uasys.wd5.myworkdayjobs.com/en-US/UAF_External_Career_Site/job/Fayetteville-AR/Administrative-Support-Specialist_R0092524",
+      "platform": "Workday",
+      "category": "community",
+      "match_reason": "support specialist",
+      "posted_date": "Posted Today",
+      "first_seen": "2026-10-09"
+    },
+    {
       "id": "b564d1c3ba1b",
       "title": "Residence Hall Administrative Specialist",
       "district": "UAF",
@@ -154,7 +190,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "administrative specialist",
-      "posted_date": "Posted 13 Days Ago",
+      "posted_date": "Posted 14 Days Ago",
       "first_seen": "2026-09-25"
     },
     {
@@ -214,7 +250,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "project coordinator",
-      "posted_date": "Posted 13 Days Ago",
+      "posted_date": "Posted 14 Days Ago",
       "first_seen": "2026-09-25"
     },
     {
@@ -226,8 +262,20 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "administrative coordinator",
-      "posted_date": "Posted 16 Days Ago",
+      "posted_date": "Posted 17 Days Ago",
       "first_seen": "2026-09-23"
+    },
+    {
+      "id": "ff99554c279f",
+      "title": "Claims Specialist 1",
+      "district": "AR Blue Cross",
+      "location": "Arkansas Remote",
+      "url": "https://arkbluecross.wd1.myworkdayjobs.com/en-US/ABCBS_External_Careers/job/Arkansas-Remote/Claims-Specialist-1_R0013836",
+      "platform": "Workday",
+      "category": "healthcare",
+      "match_reason": "claims specialist",
+      "posted_date": "Posted Yesterday",
+      "first_seen": "2026-10-09"
     },
     {
       "id": "9bcc95b682e4",
@@ -238,7 +286,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "customer service",
-      "posted_date": "Posted 6 Days Ago",
+      "posted_date": "Posted 7 Days Ago",
       "first_seen": "2026-09-29"
     }
   ],
