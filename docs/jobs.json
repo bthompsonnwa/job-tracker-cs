@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-09T18:14",
+  "last_updated": "2026-10-10T17:13",
   "jobs": [
     {
       "id": "20af8761b82b",
@@ -22,19 +22,7 @@
       "platform": "Workday",
       "category": "freight",
       "match_reason": "customer experience",
-      "posted_date": "Posted Yesterday",
-      "first_seen": "2026-10-09"
-    },
-    {
-      "id": "67af82a511fe",
-      "title": "SBD Loan Coordinator - 18664",
-      "district": "Arvest Bank",
-      "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18664%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
-      "platform": "Infor",
-      "category": "banking",
-      "match_reason": "loan coordinator",
-      "posted_date": "",
+      "posted_date": "Posted 2 Days Ago",
       "first_seen": "2026-10-09"
     },
     {
@@ -178,20 +166,8 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "support specialist",
-      "posted_date": "Posted Today",
+      "posted_date": "Posted Yesterday",
       "first_seen": "2026-10-09"
-    },
-    {
-      "id": "b564d1c3ba1b",
-      "title": "Residence Hall Administrative Specialist",
-      "district": "UAF",
-      "location": "Fayetteville, AR",
-      "url": "https://uasys.wd5.myworkdayjobs.com/en-US/UAF_External_Career_Site/job/Fayetteville-AR/Residence-Hall-Administrative-Specialist_R0092054",
-      "platform": "Workday",
-      "category": "community",
-      "match_reason": "administrative specialist",
-      "posted_date": "Posted 14 Days Ago",
-      "first_seen": "2026-09-25"
     },
     {
       "id": "bbcf7e86307b",
@@ -250,7 +226,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "project coordinator",
-      "posted_date": "Posted 14 Days Ago",
+      "posted_date": "Posted 15 Days Ago",
       "first_seen": "2026-09-25"
     },
     {
@@ -262,7 +238,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "administrative coordinator",
-      "posted_date": "Posted 17 Days Ago",
+      "posted_date": "Posted 18 Days Ago",
       "first_seen": "2026-09-23"
     },
     {
@@ -274,7 +250,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "claims specialist",
-      "posted_date": "Posted Yesterday",
+      "posted_date": "Posted 2 Days Ago",
       "first_seen": "2026-10-09"
     },
     {
@@ -286,7 +262,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "customer service",
-      "posted_date": "Posted 7 Days Ago",
+      "posted_date": "Posted 8 Days Ago",
       "first_seen": "2026-09-29"
     }
   ],
