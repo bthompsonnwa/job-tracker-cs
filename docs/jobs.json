@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-11T17:36",
+  "last_updated": "2026-10-12T21:09",
   "jobs": [
     {
       "id": "20af8761b82b",
@@ -14,16 +14,16 @@
       "first_seen": "2026-09-29"
     },
     {
-      "id": "fbf0bfaa742e",
-      "title": "Customer Experience Representative II",
-      "district": "J.B. Hunt",
-      "location": "Lowell, AR - JB Hunt Corporate A & Marketing",
-      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-A--Marketing/Customer-Experience-Representative-II_00645432-1",
-      "platform": "Workday",
-      "category": "freight",
-      "match_reason": "customer experience",
-      "posted_date": "Posted 3 Days Ago",
-      "first_seen": "2026-10-09"
+      "id": "9095c75aa4d6",
+      "title": "Teller - 18671",
+      "district": "Arvest Bank",
+      "location": "",
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18671%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "platform": "Infor",
+      "category": "banking",
+      "match_reason": "teller",
+      "posted_date": "",
+      "first_seen": "2026-10-12"
     },
     {
       "id": "7d958224c417",
@@ -36,18 +36,6 @@
       "match_reason": "teller",
       "posted_date": "",
       "first_seen": "2026-10-08"
-    },
-    {
-      "id": "ff131bc1ff7b",
-      "title": "Credit Card Customer Service Representative 1 - 18630",
-      "district": "Arvest Bank",
-      "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18630%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
-      "platform": "Infor",
-      "category": "banking",
-      "match_reason": "customer service",
-      "posted_date": "",
-      "first_seen": "2026-10-07"
     },
     {
       "id": "28da52523676",
@@ -166,7 +154,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "support specialist",
-      "posted_date": "Posted 2 Days Ago",
+      "posted_date": "Posted 3 Days Ago",
       "first_seen": "2026-10-09"
     },
     {
@@ -218,6 +206,18 @@
       "first_seen": "2026-09-01"
     },
     {
+      "id": "f90b79a7ef67",
+      "title": "Executive Assistant I",
+      "district": "UAMS (NWA campuses)",
+      "location": "UAMS",
+      "url": "https://uasys.wd5.myworkdayjobs.com/en-US/UAMS_All_Careers/job/UAMS/Executive-Assistant-I_R0092577",
+      "platform": "Workday",
+      "category": "healthcare",
+      "match_reason": "executive assistant",
+      "posted_date": "Posted Today",
+      "first_seen": "2026-10-12"
+    },
+    {
       "id": "dd2eb457d6d2",
       "title": "Project Coordinator",
       "district": "UAMS (NWA campuses)",
@@ -226,7 +226,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "project coordinator",
-      "posted_date": "Posted 16 Days Ago",
+      "posted_date": "Posted 17 Days Ago",
       "first_seen": "2026-09-25"
     },
     {
@@ -238,8 +238,20 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "administrative coordinator",
-      "posted_date": "Posted 19 Days Ago",
+      "posted_date": "Posted 20 Days Ago",
       "first_seen": "2026-09-23"
+    },
+    {
+      "id": "3a9947219b28",
+      "title": "Claims Specialist I",
+      "district": "AR Blue Cross",
+      "location": "6 Locations",
+      "url": "https://arkbluecross.wd1.myworkdayjobs.com/en-US/ABCBS_External_Careers/job/Arkansas-Remote/Claims-Specialist-I_R0013841",
+      "platform": "Workday",
+      "category": "healthcare",
+      "match_reason": "claims specialist",
+      "posted_date": "Posted Today",
+      "first_seen": "2026-10-12"
     },
     {
       "id": "ff99554c279f",
@@ -250,7 +262,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "claims specialist",
-      "posted_date": "Posted 3 Days Ago",
+      "posted_date": "Posted 4 Days Ago",
       "first_seen": "2026-10-09"
     },
     {
@@ -262,7 +274,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "customer service",
-      "posted_date": "Posted 9 Days Ago",
+      "posted_date": "Posted 10 Days Ago",
       "first_seen": "2026-09-29"
     }
   ],
