@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-12T21:09",
+  "last_updated": "2026-10-13T19:08",
   "jobs": [
     {
       "id": "20af8761b82b",
@@ -12,6 +12,18 @@
       "match_reason": "customer service",
       "posted_date": "",
       "first_seen": "2026-09-29"
+    },
+    {
+      "id": "907e9e626fb7",
+      "title": "Logistics Engineer II, Customer Experience",
+      "district": "J.B. Hunt",
+      "location": "Lowell, AR - JB Hunt Corporate B & C",
+      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-B--C/Logistics-Engineer-II--Customer-Experience_00645362-1",
+      "platform": "Workday",
+      "category": "freight",
+      "match_reason": "customer experience",
+      "posted_date": "Posted Today",
+      "first_seen": "2026-10-13"
     },
     {
       "id": "9095c75aa4d6",
@@ -36,6 +48,18 @@
       "match_reason": "teller",
       "posted_date": "",
       "first_seen": "2026-10-08"
+    },
+    {
+      "id": "ff131bc1ff7b",
+      "title": "Credit Card Customer Service Representative 1 - 18630",
+      "district": "Arvest Bank",
+      "location": "",
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18630%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "platform": "Infor",
+      "category": "banking",
+      "match_reason": "customer service",
+      "posted_date": "",
+      "first_seen": "2026-10-13"
     },
     {
       "id": "28da52523676",
@@ -122,6 +146,18 @@
       "first_seen": "2026-09-25"
     },
     {
+      "id": "30d38e829233",
+      "title": "POLICE SUPPORT SPECIALIST (Shift: 7PM-3AM) 2026-03176",
+      "district": "Fayetteville (City)",
+      "location": "Fayetteville, AR",
+      "url": "https://www.governmentjobs.com/careers/fayettevillear/jobs/5514312/police-support-specialist-shift-7pm-3am-2026-03176",
+      "platform": "GovernmentJobs",
+      "category": "community",
+      "match_reason": "support specialist",
+      "posted_date": "",
+      "first_seen": "2026-10-13"
+    },
+    {
       "id": "e352c089f58b",
       "title": "Front Desk - Part Time",
       "district": "Springdale (City)",
@@ -154,7 +190,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "support specialist",
-      "posted_date": "Posted 3 Days Ago",
+      "posted_date": "Posted 4 Days Ago",
       "first_seen": "2026-10-09"
     },
     {
@@ -206,6 +242,18 @@
       "first_seen": "2026-09-01"
     },
     {
+      "id": "4e311d1cfe24",
+      "title": "Patient Access Representative (Non-Exempt)",
+      "district": "Mercy (Springdale)",
+      "location": "Springdale, AR",
+      "url": "https://careers.mercy.net/jobs/JR254499?lang=en-us",
+      "platform": "Mercy",
+      "category": "healthcare",
+      "match_reason": "patient access",
+      "posted_date": "",
+      "first_seen": "2026-10-13"
+    },
+    {
       "id": "f90b79a7ef67",
       "title": "Executive Assistant I",
       "district": "UAMS (NWA campuses)",
@@ -214,7 +262,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "executive assistant",
-      "posted_date": "Posted Today",
+      "posted_date": "Posted Yesterday",
       "first_seen": "2026-10-12"
     },
     {
@@ -226,7 +274,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "project coordinator",
-      "posted_date": "Posted 17 Days Ago",
+      "posted_date": "Posted 18 Days Ago",
       "first_seen": "2026-09-25"
     },
     {
@@ -238,7 +286,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "administrative coordinator",
-      "posted_date": "Posted 20 Days Ago",
+      "posted_date": "Posted 21 Days Ago",
       "first_seen": "2026-09-23"
     },
     {
@@ -250,7 +298,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "claims specialist",
-      "posted_date": "Posted Today",
+      "posted_date": "Posted Yesterday",
       "first_seen": "2026-10-12"
     },
     {
@@ -262,7 +310,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "claims specialist",
-      "posted_date": "Posted 4 Days Ago",
+      "posted_date": "Posted 5 Days Ago",
       "first_seen": "2026-10-09"
     },
     {
@@ -274,7 +322,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "customer service",
-      "posted_date": "Posted 10 Days Ago",
+      "posted_date": "Posted 11 Days Ago",
       "first_seen": "2026-09-29"
     }
   ],
