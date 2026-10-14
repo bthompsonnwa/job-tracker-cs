@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-13T19:08",
+  "last_updated": "2026-10-14T16:54",
   "jobs": [
     {
       "id": "20af8761b82b",
@@ -14,6 +14,18 @@
       "first_seen": "2026-09-29"
     },
     {
+      "id": "cb637369ad73",
+      "title": "Billing Representative I",
+      "district": "J.B. Hunt",
+      "location": "Lowell, AR - JB Hunt Corporate A & Marketing",
+      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-A--Marketing/Billing-Representative-I_00648216",
+      "platform": "Workday",
+      "category": "freight",
+      "match_reason": "billing representative",
+      "posted_date": "Posted Today",
+      "first_seen": "2026-10-14"
+    },
+    {
       "id": "907e9e626fb7",
       "title": "Logistics Engineer II, Customer Experience",
       "district": "J.B. Hunt",
@@ -22,7 +34,7 @@
       "platform": "Workday",
       "category": "freight",
       "match_reason": "customer experience",
-      "posted_date": "Posted Today",
+      "posted_date": "Posted Yesterday",
       "first_seen": "2026-10-13"
     },
     {
@@ -182,6 +194,18 @@
       "first_seen": "2026-08-05"
     },
     {
+      "id": "a40facb2e1f3",
+      "title": "Help Desk Technician - Part Time",
+      "district": "UAF",
+      "location": "Fayetteville, AR",
+      "url": "https://uasys.wd5.myworkdayjobs.com/en-US/UAF_External_Career_Site/job/Fayetteville-AR/Help-Desk-Technician---Part-Time_R0092701-1",
+      "platform": "Workday",
+      "category": "community",
+      "match_reason": "help desk",
+      "posted_date": "Posted Today",
+      "first_seen": "2026-10-14"
+    },
+    {
       "id": "67e1c727559b",
       "title": "Administrative Support Specialist",
       "district": "UAF",
@@ -190,7 +214,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "support specialist",
-      "posted_date": "Posted 4 Days Ago",
+      "posted_date": "Posted 5 Days Ago",
       "first_seen": "2026-10-09"
     },
     {
@@ -204,18 +228,6 @@
       "match_reason": "program coordinator",
       "posted_date": "Posted 30+ Days Ago",
       "first_seen": "2026-09-03"
-    },
-    {
-      "id": "25f576279acf",
-      "title": "Patient Access Representative",
-      "district": "Mercy (Springdale)",
-      "location": "Springdale, AR",
-      "url": "https://careers.mercy.net/jobs/JR272207?lang=en-us",
-      "platform": "Mercy",
-      "category": "healthcare",
-      "match_reason": "patient access",
-      "posted_date": "",
-      "first_seen": "2026-10-07"
     },
     {
       "id": "66887acb73fb",
@@ -262,7 +274,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "executive assistant",
-      "posted_date": "Posted Yesterday",
+      "posted_date": "Posted 2 Days Ago",
       "first_seen": "2026-10-12"
     },
     {
@@ -274,7 +286,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "project coordinator",
-      "posted_date": "Posted 18 Days Ago",
+      "posted_date": "Posted 19 Days Ago",
       "first_seen": "2026-09-25"
     },
     {
@@ -286,20 +298,8 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "administrative coordinator",
-      "posted_date": "Posted 21 Days Ago",
+      "posted_date": "Posted 22 Days Ago",
       "first_seen": "2026-09-23"
-    },
-    {
-      "id": "3a9947219b28",
-      "title": "Claims Specialist I",
-      "district": "AR Blue Cross",
-      "location": "6 Locations",
-      "url": "https://arkbluecross.wd1.myworkdayjobs.com/en-US/ABCBS_External_Careers/job/Arkansas-Remote/Claims-Specialist-I_R0013841",
-      "platform": "Workday",
-      "category": "healthcare",
-      "match_reason": "claims specialist",
-      "posted_date": "Posted Yesterday",
-      "first_seen": "2026-10-12"
     },
     {
       "id": "ff99554c279f",
@@ -310,8 +310,20 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "claims specialist",
-      "posted_date": "Posted 5 Days Ago",
+      "posted_date": "Posted Today",
       "first_seen": "2026-10-09"
+    },
+    {
+      "id": "3a9947219b28",
+      "title": "Claims Specialist I",
+      "district": "AR Blue Cross",
+      "location": "6 Locations",
+      "url": "https://arkbluecross.wd1.myworkdayjobs.com/en-US/ABCBS_External_Careers/job/Arkansas-Remote/Claims-Specialist-I_R0013841",
+      "platform": "Workday",
+      "category": "healthcare",
+      "match_reason": "claims specialist",
+      "posted_date": "Posted 2 Days Ago",
+      "first_seen": "2026-10-12"
     },
     {
       "id": "9bcc95b682e4",
@@ -322,7 +334,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "customer service",
-      "posted_date": "Posted 11 Days Ago",
+      "posted_date": "Posted 12 Days Ago",
       "first_seen": "2026-09-29"
     }
   ],
