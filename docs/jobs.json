@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-15T16:40",
+  "last_updated": "2026-10-16T16:24",
   "jobs": [
     {
       "id": "20af8761b82b",
@@ -22,8 +22,20 @@
       "platform": "Workday",
       "category": "freight",
       "match_reason": "customer experience",
-      "posted_date": "Posted Today",
+      "posted_date": "Posted Yesterday",
       "first_seen": "2026-10-15"
+    },
+    {
+      "id": "0f481615f1a3",
+      "title": "Teller- Bilingual - 18717",
+      "district": "Arvest Bank",
+      "location": "",
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18717%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "platform": "Infor",
+      "category": "banking",
+      "match_reason": "teller",
+      "posted_date": "",
+      "first_seen": "2026-10-16"
     },
     {
       "id": "2dd519d0d55a",
@@ -60,18 +72,6 @@
       "match_reason": "teller",
       "posted_date": "",
       "first_seen": "2026-10-15"
-    },
-    {
-      "id": "9095c75aa4d6",
-      "title": "Teller - 18671",
-      "district": "Arvest Bank",
-      "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18671%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
-      "platform": "Infor",
-      "category": "banking",
-      "match_reason": "teller",
-      "posted_date": "",
-      "first_seen": "2026-10-12"
     },
     {
       "id": "28da52523676",
@@ -202,7 +202,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "help desk",
-      "posted_date": "Posted Yesterday",
+      "posted_date": "Posted 2 Days Ago",
       "first_seen": "2026-10-14"
     },
     {
@@ -214,7 +214,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "support specialist",
-      "posted_date": "Posted 6 Days Ago",
+      "posted_date": "Posted 7 Days Ago",
       "first_seen": "2026-10-09"
     },
     {
@@ -274,7 +274,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "executive assistant",
-      "posted_date": "Posted 3 Days Ago",
+      "posted_date": "Posted 4 Days Ago",
       "first_seen": "2026-10-12"
     },
     {
@@ -286,20 +286,8 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "project coordinator",
-      "posted_date": "Posted 20 Days Ago",
+      "posted_date": "Posted 21 Days Ago",
       "first_seen": "2026-09-25"
-    },
-    {
-      "id": "ba31213e3cef",
-      "title": "Administrative Coordinator",
-      "district": "UAMS (NWA campuses)",
-      "location": "UAMS",
-      "url": "https://uasys.wd5.myworkdayjobs.com/en-US/UAMS_All_Careers/job/UAMS/Administrative-Coordinator_R0089846-1",
-      "platform": "Workday",
-      "category": "healthcare",
-      "match_reason": "administrative coordinator",
-      "posted_date": "Posted 23 Days Ago",
-      "first_seen": "2026-09-23"
     },
     {
       "id": "ff99554c279f",
@@ -310,20 +298,8 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "claims specialist",
-      "posted_date": "Posted Today",
+      "posted_date": "Posted Yesterday",
       "first_seen": "2026-10-09"
-    },
-    {
-      "id": "3a9947219b28",
-      "title": "Claims Specialist I",
-      "district": "AR Blue Cross",
-      "location": "6 Locations",
-      "url": "https://arkbluecross.wd1.myworkdayjobs.com/en-US/ABCBS_External_Careers/job/Arkansas-Remote/Claims-Specialist-I_R0013841",
-      "platform": "Workday",
-      "category": "healthcare",
-      "match_reason": "claims specialist",
-      "posted_date": "Posted 3 Days Ago",
-      "first_seen": "2026-10-12"
     },
     {
       "id": "9bcc95b682e4",
@@ -334,7 +310,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "customer service",
-      "posted_date": "Posted 13 Days Ago",
+      "posted_date": "Posted 14 Days Ago",
       "first_seen": "2026-09-29"
     }
   ],
