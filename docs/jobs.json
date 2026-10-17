@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-16T16:24",
+  "last_updated": "2026-10-17T15:19",
   "jobs": [
     {
       "id": "20af8761b82b",
@@ -12,18 +12,6 @@
       "match_reason": "customer service",
       "posted_date": "",
       "first_seen": "2026-09-29"
-    },
-    {
-      "id": "60cb423139e6",
-      "title": "Customer Experience Representative - ICS",
-      "district": "J.B. Hunt",
-      "location": "Lowell, AR - JB Hunt Corporate B & C",
-      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-B--C/Customer-Experience-Representative---ICS_00648598",
-      "platform": "Workday",
-      "category": "freight",
-      "match_reason": "customer experience",
-      "posted_date": "Posted Yesterday",
-      "first_seen": "2026-10-15"
     },
     {
       "id": "0f481615f1a3",
@@ -55,18 +43,6 @@
       "district": "Arvest Bank",
       "location": "",
       "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18675%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
-      "platform": "Infor",
-      "category": "banking",
-      "match_reason": "teller",
-      "posted_date": "",
-      "first_seen": "2026-10-15"
-    },
-    {
-      "id": "d8cba5b85c23",
-      "title": "Teller - 18672",
-      "district": "Arvest Bank",
-      "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18672%2C9%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
       "platform": "Infor",
       "category": "banking",
       "match_reason": "teller",
@@ -202,7 +178,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "help desk",
-      "posted_date": "Posted 2 Days Ago",
+      "posted_date": "Posted 3 Days Ago",
       "first_seen": "2026-10-14"
     },
     {
@@ -214,7 +190,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "support specialist",
-      "posted_date": "Posted 7 Days Ago",
+      "posted_date": "Posted 8 Days Ago",
       "first_seen": "2026-10-09"
     },
     {
@@ -274,20 +250,8 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "executive assistant",
-      "posted_date": "Posted 4 Days Ago",
+      "posted_date": "Posted 5 Days Ago",
       "first_seen": "2026-10-12"
-    },
-    {
-      "id": "dd2eb457d6d2",
-      "title": "Project Coordinator",
-      "district": "UAMS (NWA campuses)",
-      "location": "UAMS",
-      "url": "https://uasys.wd5.myworkdayjobs.com/en-US/UAMS_All_Careers/job/UAMS/Project-Coordinator_R0091111",
-      "platform": "Workday",
-      "category": "healthcare",
-      "match_reason": "project coordinator",
-      "posted_date": "Posted 21 Days Ago",
-      "first_seen": "2026-09-25"
     },
     {
       "id": "ff99554c279f",
@@ -298,7 +262,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "claims specialist",
-      "posted_date": "Posted Yesterday",
+      "posted_date": "Posted 2 Days Ago",
       "first_seen": "2026-10-09"
     },
     {
@@ -310,7 +274,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "customer service",
-      "posted_date": "Posted 14 Days Ago",
+      "posted_date": "Posted 15 Days Ago",
       "first_seen": "2026-09-29"
     }
   ],
