@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-18T15:40",
+  "last_updated": "2026-10-19T18:36",
   "jobs": [
     {
       "id": "20af8761b82b",
@@ -22,56 +22,20 @@
       "platform": "Workday",
       "category": "freight",
       "match_reason": "administrative assistant",
-      "posted_date": "Posted 2 Days Ago",
-      "first_seen": "2026-10-18"
-    },
-    {
-      "id": "60cb423139e6",
-      "title": "Customer Experience Representative - ICS",
-      "district": "J.B. Hunt",
-      "location": "Lowell, AR - JB Hunt Corporate B & C",
-      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-B--C/Customer-Experience-Representative---ICS_00648598",
-      "platform": "Workday",
-      "category": "freight",
-      "match_reason": "customer experience",
       "posted_date": "Posted 3 Days Ago",
       "first_seen": "2026-10-18"
     },
     {
-      "id": "0f481615f1a3",
-      "title": "Teller- Bilingual - 18717",
+      "id": "f146601910cc",
+      "title": "Teller - 18730",
       "district": "Arvest Bank",
       "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18717%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18730%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
       "platform": "Infor",
       "category": "banking",
       "match_reason": "teller",
       "posted_date": "",
-      "first_seen": "2026-10-16"
-    },
-    {
-      "id": "2dd519d0d55a",
-      "title": "Teller - 18686",
-      "district": "Arvest Bank",
-      "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18686%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
-      "platform": "Infor",
-      "category": "banking",
-      "match_reason": "teller",
-      "posted_date": "",
-      "first_seen": "2026-10-15"
-    },
-    {
-      "id": "ab04b15d80dc",
-      "title": "Teller - 18675",
-      "district": "Arvest Bank",
-      "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18675%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
-      "platform": "Infor",
-      "category": "banking",
-      "match_reason": "teller",
-      "posted_date": "",
-      "first_seen": "2026-10-15"
+      "first_seen": "2026-10-19"
     },
     {
       "id": "28da52523676",
@@ -202,7 +166,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "help desk",
-      "posted_date": "Posted 4 Days Ago",
+      "posted_date": "Posted 5 Days Ago",
       "first_seen": "2026-10-14"
     },
     {
@@ -214,7 +178,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "support specialist",
-      "posted_date": "Posted 9 Days Ago",
+      "posted_date": "Posted 10 Days Ago",
       "first_seen": "2026-10-09"
     },
     {
@@ -266,28 +230,28 @@
       "first_seen": "2026-10-13"
     },
     {
-      "id": "f90b79a7ef67",
-      "title": "Executive Assistant I",
+      "id": "4c3e9371586f",
+      "title": "Patient Representative-Ortho Clinic (Northwest, AR)",
       "district": "UAMS (NWA campuses)",
-      "location": "UAMS",
-      "url": "https://uasys.wd5.myworkdayjobs.com/en-US/UAMS_All_Careers/job/UAMS/Executive-Assistant-I_R0092577",
+      "location": "3 Locations",
+      "url": "https://uasys.wd5.myworkdayjobs.com/en-US/UAMS_All_Careers/job/UAMS---NWA/Patient-Representative-Ortho-Clinic--Northwest--AR-_R0091594-2",
       "platform": "Workday",
       "category": "healthcare",
-      "match_reason": "executive assistant",
-      "posted_date": "Posted 6 Days Ago",
-      "first_seen": "2026-10-12"
+      "match_reason": "patient representative",
+      "posted_date": "Posted Today",
+      "first_seen": "2026-10-19"
     },
     {
-      "id": "ff99554c279f",
-      "title": "Claims Specialist 1",
-      "district": "AR Blue Cross",
-      "location": "Arkansas Remote",
-      "url": "https://arkbluecross.wd1.myworkdayjobs.com/en-US/ABCBS_External_Careers/job/Arkansas-Remote/Claims-Specialist-1_R0013836",
+      "id": "1ab520b04ee2",
+      "title": "Patient Representative (Northwest, AR)",
+      "district": "UAMS (NWA campuses)",
+      "location": "3 Locations",
+      "url": "https://uasys.wd5.myworkdayjobs.com/en-US/UAMS_All_Careers/job/UAMS/Patient-Representative--Northwest--AR-_R0090824",
       "platform": "Workday",
       "category": "healthcare",
-      "match_reason": "claims specialist",
-      "posted_date": "Posted 3 Days Ago",
-      "first_seen": "2026-10-09"
+      "match_reason": "patient representative",
+      "posted_date": "Posted Today",
+      "first_seen": "2026-10-19"
     },
     {
       "id": "9bcc95b682e4",
@@ -298,7 +262,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "customer service",
-      "posted_date": "Posted 16 Days Ago",
+      "posted_date": "Posted 17 Days Ago",
       "first_seen": "2026-09-29"
     }
   ],
