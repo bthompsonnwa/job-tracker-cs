@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-19T18:36",
+  "last_updated": "2026-10-20T16:39",
   "jobs": [
     {
       "id": "20af8761b82b",
@@ -14,16 +14,16 @@
       "first_seen": "2026-09-29"
     },
     {
-      "id": "71e9e8ba23f0",
-      "title": "Senior Administrative Assistant",
-      "district": "J.B. Hunt",
-      "location": "Lowell, AR - JB Hunt Corporate A & Marketing",
-      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-A--Marketing/Senior-Administrative-Assistant_00648331-1",
-      "platform": "Workday",
-      "category": "freight",
-      "match_reason": "administrative assistant",
-      "posted_date": "Posted 3 Days Ago",
-      "first_seen": "2026-10-18"
+      "id": "79aa127019ff",
+      "title": "Teller - 18760",
+      "district": "Arvest Bank",
+      "location": "",
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18760%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "platform": "Infor",
+      "category": "banking",
+      "match_reason": "teller",
+      "posted_date": "",
+      "first_seen": "2026-10-20"
     },
     {
       "id": "f146601910cc",
@@ -158,18 +158,6 @@
       "first_seen": "2026-08-05"
     },
     {
-      "id": "a40facb2e1f3",
-      "title": "Help Desk Technician - Part Time",
-      "district": "UAF",
-      "location": "Fayetteville, AR",
-      "url": "https://uasys.wd5.myworkdayjobs.com/en-US/UAF_External_Career_Site/job/Fayetteville-AR/Help-Desk-Technician---Part-Time_R0092701-1",
-      "platform": "Workday",
-      "category": "community",
-      "match_reason": "help desk",
-      "posted_date": "Posted 5 Days Ago",
-      "first_seen": "2026-10-14"
-    },
-    {
       "id": "67e1c727559b",
       "title": "Administrative Support Specialist",
       "district": "UAF",
@@ -178,7 +166,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "support specialist",
-      "posted_date": "Posted 10 Days Ago",
+      "posted_date": "Posted 11 Days Ago",
       "first_seen": "2026-10-09"
     },
     {
@@ -218,18 +206,6 @@
       "first_seen": "2026-10-15"
     },
     {
-      "id": "4e311d1cfe24",
-      "title": "Patient Access Representative (Non-Exempt)",
-      "district": "Mercy (Springdale)",
-      "location": "Springdale, AR",
-      "url": "https://careers.mercy.net/jobs/JR254499?lang=en-us",
-      "platform": "Mercy",
-      "category": "healthcare",
-      "match_reason": "patient access",
-      "posted_date": "",
-      "first_seen": "2026-10-13"
-    },
-    {
       "id": "4c3e9371586f",
       "title": "Patient Representative-Ortho Clinic (Northwest, AR)",
       "district": "UAMS (NWA campuses)",
@@ -238,7 +214,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "patient representative",
-      "posted_date": "Posted Today",
+      "posted_date": "Posted Yesterday",
       "first_seen": "2026-10-19"
     },
     {
@@ -250,7 +226,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "patient representative",
-      "posted_date": "Posted Today",
+      "posted_date": "Posted Yesterday",
       "first_seen": "2026-10-19"
     },
     {
@@ -262,7 +238,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "customer service",
-      "posted_date": "Posted 17 Days Ago",
+      "posted_date": "Posted 18 Days Ago",
       "first_seen": "2026-09-29"
     }
   ],
