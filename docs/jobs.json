@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-21T16:57",
+  "last_updated": "2026-10-22T16:57",
   "jobs": [
     {
       "id": "0c65a1bca89e",
@@ -24,6 +24,18 @@
       "match_reason": "customer service",
       "posted_date": "",
       "first_seen": "2026-09-29"
+    },
+    {
+      "id": "74c7e9aad7e3",
+      "title": "Teller (Floater) - 18744",
+      "district": "Arvest Bank",
+      "location": "",
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18744%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "platform": "Infor",
+      "category": "banking",
+      "match_reason": "teller",
+      "posted_date": "",
+      "first_seen": "2026-10-22"
     },
     {
       "id": "79aa127019ff",
@@ -98,6 +110,30 @@
       "first_seen": "2026-07-10"
     },
     {
+      "id": "9f037e9e2045",
+      "title": "(1)Part-Time Recreation Worker I/II/III- Front Desk",
+      "district": "Bentonville (City)",
+      "location": "Bentonville, AR",
+      "url": "https://bentonvillear.bamboohr.com/careers/1298",
+      "platform": "CivicEngage",
+      "category": "community",
+      "match_reason": "front desk",
+      "posted_date": "",
+      "first_seen": "2026-10-22"
+    },
+    {
+      "id": "c30d552b29d5",
+      "title": "Administrative Assistant II - Water",
+      "district": "Bentonville (City)",
+      "location": "Bentonville, AR",
+      "url": "https://bentonvillear.bamboohr.com/careers/1302",
+      "platform": "CivicEngage",
+      "category": "community",
+      "match_reason": "administrative assistant",
+      "posted_date": "",
+      "first_seen": "2026-10-22"
+    },
+    {
       "id": "5e8afea48e52",
       "title": "ADMINISTRATIVE ASSISTANT - LIBRARY",
       "district": "City of Ponca City",
@@ -158,28 +194,16 @@
       "first_seen": "2026-08-05"
     },
     {
-      "id": "bbcf7e86307b",
-      "title": "Trades & Apprenticeship Program Coordinator",
-      "district": "NWACC",
-      "location": "Benton County Location, Arkansas",
-      "url": "https://nwacc.wd1.myworkdayjobs.com/en-US/NWACC_External_Career_Site/job/Benton-County-Location-Arkansas/Trades---Apprenticeship-Program-Coordinator_JR-1286",
-      "platform": "Workday",
-      "category": "community",
-      "match_reason": "program coordinator",
-      "posted_date": "Posted 30+ Days Ago",
-      "first_seen": "2026-09-03"
-    },
-    {
-      "id": "502f03c3cc87",
-      "title": "Executive Assistant - Mercy NWA",
+      "id": "0db26da92298",
+      "title": "Patient Access Representative - Mercy Clinic Oncology (Hwy 102)",
       "district": "Mercy (Springdale)",
       "location": "Springdale, AR",
-      "url": "https://careers.mercy.net/jobs/JR268535?lang=en-us",
+      "url": "https://careers.mercy.net/jobs/JR272268?lang=en-us",
       "platform": "Mercy",
       "category": "healthcare",
-      "match_reason": "executive assistant",
+      "match_reason": "patient access",
       "posted_date": "",
-      "first_seen": "2026-09-01"
+      "first_seen": "2026-10-22"
     },
     {
       "id": "4c3e9371586f",
@@ -190,7 +214,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "patient representative",
-      "posted_date": "Posted 2 Days Ago",
+      "posted_date": "Posted 3 Days Ago",
       "first_seen": "2026-10-19"
     },
     {
@@ -202,7 +226,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "patient representative",
-      "posted_date": "Posted 2 Days Ago",
+      "posted_date": "Posted 3 Days Ago",
       "first_seen": "2026-10-19"
     },
     {
@@ -214,7 +238,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "customer service",
-      "posted_date": "Posted 19 Days Ago",
+      "posted_date": "Posted 20 Days Ago",
       "first_seen": "2026-09-29"
     }
   ],
