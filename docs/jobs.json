@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-22T16:57",
+  "last_updated": "2026-10-23T16:49",
   "jobs": [
     {
       "id": "0c65a1bca89e",
@@ -26,6 +26,18 @@
       "first_seen": "2026-09-29"
     },
     {
+      "id": "1ab6cdbb19fc",
+      "title": "Customer Experience Representative II",
+      "district": "J.B. Hunt",
+      "location": "Lowell, AR - JB Hunt Corporate A & Marketing",
+      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-A--Marketing/Customer-Experience-Representative-II_00649624",
+      "platform": "Workday",
+      "category": "freight",
+      "match_reason": "customer experience",
+      "posted_date": "Posted Today",
+      "first_seen": "2026-10-23"
+    },
+    {
       "id": "74c7e9aad7e3",
       "title": "Teller (Floater) - 18744",
       "district": "Arvest Bank",
@@ -48,18 +60,6 @@
       "match_reason": "teller",
       "posted_date": "",
       "first_seen": "2026-10-20"
-    },
-    {
-      "id": "e929aab8e9dd",
-      "title": "Teller (Floater) - 18758",
-      "district": "Arvest Bank",
-      "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18758%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
-      "platform": "Infor",
-      "category": "banking",
-      "match_reason": "teller",
-      "posted_date": "",
-      "first_seen": "2026-10-21"
     },
     {
       "id": "28da52523676",
@@ -134,6 +134,18 @@
       "first_seen": "2026-10-22"
     },
     {
+      "id": "8b42e4fdb00b",
+      "title": "129-26 Dispatcher",
+      "district": "City of Stillwater",
+      "location": "Stillwater, OK",
+      "url": "https://stillwaterok.gov/Jobs.aspx?UniqueId=101&From=All&CommunityJobs=False&JobID=12926-Dispatcher-424",
+      "platform": "CivicEngage",
+      "category": "community",
+      "match_reason": "dispatch",
+      "posted_date": "",
+      "first_seen": "2026-10-23"
+    },
+    {
       "id": "5e8afea48e52",
       "title": "ADMINISTRATIVE ASSISTANT - LIBRARY",
       "district": "City of Ponca City",
@@ -194,18 +206,6 @@
       "first_seen": "2026-08-05"
     },
     {
-      "id": "0db26da92298",
-      "title": "Patient Access Representative - Mercy Clinic Oncology (Hwy 102)",
-      "district": "Mercy (Springdale)",
-      "location": "Springdale, AR",
-      "url": "https://careers.mercy.net/jobs/JR272268?lang=en-us",
-      "platform": "Mercy",
-      "category": "healthcare",
-      "match_reason": "patient access",
-      "posted_date": "",
-      "first_seen": "2026-10-22"
-    },
-    {
       "id": "4c3e9371586f",
       "title": "Patient Representative-Ortho Clinic (Northwest, AR)",
       "district": "UAMS (NWA campuses)",
@@ -214,7 +214,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "patient representative",
-      "posted_date": "Posted 3 Days Ago",
+      "posted_date": "Posted 4 Days Ago",
       "first_seen": "2026-10-19"
     },
     {
@@ -226,7 +226,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "patient representative",
-      "posted_date": "Posted 3 Days Ago",
+      "posted_date": "Posted 4 Days Ago",
       "first_seen": "2026-10-19"
     },
     {
@@ -238,7 +238,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "customer service",
-      "posted_date": "Posted 20 Days Ago",
+      "posted_date": "Posted 21 Days Ago",
       "first_seen": "2026-09-29"
     }
   ],
