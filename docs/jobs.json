@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-23T16:49",
+  "last_updated": "2026-10-24T15:42",
   "jobs": [
     {
       "id": "0c65a1bca89e",
@@ -34,8 +34,32 @@
       "platform": "Workday",
       "category": "freight",
       "match_reason": "customer experience",
-      "posted_date": "Posted Today",
+      "posted_date": "Posted Yesterday",
       "first_seen": "2026-10-23"
+    },
+    {
+      "id": "0a029d5a4ffd",
+      "title": "Video Banking Specialist - 18790",
+      "district": "Arvest Bank",
+      "location": "",
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18790%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "platform": "Infor",
+      "category": "banking",
+      "match_reason": "banking specialist",
+      "posted_date": "",
+      "first_seen": "2026-10-24"
+    },
+    {
+      "id": "fbb9b0284efe",
+      "title": "Teller - 18788",
+      "district": "Arvest Bank",
+      "location": "",
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18788%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "platform": "Infor",
+      "category": "banking",
+      "match_reason": "teller",
+      "posted_date": "",
+      "first_seen": "2026-10-24"
     },
     {
       "id": "74c7e9aad7e3",
@@ -48,18 +72,6 @@
       "match_reason": "teller",
       "posted_date": "",
       "first_seen": "2026-10-22"
-    },
-    {
-      "id": "79aa127019ff",
-      "title": "Teller - 18760",
-      "district": "Arvest Bank",
-      "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18760%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
-      "platform": "Infor",
-      "category": "banking",
-      "match_reason": "teller",
-      "posted_date": "",
-      "first_seen": "2026-10-20"
     },
     {
       "id": "28da52523676",
@@ -158,18 +170,6 @@
       "first_seen": "2026-10-21"
     },
     {
-      "id": "1f0e93b37908",
-      "title": "POLICE SUPPORT SPECIALIST (Shift: 11am-7pm) 2026 - 03167",
-      "district": "Fayetteville (City)",
-      "location": "Fayetteville, AR",
-      "url": "https://www.governmentjobs.com/careers/fayettevillear/jobs/5495311/police-support-specialist-shift-11am-7pm-2026-03167",
-      "platform": "GovernmentJobs",
-      "category": "community",
-      "match_reason": "support specialist",
-      "posted_date": "",
-      "first_seen": "2026-09-25"
-    },
-    {
       "id": "30d38e829233",
       "title": "POLICE SUPPORT SPECIALIST (Shift: 7PM-3AM) 2026-03176",
       "district": "Fayetteville (City)",
@@ -194,18 +194,6 @@
       "first_seen": "2026-10-02"
     },
     {
-      "id": "9250b2a96bcb",
-      "title": "Student Financial Services Representative",
-      "district": "JBU",
-      "location": "Siloam Springs, AR",
-      "url": "https://www.jbu.edu/human-resources/staff-job-listings/student-financial-services-representative?hsLang=en",
-      "platform": "JBU",
-      "category": "community",
-      "match_reason": "financial services",
-      "posted_date": "",
-      "first_seen": "2026-08-05"
-    },
-    {
       "id": "4c3e9371586f",
       "title": "Patient Representative-Ortho Clinic (Northwest, AR)",
       "district": "UAMS (NWA campuses)",
@@ -214,7 +202,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "patient representative",
-      "posted_date": "Posted 4 Days Ago",
+      "posted_date": "Posted 5 Days Ago",
       "first_seen": "2026-10-19"
     },
     {
@@ -226,7 +214,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "patient representative",
-      "posted_date": "Posted 4 Days Ago",
+      "posted_date": "Posted 5 Days Ago",
       "first_seen": "2026-10-19"
     },
     {
@@ -238,7 +226,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "customer service",
-      "posted_date": "Posted 21 Days Ago",
+      "posted_date": "Posted 22 Days Ago",
       "first_seen": "2026-09-29"
     }
   ],
