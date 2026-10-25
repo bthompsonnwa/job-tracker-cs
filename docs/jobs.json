@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-24T15:42",
+  "last_updated": "2026-10-25T15:53",
   "jobs": [
     {
       "id": "0c65a1bca89e",
@@ -34,7 +34,7 @@
       "platform": "Workday",
       "category": "freight",
       "match_reason": "customer experience",
-      "posted_date": "Posted Yesterday",
+      "posted_date": "Posted 2 Days Ago",
       "first_seen": "2026-10-23"
     },
     {
@@ -202,7 +202,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "patient representative",
-      "posted_date": "Posted 5 Days Ago",
+      "posted_date": "Posted 6 Days Ago",
       "first_seen": "2026-10-19"
     },
     {
@@ -214,7 +214,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "patient representative",
-      "posted_date": "Posted 5 Days Ago",
+      "posted_date": "Posted 6 Days Ago",
       "first_seen": "2026-10-19"
     },
     {
@@ -226,7 +226,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "customer service",
-      "posted_date": "Posted 22 Days Ago",
+      "posted_date": "Posted 23 Days Ago",
       "first_seen": "2026-09-29"
     }
   ],
