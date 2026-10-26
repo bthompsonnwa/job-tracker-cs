@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-25T15:53",
+  "last_updated": "2026-10-26T18:33",
   "jobs": [
     {
       "id": "0c65a1bca89e",
@@ -26,16 +26,28 @@
       "first_seen": "2026-09-29"
     },
     {
-      "id": "1ab6cdbb19fc",
-      "title": "Customer Experience Representative II",
-      "district": "J.B. Hunt",
-      "location": "Lowell, AR - JB Hunt Corporate A & Marketing",
-      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-A--Marketing/Customer-Experience-Representative-II_00649624",
-      "platform": "Workday",
-      "category": "freight",
-      "match_reason": "customer experience",
-      "posted_date": "Posted 2 Days Ago",
-      "first_seen": "2026-10-23"
+      "id": "1e79c4267e75",
+      "title": "Teller - 18789",
+      "district": "Arvest Bank",
+      "location": "",
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18789%2C9%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "platform": "Infor",
+      "category": "banking",
+      "match_reason": "teller",
+      "posted_date": "",
+      "first_seen": "2026-10-26"
+    },
+    {
+      "id": "47ee2a92dca3",
+      "title": "Client Relationship Coordinator - 18783",
+      "district": "Arvest Bank",
+      "location": "",
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18783%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "platform": "Infor",
+      "category": "banking",
+      "match_reason": "client relations",
+      "posted_date": "",
+      "first_seen": "2026-10-26"
     },
     {
       "id": "0a029d5a4ffd",
@@ -60,18 +72,6 @@
       "match_reason": "teller",
       "posted_date": "",
       "first_seen": "2026-10-24"
-    },
-    {
-      "id": "74c7e9aad7e3",
-      "title": "Teller (Floater) - 18744",
-      "district": "Arvest Bank",
-      "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18744%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
-      "platform": "Infor",
-      "category": "banking",
-      "match_reason": "teller",
-      "posted_date": "",
-      "first_seen": "2026-10-22"
     },
     {
       "id": "28da52523676",
@@ -202,7 +202,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "patient representative",
-      "posted_date": "Posted 6 Days Ago",
+      "posted_date": "Posted 7 Days Ago",
       "first_seen": "2026-10-19"
     },
     {
@@ -214,7 +214,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "patient representative",
-      "posted_date": "Posted 6 Days Ago",
+      "posted_date": "Posted 7 Days Ago",
       "first_seen": "2026-10-19"
     },
     {
@@ -226,7 +226,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "customer service",
-      "posted_date": "Posted 23 Days Ago",
+      "posted_date": "Posted 24 Days Ago",
       "first_seen": "2026-09-29"
     }
   ],
