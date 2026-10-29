@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-28T18:11",
+  "last_updated": "2026-10-29T18:18",
   "jobs": [
     {
       "id": "0c65a1bca89e",
@@ -26,6 +26,54 @@
       "first_seen": "2026-09-29"
     },
     {
+      "id": "6de188200dfd",
+      "title": "Customer Experience Representative",
+      "district": "J.B. Hunt",
+      "location": "Lowell, AR - JB Hunt Corporate B & C",
+      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-B--C/Customer-Experience-Representative_00638693",
+      "platform": "Workday",
+      "category": "freight",
+      "match_reason": "customer experience",
+      "posted_date": "Posted Today",
+      "first_seen": "2026-10-29"
+    },
+    {
+      "id": "2d2ef3ddea50",
+      "title": "Teller (Floater) - 18803",
+      "district": "Arvest Bank",
+      "location": "",
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18803%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "platform": "Infor",
+      "category": "banking",
+      "match_reason": "teller",
+      "posted_date": "",
+      "first_seen": "2026-10-29"
+    },
+    {
+      "id": "81b9286cab4c",
+      "title": "Teller (Floater) - 18801",
+      "district": "Arvest Bank",
+      "location": "",
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18801%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "platform": "Infor",
+      "category": "banking",
+      "match_reason": "teller",
+      "posted_date": "",
+      "first_seen": "2026-10-29"
+    },
+    {
+      "id": "ae3ee1bf1367",
+      "title": "Teller - 18796",
+      "district": "Arvest Bank",
+      "location": "",
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18796%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "platform": "Infor",
+      "category": "banking",
+      "match_reason": "teller",
+      "posted_date": "",
+      "first_seen": "2026-10-29"
+    },
+    {
       "id": "7541b4c85db6",
       "title": "Administrative Assistant 1 - 18800",
       "district": "Arvest Bank",
@@ -48,54 +96,6 @@
       "match_reason": "teller",
       "posted_date": "",
       "first_seen": "2026-10-27"
-    },
-    {
-      "id": "1e79c4267e75",
-      "title": "Teller - 18789",
-      "district": "Arvest Bank",
-      "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18789%2C9%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
-      "platform": "Infor",
-      "category": "banking",
-      "match_reason": "teller",
-      "posted_date": "",
-      "first_seen": "2026-10-26"
-    },
-    {
-      "id": "47ee2a92dca3",
-      "title": "Client Relationship Coordinator - 18783",
-      "district": "Arvest Bank",
-      "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18783%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
-      "platform": "Infor",
-      "category": "banking",
-      "match_reason": "client relations",
-      "posted_date": "",
-      "first_seen": "2026-10-26"
-    },
-    {
-      "id": "0a029d5a4ffd",
-      "title": "Video Banking Specialist - 18790",
-      "district": "Arvest Bank",
-      "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18790%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
-      "platform": "Infor",
-      "category": "banking",
-      "match_reason": "banking specialist",
-      "posted_date": "",
-      "first_seen": "2026-10-24"
-    },
-    {
-      "id": "fbb9b0284efe",
-      "title": "Teller - 18788",
-      "district": "Arvest Bank",
-      "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18788%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
-      "platform": "Infor",
-      "category": "banking",
-      "match_reason": "teller",
-      "posted_date": "",
-      "first_seen": "2026-10-24"
     },
     {
       "id": "28da52523676",
@@ -226,8 +226,20 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "administrative assistant",
-      "posted_date": "Posted Today",
+      "posted_date": "Posted Yesterday",
       "first_seen": "2026-10-28"
+    },
+    {
+      "id": "d51e301f8066",
+      "title": "Program Coordinator",
+      "district": "UAMS (NWA campuses)",
+      "location": "UAMS",
+      "url": "https://uasys.wd5.myworkdayjobs.com/en-US/UAMS_All_Careers/job/UAMS/Program-Coordinator_R0089194",
+      "platform": "Workday",
+      "category": "healthcare",
+      "match_reason": "program coordinator",
+      "posted_date": "Posted Yesterday",
+      "first_seen": "2026-10-29"
     },
     {
       "id": "15c84baca251",
@@ -238,7 +250,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "program coordinator",
-      "posted_date": "Posted Yesterday",
+      "posted_date": "Posted 2 Days Ago",
       "first_seen": "2026-10-28"
     },
     {
@@ -250,7 +262,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "patient representative",
-      "posted_date": "Posted 9 Days Ago",
+      "posted_date": "Posted 10 Days Ago",
       "first_seen": "2026-10-19"
     },
     {
@@ -262,7 +274,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "patient representative",
-      "posted_date": "Posted 9 Days Ago",
+      "posted_date": "Posted 10 Days Ago",
       "first_seen": "2026-10-19"
     },
     {
@@ -274,7 +286,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "claims specialist",
-      "posted_date": "Posted Today",
+      "posted_date": "Posted Yesterday",
       "first_seen": "2026-10-28"
     },
     {
@@ -286,7 +298,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "customer service",
-      "posted_date": "Posted Yesterday",
+      "posted_date": "Posted 2 Days Ago",
       "first_seen": "2026-10-28"
     },
     {
@@ -298,7 +310,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "customer service",
-      "posted_date": "Posted 26 Days Ago",
+      "posted_date": "Posted 27 Days Ago",
       "first_seen": "2026-09-29"
     }
   ],
