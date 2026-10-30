@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-29T18:18",
+  "last_updated": "2026-10-30T17:55",
   "jobs": [
     {
       "id": "0c65a1bca89e",
@@ -14,18 +14,6 @@
       "first_seen": "2026-10-21"
     },
     {
-      "id": "20af8761b82b",
-      "title": "Customer Service Coordinator I",
-      "district": "ArcBest",
-      "location": "Fort Smith, AR",
-      "url": "https://careers.arcb.com/careersmarketplace/JobDetail/Fort-Smith-Arkansas-United-States-Customer-Service-Coordinator-I/29672",
-      "platform": "CareersMarketplace",
-      "category": "freight",
-      "match_reason": "customer service",
-      "posted_date": "",
-      "first_seen": "2026-09-29"
-    },
-    {
       "id": "6de188200dfd",
       "title": "Customer Experience Representative",
       "district": "J.B. Hunt",
@@ -34,8 +22,32 @@
       "platform": "Workday",
       "category": "freight",
       "match_reason": "customer experience",
-      "posted_date": "Posted Today",
+      "posted_date": "Posted Yesterday",
       "first_seen": "2026-10-29"
+    },
+    {
+      "id": "21a580f6e384",
+      "title": "Teller (Part-Time) - 18824",
+      "district": "Arvest Bank",
+      "location": "",
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18824%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "platform": "Infor",
+      "category": "banking",
+      "match_reason": "teller",
+      "posted_date": "",
+      "first_seen": "2026-10-30"
+    },
+    {
+      "id": "abd68348a2aa",
+      "title": "Teller - 18814",
+      "district": "Arvest Bank",
+      "location": "",
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18814%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "platform": "Infor",
+      "category": "banking",
+      "match_reason": "teller",
+      "posted_date": "",
+      "first_seen": "2026-10-30"
     },
     {
       "id": "2d2ef3ddea50",
@@ -72,30 +84,6 @@
       "match_reason": "teller",
       "posted_date": "",
       "first_seen": "2026-10-29"
-    },
-    {
-      "id": "7541b4c85db6",
-      "title": "Administrative Assistant 1 - 18800",
-      "district": "Arvest Bank",
-      "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18800%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
-      "platform": "Infor",
-      "category": "banking",
-      "match_reason": "administrative assistant",
-      "posted_date": "",
-      "first_seen": "2026-10-28"
-    },
-    {
-      "id": "d7b481d6ec02",
-      "title": "Teller-Bilingual - 18798",
-      "district": "Arvest Bank",
-      "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18798%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
-      "platform": "Infor",
-      "category": "banking",
-      "match_reason": "teller",
-      "posted_date": "",
-      "first_seen": "2026-10-27"
     },
     {
       "id": "28da52523676",
@@ -218,6 +206,18 @@
       "first_seen": "2026-10-02"
     },
     {
+      "id": "b87fb20c58c9",
+      "title": "Program Coordinator",
+      "district": "UAF",
+      "location": "University of Arkansas, Fayetteville",
+      "url": "https://uasys.wd5.myworkdayjobs.com/en-US/UAF_External_Career_Site/job/University-of-Arkansas-Fayetteville/Program-Coordinator_R0093273",
+      "platform": "Workday",
+      "category": "community",
+      "match_reason": "program coordinator",
+      "posted_date": "Posted Today",
+      "first_seen": "2026-10-30"
+    },
+    {
       "id": "9b43126a678b",
       "title": "Administrative Assistant \u2013 Facilities Operations",
       "district": "UAF",
@@ -226,7 +226,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "administrative assistant",
-      "posted_date": "Posted Yesterday",
+      "posted_date": "Posted 2 Days Ago",
       "first_seen": "2026-10-28"
     },
     {
@@ -238,7 +238,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "program coordinator",
-      "posted_date": "Posted Yesterday",
+      "posted_date": "Posted 2 Days Ago",
       "first_seen": "2026-10-29"
     },
     {
@@ -250,7 +250,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "program coordinator",
-      "posted_date": "Posted 2 Days Ago",
+      "posted_date": "Posted 3 Days Ago",
       "first_seen": "2026-10-28"
     },
     {
@@ -262,7 +262,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "patient representative",
-      "posted_date": "Posted 10 Days Ago",
+      "posted_date": "Posted 11 Days Ago",
       "first_seen": "2026-10-19"
     },
     {
@@ -274,8 +274,20 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "patient representative",
-      "posted_date": "Posted 10 Days Ago",
+      "posted_date": "Posted 11 Days Ago",
       "first_seen": "2026-10-19"
+    },
+    {
+      "id": "f3d216f5dd41",
+      "title": "Marketing Service Representative Senior",
+      "district": "AR Blue Cross",
+      "location": "Northwest Arkansas Corporate Building",
+      "url": "https://arkbluecross.wd1.myworkdayjobs.com/en-US/ABCBS_External_Careers/job/Northwest-Arkansas-Corporate-Building/Marketing-Service-Representative-Senior_R0013850",
+      "platform": "Workday",
+      "category": "healthcare",
+      "match_reason": "service representative",
+      "posted_date": "Posted Today",
+      "first_seen": "2026-10-30"
     },
     {
       "id": "06a7ef0dc449",
@@ -286,7 +298,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "claims specialist",
-      "posted_date": "Posted Yesterday",
+      "posted_date": "Posted 2 Days Ago",
       "first_seen": "2026-10-28"
     },
     {
@@ -298,20 +310,8 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "customer service",
-      "posted_date": "Posted 2 Days Ago",
+      "posted_date": "Posted 3 Days Ago",
       "first_seen": "2026-10-28"
-    },
-    {
-      "id": "9bcc95b682e4",
-      "title": "Support Specialist Customer Service I",
-      "district": "AR Blue Cross",
-      "location": "2 Locations",
-      "url": "https://arkbluecross.wd1.myworkdayjobs.com/en-US/ABCBS_External_Careers/job/Fayetteville-AR/Support-Specialist-Customer-Service-I_R0013808",
-      "platform": "Workday",
-      "category": "healthcare",
-      "match_reason": "customer service",
-      "posted_date": "Posted 27 Days Ago",
-      "first_seen": "2026-09-29"
     }
   ],
   "sources": [
