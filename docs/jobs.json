@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-30T17:55",
+  "last_updated": "2026-10-31T17:06",
   "jobs": [
     {
       "id": "0c65a1bca89e",
@@ -22,7 +22,7 @@
       "platform": "Workday",
       "category": "freight",
       "match_reason": "customer experience",
-      "posted_date": "Posted Yesterday",
+      "posted_date": "Posted 2 Days Ago",
       "first_seen": "2026-10-29"
     },
     {
@@ -206,6 +206,18 @@
       "first_seen": "2026-10-02"
     },
     {
+      "id": "4c01067acbe4",
+      "title": "Technology Support Specialist/AV",
+      "district": "Springdale (City)",
+      "location": "Springdale, AR",
+      "url": "https://www.governmentjobs.com/careers/springdalear/jobs/5492972/technology-support-specialist-av",
+      "platform": "GovernmentJobs",
+      "category": "community",
+      "match_reason": "support specialist",
+      "posted_date": "",
+      "first_seen": "2026-10-31"
+    },
+    {
       "id": "b87fb20c58c9",
       "title": "Program Coordinator",
       "district": "UAF",
@@ -214,7 +226,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "program coordinator",
-      "posted_date": "Posted Today",
+      "posted_date": "Posted Yesterday",
       "first_seen": "2026-10-30"
     },
     {
@@ -226,7 +238,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "administrative assistant",
-      "posted_date": "Posted 2 Days Ago",
+      "posted_date": "Posted 3 Days Ago",
       "first_seen": "2026-10-28"
     },
     {
@@ -238,7 +250,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "program coordinator",
-      "posted_date": "Posted 2 Days Ago",
+      "posted_date": "Posted 3 Days Ago",
       "first_seen": "2026-10-29"
     },
     {
@@ -250,7 +262,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "program coordinator",
-      "posted_date": "Posted 3 Days Ago",
+      "posted_date": "Posted 4 Days Ago",
       "first_seen": "2026-10-28"
     },
     {
@@ -262,7 +274,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "patient representative",
-      "posted_date": "Posted 11 Days Ago",
+      "posted_date": "Posted 12 Days Ago",
       "first_seen": "2026-10-19"
     },
     {
@@ -274,7 +286,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "patient representative",
-      "posted_date": "Posted 11 Days Ago",
+      "posted_date": "Posted 12 Days Ago",
       "first_seen": "2026-10-19"
     },
     {
@@ -286,7 +298,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "service representative",
-      "posted_date": "Posted Today",
+      "posted_date": "Posted Yesterday",
       "first_seen": "2026-10-30"
     },
     {
@@ -298,7 +310,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "claims specialist",
-      "posted_date": "Posted 2 Days Ago",
+      "posted_date": "Posted 3 Days Ago",
       "first_seen": "2026-10-28"
     },
     {
@@ -310,7 +322,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "customer service",
-      "posted_date": "Posted 3 Days Ago",
+      "posted_date": "Posted 4 Days Ago",
       "first_seen": "2026-10-28"
     }
   ],
