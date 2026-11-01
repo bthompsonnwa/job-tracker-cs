@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-31T17:06",
+  "last_updated": "2026-11-01T17:51",
   "jobs": [
     {
       "id": "0c65a1bca89e",
@@ -22,7 +22,7 @@
       "platform": "Workday",
       "category": "freight",
       "match_reason": "customer experience",
-      "posted_date": "Posted 2 Days Ago",
+      "posted_date": "Posted 3 Days Ago",
       "first_seen": "2026-10-29"
     },
     {
@@ -62,18 +62,6 @@
       "first_seen": "2026-10-29"
     },
     {
-      "id": "81b9286cab4c",
-      "title": "Teller (Floater) - 18801",
-      "district": "Arvest Bank",
-      "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18801%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
-      "platform": "Infor",
-      "category": "banking",
-      "match_reason": "teller",
-      "posted_date": "",
-      "first_seen": "2026-10-29"
-    },
-    {
       "id": "ae3ee1bf1367",
       "title": "Teller - 18796",
       "district": "Arvest Bank",
@@ -84,6 +72,18 @@
       "match_reason": "teller",
       "posted_date": "",
       "first_seen": "2026-10-29"
+    },
+    {
+      "id": "7541b4c85db6",
+      "title": "Administrative Assistant 1 - 18800",
+      "district": "Arvest Bank",
+      "location": "",
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18800%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "platform": "Infor",
+      "category": "banking",
+      "match_reason": "administrative assistant",
+      "posted_date": "",
+      "first_seen": "2026-11-01"
     },
     {
       "id": "28da52523676",
@@ -226,7 +226,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "program coordinator",
-      "posted_date": "Posted Yesterday",
+      "posted_date": "Posted 2 Days Ago",
       "first_seen": "2026-10-30"
     },
     {
@@ -238,7 +238,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "administrative assistant",
-      "posted_date": "Posted 3 Days Ago",
+      "posted_date": "Posted 4 Days Ago",
       "first_seen": "2026-10-28"
     },
     {
@@ -250,7 +250,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "program coordinator",
-      "posted_date": "Posted 3 Days Ago",
+      "posted_date": "Posted 4 Days Ago",
       "first_seen": "2026-10-29"
     },
     {
@@ -262,7 +262,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "program coordinator",
-      "posted_date": "Posted 4 Days Ago",
+      "posted_date": "Posted 5 Days Ago",
       "first_seen": "2026-10-28"
     },
     {
@@ -274,7 +274,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "patient representative",
-      "posted_date": "Posted 12 Days Ago",
+      "posted_date": "Posted 13 Days Ago",
       "first_seen": "2026-10-19"
     },
     {
@@ -286,7 +286,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "patient representative",
-      "posted_date": "Posted 12 Days Ago",
+      "posted_date": "Posted 13 Days Ago",
       "first_seen": "2026-10-19"
     },
     {
@@ -298,7 +298,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "service representative",
-      "posted_date": "Posted Yesterday",
+      "posted_date": "Posted 2 Days Ago",
       "first_seen": "2026-10-30"
     },
     {
@@ -310,7 +310,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "claims specialist",
-      "posted_date": "Posted 3 Days Ago",
+      "posted_date": "Posted 4 Days Ago",
       "first_seen": "2026-10-28"
     },
     {
@@ -322,7 +322,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "customer service",
-      "posted_date": "Posted 4 Days Ago",
+      "posted_date": "Posted 5 Days Ago",
       "first_seen": "2026-10-28"
     }
   ],
