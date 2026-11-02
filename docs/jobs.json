@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-01T17:51",
+  "last_updated": "2026-11-02T21:36",
   "jobs": [
     {
       "id": "0c65a1bca89e",
@@ -14,16 +14,40 @@
       "first_seen": "2026-10-21"
     },
     {
-      "id": "6de188200dfd",
-      "title": "Customer Experience Representative",
+      "id": "ab461b7e18f1",
+      "title": "Sr Casualty Claims Specialist",
       "district": "J.B. Hunt",
-      "location": "Lowell, AR - JB Hunt Corporate B & C",
-      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-B--C/Customer-Experience-Representative_00638693",
+      "location": "Lowell, AR - JB Hunt Corporate E",
+      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-E/Sr-Casualty-Claims-Intake-Representative_00629619",
       "platform": "Workday",
       "category": "freight",
-      "match_reason": "customer experience",
-      "posted_date": "Posted 3 Days Ago",
-      "first_seen": "2026-10-29"
+      "match_reason": "claims specialist",
+      "posted_date": "Posted Today",
+      "first_seen": "2026-11-02"
+    },
+    {
+      "id": "1fbf353f1262",
+      "title": "Teller (Floater) - 18871",
+      "district": "Arvest Bank",
+      "location": "",
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18871%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "platform": "Infor",
+      "category": "banking",
+      "match_reason": "teller",
+      "posted_date": "",
+      "first_seen": "2026-11-02"
+    },
+    {
+      "id": "d0b27823c160",
+      "title": "Teller - 18862",
+      "district": "Arvest Bank",
+      "location": "",
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18862%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "platform": "Infor",
+      "category": "banking",
+      "match_reason": "teller",
+      "posted_date": "",
+      "first_seen": "2026-11-02"
     },
     {
       "id": "21a580f6e384",
@@ -60,30 +84,6 @@
       "match_reason": "teller",
       "posted_date": "",
       "first_seen": "2026-10-29"
-    },
-    {
-      "id": "ae3ee1bf1367",
-      "title": "Teller - 18796",
-      "district": "Arvest Bank",
-      "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18796%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
-      "platform": "Infor",
-      "category": "banking",
-      "match_reason": "teller",
-      "posted_date": "",
-      "first_seen": "2026-10-29"
-    },
-    {
-      "id": "7541b4c85db6",
-      "title": "Administrative Assistant 1 - 18800",
-      "district": "Arvest Bank",
-      "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18800%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
-      "platform": "Infor",
-      "category": "banking",
-      "match_reason": "administrative assistant",
-      "posted_date": "",
-      "first_seen": "2026-11-01"
     },
     {
       "id": "28da52523676",
@@ -218,6 +218,18 @@
       "first_seen": "2026-10-31"
     },
     {
+      "id": "fe6574b3d034",
+      "title": "Graduate and International Registrar",
+      "district": "UAF",
+      "location": "Fayetteville, AR",
+      "url": "https://uasys.wd5.myworkdayjobs.com/en-US/UAF_External_Career_Site/job/Fayetteville-AR/Graduate-and-International-Registrar_R0092908",
+      "platform": "Workday",
+      "category": "community",
+      "match_reason": "registrar",
+      "posted_date": "Posted Today",
+      "first_seen": "2026-11-02"
+    },
+    {
       "id": "b87fb20c58c9",
       "title": "Program Coordinator",
       "district": "UAF",
@@ -226,7 +238,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "program coordinator",
-      "posted_date": "Posted 2 Days Ago",
+      "posted_date": "Posted 3 Days Ago",
       "first_seen": "2026-10-30"
     },
     {
@@ -238,7 +250,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "administrative assistant",
-      "posted_date": "Posted 4 Days Ago",
+      "posted_date": "Posted 5 Days Ago",
       "first_seen": "2026-10-28"
     },
     {
@@ -250,7 +262,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "program coordinator",
-      "posted_date": "Posted 4 Days Ago",
+      "posted_date": "Posted 5 Days Ago",
       "first_seen": "2026-10-29"
     },
     {
@@ -262,7 +274,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "program coordinator",
-      "posted_date": "Posted 5 Days Ago",
+      "posted_date": "Posted 6 Days Ago",
       "first_seen": "2026-10-28"
     },
     {
@@ -274,7 +286,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "patient representative",
-      "posted_date": "Posted 13 Days Ago",
+      "posted_date": "Posted 14 Days Ago",
       "first_seen": "2026-10-19"
     },
     {
@@ -286,7 +298,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "patient representative",
-      "posted_date": "Posted 13 Days Ago",
+      "posted_date": "Posted 14 Days Ago",
       "first_seen": "2026-10-19"
     },
     {
@@ -298,32 +310,8 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "service representative",
-      "posted_date": "Posted 2 Days Ago",
+      "posted_date": "Posted 3 Days Ago",
       "first_seen": "2026-10-30"
-    },
-    {
-      "id": "06a7ef0dc449",
-      "title": "Claims Specialist I",
-      "district": "AR Blue Cross",
-      "location": "6 Locations",
-      "url": "https://arkbluecross.wd1.myworkdayjobs.com/en-US/ABCBS_External_Careers/job/Arkansas-Remote/Claims-Specialist-I_R0013846",
-      "platform": "Workday",
-      "category": "healthcare",
-      "match_reason": "claims specialist",
-      "posted_date": "Posted 4 Days Ago",
-      "first_seen": "2026-10-28"
-    },
-    {
-      "id": "536cb6d3e341",
-      "title": "Customer Service Representative I",
-      "district": "AR Blue Cross",
-      "location": "6 Locations",
-      "url": "https://arkbluecross.wd1.myworkdayjobs.com/en-US/ABCBS_External_Careers/job/Arkansas-Remote/Customer-Service-Representative-I_R0013845",
-      "platform": "Workday",
-      "category": "healthcare",
-      "match_reason": "customer service",
-      "posted_date": "Posted 5 Days Ago",
-      "first_seen": "2026-10-28"
     }
   ],
   "sources": [
