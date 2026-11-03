@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-02T21:36",
+  "last_updated": "2026-11-03T19:20",
   "jobs": [
     {
       "id": "0c65a1bca89e",
@@ -22,8 +22,20 @@
       "platform": "Workday",
       "category": "freight",
       "match_reason": "claims specialist",
-      "posted_date": "Posted Today",
+      "posted_date": "Posted Yesterday",
       "first_seen": "2026-11-02"
+    },
+    {
+      "id": "c3ac8fe4cdc8",
+      "title": "Teller (Floater) - 18867",
+      "district": "Arvest Bank",
+      "location": "",
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18867%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "platform": "Infor",
+      "category": "banking",
+      "match_reason": "teller",
+      "posted_date": "",
+      "first_seen": "2026-11-03"
     },
     {
       "id": "1fbf353f1262",
@@ -60,30 +72,6 @@
       "match_reason": "teller",
       "posted_date": "",
       "first_seen": "2026-10-30"
-    },
-    {
-      "id": "abd68348a2aa",
-      "title": "Teller - 18814",
-      "district": "Arvest Bank",
-      "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18814%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
-      "platform": "Infor",
-      "category": "banking",
-      "match_reason": "teller",
-      "posted_date": "",
-      "first_seen": "2026-10-30"
-    },
-    {
-      "id": "2d2ef3ddea50",
-      "title": "Teller (Floater) - 18803",
-      "district": "Arvest Bank",
-      "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18803%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
-      "platform": "Infor",
-      "category": "banking",
-      "match_reason": "teller",
-      "posted_date": "",
-      "first_seen": "2026-10-29"
     },
     {
       "id": "28da52523676",
@@ -218,6 +206,18 @@
       "first_seen": "2026-10-31"
     },
     {
+      "id": "d534a685a827",
+      "title": "Project/Program Coordinator - Master of Science in Operations Management",
+      "district": "UAF",
+      "location": "Fayetteville, AR",
+      "url": "https://uasys.wd5.myworkdayjobs.com/en-US/UAF_External_Career_Site/job/Fayetteville-AR/Project-Program-Coordinator---Master-of-Science-in-Operations-Management_R0093188",
+      "platform": "Workday",
+      "category": "community",
+      "match_reason": "program coordinator",
+      "posted_date": "Posted Today",
+      "first_seen": "2026-11-03"
+    },
+    {
       "id": "fe6574b3d034",
       "title": "Graduate and International Registrar",
       "district": "UAF",
@@ -226,7 +226,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "registrar",
-      "posted_date": "Posted Today",
+      "posted_date": "Posted Yesterday",
       "first_seen": "2026-11-02"
     },
     {
@@ -238,7 +238,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "program coordinator",
-      "posted_date": "Posted 3 Days Ago",
+      "posted_date": "Posted 4 Days Ago",
       "first_seen": "2026-10-30"
     },
     {
@@ -250,8 +250,20 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "administrative assistant",
-      "posted_date": "Posted 5 Days Ago",
+      "posted_date": "Posted 6 Days Ago",
       "first_seen": "2026-10-28"
+    },
+    {
+      "id": "9d4754cc8627",
+      "title": "Patient Access Representative (Non-Exempt)",
+      "district": "Mercy (Springdale)",
+      "location": "Springdale, AR",
+      "url": "https://careers.mercy.net/jobs/JR275646?lang=en-us",
+      "platform": "Mercy",
+      "category": "healthcare",
+      "match_reason": "patient access",
+      "posted_date": "",
+      "first_seen": "2026-11-03"
     },
     {
       "id": "d51e301f8066",
@@ -262,7 +274,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "program coordinator",
-      "posted_date": "Posted 5 Days Ago",
+      "posted_date": "Posted 6 Days Ago",
       "first_seen": "2026-10-29"
     },
     {
@@ -274,7 +286,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "program coordinator",
-      "posted_date": "Posted 6 Days Ago",
+      "posted_date": "Posted 7 Days Ago",
       "first_seen": "2026-10-28"
     },
     {
@@ -286,7 +298,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "patient representative",
-      "posted_date": "Posted 14 Days Ago",
+      "posted_date": "Posted 15 Days Ago",
       "first_seen": "2026-10-19"
     },
     {
@@ -298,7 +310,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "patient representative",
-      "posted_date": "Posted 14 Days Ago",
+      "posted_date": "Posted 15 Days Ago",
       "first_seen": "2026-10-19"
     },
     {
@@ -310,7 +322,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "service representative",
-      "posted_date": "Posted 3 Days Ago",
+      "posted_date": "Posted 4 Days Ago",
       "first_seen": "2026-10-30"
     }
   ],
