@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-03T19:20",
+  "last_updated": "2026-11-04T19:36",
   "jobs": [
     {
       "id": "0c65a1bca89e",
@@ -14,16 +14,28 @@
       "first_seen": "2026-10-21"
     },
     {
-      "id": "ab461b7e18f1",
-      "title": "Sr Casualty Claims Specialist",
-      "district": "J.B. Hunt",
-      "location": "Lowell, AR - JB Hunt Corporate E",
-      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-E/Sr-Casualty-Claims-Intake-Representative_00629619",
-      "platform": "Workday",
-      "category": "freight",
-      "match_reason": "claims specialist",
-      "posted_date": "Posted Yesterday",
-      "first_seen": "2026-11-02"
+      "id": "c3862db6b4fc",
+      "title": "Teller - 18869",
+      "district": "Arvest Bank",
+      "location": "",
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18869%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "platform": "Infor",
+      "category": "banking",
+      "match_reason": "teller",
+      "posted_date": "",
+      "first_seen": "2026-11-04"
+    },
+    {
+      "id": "c04e347c0cb3",
+      "title": "Teller - 18868",
+      "district": "Arvest Bank",
+      "location": "",
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18868%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "platform": "Infor",
+      "category": "banking",
+      "match_reason": "teller",
+      "posted_date": "",
+      "first_seen": "2026-11-04"
     },
     {
       "id": "c3ac8fe4cdc8",
@@ -62,18 +74,6 @@
       "first_seen": "2026-11-02"
     },
     {
-      "id": "21a580f6e384",
-      "title": "Teller (Part-Time) - 18824",
-      "district": "Arvest Bank",
-      "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18824%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
-      "platform": "Infor",
-      "category": "banking",
-      "match_reason": "teller",
-      "posted_date": "",
-      "first_seen": "2026-10-30"
-    },
-    {
       "id": "28da52523676",
       "title": "Teller",
       "district": "First National Bank",
@@ -110,28 +110,16 @@
       "first_seen": "2026-10-28"
     },
     {
-      "id": "fb68204b16cb",
-      "title": "Mortgage Loan Processor II",
-      "district": "Centennial Bank",
-      "location": "",
-      "url": "https://recruiting.ultipro.com/CEN1011CENBA/JobBoard/51298f34-52ec-478d-bafa-d62ea4ea8c52/OpportunityDetail?opportunityId=0a3b8e56-1e7a-4dc6-be9e-ff1a25daa969",
-      "platform": "UltiPro",
+      "id": "f702c27eb24c",
+      "title": "Mortgage Loan Officer - Arkansas - Multiple Locations",
+      "district": "Regions Bank",
+      "location": "Rogers, Arkansas",
+      "url": "https://careers.regions.com/us/en/job/R105655/Mortgage-Loan-Officer-Arkansas-Multiple-Locations",
+      "platform": "Regions",
       "category": "banking",
-      "match_reason": "loan processor",
+      "match_reason": "loan officer",
       "posted_date": "",
-      "first_seen": "2026-08-25"
-    },
-    {
-      "id": "9a3e1777d9d1",
-      "title": "Senior Credit Analyst/Underwriter",
-      "district": "Centennial Bank",
-      "location": "",
-      "url": "https://recruiting.ultipro.com/CEN1011CENBA/JobBoard/51298f34-52ec-478d-bafa-d62ea4ea8c52/OpportunityDetail?opportunityId=6b20b652-7263-4b39-a38c-4ef5bc3a726a",
-      "platform": "UltiPro",
-      "category": "banking",
-      "match_reason": "credit analyst",
-      "posted_date": "",
-      "first_seen": "2026-07-10"
+      "first_seen": "2026-11-04"
     },
     {
       "id": "9f037e9e2045",
@@ -214,7 +202,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "program coordinator",
-      "posted_date": "Posted Today",
+      "posted_date": "Posted Yesterday",
       "first_seen": "2026-11-03"
     },
     {
@@ -226,7 +214,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "registrar",
-      "posted_date": "Posted Yesterday",
+      "posted_date": "Posted 2 Days Ago",
       "first_seen": "2026-11-02"
     },
     {
@@ -238,7 +226,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "program coordinator",
-      "posted_date": "Posted 4 Days Ago",
+      "posted_date": "Posted 5 Days Ago",
       "first_seen": "2026-10-30"
     },
     {
@@ -250,7 +238,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "administrative assistant",
-      "posted_date": "Posted 6 Days Ago",
+      "posted_date": "Posted 7 Days Ago",
       "first_seen": "2026-10-28"
     },
     {
@@ -274,7 +262,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "program coordinator",
-      "posted_date": "Posted 6 Days Ago",
+      "posted_date": "Posted 7 Days Ago",
       "first_seen": "2026-10-29"
     },
     {
@@ -286,7 +274,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "program coordinator",
-      "posted_date": "Posted 7 Days Ago",
+      "posted_date": "Posted 8 Days Ago",
       "first_seen": "2026-10-28"
     },
     {
@@ -298,7 +286,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "patient representative",
-      "posted_date": "Posted 15 Days Ago",
+      "posted_date": "Posted 16 Days Ago",
       "first_seen": "2026-10-19"
     },
     {
@@ -310,8 +298,20 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "patient representative",
-      "posted_date": "Posted 15 Days Ago",
+      "posted_date": "Posted 16 Days Ago",
       "first_seen": "2026-10-19"
+    },
+    {
+      "id": "e807e4a100cb",
+      "title": "Medical Management & Outreach Support Specialist",
+      "district": "AR Blue Cross",
+      "location": "6 Locations",
+      "url": "https://arkbluecross.wd1.myworkdayjobs.com/en-US/ABCBS_External_Careers/job/Arkansas-Remote/Medical-Management---Outreach-Support-Specialist_R0013854",
+      "platform": "Workday",
+      "category": "healthcare",
+      "match_reason": "support specialist",
+      "posted_date": "Posted Today",
+      "first_seen": "2026-11-04"
     },
     {
       "id": "f3d216f5dd41",
@@ -322,7 +322,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "service representative",
-      "posted_date": "Posted 4 Days Ago",
+      "posted_date": "Posted 5 Days Ago",
       "first_seen": "2026-10-30"
     }
   ],
