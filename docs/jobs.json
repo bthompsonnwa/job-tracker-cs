@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-04T19:36",
+  "last_updated": "2026-11-05T19:46",
   "jobs": [
     {
       "id": "0c65a1bca89e",
@@ -12,6 +12,42 @@
       "match_reason": "compliance coordinator",
       "posted_date": "",
       "first_seen": "2026-10-21"
+    },
+    {
+      "id": "6de188200dfd",
+      "title": "Customer Experience Representative",
+      "district": "J.B. Hunt",
+      "location": "Lowell, AR - JB Hunt Corporate B & C",
+      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-B--C/Customer-Experience-Representative_00638693",
+      "platform": "Workday",
+      "category": "freight",
+      "match_reason": "customer experience",
+      "posted_date": "Posted Today",
+      "first_seen": "2026-11-05"
+    },
+    {
+      "id": "29826ab0a0ac",
+      "title": "Customer Experience Support",
+      "district": "J.B. Hunt",
+      "location": "Lowell, AR - JB Hunt Corporate A & Marketing",
+      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-A--Marketing/Customer-Experience-Support_00643163",
+      "platform": "Workday",
+      "category": "freight",
+      "match_reason": "customer experience",
+      "posted_date": "Posted Today",
+      "first_seen": "2026-11-05"
+    },
+    {
+      "id": "3f7e33bdafc6",
+      "title": "Operations Support - JBT",
+      "district": "J.B. Hunt",
+      "location": "Lowell, AR - JB Hunt Corporate A & Marketing",
+      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-A--Marketing/Operations-Support---JBT_00651335",
+      "platform": "Workday",
+      "category": "freight",
+      "match_reason": "operations support",
+      "posted_date": "Posted Yesterday",
+      "first_seen": "2026-11-05"
     },
     {
       "id": "c3862db6b4fc",
@@ -122,8 +158,8 @@
       "first_seen": "2026-11-04"
     },
     {
-      "id": "9f037e9e2045",
-      "title": "(1)Part-Time Recreation Worker I/II/III- Front Desk",
+      "id": "cc82b0d4007b",
+      "title": "(2)Part-Time Recreation Worker I/II/III- Front Desk",
       "district": "Bentonville (City)",
       "location": "Bentonville, AR",
       "url": "https://bentonvillear.bamboohr.com/careers/1298",
@@ -131,7 +167,7 @@
       "category": "community",
       "match_reason": "front desk",
       "posted_date": "",
-      "first_seen": "2026-10-22"
+      "first_seen": "2026-11-05"
     },
     {
       "id": "c30d552b29d5",
@@ -202,7 +238,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "program coordinator",
-      "posted_date": "Posted Yesterday",
+      "posted_date": "Posted 2 Days Ago",
       "first_seen": "2026-11-03"
     },
     {
@@ -214,32 +250,8 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "registrar",
-      "posted_date": "Posted 2 Days Ago",
+      "posted_date": "Posted 3 Days Ago",
       "first_seen": "2026-11-02"
-    },
-    {
-      "id": "b87fb20c58c9",
-      "title": "Program Coordinator",
-      "district": "UAF",
-      "location": "University of Arkansas, Fayetteville",
-      "url": "https://uasys.wd5.myworkdayjobs.com/en-US/UAF_External_Career_Site/job/University-of-Arkansas-Fayetteville/Program-Coordinator_R0093273",
-      "platform": "Workday",
-      "category": "community",
-      "match_reason": "program coordinator",
-      "posted_date": "Posted 5 Days Ago",
-      "first_seen": "2026-10-30"
-    },
-    {
-      "id": "9b43126a678b",
-      "title": "Administrative Assistant \u2013 Facilities Operations",
-      "district": "UAF",
-      "location": "Fayetteville, AR",
-      "url": "https://uasys.wd5.myworkdayjobs.com/en-US/UAF_External_Career_Site/job/Fayetteville-AR/Administrative-Assistant---Facilities-Operations_R0093085",
-      "platform": "Workday",
-      "category": "community",
-      "match_reason": "administrative assistant",
-      "posted_date": "Posted 7 Days Ago",
-      "first_seen": "2026-10-28"
     },
     {
       "id": "9d4754cc8627",
@@ -262,7 +274,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "program coordinator",
-      "posted_date": "Posted 7 Days Ago",
+      "posted_date": "Posted 8 Days Ago",
       "first_seen": "2026-10-29"
     },
     {
@@ -274,32 +286,8 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "program coordinator",
-      "posted_date": "Posted 8 Days Ago",
+      "posted_date": "Posted 9 Days Ago",
       "first_seen": "2026-10-28"
-    },
-    {
-      "id": "4c3e9371586f",
-      "title": "Patient Representative-Ortho Clinic (Northwest, AR)",
-      "district": "UAMS (NWA campuses)",
-      "location": "3 Locations",
-      "url": "https://uasys.wd5.myworkdayjobs.com/en-US/UAMS_All_Careers/job/UAMS---NWA/Patient-Representative-Ortho-Clinic--Northwest--AR-_R0091594-2",
-      "platform": "Workday",
-      "category": "healthcare",
-      "match_reason": "patient representative",
-      "posted_date": "Posted 16 Days Ago",
-      "first_seen": "2026-10-19"
-    },
-    {
-      "id": "1ab520b04ee2",
-      "title": "Patient Representative (Northwest, AR)",
-      "district": "UAMS (NWA campuses)",
-      "location": "3 Locations",
-      "url": "https://uasys.wd5.myworkdayjobs.com/en-US/UAMS_All_Careers/job/UAMS/Patient-Representative--Northwest--AR-_R0090824",
-      "platform": "Workday",
-      "category": "healthcare",
-      "match_reason": "patient representative",
-      "posted_date": "Posted 16 Days Ago",
-      "first_seen": "2026-10-19"
     },
     {
       "id": "e807e4a100cb",
@@ -310,7 +298,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "support specialist",
-      "posted_date": "Posted Today",
+      "posted_date": "Posted Yesterday",
       "first_seen": "2026-11-04"
     },
     {
@@ -322,7 +310,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "service representative",
-      "posted_date": "Posted 5 Days Ago",
+      "posted_date": "Posted 6 Days Ago",
       "first_seen": "2026-10-30"
     }
   ],
