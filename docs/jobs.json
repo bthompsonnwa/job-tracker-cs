@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-05T19:46",
+  "last_updated": "2026-11-06T19:09",
   "jobs": [
     {
       "id": "0c65a1bca89e",
@@ -14,6 +14,42 @@
       "first_seen": "2026-10-21"
     },
     {
+      "id": "3a5537eadc4f",
+      "title": "Casualty Claims Specialist I",
+      "district": "J.B. Hunt",
+      "location": "",
+      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Casualty-Claims-Specialist-I_00650581",
+      "platform": "Workday",
+      "category": "freight",
+      "match_reason": "claims specialist",
+      "posted_date": "Posted Today",
+      "first_seen": "2026-11-06"
+    },
+    {
+      "id": "5a85f771407e",
+      "title": "Customer Experience Appointment Representative",
+      "district": "J.B. Hunt",
+      "location": "Lowell, AR - JB Hunt Corporate B & C",
+      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-B--C/Customer-Experience-Appointment-Representative_00651596",
+      "platform": "Workday",
+      "category": "freight",
+      "match_reason": "customer experience",
+      "posted_date": "Posted Today",
+      "first_seen": "2026-11-06"
+    },
+    {
+      "id": "cb210bbd59dd",
+      "title": "Part-Time Dispatcher, Nights",
+      "district": "J.B. Hunt",
+      "location": "Lowell, AR - JB Hunt Corporate A & Marketing",
+      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-A--Marketing/Part-Time-Dispatcher--Nights_00651074",
+      "platform": "Workday",
+      "category": "freight",
+      "match_reason": "dispatch",
+      "posted_date": "Posted Yesterday",
+      "first_seen": "2026-11-06"
+    },
+    {
       "id": "6de188200dfd",
       "title": "Customer Experience Representative",
       "district": "J.B. Hunt",
@@ -22,7 +58,7 @@
       "platform": "Workday",
       "category": "freight",
       "match_reason": "customer experience",
-      "posted_date": "Posted Today",
+      "posted_date": "Posted Yesterday",
       "first_seen": "2026-11-05"
     },
     {
@@ -34,7 +70,7 @@
       "platform": "Workday",
       "category": "freight",
       "match_reason": "customer experience",
-      "posted_date": "Posted Today",
+      "posted_date": "Posted Yesterday",
       "first_seen": "2026-11-05"
     },
     {
@@ -46,7 +82,7 @@
       "platform": "Workday",
       "category": "freight",
       "match_reason": "operations support",
-      "posted_date": "Posted Yesterday",
+      "posted_date": "Posted 2 Days Ago",
       "first_seen": "2026-11-05"
     },
     {
@@ -91,18 +127,6 @@
       "district": "Arvest Bank",
       "location": "",
       "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18871%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
-      "platform": "Infor",
-      "category": "banking",
-      "match_reason": "teller",
-      "posted_date": "",
-      "first_seen": "2026-11-02"
-    },
-    {
-      "id": "d0b27823c160",
-      "title": "Teller - 18862",
-      "district": "Arvest Bank",
-      "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18862%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
       "platform": "Infor",
       "category": "banking",
       "match_reason": "teller",
@@ -170,18 +194,6 @@
       "first_seen": "2026-11-05"
     },
     {
-      "id": "c30d552b29d5",
-      "title": "Administrative Assistant II - Water",
-      "district": "Bentonville (City)",
-      "location": "Bentonville, AR",
-      "url": "https://bentonvillear.bamboohr.com/careers/1302",
-      "platform": "CivicEngage",
-      "category": "community",
-      "match_reason": "administrative assistant",
-      "posted_date": "",
-      "first_seen": "2026-10-22"
-    },
-    {
       "id": "8b42e4fdb00b",
       "title": "129-26 Dispatcher",
       "district": "City of Stillwater",
@@ -218,18 +230,6 @@
       "first_seen": "2026-10-02"
     },
     {
-      "id": "4c01067acbe4",
-      "title": "Technology Support Specialist/AV",
-      "district": "Springdale (City)",
-      "location": "Springdale, AR",
-      "url": "https://www.governmentjobs.com/careers/springdalear/jobs/5492972/technology-support-specialist-av",
-      "platform": "GovernmentJobs",
-      "category": "community",
-      "match_reason": "support specialist",
-      "posted_date": "",
-      "first_seen": "2026-10-31"
-    },
-    {
       "id": "d534a685a827",
       "title": "Project/Program Coordinator - Master of Science in Operations Management",
       "district": "UAF",
@@ -238,7 +238,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "program coordinator",
-      "posted_date": "Posted 2 Days Ago",
+      "posted_date": "Posted 3 Days Ago",
       "first_seen": "2026-11-03"
     },
     {
@@ -250,20 +250,20 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "registrar",
-      "posted_date": "Posted 3 Days Ago",
+      "posted_date": "Posted 4 Days Ago",
       "first_seen": "2026-11-02"
     },
     {
-      "id": "9d4754cc8627",
-      "title": "Patient Access Representative (Non-Exempt)",
-      "district": "Mercy (Springdale)",
-      "location": "Springdale, AR",
-      "url": "https://careers.mercy.net/jobs/JR275646?lang=en-us",
-      "platform": "Mercy",
+      "id": "fecbe5c37a2a",
+      "title": "Administrative Coordinator (Northwest, AR)",
+      "district": "UAMS (NWA campuses)",
+      "location": "2 Locations",
+      "url": "https://uasys.wd5.myworkdayjobs.com/en-US/UAMS_All_Careers/job/UAMS---NWA/Administrative-Coordinator--Northwest--AR-_R0093422",
+      "platform": "Workday",
       "category": "healthcare",
-      "match_reason": "patient access",
-      "posted_date": "",
-      "first_seen": "2026-11-03"
+      "match_reason": "administrative coordinator",
+      "posted_date": "Posted Today",
+      "first_seen": "2026-11-06"
     },
     {
       "id": "d51e301f8066",
@@ -274,7 +274,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "program coordinator",
-      "posted_date": "Posted 8 Days Ago",
+      "posted_date": "Posted 9 Days Ago",
       "first_seen": "2026-10-29"
     },
     {
@@ -286,7 +286,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "program coordinator",
-      "posted_date": "Posted 9 Days Ago",
+      "posted_date": "Posted 10 Days Ago",
       "first_seen": "2026-10-28"
     },
     {
@@ -298,7 +298,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "support specialist",
-      "posted_date": "Posted Yesterday",
+      "posted_date": "Posted 2 Days Ago",
       "first_seen": "2026-11-04"
     },
     {
@@ -310,7 +310,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "service representative",
-      "posted_date": "Posted 6 Days Ago",
+      "posted_date": "Posted 7 Days Ago",
       "first_seen": "2026-10-30"
     }
   ],
