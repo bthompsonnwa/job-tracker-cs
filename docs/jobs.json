@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-06T19:09",
+  "last_updated": "2026-11-07T17:41",
   "jobs": [
     {
       "id": "0c65a1bca89e",
@@ -22,7 +22,7 @@
       "platform": "Workday",
       "category": "freight",
       "match_reason": "claims specialist",
-      "posted_date": "Posted Today",
+      "posted_date": "Posted Yesterday",
       "first_seen": "2026-11-06"
     },
     {
@@ -34,7 +34,7 @@
       "platform": "Workday",
       "category": "freight",
       "match_reason": "customer experience",
-      "posted_date": "Posted Today",
+      "posted_date": "Posted Yesterday",
       "first_seen": "2026-11-06"
     },
     {
@@ -46,7 +46,7 @@
       "platform": "Workday",
       "category": "freight",
       "match_reason": "dispatch",
-      "posted_date": "Posted Yesterday",
+      "posted_date": "Posted 2 Days Ago",
       "first_seen": "2026-11-06"
     },
     {
@@ -58,7 +58,7 @@
       "platform": "Workday",
       "category": "freight",
       "match_reason": "customer experience",
-      "posted_date": "Posted Yesterday",
+      "posted_date": "Posted 2 Days Ago",
       "first_seen": "2026-11-05"
     },
     {
@@ -70,18 +70,6 @@
       "platform": "Workday",
       "category": "freight",
       "match_reason": "customer experience",
-      "posted_date": "Posted Yesterday",
-      "first_seen": "2026-11-05"
-    },
-    {
-      "id": "3f7e33bdafc6",
-      "title": "Operations Support - JBT",
-      "district": "J.B. Hunt",
-      "location": "Lowell, AR - JB Hunt Corporate A & Marketing",
-      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-A--Marketing/Operations-Support---JBT_00651335",
-      "platform": "Workday",
-      "category": "freight",
-      "match_reason": "operations support",
       "posted_date": "Posted 2 Days Ago",
       "first_seen": "2026-11-05"
     },
@@ -91,18 +79,6 @@
       "district": "Arvest Bank",
       "location": "",
       "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18869%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
-      "platform": "Infor",
-      "category": "banking",
-      "match_reason": "teller",
-      "posted_date": "",
-      "first_seen": "2026-11-04"
-    },
-    {
-      "id": "c04e347c0cb3",
-      "title": "Teller - 18868",
-      "district": "Arvest Bank",
-      "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18868%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
       "platform": "Infor",
       "category": "banking",
       "match_reason": "teller",
@@ -132,6 +108,18 @@
       "match_reason": "teller",
       "posted_date": "",
       "first_seen": "2026-11-02"
+    },
+    {
+      "id": "d0b27823c160",
+      "title": "Teller - 18862",
+      "district": "Arvest Bank",
+      "location": "",
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18862%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "platform": "Infor",
+      "category": "banking",
+      "match_reason": "teller",
+      "posted_date": "",
+      "first_seen": "2026-11-07"
     },
     {
       "id": "28da52523676",
@@ -238,20 +226,8 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "program coordinator",
-      "posted_date": "Posted 3 Days Ago",
-      "first_seen": "2026-11-03"
-    },
-    {
-      "id": "fe6574b3d034",
-      "title": "Graduate and International Registrar",
-      "district": "UAF",
-      "location": "Fayetteville, AR",
-      "url": "https://uasys.wd5.myworkdayjobs.com/en-US/UAF_External_Career_Site/job/Fayetteville-AR/Graduate-and-International-Registrar_R0092908",
-      "platform": "Workday",
-      "category": "community",
-      "match_reason": "registrar",
       "posted_date": "Posted 4 Days Ago",
-      "first_seen": "2026-11-02"
+      "first_seen": "2026-11-03"
     },
     {
       "id": "fecbe5c37a2a",
@@ -262,7 +238,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "administrative coordinator",
-      "posted_date": "Posted Today",
+      "posted_date": "Posted Yesterday",
       "first_seen": "2026-11-06"
     },
     {
@@ -274,7 +250,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "program coordinator",
-      "posted_date": "Posted 9 Days Ago",
+      "posted_date": "Posted 10 Days Ago",
       "first_seen": "2026-10-29"
     },
     {
@@ -286,7 +262,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "program coordinator",
-      "posted_date": "Posted 10 Days Ago",
+      "posted_date": "Posted 11 Days Ago",
       "first_seen": "2026-10-28"
     },
     {
@@ -298,7 +274,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "support specialist",
-      "posted_date": "Posted 2 Days Ago",
+      "posted_date": "Posted 3 Days Ago",
       "first_seen": "2026-11-04"
     },
     {
@@ -310,7 +286,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "service representative",
-      "posted_date": "Posted 7 Days Ago",
+      "posted_date": "Posted 8 Days Ago",
       "first_seen": "2026-10-30"
     }
   ],
