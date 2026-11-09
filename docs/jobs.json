@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-08T17:51",
+  "last_updated": "2026-11-09T22:10",
   "jobs": [
     {
       "id": "0c65a1bca89e",
@@ -12,66 +12,6 @@
       "match_reason": "compliance coordinator",
       "posted_date": "",
       "first_seen": "2026-10-21"
-    },
-    {
-      "id": "3a5537eadc4f",
-      "title": "Casualty Claims Specialist I",
-      "district": "J.B. Hunt",
-      "location": "",
-      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Casualty-Claims-Specialist-I_00650581",
-      "platform": "Workday",
-      "category": "freight",
-      "match_reason": "claims specialist",
-      "posted_date": "Posted 2 Days Ago",
-      "first_seen": "2026-11-06"
-    },
-    {
-      "id": "5a85f771407e",
-      "title": "Customer Experience Appointment Representative",
-      "district": "J.B. Hunt",
-      "location": "Lowell, AR - JB Hunt Corporate B & C",
-      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-B--C/Customer-Experience-Appointment-Representative_00651596",
-      "platform": "Workday",
-      "category": "freight",
-      "match_reason": "customer experience",
-      "posted_date": "Posted 2 Days Ago",
-      "first_seen": "2026-11-06"
-    },
-    {
-      "id": "cb210bbd59dd",
-      "title": "Part-Time Dispatcher, Nights",
-      "district": "J.B. Hunt",
-      "location": "Lowell, AR - JB Hunt Corporate A & Marketing",
-      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-A--Marketing/Part-Time-Dispatcher--Nights_00651074",
-      "platform": "Workday",
-      "category": "freight",
-      "match_reason": "dispatch",
-      "posted_date": "Posted 3 Days Ago",
-      "first_seen": "2026-11-06"
-    },
-    {
-      "id": "6de188200dfd",
-      "title": "Customer Experience Representative",
-      "district": "J.B. Hunt",
-      "location": "Lowell, AR - JB Hunt Corporate B & C",
-      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-B--C/Customer-Experience-Representative_00638693",
-      "platform": "Workday",
-      "category": "freight",
-      "match_reason": "customer experience",
-      "posted_date": "Posted 3 Days Ago",
-      "first_seen": "2026-11-05"
-    },
-    {
-      "id": "29826ab0a0ac",
-      "title": "Customer Experience Support",
-      "district": "J.B. Hunt",
-      "location": "Lowell, AR - JB Hunt Corporate A & Marketing",
-      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-A--Marketing/Customer-Experience-Support_00643163",
-      "platform": "Workday",
-      "category": "freight",
-      "match_reason": "customer experience",
-      "posted_date": "Posted 3 Days Ago",
-      "first_seen": "2026-11-05"
     },
     {
       "id": "c3862db6b4fc",
@@ -226,7 +166,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "program coordinator",
-      "posted_date": "Posted 5 Days Ago",
+      "posted_date": "Posted 6 Days Ago",
       "first_seen": "2026-11-03"
     },
     {
@@ -238,7 +178,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "administrative coordinator",
-      "posted_date": "Posted 2 Days Ago",
+      "posted_date": "Posted 3 Days Ago",
       "first_seen": "2026-11-06"
     },
     {
@@ -250,7 +190,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "program coordinator",
-      "posted_date": "Posted 11 Days Ago",
+      "posted_date": "Posted 12 Days Ago",
       "first_seen": "2026-10-29"
     },
     {
@@ -262,7 +202,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "program coordinator",
-      "posted_date": "Posted 12 Days Ago",
+      "posted_date": "Posted 13 Days Ago",
       "first_seen": "2026-10-28"
     },
     {
@@ -274,7 +214,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "support specialist",
-      "posted_date": "Posted 4 Days Ago",
+      "posted_date": "Posted 5 Days Ago",
       "first_seen": "2026-11-04"
     },
     {
@@ -286,7 +226,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "service representative",
-      "posted_date": "Posted 9 Days Ago",
+      "posted_date": "Posted 10 Days Ago",
       "first_seen": "2026-10-30"
     }
   ],
