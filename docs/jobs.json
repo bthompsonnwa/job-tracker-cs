@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-09T22:10",
+  "last_updated": "2026-11-10T19:34",
   "jobs": [
     {
       "id": "0c65a1bca89e",
@@ -12,6 +12,18 @@
       "match_reason": "compliance coordinator",
       "posted_date": "",
       "first_seen": "2026-10-21"
+    },
+    {
+      "id": "44ae43c74164",
+      "title": "Teller (Part-Time) - 18897",
+      "district": "Arvest Bank",
+      "location": "",
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18897%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "platform": "Infor",
+      "category": "banking",
+      "match_reason": "teller",
+      "posted_date": "",
+      "first_seen": "2026-11-10"
     },
     {
       "id": "c3862db6b4fc",
@@ -38,28 +50,16 @@
       "first_seen": "2026-11-03"
     },
     {
-      "id": "1fbf353f1262",
-      "title": "Teller (Floater) - 18871",
+      "id": "fbb9b0284efe",
+      "title": "Teller - 18788",
       "district": "Arvest Bank",
       "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18871%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
+      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18788%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
       "platform": "Infor",
       "category": "banking",
       "match_reason": "teller",
       "posted_date": "",
-      "first_seen": "2026-11-02"
-    },
-    {
-      "id": "d0b27823c160",
-      "title": "Teller - 18862",
-      "district": "Arvest Bank",
-      "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18862%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
-      "platform": "Infor",
-      "category": "banking",
-      "match_reason": "teller",
-      "posted_date": "",
-      "first_seen": "2026-11-07"
+      "first_seen": "2026-11-10"
     },
     {
       "id": "28da52523676",
@@ -158,6 +158,18 @@
       "first_seen": "2026-10-02"
     },
     {
+      "id": "e897741f2308",
+      "title": "Office Support Specialist",
+      "district": "UAF",
+      "location": "Fayetteville, AR",
+      "url": "https://uasys.wd5.myworkdayjobs.com/en-US/UAF_External_Career_Site/job/Fayetteville-AR/Office-Support-Specialist_R0093598",
+      "platform": "Workday",
+      "category": "community",
+      "match_reason": "office support",
+      "posted_date": "Posted Yesterday",
+      "first_seen": "2026-11-10"
+    },
+    {
       "id": "d534a685a827",
       "title": "Project/Program Coordinator - Master of Science in Operations Management",
       "district": "UAF",
@@ -166,7 +178,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "program coordinator",
-      "posted_date": "Posted 6 Days Ago",
+      "posted_date": "Posted 7 Days Ago",
       "first_seen": "2026-11-03"
     },
     {
@@ -178,7 +190,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "administrative coordinator",
-      "posted_date": "Posted 3 Days Ago",
+      "posted_date": "Posted 4 Days Ago",
       "first_seen": "2026-11-06"
     },
     {
@@ -190,7 +202,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "program coordinator",
-      "posted_date": "Posted 12 Days Ago",
+      "posted_date": "Posted 13 Days Ago",
       "first_seen": "2026-10-29"
     },
     {
@@ -202,7 +214,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "program coordinator",
-      "posted_date": "Posted 13 Days Ago",
+      "posted_date": "Posted 14 Days Ago",
       "first_seen": "2026-10-28"
     },
     {
@@ -214,7 +226,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "support specialist",
-      "posted_date": "Posted 5 Days Ago",
+      "posted_date": "Posted 6 Days Ago",
       "first_seen": "2026-11-04"
     },
     {
@@ -226,7 +238,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "service representative",
-      "posted_date": "Posted 10 Days Ago",
+      "posted_date": "Posted 11 Days Ago",
       "first_seen": "2026-10-30"
     }
   ],
