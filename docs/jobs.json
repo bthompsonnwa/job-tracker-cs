@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-13T19:27",
+  "last_updated": "2026-11-14T17:56",
   "jobs": [
     {
       "id": "00b2eed4c0f0",
@@ -10,7 +10,7 @@
       "platform": "Workday",
       "category": "freight",
       "match_reason": "call center",
-      "posted_date": "Posted Today",
+      "posted_date": "Posted Yesterday",
       "first_seen": "2026-11-13"
     },
     {
@@ -22,7 +22,7 @@
       "platform": "Workday",
       "category": "freight",
       "match_reason": "customer experience",
-      "posted_date": "Posted Yesterday",
+      "posted_date": "Posted 2 Days Ago",
       "first_seen": "2026-11-13"
     },
     {
@@ -34,7 +34,7 @@
       "platform": "Workday",
       "category": "freight",
       "match_reason": "billing representative",
-      "posted_date": "Posted Yesterday",
+      "posted_date": "Posted 2 Days Ago",
       "first_seen": "2026-11-12"
     },
     {
@@ -182,42 +182,6 @@
       "first_seen": "2026-10-21"
     },
     {
-      "id": "54080e010b43",
-      "title": "Dispatcher I (Shift: 2pm-10pm) 2026 - 03197",
-      "district": "Fayetteville (City)",
-      "location": "Fayetteville, AR",
-      "url": "https://www.governmentjobs.com/careers/fayettevillear/jobs/5549129/dispatcher-i-shift-2pm-10pm-2026-03197",
-      "platform": "GovernmentJobs",
-      "category": "community",
-      "match_reason": "dispatch",
-      "posted_date": "",
-      "first_seen": "2026-11-13"
-    },
-    {
-      "id": "426c4f63bfd1",
-      "title": "Dispatcher",
-      "district": "Springdale (City)",
-      "location": "Springdale, AR",
-      "url": "https://www.governmentjobs.com/careers/springdalear/jobs/5546776/dispatcher",
-      "platform": "GovernmentJobs",
-      "category": "community",
-      "match_reason": "dispatch",
-      "posted_date": "",
-      "first_seen": "2026-11-11"
-    },
-    {
-      "id": "e352c089f58b",
-      "title": "Front Desk - Part Time",
-      "district": "Springdale (City)",
-      "location": "Springdale, AR",
-      "url": "https://www.governmentjobs.com/careers/springdalear/jobs/5503203/front-desk-part-time",
-      "platform": "GovernmentJobs",
-      "category": "community",
-      "match_reason": "front desk",
-      "posted_date": "",
-      "first_seen": "2026-10-02"
-    },
-    {
       "id": "df8bc7ec3962",
       "title": "Office Manager and Assistant to the Chair - Fulbright College Department of Psychological Science",
       "district": "UAF",
@@ -226,7 +190,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "office manager",
-      "posted_date": "Posted Today",
+      "posted_date": "Posted Yesterday",
       "first_seen": "2026-11-13"
     },
     {
@@ -238,7 +202,7 @@
       "platform": "Workday",
       "category": "community",
       "match_reason": "office support",
-      "posted_date": "Posted 4 Days Ago",
+      "posted_date": "Posted 5 Days Ago",
       "first_seen": "2026-11-10"
     },
     {
@@ -274,7 +238,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "patient representative",
-      "posted_date": "Posted Today",
+      "posted_date": "Posted Yesterday",
       "first_seen": "2026-11-13"
     },
     {
@@ -286,7 +250,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "administrative coordinator",
-      "posted_date": "Posted 7 Days Ago",
+      "posted_date": "Posted 8 Days Ago",
       "first_seen": "2026-11-06"
     },
     {
@@ -298,7 +262,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "program coordinator",
-      "posted_date": "Posted 17 Days Ago",
+      "posted_date": "Posted 18 Days Ago",
       "first_seen": "2026-10-28"
     },
     {
@@ -310,7 +274,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "service representative",
-      "posted_date": "Posted 3 Days Ago",
+      "posted_date": "Posted 4 Days Ago",
       "first_seen": "2026-11-11"
     },
     {
@@ -322,7 +286,7 @@
       "platform": "Workday",
       "category": "healthcare",
       "match_reason": "support specialist",
-      "posted_date": "Posted 9 Days Ago",
+      "posted_date": "Posted 10 Days Ago",
       "first_seen": "2026-11-04"
     }
   ],
