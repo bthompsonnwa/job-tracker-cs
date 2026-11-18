@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-11-17T20:47",
+  "last_updated": "2026-11-18T20:16",
   "jobs": [
+    {
+      "id": "144c2916c325",
+      "title": "Nights Customer Experience Support",
+      "district": "J.B. Hunt",
+      "location": "Lowell, AR - JB Hunt Corporate A & Marketing",
+      "url": "https://jbhunt.wd501.myworkdayjobs.com/en-US/Careers/job/Lowell-AR---JB-Hunt-Corporate-A--Marketing/Customer-Experience-Support_00641364",
+      "platform": "Workday",
+      "category": "freight",
+      "match_reason": "customer experience",
+      "posted_date": "Posted 2 Days Ago",
+      "first_seen": "2026-11-18"
+    },
     {
       "id": "27866faf9dda",
       "title": "Teller (Bilingual) - 18915",
@@ -31,18 +43,6 @@
       "district": "Arvest Bank",
       "location": "",
       "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18903%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
-      "platform": "Infor",
-      "category": "banking",
-      "match_reason": "teller",
-      "posted_date": "",
-      "first_seen": "2026-11-13"
-    },
-    {
-      "id": "076501f0fc5c",
-      "title": "Teller - 18899",
-      "district": "Arvest Bank",
-      "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18899%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
       "platform": "Infor",
       "category": "banking",
       "match_reason": "teller",
@@ -132,6 +132,42 @@
       "match_reason": "administrative assistant",
       "posted_date": "",
       "first_seen": "2026-10-21"
+    },
+    {
+      "id": "54080e010b43",
+      "title": "Dispatcher I (Shift: 2pm-10pm) 2026 - 03197",
+      "district": "Fayetteville (City)",
+      "location": "Fayetteville, AR",
+      "url": "https://www.governmentjobs.com/careers/fayettevillear/jobs/5549129/dispatcher-i-shift-2pm-10pm-2026-03197",
+      "platform": "GovernmentJobs",
+      "category": "community",
+      "match_reason": "dispatch",
+      "posted_date": "",
+      "first_seen": "2026-11-18"
+    },
+    {
+      "id": "426c4f63bfd1",
+      "title": "Dispatcher",
+      "district": "Springdale (City)",
+      "location": "Springdale, AR",
+      "url": "https://www.governmentjobs.com/careers/springdalear/jobs/5546776/dispatcher",
+      "platform": "GovernmentJobs",
+      "category": "community",
+      "match_reason": "dispatch",
+      "posted_date": "",
+      "first_seen": "2026-11-18"
+    },
+    {
+      "id": "e352c089f58b",
+      "title": "Front Desk - Part Time",
+      "district": "Springdale (City)",
+      "location": "Springdale, AR",
+      "url": "https://www.governmentjobs.com/careers/springdalear/jobs/5503203/front-desk-part-time",
+      "platform": "GovernmentJobs",
+      "category": "community",
+      "match_reason": "front desk",
+      "posted_date": "",
+      "first_seen": "2026-11-18"
     },
     {
       "id": "26bee2e8fdb1",
