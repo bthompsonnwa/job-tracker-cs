@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-19T20:18",
+  "last_updated": "2026-11-20T19:51",
   "jobs": [
     {
       "id": "d9af7f0bda7f",
@@ -10,7 +10,7 @@
       "platform": "Workday",
       "category": "freight",
       "match_reason": "customer experience",
-      "posted_date": "Posted Today",
+      "posted_date": "Posted Yesterday",
       "first_seen": "2026-11-19"
     },
     {
@@ -31,18 +31,6 @@
       "district": "Arvest Bank",
       "location": "",
       "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18915%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
-      "platform": "Infor",
-      "category": "banking",
-      "match_reason": "teller",
-      "posted_date": "",
-      "first_seen": "2026-11-17"
-    },
-    {
-      "id": "8951ee63f8b7",
-      "title": "Teller - 18914",
-      "district": "Arvest Bank",
-      "location": "",
-      "url": "https://CSS-ARVEST-PRD.INFORCLOUDSUITE.COM:443/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D%28ARV%2C18914%2C1%29.JobPostingDisplayNav?csk.HROrganization=ARV&csk.JobBoard=EXTERNAL&web10x=true",
       "platform": "Infor",
       "category": "banking",
       "match_reason": "teller",
@@ -110,6 +98,18 @@
       "first_seen": "2026-11-04"
     },
     {
+      "id": "9a3e1777d9d1",
+      "title": "Senior Credit Analyst/Underwriter",
+      "district": "Centennial Bank",
+      "location": "",
+      "url": "https://recruiting.ultipro.com/CEN1011CENBA/JobBoard/51298f34-52ec-478d-bafa-d62ea4ea8c52/OpportunityDetail?opportunityId=6b20b652-7263-4b39-a38c-4ef5bc3a726a",
+      "platform": "UltiPro",
+      "category": "banking",
+      "match_reason": "credit analyst",
+      "posted_date": "",
+      "first_seen": "2026-11-20"
+    },
+    {
       "id": "cc82b0d4007b",
       "title": "(2)Part-Time Recreation Worker I/II/III- Front Desk",
       "district": "Bentonville (City)",
@@ -168,18 +168,6 @@
       "match_reason": "front desk",
       "posted_date": "",
       "first_seen": "2026-11-18"
-    },
-    {
-      "id": "26bee2e8fdb1",
-      "title": "Patient Access Representative (Non-Exempt)",
-      "district": "Mercy (Springdale)",
-      "location": "Springdale, AR",
-      "url": "https://careers.mercy.net/jobs/JR274517?lang=en-us",
-      "platform": "Mercy",
-      "category": "healthcare",
-      "match_reason": "patient access",
-      "posted_date": "",
-      "first_seen": "2026-11-11"
     }
   ],
   "sources": [
